@@ -1,0 +1,112 @@
+import type { Lesson } from "./types";
+
+// Nguồn: "Ngữ pháp tiếng Anh trọn đời" (cô Vũ Mai Phương) — Bài 1: Danh từ (1).
+export const nounPart1: Lesson = {
+  slug: "danh-tu-1",
+  title: "Danh từ (1)",
+  level: "A0",
+  topic: "Danh từ (Noun)",
+  series: "Ngữ pháp tiếng Anh trọn đời — cô Vũ Mai Phương",
+  summary: "Định nghĩa, các loại, chức năng, vị trí, giống và cách thành lập danh từ.",
+  sections: [
+    {
+      heading: "I. Định nghĩa",
+      body: [
+        "Danh từ là từ/nhóm từ chỉ:",
+        "- **Người:** John, teacher, mother",
+        "- **Vật:** chair, dog",
+        "- **Nơi chốn:** city, church, England",
+        "- **Tính chất:** beauty, courage (dũng cảm), sorrow (nỗi buồn)",
+        "- **Hoạt động:** travel, cough (ho), walk",
+      ].join("\n"),
+    },
+    {
+      heading: "II. Các loại danh từ",
+      body: [
+        "| Loại | Tiếng Anh | Ví dụ |",
+        "|------|-----------|-------|",
+        "| Danh từ chung | common nouns | table, man, pen |",
+        "| Danh từ riêng | proper nouns | John, France, the Thames |",
+        "| Danh từ trừu tượng | abstract nouns | charity, existence, fear |",
+        "| Danh từ tập hợp | collective nouns | family, police, crowd |",
+      ].join("\n"),
+    },
+    {
+      heading: "III. Chức năng của danh từ",
+      body: [
+        "1. **Chủ ngữ:** The children have gone to bed.",
+        "2. **Tân ngữ (trực tiếp/gián tiếp):** The police asked the thief a lot of questions.",
+        "3. **Tân ngữ của giới từ:** He is listening to music.",
+        "4. **Bổ ngữ (to be/become/seem…):** She became queen in 1952.",
+        "5. **Sở hữu cách:** Tom's book is interesting.",
+        "6. **Đồng vị ngữ:** Ms Phuong, my English teacher, helps me.",
+      ].join("\n"),
+    },
+    {
+      heading: "IV. Vị trí của danh từ",
+      body: [
+        "1. **Chủ ngữ:** Maths is the subject I like best.",
+        "2. **Sau 'enough':** He hasn't got enough patience to wait.",
+        "3. **Sau tính từ / tính từ sở hữu:** She is a good teacher.",
+        "4. **Sau giới từ (in, on, of, with…):** He is fond of football.",
+        "5. **Sau mạo từ / từ hạn định (a, an, the, this, that, no…):** She can find no solution.",
+        "6. **Sau từ chỉ số lượng (few, some, much…):** I have a little knowledge about genetics.",
+      ].join("\n"),
+    },
+    {
+      heading: "V. Giống của danh từ",
+      body: [
+        "**Giống đực – giống cái:**",
+        "",
+        "| Đực | Cái |",
+        "|-----|-----|",
+        "| boy | girl |",
+        "| father | mother |",
+        "| uncle | aunt |",
+        "| king | queen |",
+        "| husband | wife |",
+        "| nephew (cháu trai) | niece (cháu gái) |",
+        "| prince | princess |",
+        "| actor | actress |",
+        "| duke (công tước) | duchess |",
+        "",
+        "**Không phân biệt giống:** baby, infant, relative, child, parent, spouse, cousin, teenager.",
+      ].join("\n"),
+    },
+    {
+      heading: "VI. Cách thành lập danh từ",
+      body: [
+        "**Từ động từ:**",
+        "",
+        "| Cách | Ví dụ |",
+        "|------|-------|",
+        "| V + -tion/-ation | prevent → prevention, invent → invention |",
+        "| V + -ment | develop → development, achieve → achievement |",
+        "| V + -er/-or | drive → driver, edit → editor |",
+        "| V + -ar/-ant/-ee (người) | beg → beggar, employ → employee |",
+        "| V + -ence/-ance | exist → existence, appear → appearance |",
+        "",
+        "**Từ tính từ:** -ity (real → reality), -ism (social → socialism), -ness (happy → happiness).",
+        "",
+        "**Tiền tố:** super- (superman), under- (undercurrent), sur- (surface), sub- (subway).",
+      ].join("\n"),
+    },
+  ],
+  exerciseSets: [
+    {
+      id: "bt1",
+      title: "Bài tập 1",
+      description: "Chọn dạng danh từ đúng",
+      exercises: [
+        { id: "q1", question: "We need to find a ______ to this problem.", options: [{ key: "A", text: "solve" }, { key: "B", text: "solution" }, { key: "C", text: "solvable" }, { key: "D", text: "solver" }], answer: "B", explanation: "Sau mạo từ 'a' cần danh từ." },
+        { id: "q2", question: "There was a rapid ______ in the city's population.", options: [{ key: "A", text: "grow" }, { key: "B", text: "growth" }, { key: "C", text: "grown" }, { key: "D", text: "growing" }], answer: "B", explanation: "Sau 'a rapid' cần danh từ." },
+        { id: "q3", question: "She received an award in ______ of her work.", options: [{ key: "A", text: "recognize" }, { key: "B", text: "recognizable" }, { key: "C", text: "recognition" }, { key: "D", text: "recognized" }], answer: "C", explanation: "Sau giới từ 'in' cần danh từ." },
+        { id: "q4", question: "The ______ of the project took nearly two years.", options: [{ key: "A", text: "complete" }, { key: "B", text: "completion" }, { key: "C", text: "completely" }, { key: "D", text: "completing" }], answer: "B", explanation: "Sau 'The' cần danh từ." },
+        { id: "q5", question: "Tourists admired the ______ of the mountains.", options: [{ key: "A", text: "beautiful" }, { key: "B", text: "beautify" }, { key: "C", text: "beauty" }, { key: "D", text: "beautifully" }], answer: "C", explanation: "Sau 'the … of' cần danh từ." },
+        { id: "q6", question: "The teacher praised the ______ of her students.", options: [{ key: "A", text: "create" }, { key: "B", text: "creative" }, { key: "C", text: "creativity" }, { key: "D", text: "creatively" }], answer: "C", explanation: "creativity = sự sáng tạo (danh từ)." },
+        { id: "q7", question: "There is a strong ______ between diet and health.", options: [{ key: "A", text: "connect" }, { key: "B", text: "connection" }, { key: "C", text: "connective" }, { key: "D", text: "connected" }], answer: "B", explanation: "Sau 'a strong' cần danh từ." },
+        { id: "q8", question: "The ______ of the company announced new plans.", options: [{ key: "A", text: "direct" }, { key: "B", text: "direction" }, { key: "C", text: "director" }, { key: "D", text: "directly" }], answer: "C", explanation: "Làm chủ ngữ, chỉ người → director." },
+      ],
+    },
+  ],
+};

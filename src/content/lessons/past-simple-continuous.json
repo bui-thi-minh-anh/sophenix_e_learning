@@ -1,0 +1,28 @@
+{
+  "slug": "past-simple-continuous",
+  "title": "Quá khứ đơn & Quá khứ tiếp diễn",
+  "level": "A2",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Phân biệt và kết hợp quá khứ đơn với quá khứ tiếp diễn (when/while).",
+  "sections": [
+    {
+      "heading": "Lý thuyết",
+      "body": "- **Quá khứ đơn:** S + V-ed / động từ bất quy tắc → hành động **đã hoàn tất** ở thời điểm xác định trong quá khứ.\n- **Quá khứ tiếp diễn:** was/were + V-ing → hành động **đang xảy ra** tại một thời điểm xác định trong quá khứ.\n- **When:** Quá khứ đơn + Quá khứ tiếp diễn → một hành động đang xảy ra thì hành động khác **xen vào**.\n- **While + Quá khứ tiếp diễn, Quá khứ tiếp diễn** → hai hành động **song song** cùng lúc."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- I **met** him yesterday.\n- When I **saw** him, he **was talking** on the phone.\n- While my mother **was cooking**, my father **was watching** TV."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1 — Chia động từ",
+      "exercises": [
+        { "id": "q1", "kind": "fill", "question": "He ……… (talk) with Mary, when Mrs. Smith came in.", "answer": "was talking", "explanation": "Hành động đang diễn ra thì bị xen vào → quá khứ tiếp diễn: was talking." },
+        { "id": "q2", "kind": "fill", "question": "They ……… (study) two hours last night.", "answer": "studied", "explanation": "Hành động đã hoàn tất, có 'last night' → quá khứ đơn: studied." }
+      ]
+    }
+  ]
+}

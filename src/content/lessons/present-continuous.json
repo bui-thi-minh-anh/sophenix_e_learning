@@ -1,0 +1,28 @@
+{
+  "slug": "present-continuous",
+  "title": "Thì Hiện tại tiếp diễn (Present Continuous)",
+  "level": "A1",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Công thức, cách dùng và động từ không chia tiếp diễn.",
+  "sections": [
+    {
+      "heading": "Lý thuyết",
+      "body": "- **Khẳng định:** S + be (am/is/are) + V-ing\n- **Phủ định:** S + am not/is not/are not + V-ing\n- Diễn tả hành động **đang xảy ra ngay lúc nói**.\n- Hành động đang diễn ra ở hiện tại nhưng không nhất thiết ngay lúc nói.\n- **Kế hoạch/sắp đặt trong tương lai gần**.\n- Không dùng ở dạng tiếp diễn với động từ chỉ **cảm giác, sở hữu, nhận thức, trạng thái** (know, understand, want, belong, feel, see…)."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- It **is raining** now. (Trời đang mưa)\n- I **am reading** a play by Shaw. (dạo này — không hẳn ngay lúc nói)\n- I**'m meeting** Peter tonight. (sắp gặp tối nay)"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1 — Chia động từ",
+      "exercises": [
+        { "id": "q1", "kind": "fill", "question": "Look! He (run) ………", "answer": "is running", "acceptable": ["'s running"], "explanation": "'Look!' → hành động đang xảy ra ngay lúc nói → is running." },
+        { "id": "q2", "kind": "fill", "question": "Please be quiet! My father (sleep) ………", "answer": "is sleeping", "acceptable": ["'s sleeping"], "explanation": "Đang diễn ra ngay lúc nói → is sleeping." }
+      ]
+    }
+  ]
+}

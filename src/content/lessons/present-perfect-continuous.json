@@ -1,0 +1,28 @@
+{
+  "slug": "present-perfect-continuous",
+  "title": "Thì Hiện tại hoàn thành tiếp diễn (Present Perfect Continuous)",
+  "level": "B1",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Nhấn mạnh tính liên tục, quá trình; khi nào KHÔNG dùng.",
+  "sections": [
+    {
+      "heading": "Lý thuyết",
+      "body": "- **Khẳng định:** have/has + been + V-ing\n- Giống hiện tại hoàn thành nhưng **nhấn mạnh tính liên tục, quá trình, sự tiếp diễn**.\n- Động từ quá trình hay dùng: learn, study, live, rain, sleep, drive, sit, snow, stand, stay, wait, work, play.\n- **Không dùng** khi câu đề cập **số lượng / số lần** thực hiện hành động."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- It began raining two hours ago and it is still raining. → It **has been raining** for two hours.\n- I **have been waiting** for 2 hours."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1 — Chia động từ",
+      "exercises": [
+        { "id": "q1", "kind": "fill", "question": "Laura ……… (never/win) a beauty contest.", "answer": "has never won", "acceptable": ["'s never won"], "explanation": "Có 'never win' (số lần/kết quả) → KHÔNG dùng tiếp diễn, dùng hiện tại hoàn thành: has never won." },
+        { "id": "q2", "kind": "fill", "question": "The population of India ……… (increase) since 1992.", "answer": "has been increasing", "acceptable": ["'s been increasing"], "explanation": "Quá trình + 'since' → hiện tại hoàn thành tiếp diễn: has been increasing." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "present-simple",
+  "title": "Thì Hiện tại đơn (Present Simple)",
+  "level": "A1",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Công thức, cách dùng và dấu hiệu nhận biết thì hiện tại đơn.",
+  "sections": [
+    {
+      "heading": "Công thức",
+      "body": "**Khẳng định:**\n- S + to be (am/is/are) + adj/noun/adv\n- S + V-inf / V(s/es)"
+    },
+    {
+      "heading": "Cách dùng",
+      "body": "- Hành động thường xuyên diễn ra ở hiện tại, thói quen.\n- Sự thật hiển nhiên.\n\n**Dấu hiệu:** trạng từ tần suất — always, never, occasionally, often/frequently, sometimes, usually…"
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- I **learn** English every Tuesday, Thursday and Saturday.\n- The sun **rises** in the East."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1 — Chia động từ",
+      "description": "Điền dạng đúng của động từ trong ngoặc",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "fill",
+          "question": "My mom often (buy) meat from the butcher's.",
+          "answer": "buys",
+          "explanation": "Chủ ngữ số ít 'my mom' → thêm s: buys."
+        },
+        {
+          "id": "q2",
+          "kind": "fill",
+          "question": "These students always (wear) warm clothes in summer.",
+          "answer": "wear",
+          "explanation": "Chủ ngữ số nhiều 'these students' → giữ nguyên: wear."
+        }
+      ]
+    }
+  ]
+}

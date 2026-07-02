@@ -1,0 +1,52 @@
+{
+  "slug": "dai-tu-1",
+  "title": "Đại từ (1) — Giới thiệu",
+  "level": "A1",
+  "topic": "Đại từ (Pronoun)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Các loại đại từ và vị trí tân ngữ gián tiếp/trực tiếp.",
+  "sections": [
+    {
+      "heading": "Lý thuyết",
+      "body": "- Đại từ là những từ thay thế cho danh từ.\n- **Đại từ nhân xưng:** I, we, you, he, she, it, they…\n- **Đại từ chỉ định:** this, that, these, those.\n- **Đại từ bất định:** something, anything, each, someone, somebody, everything…\n- Tân ngữ gián tiếp đứng trước tân ngữ trực tiếp; nếu đưa tân ngữ trực tiếp ngay sau động từ thì phải dùng **giới từ** trước tân ngữ gián tiếp."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- My teacher is Ms. Phuong. I like **her** so much.\n- I made **her** a cake. (her = tân ngữ gián tiếp, a cake = trực tiếp)\n- I made a cake **for her**."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "question": "Mr. Chang, with _______ work experience and competence, deserves the promotion.",
+          "options": [
+            { "key": "A", "text": "he" },
+            { "key": "B", "text": "his" },
+            { "key": "C", "text": "him" },
+            { "key": "D", "text": "himself" }
+          ],
+          "answer": "B",
+          "explanation": "Trước danh từ 'work experience' cần tính từ sở hữu → his."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "question": "I go to school with _______ everyday.",
+          "options": [
+            { "key": "A", "text": "he" },
+            { "key": "B", "text": "him" },
+            { "key": "C", "text": "his" },
+            { "key": "D", "text": "himself" }
+          ],
+          "answer": "B",
+          "explanation": "Sau giới từ 'with' cần đại từ tân ngữ → him."
+        }
+      ]
+    }
+  ]
+}

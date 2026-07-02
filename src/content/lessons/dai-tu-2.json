@@ -1,0 +1,39 @@
+{
+  "slug": "dai-tu-2",
+  "title": "Đại từ (2) — Đại từ bất định",
+  "level": "A1",
+  "topic": "Đại từ (Pronoun)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Cách dùng some, any, no với danh từ.",
+  "sections": [
+    {
+      "heading": "Lý thuyết",
+      "body": "- **some**: thường dùng trong câu khẳng định; đi với danh từ đếm được số nhiều hoặc không đếm được.\n- **any**: dùng trong câu phủ định và nghi vấn; đứng trước danh từ không đếm được, đếm được số ít và số nhiều.\n- **no** = **not any**: đứng trước danh từ số ít, số nhiều và không đếm được."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- We bought **some** bread for lunch.\n- I haven't read **any** books by Charles Dickens.\n- I don't have **any** money. = I have **no** money."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "question": "I was too surprised to say _______.",
+          "options": [
+            { "key": "A", "text": "somebody" },
+            { "key": "B", "text": "something" },
+            { "key": "C", "text": "anybody" },
+            { "key": "D", "text": "anything" }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc 'too … to' mang nghĩa phủ định → dùng anything."
+        }
+      ]
+    }
+  ]
+}

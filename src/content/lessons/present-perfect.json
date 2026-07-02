@@ -1,0 +1,28 @@
+{
+  "slug": "present-perfect",
+  "title": "Thì Hiện tại hoàn thành (Present Perfect)",
+  "level": "A2",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Công thức, cách dùng, dấu hiệu; phân biệt since/for.",
+  "sections": [
+    {
+      "heading": "Lý thuyết",
+      "body": "- **Khẳng định:** S + have/has + V-ed/PII\n- Hành động **bắt đầu ở quá khứ, kéo dài đến hiện tại** và có thể tiếp tục.\n- Dùng với **just** cho hành động vừa mới hoàn tất.\n- **Dấu hiệu:** already, for, since, yet, ever, never, recently, lately, so far.\n- **since** + mốc thời gian; **for** + khoảng thời gian."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- I **have seen** this film twice.\n- They**'ve been** married **for** about 30 years.\n- I **have studied** English **since** 2000."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1 — Chia động từ",
+      "exercises": [
+        { "id": "q1", "kind": "fill", "question": "The police ……… two people early this morning. (arrest)", "answer": "have arrested", "acceptable": ["'ve arrested"], "explanation": "'this morning' (vẫn còn trong hôm nay) → hiện tại hoàn thành: have arrested." },
+        { "id": "q2", "kind": "fill", "question": "Dan ……… two tablets this year. (already/buy)", "answer": "has already bought", "acceptable": ["'s already bought"], "explanation": "'already' đứng giữa has và PII; buy → bought." }
+      ]
+    }
+  ]
+}

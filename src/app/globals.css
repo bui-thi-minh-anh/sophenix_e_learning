@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Token thiết kế cho Sophenix dưới dạng biến CSS (HSL).
+  Giá trị lấy từ docs/03_DESIGN/COLOR_SYSTEM.md và DESIGN_SYSTEM.md.
+  Chế độ sáng nằm ở :root, chế độ tối ghi đè trong .dark.
+*/
+@layer base {
+  :root {
+    --background: 0 0% 100%; /* #ffffff */
+    --foreground: 215 28% 17%; /* #1f2937 */
+
+    --card: 210 40% 98%; /* #f8fafc */
+    --card-foreground: 215 28% 17%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 28% 17%;
+
+    --primary: 221 83% 53%; /* #2563eb */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 38 92% 50%; /* #f59e0b */
+    --secondary-foreground: 215 28% 17%; /* chữ tối trên nền cam (xem ghi chú contrast) */
+
+    --muted: 210 40% 98%; /* #f8fafc */
+    --muted-foreground: 220 9% 46%; /* #6b7280 */
+
+    --accent: 214 95% 93%; /* #dbeafe */
+    --accent-foreground: 224 76% 48%; /* #1d4ed8 */
+
+    --destructive: 0 84% 60%; /* #dc2626 */
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 142 71% 45%; /* #16a34a */
+    --success-foreground: 0 0% 100%;
+    --warning: 32 95% 44%; /* #d97706 */
+    --warning-foreground: 0 0% 100%;
+    --info: 192 91% 36%; /* #0891b2 */
+    --info-foreground: 0 0% 100%;
+
+    --border: 220 13% 91%; /* #e5e7eb */
+    --input: 220 13% 91%;
+    --ring: 221 83% 53%;
+
+    --radius: 0.5rem; /* 8px = --radius-md */
+  }
+
+  .dark {
+    --background: 222 47% 11%; /* #0f172a */
+    --foreground: 210 40% 96%; /* #f1f5f9 */
+
+    --card: 217 33% 17%; /* #1e293b */
+    --card-foreground: 210 40% 96%;
+
+    --popover: 217 33% 17%;
+    --popover-foreground: 210 40% 96%;
+
+    --primary: 221 83% 53%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 38 92% 50%;
+    --secondary-foreground: 222 47% 11%;
+
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 217 33% 24%;
+    --accent-foreground: 210 40% 96%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 142 69% 45%;
+    --success-foreground: 0 0% 100%;
+    --warning: 32 90% 50%;
+    --warning-foreground: 222 47% 11%;
+    --info: 192 80% 45%;
+    --info-foreground: 222 47% 11%;
+
+    --border: 215 25% 27%; /* #334155 */
+    --input: 215 25% 27%;
+    --ring: 221 83% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}

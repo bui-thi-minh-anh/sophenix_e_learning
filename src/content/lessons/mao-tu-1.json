@@ -1,0 +1,52 @@
+{
+  "slug": "mao-tu-1",
+  "title": "Mạo từ — a, an, the",
+  "level": "A1",
+  "topic": "Mạo từ (Article)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Quy tắc dùng a/an và the.",
+  "sections": [
+    {
+      "heading": "Lý thuyết",
+      "body": "- **a / an** (không xác định): 'an' dùng trước danh từ bắt đầu bằng **âm nguyên âm** (an apple, an uncle); 'a' dùng trước **âm phụ âm** (a dog, a book).\n- Không dùng a/an với danh từ **số nhiều** và **không đếm được**.\n- **the** (xác định): khi vật đã được nhắc đến, hoặc trong ngữ cố định (in the morning/afternoon/evening).\n- Không dùng a/an/the trước **tên đường phố**."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- an uncle, an apple, a dog, a book.\n- In **the** morning, I usually have bread and milk.\n- I live on Phan Dinh Phung street."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "question": "He is _______ ugly man.",
+          "options": [
+            { "key": "A", "text": "a" },
+            { "key": "B", "text": "an" },
+            { "key": "C", "text": "the" },
+            { "key": "D", "text": "Ø (không dùng)" }
+          ],
+          "answer": "B",
+          "explanation": "'ugly' bắt đầu bằng âm nguyên âm /ʌ/ → an."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "question": "There was _______ piano in the corner of the room.",
+          "options": [
+            { "key": "A", "text": "a" },
+            { "key": "B", "text": "an" },
+            { "key": "C", "text": "Ø (không dùng)" },
+            { "key": "D", "text": "the" }
+          ],
+          "answer": "A",
+          "explanation": "Lần đầu nhắc đến, 'piano' bắt đầu bằng âm phụ âm /p/ → a."
+        }
+      ]
+    }
+  ]
+}
