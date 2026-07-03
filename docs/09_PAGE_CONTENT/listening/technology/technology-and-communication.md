@@ -4,7 +4,7 @@ title: How Technology Changed Communication
 title_vi: Công nghệ thay đổi cách giao tiếp
 level: C1
 topic: Technology
-duration: 66
+duration: 52
 tags: [technology, communication, internet, social media, interview, IELTS]
 audio: /audio/listening/technology/technology-and-communication.mp3
 image: /images/listening/technology/technology-and-communication.png

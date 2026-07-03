@@ -4,7 +4,7 @@ title: First Day of the Literature Class
 title_vi: Buổi đầu lớp Văn học Anh
 level: A2
 topic: Education
-duration: 58
+duration: 43
 tags: [education, school, university, classroom, literature, IELTS]
 audio: /audio/listening/education/first-day-literature-class.mp3
 image: /images/listening/education/first-day-literature-class.png
