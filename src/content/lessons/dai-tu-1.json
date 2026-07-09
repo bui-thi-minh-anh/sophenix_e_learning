@@ -7,12 +7,24 @@
   "summary": "Các loại đại từ và vị trí tân ngữ gián tiếp/trực tiếp.",
   "sections": [
     {
-      "heading": "Lý thuyết",
-      "body": "- Đại từ là những từ thay thế cho danh từ.\n- **Đại từ nhân xưng:** I, we, you, he, she, it, they…\n- **Đại từ chỉ định:** this, that, these, those.\n- **Đại từ bất định:** something, anything, each, someone, somebody, everything…\n- Tân ngữ gián tiếp đứng trước tân ngữ trực tiếp; nếu đưa tân ngữ trực tiếp ngay sau động từ thì phải dùng **giới từ** trước tân ngữ gián tiếp."
+      "heading": "1. Tổng quan về Đại từ",
+      "body": "Đại từ là những từ **thay thế cho danh từ** để tránh lặp từ. Các loại đại từ chính:\n\n| Loại | Từ | Ví dụ |\n|---|---|---|\n| Đại từ nhân xưng | I, we, you, he, she, it, they | This is my book. **It** is very interesting. |\n| Đại từ chỉ định | this, that, these, those | Ms Jones' report is better than **that** of other colleagues. |\n| Đại từ bất định | something, anything, each, someone, everybody… | There are 10 apples. Give me **some**. |\n| Đại từ nghi vấn | who, what, which | **Who** teaches you English? |\n| Đại từ sở hữu | mine, yours, ours, theirs, his, hers | My bike is newer than **yours**. |\n| Đại từ tân ngữ | me, her, him, us, them, you, it | My mother is very kind. I love **her**. |\n| Đại từ phản thân | myself, yourself, himself, herself… | I'll do it **myself**. |"
     },
     {
-      "heading": "Ví dụ",
-      "body": "- My teacher is Ms. Phuong. I like **her** so much.\n- I made **her** a cake. (her = tân ngữ gián tiếp, a cake = trực tiếp)\n- I made a cake **for her**."
+      "heading": "2. Đại từ tân ngữ & Vị trí tân ngữ",
+      "body": "**Quy tắc vị trí tân ngữ:**\n- Tân ngữ gián tiếp đứng **trước** tân ngữ trực tiếp: *I made **her** a cake.* (her = gián tiếp, a cake = trực tiếp)\n- Nếu đưa tân ngữ trực tiếp lên trước → dùng **giới từ**: *I made a cake **for her***; *I sent a letter **to her***\n\n**Với cụm động từ (phrasal verbs):**\n- Danh từ có thể đứng giữa hoặc cuối: *Hand **your paper** in* hoặc *Hand in **your paper***\n- **Đại từ bắt buộc đứng giữa:** *Hand **them** in*, *Take **them** off*, *Hang **it** up*"
+    },
+    {
+      "heading": "3. Cách dùng của 'It'",
+      "body": "- Thay cho vật/con vật/em bé: *Her new baby is tiny. **It** only weighs 2 kilos.*\n- Nhận diện/điện thoại: *Who is it? — **It's** me.*\n- Thời gian/thời tiết/khoảng cách: *What time is it? **It** is six.*\n- Cấu trúc giả định: ***It** is easy to criticize someone.* / *I find **it** difficult to learn new words.*\n- Chủ ngữ giả: ***It's** certain that prices will go up.* / ***It** seems that they know what they're doing.*\n- Câu chẻ (Cleft): ***It** was Peter who lent us the money.*\n- Thời gian kéo dài: ***It** is three years since I last saw him.*"
+    },
+    {
+      "heading": "4. Tính từ sở hữu & Đại từ sở hữu",
+      "body": "| Chủ ngữ | Tính từ SH | Đại từ SH |\n|---|---|---|\n| I | my | mine |\n| You | your | yours |\n| We | our | ours |\n| They | their | theirs |\n| He | his | his |\n| She | her | hers |\n| It | its | its |\n\n**Lưu ý:**\n- **it's** = it is; tính từ sở hữu của 'it' là **its** (không dấu nháy)\n- Đại từ sở hữu thay cho [TTSH + danh từ]: *This is their car. That car is **theirs**, too.*\n- Nhấn mạnh bằng **own**: *I have **my own** business* = *I have a business **of my own***\n- Sở hữu kép: *one of my friends* = *a friend **of mine***"
+    },
+    {
+      "heading": "5. Đại từ phản thân (Reflexive Pronouns)",
+      "body": "| Chủ ngữ | Tân ngữ | TTSH | ĐT sở hữu | Phản thân |\n|---|---|---|---|---|\n| I | me | my | mine | **myself** |\n| You (ít) | you | your | yours | **yourself** |\n| You (nhiều) | you | your | yours | **yourselves** |\n| We | us | our | ours | **ourselves** |\n| They | them | their | theirs | **themselves** |\n| He | him | his | his | **himself** |\n| She | her | her | hers | **herself** |\n| It | it | its | its | **itself** |\n\n**Cách dùng:**\n- Tân ngữ = chủ ngữ: *She looks at **herself** in the mirror.*\n- Nhấn mạnh: *I **myself** wrote this book.* = *I wrote this book **myself**.*\n- Tự lập: *by oneself* = *alone* = *on one's own*: *She wrote the report **by herself**.*\n\n**Phân biệt:** *Tom and Ann blamed **each other*** (tương tác qua lại) ≠ *blamed **themselves*** (tự trách mình)"
     }
   ],
   "exerciseSets": [
@@ -45,6 +57,413 @@
           ],
           "answer": "B",
           "explanation": "Sau giới từ 'with' cần đại từ tân ngữ → him."
+        }
+      ]
+    },
+    {
+      "id": "et1031",
+      "title": "Luyện Tập Đại Từ 1 (ET1031)",
+      "description": "50 câu trắc nghiệm tổng hợp: đại từ nhân xưng, phản thân, bất định, lượng từ.",
+      "exercises": [
+        {
+          "id": "204846",
+          "kind": "mcq",
+          "question": "I go to school with _______ everyday.",
+          "options": [{"key":"A","text":"he"},{"key":"B","text":"him"},{"key":"C","text":"his"},{"key":"D","text":"himself"}],
+          "answer": "B",
+          "explanation": "Sau giới từ 'with' cần đại từ tân ngữ → him."
+        },
+        {
+          "id": "204847",
+          "kind": "mcq",
+          "question": "I see _______ at the Union every Friday.",
+          "options": [{"key":"A","text":"she"},{"key":"B","text":"her"},{"key":"C","text":"herself"},{"key":"D","text":"hers"}],
+          "answer": "B",
+          "explanation": "Tân ngữ của 'see' → đại từ tân ngữ: her."
+        },
+        {
+          "id": "204848",
+          "kind": "mcq",
+          "question": "She speaks to _______ every morning.",
+          "options": [{"key":"A","text":"we"},{"key":"B","text":"us"},{"key":"C","text":"ourselves"},{"key":"D","text":"our"}],
+          "answer": "B",
+          "explanation": "Sau giới từ 'to' cần đại từ tân ngữ → us."
+        },
+        {
+          "id": "204849",
+          "kind": "mcq",
+          "question": "Your record is scratched and _______ is, too.",
+          "options": [{"key":"A","text":"mine"},{"key":"B","text":"it"},{"key":"C","text":"my"},{"key":"D","text":"myself"}],
+          "answer": "A",
+          "explanation": "Cần đại từ sở hữu thay cho 'my record' → mine."
+        },
+        {
+          "id": "204850",
+          "kind": "mcq",
+          "question": "John bought _______ a new coat.",
+          "options": [{"key":"A","text":"himself"},{"key":"B","text":"herself"},{"key":"C","text":"hisself"},{"key":"D","text":"he"}],
+          "answer": "A",
+          "explanation": "John (nam) mua cho chính mình → đại từ phản thân: himself."
+        },
+        {
+          "id": "204851",
+          "kind": "mcq",
+          "question": "John _______ went to the meeting.",
+          "options": [{"key":"A","text":"himself"},{"key":"B","text":"his"},{"key":"C","text":"hisself"},{"key":"D","text":"he"}],
+          "answer": "A",
+          "explanation": "Đại từ phản thân nhấn mạnh chủ ngữ: John himself (chính John)."
+        },
+        {
+          "id": "204852",
+          "kind": "mcq",
+          "question": "\"Can I take another biscuit?\" — \"Of course. Help _______\"",
+          "options": [{"key":"A","text":"you"},{"key":"B","text":"your"},{"key":"C","text":"yourself"},{"key":"D","text":"ourselves"}],
+          "answer": "C",
+          "explanation": "Cụm cố định 'help yourself' = tự nhiên lấy đi."
+        },
+        {
+          "id": "204853",
+          "kind": "mcq",
+          "question": "I was too surprised to say _______",
+          "options": [{"key":"A","text":"somebody"},{"key":"B","text":"something"},{"key":"C","text":"anybody"},{"key":"D","text":"anything"}],
+          "answer": "D",
+          "explanation": "'too … to' mang nghĩa phủ định → dùng anything."
+        },
+        {
+          "id": "204854",
+          "kind": "mcq",
+          "question": "Does _______ mind if I open the window?",
+          "options": [{"key":"A","text":"somebody"},{"key":"B","text":"something"},{"key":"C","text":"anybody"},{"key":"D","text":"anything"}],
+          "answer": "C",
+          "explanation": "Câu hỏi → dùng anybody."
+        },
+        {
+          "id": "204855",
+          "kind": "mcq",
+          "question": "I wasn't feeling hungry, so I didn't eat _______",
+          "options": [{"key":"A","text":"somebody"},{"key":"B","text":"something"},{"key":"C","text":"anybody"},{"key":"D","text":"anything"}],
+          "answer": "D",
+          "explanation": "Câu phủ định → dùng anything."
+        },
+        {
+          "id": "204856",
+          "kind": "mcq",
+          "question": "You must be hungry. Would you like _______ to eat?",
+          "options": [{"key":"A","text":"somebody"},{"key":"B","text":"something"},{"key":"C","text":"anybody"},{"key":"D","text":"anything"}],
+          "answer": "B",
+          "explanation": "Câu mời/đề nghị → dùng something."
+        },
+        {
+          "id": "204857",
+          "kind": "mcq",
+          "question": "Mary can't speak French. _______",
+          "options": [{"key":"A","text":"Either can Peter."},{"key":"B","text":"Neither can't Peter."},{"key":"C","text":"Neither can Peter."},{"key":"D","text":"Peter can't neither."}],
+          "answer": "C",
+          "explanation": "Neither + trợ động từ + S: Neither can Peter (Peter cũng không)."
+        },
+        {
+          "id": "204858",
+          "kind": "mcq",
+          "question": "This machine is very easy to use. _______ can learn to use it in a very short time.",
+          "options": [{"key":"A","text":"Somebody"},{"key":"B","text":"Something"},{"key":"C","text":"Anybody"},{"key":"D","text":"Anything"}],
+          "answer": "C",
+          "explanation": "Anybody = bất cứ ai (trong câu khẳng định, mang nghĩa 'ai cũng')."
+        },
+        {
+          "id": "204859",
+          "kind": "mcq",
+          "question": "I'm going out now. If _______ phones when I'm out, can you tell them I'll be back at 11:30?",
+          "options": [{"key":"A","text":"somebody"},{"key":"B","text":"something"},{"key":"C","text":"anybody"},{"key":"D","text":"anything"}],
+          "answer": "C",
+          "explanation": "Mệnh đề điều kiện (if) → dùng anybody."
+        },
+        {
+          "id": "204860",
+          "kind": "mcq",
+          "question": "_______ who saw the accident should contact the police.",
+          "options": [{"key":"A","text":"Somebody"},{"key":"B","text":"Something"},{"key":"C","text":"Anybody"},{"key":"D","text":"Anything"}],
+          "answer": "C",
+          "explanation": "Anybody who = bất cứ ai mà → lời kêu gọi chung."
+        },
+        {
+          "id": "204861",
+          "kind": "mcq",
+          "question": "Some snakes lay eggs, but _______ give birth to live offspring.",
+          "options": [{"key":"A","text":"other"},{"key":"B","text":"the other"},{"key":"C","text":"others"},{"key":"D","text":"the others"}],
+          "answer": "C",
+          "explanation": "Some … others … : một số … một số khác … (không xác định)."
+        },
+        {
+          "id": "204862",
+          "kind": "mcq",
+          "question": "_______ have made communication faster and easier through the use of e-mail and the Internet is widely recognized.",
+          "options": [{"key":"A","text":"It is that computers"},{"key":"B","text":"That computers"},{"key":"C","text":"Computers that"},{"key":"D","text":"That it is computers"}],
+          "answer": "B",
+          "explanation": "That + S + V = mệnh đề danh từ làm chủ ngữ."
+        },
+        {
+          "id": "204863",
+          "kind": "mcq",
+          "question": "\"Which of the two boys is granted a scholarship?\" — \"_______ of them is.\"",
+          "options": [{"key":"A","text":"All"},{"key":"B","text":"None"},{"key":"C","text":"Neither"},{"key":"D","text":"Both"}],
+          "answer": "C",
+          "explanation": "Hai người mà không ai → neither of them (+ động từ số ít)."
+        },
+        {
+          "id": "204864",
+          "kind": "mcq",
+          "question": "_______ that the company has shown rapid growth in the last two years.",
+          "options": [{"key":"A","text":"It is reported"},{"key":"B","text":"They are reported"},{"key":"C","text":"The report was"},{"key":"D","text":"Reporting"}],
+          "answer": "A",
+          "explanation": "Cấu trúc bị động khách quan: It is reported that …"
+        },
+        {
+          "id": "204865",
+          "kind": "mcq",
+          "question": "_______ of the students in my class could solve the problem yesterday.",
+          "options": [{"key":"A","text":"Not much"},{"key":"B","text":"No"},{"key":"C","text":"None"},{"key":"D","text":"Neither"}],
+          "answer": "C",
+          "explanation": "None of + danh từ số nhiều = không ai trong số."
+        },
+        {
+          "id": "204866",
+          "kind": "mcq",
+          "question": "I think you should choose _______ color. This one is too dark.",
+          "options": [{"key":"A","text":"other"},{"key":"B","text":"another"},{"key":"C","text":"the other"},{"key":"D","text":"others"}],
+          "answer": "B",
+          "explanation": "Another + danh từ số ít = một cái khác (không xác định)."
+        },
+        {
+          "id": "204867",
+          "kind": "mcq",
+          "question": "Martin tried on three jackets, _______ fitted him.",
+          "options": [{"key":"A","text":"none"},{"key":"B","text":"none of which"},{"key":"C","text":"none of them"},{"key":"D","text":"not"}],
+          "answer": "B",
+          "explanation": "Mệnh đề quan hệ nối hai vế: none of which = không cái nào trong số đó."
+        },
+        {
+          "id": "204868",
+          "kind": "mcq",
+          "question": "I have English classes _______ day; on Mondays, Wednesdays and Fridays.",
+          "options": [{"key":"A","text":"all other"},{"key":"B","text":"each other"},{"key":"C","text":"every other"},{"key":"D","text":"any other"}],
+          "answer": "C",
+          "explanation": "Every other day = cách ngày (thứ 2, 4, 6)."
+        },
+        {
+          "id": "204869",
+          "kind": "mcq",
+          "question": "_______ trying to make him change his mind.",
+          "options": [{"key":"A","text":"It's no point"},{"key":"B","text":"It's no hope"},{"key":"C","text":"It's useless"},{"key":"D","text":"It's no use"}],
+          "answer": "D",
+          "explanation": "Cụm cố định: It's no use + V-ing = vô ích khi làm gì."
+        },
+        {
+          "id": "204870",
+          "kind": "mcq",
+          "question": "_______ has right to vote.",
+          "options": [{"key":"A","text":"Something"},{"key":"B","text":"Everyone"},{"key":"C","text":"Many people"},{"key":"D","text":"Some people"}],
+          "answer": "B",
+          "explanation": "Everyone + động từ số ít (has) = mọi người đều có quyền."
+        },
+        {
+          "id": "204871",
+          "kind": "mcq",
+          "question": "Both men _______ interested in this job in the interview yesterday.",
+          "options": [{"key":"A","text":"are"},{"key":"B","text":"was"},{"key":"C","text":"were"},{"key":"D","text":"is"}],
+          "answer": "C",
+          "explanation": "Both + danh từ số nhiều + động từ số nhiều; 'yesterday' → quá khứ: were."
+        },
+        {
+          "id": "204872",
+          "kind": "mcq",
+          "question": "There are four books on the table. _______ has a different colour.",
+          "options": [{"key":"A","text":"Every"},{"key":"B","text":"Each"},{"key":"C","text":"Many"},{"key":"D","text":"Some"}],
+          "answer": "B",
+          "explanation": "Each đứng làm chủ ngữ (đại từ) + động từ số ít. Every là tính từ, cần danh từ theo sau."
+        },
+        {
+          "id": "204873",
+          "kind": "mcq",
+          "question": "He has two bookstores. One is in Thac Mo. _______ is in Phuoc Binh.",
+          "options": [{"key":"A","text":"Other"},{"key":"B","text":"The others"},{"key":"C","text":"Another"},{"key":"D","text":"The other"}],
+          "answer": "D",
+          "explanation": "Hai cái: one … the other … (cái còn lại, xác định)."
+        },
+        {
+          "id": "204874",
+          "kind": "mcq",
+          "question": "There are _______ girls in our class.",
+          "options": [{"key":"A","text":"no"},{"key":"B","text":"not"},{"key":"C","text":"none"},{"key":"D","text":"none of"}],
+          "answer": "A",
+          "explanation": "No + danh từ = không có. 'None' dùng độc lập, không đứng trước danh từ."
+        },
+        {
+          "id": "204875",
+          "kind": "mcq",
+          "question": "Did you take _______ photographs when you were on holiday?",
+          "options": [{"key":"A","text":"some"},{"key":"B","text":"either"},{"key":"C","text":"much"},{"key":"D","text":"many"}],
+          "answer": "D",
+          "explanation": "Câu hỏi + danh từ đếm được số nhiều → many."
+        },
+        {
+          "id": "204876",
+          "kind": "mcq",
+          "question": "The news has _______ information.",
+          "options": [{"key":"A","text":"much"},{"key":"B","text":"many"},{"key":"C","text":"almost"},{"key":"D","text":"any"}],
+          "answer": "A",
+          "explanation": "'Information' không đếm được, câu khẳng định → much."
+        },
+        {
+          "id": "204877",
+          "kind": "mcq",
+          "question": "We'll hurry. We haven't got _______ time left.",
+          "options": [{"key":"A","text":"some"},{"key":"B","text":"many"},{"key":"C","text":"much"},{"key":"D","text":"any"}],
+          "answer": "C",
+          "explanation": "'Time' không đếm được → much (phủ định: haven't got much time)."
+        },
+        {
+          "id": "204878",
+          "kind": "mcq",
+          "question": "I don't have _______ friends in Ha Noi.",
+          "options": [{"key":"A","text":"some"},{"key":"B","text":"any"},{"key":"C","text":"much"},{"key":"D","text":"no"}],
+          "answer": "B",
+          "explanation": "Câu phủ định (don't have) + danh từ đếm được → any."
+        },
+        {
+          "id": "204879",
+          "kind": "mcq",
+          "question": "We didn't buy _______ flowers yesterday.",
+          "options": [{"key":"A","text":"some"},{"key":"B","text":"a great deal of"},{"key":"C","text":"much"},{"key":"D","text":"any"}],
+          "answer": "D",
+          "explanation": "Câu phủ định + danh từ đếm được → any."
+        },
+        {
+          "id": "204880",
+          "kind": "mcq",
+          "question": "There _______ at the door.",
+          "options": [{"key":"A","text":"is somebody"},{"key":"B","text":"is anybody"},{"key":"C","text":"is everybody"},{"key":"D","text":"isn't nobody"}],
+          "answer": "A",
+          "explanation": "Câu khẳng định thông báo → somebody."
+        },
+        {
+          "id": "204881",
+          "kind": "mcq",
+          "question": "_______ people in our country earn enough for a comfortable life.",
+          "options": [{"key":"A","text":"Most of"},{"key":"B","text":"The most"},{"key":"C","text":"Almost all the"},{"key":"D","text":"Mostly"}],
+          "answer": "C",
+          "explanation": "Almost all the + danh từ = hầu hết. 'Most of' cần 'the' đi kèm."
+        },
+        {
+          "id": "204882",
+          "kind": "mcq",
+          "question": "There are _______ in the hall.",
+          "options": [{"key":"A","text":"somebody"},{"key":"B","text":"anybody"},{"key":"C","text":"everybody"},{"key":"D","text":"some people"}],
+          "answer": "D",
+          "explanation": "'There are' + danh từ số nhiều → some people."
+        },
+        {
+          "id": "204883",
+          "kind": "mcq",
+          "question": "I'm not hungry. I don't want _______ to eat.",
+          "options": [{"key":"A","text":"everything"},{"key":"B","text":"anything"},{"key":"C","text":"something"},{"key":"D","text":"nothing"}],
+          "answer": "B",
+          "explanation": "Câu phủ định (don't want) → anything."
+        },
+        {
+          "id": "204884",
+          "kind": "mcq",
+          "question": "She didn't take _______ money with her.",
+          "options": [{"key":"A","text":"any"},{"key":"B","text":"many"},{"key":"C","text":"much"},{"key":"D","text":"A and C are right"}],
+          "answer": "D",
+          "explanation": "'Money' không đếm được + câu phủ định → cả 'any' và 'much' đều đúng."
+        },
+        {
+          "id": "204885",
+          "kind": "mcq",
+          "question": "Has _______ seen my bags?",
+          "options": [{"key":"A","text":"somebody"},{"key":"B","text":"any person"},{"key":"C","text":"anybody"},{"key":"D","text":"some people"}],
+          "answer": "C",
+          "explanation": "Câu hỏi → anybody."
+        },
+        {
+          "id": "204886",
+          "kind": "mcq",
+          "question": "Can I have _______ sugar please?",
+          "options": [{"key":"A","text":"any"},{"key":"B","text":"some"},{"key":"C","text":"much"},{"key":"D","text":"little"}],
+          "answer": "B",
+          "explanation": "Câu yêu cầu lịch sự → dùng some."
+        },
+        {
+          "id": "204887",
+          "kind": "mcq",
+          "question": "Let me know if you need _______ help.",
+          "options": [{"key":"A","text":"any"},{"key":"B","text":"many"},{"key":"C","text":"some"},{"key":"D","text":"A and B are right"}],
+          "answer": "A",
+          "explanation": "Mệnh đề điều kiện (if) → any."
+        },
+        {
+          "id": "204888",
+          "kind": "mcq",
+          "question": "Someone has forgotten _______ umbrella.",
+          "options": [{"key":"A","text":"them"},{"key":"B","text":"their"},{"key":"C","text":"they"},{"key":"D","text":"theirs"}],
+          "answer": "B",
+          "explanation": "Trước danh từ 'umbrella' cần tính từ sở hữu; someone → their."
+        },
+        {
+          "id": "204889",
+          "kind": "mcq",
+          "question": "This is my new shirt. — Oh, _______ color is pretty.",
+          "options": [{"key":"A","text":"it"},{"key":"B","text":"its"},{"key":"C","text":"their"},{"key":"D","text":"they"}],
+          "answer": "B",
+          "explanation": "Tính từ sở hữu của 'shirt' (it) → its."
+        },
+        {
+          "id": "204890",
+          "kind": "mcq",
+          "question": "I don't have _______ relatives in this strange place.",
+          "options": [{"key":"A","text":"any"},{"key":"B","text":"some"},{"key":"C","text":"a little"},{"key":"D","text":"much"}],
+          "answer": "A",
+          "explanation": "Câu phủ định + danh từ đếm được → any."
+        },
+        {
+          "id": "204891",
+          "kind": "mcq",
+          "question": "I'm so hungry. I could eat _______.",
+          "options": [{"key":"A","text":"something"},{"key":"B","text":"anything"},{"key":"C","text":"nothing"},{"key":"D","text":"every things"}],
+          "answer": "B",
+          "explanation": "I could eat anything = tôi ăn gì cũng được (nhấn mạnh rất đói)."
+        },
+        {
+          "id": "204892",
+          "kind": "mcq",
+          "question": "The exam was quite difficult. _______ passed.",
+          "options": [{"key":"A","text":"someone"},{"key":"B","text":"anybody"},{"key":"C","text":"nobody"},{"key":"D","text":"everybody"}],
+          "answer": "C",
+          "explanation": "Bài thi khó → không ai đậu: nobody."
+        },
+        {
+          "id": "204893",
+          "kind": "mcq",
+          "question": "He has _______ luck. Everything he does, he gains.",
+          "options": [{"key":"A","text":"any"},{"key":"B","text":"some"},{"key":"C","text":"a little"},{"key":"D","text":"much"}],
+          "answer": "D",
+          "explanation": "Câu khẳng định + nghĩa 'rất nhiều may mắn' → much luck."
+        },
+        {
+          "id": "204894",
+          "kind": "mcq",
+          "question": "We have used _______ energy recently.",
+          "options": [{"key":"A","text":"too many"},{"key":"B","text":"many too"},{"key":"C","text":"too much"},{"key":"D","text":"much too"}],
+          "answer": "C",
+          "explanation": "'Energy' không đếm được → too much."
+        },
+        {
+          "id": "204895",
+          "kind": "mcq",
+          "question": "He spoke _______ English, so it was difficult for him to communicate with people here.",
+          "options": [{"key":"A","text":"many"},{"key":"B","text":"some"},{"key":"C","text":"little"},{"key":"D","text":"much"}],
+          "answer": "C",
+          "explanation": "Little = rất ít (nghĩa phủ định) → nói ít tiếng Anh nên khó giao tiếp."
         }
       ]
     }

@@ -7,12 +7,32 @@
   "summary": "Cách dùng some, any, no với danh từ.",
   "sections": [
     {
-      "heading": "Lý thuyết",
-      "body": "- **some**: thường dùng trong câu khẳng định; đi với danh từ đếm được số nhiều hoặc không đếm được.\n- **any**: dùng trong câu phủ định và nghi vấn; đứng trước danh từ không đếm được, đếm được số ít và số nhiều.\n- **no** = **not any**: đứng trước danh từ số ít, số nhiều và không đếm được."
+      "heading": "1. Some, Any, No, None",
+      "body": "**Some:**\n- Câu **khẳng định** + danh từ đếm được số nhiều / không đếm được: *We bought **some** bread.*\n- Câu hỏi **mời mọc/đề nghị**: *Would you like **some** coffee?*\n- Trước DT số ít = 'nào đó': ***Some** man at the door wants to see you.*\n\n**Any:**\n- Câu **phủ định** và **câu hỏi**: *I haven't read **any** books.* / *Do you have **any** questions?*\n- Câu khẳng định = '**bất cứ**': *Please phone me **any** day next week.*\n\n**No** = Not any (tính từ hạn định, đứng trước DT): *There is **no** coffee.* / ***No** words can express my happiness.*\n\n**None** (đại từ, đứng độc lập hoặc + of): ***None** of the guests want to stay.* / *How many tickets? — **None**.*\n\n**Lưu ý:**\n- *without any* = *with no*: *I passed the exam **without any** difficulties.*\n- *hardly any* = hầu như không có: *I have **hardly any** free time.*"
     },
     {
-      "heading": "Ví dụ",
-      "body": "- We bought **some** bread for lunch.\n- I haven't read **any** books by Charles Dickens.\n- I don't have **any** money. = I have **no** money."
+      "heading": "2. Đại từ kết hợp: Someone, Anything, Nobody…",
+      "body": "| some- | any- | no- |\n|---|---|---|\n| someone / somebody | anyone / anybody | no one / nobody |\n| something | anything | nothing |\n| somewhere | anywhere | nowhere |\n\n- Tất cả chia động từ **số ít**: ***Everyone** is ready.*\n- Có thể dùng sở hữu cách: *took **someone's** report*\n- Thêm **else**: *Is there **anything else**?*\n- **Tránh phủ định kép:** *I can't find my wallet **anywhere*** ✓ (không dùng: *can't find nowhere*)"
+    },
+    {
+      "heading": "3. One, Another, Other, The other",
+      "body": "Với một nhóm xác định (VD: 4 cây bút):\n- **One** is red. **Another** is blue. **Another** is black. **The other** is grey.\n\n| Từ | Vai trò | Ví dụ |\n|---|---|---|\n| **other** + N số nhiều | Tính từ | **Other** people may disagree. |\n| **others** | Đại từ = other + N | Some drink beer. **Others** drink wine. |\n| **the other** + N / đứng riêng | Cái còn lại (xác định) | He has two shops. **The other** is in Phuoc Binh. |\n| **the others** | Đại từ = the other + N | I've done all **the others**. |\n| **another** + N số ít | Thêm một cái nữa | Would you like **another** cup of coffee? |\n\n**Cụm từ:** *from one to **another***; *on one hand… on **the other** hand…*\n\n**Phân biệt:** ***each other*** (2 người) vs ***one another*** (3+ người)"
+    },
+    {
+      "heading": "4. Both, Each, Every, All",
+      "body": "**Both** (cả hai) + V số nhiều:\n- *Both + N số nhiều*: ***Both** men were interested.*\n- *Both S1 **and** S2 + V số nhiều*: ***Both** the teacher **and** her student like Chelsea.*\n\n**Each / Every** + N đếm được số ít + V số ít:\n- ***Each** has a different colour.* / ***Every** student is afraid.*\n- **Each** có thể đứng sau DT: *The students **each** need to have a notebook.* (Every thì không)\n\n**All** + N số nhiều + V số nhiều:\n- *All (of the) students are ready.* = *We **all** are ready.*\n- **Everyone/Everybody/Everything** → V số ít; **All people** → V số nhiều"
+    },
+    {
+      "heading": "5. Either, Neither",
+      "body": "- **Either/Neither** + N số ít: *Trees grow on **either** side.* / ***Neither** student is good.*\n- **Either/Neither of** + the + N số nhiều + V số ít: ***Neither of** the students understands.*\n- Liên từ: ***Either** S1 **or** S2 + V(S2)*; ***Neither** S1 **nor** S2 + V(S2)*\n- Tương tự: *Not only S1 but also S2 + V(S2)*"
+    },
+    {
+      "heading": "6. Most, Almost, Mostly",
+      "body": "- **Most** + N số nhiều (chung chung): ***Most** people like music.*\n- **Most of the** + N (xác định): ***Most of the** students passed.*\n- **Almost** (trạng từ) = gần như: *Dinner is **almost** ready.* / ***Almost** every student is afraid.*\n- **Mostly** = chủ yếu: *We **mostly** go out on Sunday.*"
+    },
+    {
+      "heading": "7. Few / A few / Little / A little",
+      "body": "| | Đếm được (số nhiều) | Không đếm được |\n|---|---|---|\n| **Tích cực** (có một ít, đủ dùng) | **a few** | **a little** |\n| **Tiêu cực** (rất ít, không đủ) | **few** | **little** |\n\n- *We have **a little** time before the train leaves. Let's go for a drink.* (đủ thời gian)\n- *He spoke **little** English, so it was difficult to communicate.* (quá ít)\n- ***Fewer*** + đếm được; ***less*** + không đếm được: *Eat **fewer** sweets and drink **less** wine.*"
     }
   ],
   "exerciseSets": [
@@ -32,6 +52,333 @@
           ],
           "answer": "D",
           "explanation": "Cấu trúc 'too … to' mang nghĩa phủ định → dùng anything."
+        }
+      ]
+    },
+    {
+      "id": "et1032",
+      "title": "Luyện Tập Đại Từ 2 (ET1032)",
+      "description": "40 câu trắc nghiệm nâng cao: đại từ sở hữu, phản thân, lượng từ, đại từ bất định trong ngữ cảnh phức tạp.",
+      "exercises": [
+        {
+          "id": "208930",
+          "kind": "mcq",
+          "question": "One of _______ has to take the responsibility for setting up the experiment.",
+          "options": [{"key":"A","text":"us"},{"key":"B","text":"him"},{"key":"C","text":"their"},{"key":"D","text":"your"}],
+          "answer": "A",
+          "explanation": "One of + đại từ tân ngữ số nhiều → us."
+        },
+        {
+          "id": "208931",
+          "kind": "mcq",
+          "question": "We have already filled in _______.",
+          "options": [{"key":"A","text":"my – her"},{"key":"B","text":"our – hers"},{"key":"C","text":"her – your"},{"key":"D","text":"ours – his"}],
+          "answer": "B",
+          "explanation": "Chủ ngữ 'We' → our (forms); đại từ sở hữu thay cho 'her form' → hers."
+        },
+        {
+          "id": "208932",
+          "kind": "mcq",
+          "question": "You can take _______ of these two elective courses; they are _______ very interesting.",
+          "options": [{"key":"A","text":"both – either"},{"key":"B","text":"both – all"},{"key":"C","text":"either – both"},{"key":"D","text":"neither – all"}],
+          "answer": "C",
+          "explanation": "Either of two = một trong hai; they are both = cả hai đều."
+        },
+        {
+          "id": "208933",
+          "kind": "mcq",
+          "question": "Could you lend me _______ more? I've spent _______ money you gave me yesterday.",
+          "options": [{"key":"A","text":"any – some"},{"key":"B","text":"some – the"},{"key":"C","text":"the – the"},{"key":"D","text":"some – ∅"}],
+          "answer": "B",
+          "explanation": "Lịch sự yêu cầu → some; 'money you gave me' xác định → the."
+        },
+        {
+          "id": "208934",
+          "kind": "mcq",
+          "question": "There have been _______ innovative policies to combat traffic congestion, and as a result, traffic continues to be a major problem.",
+          "options": [{"key":"A","text":"another"},{"key":"B","text":"few"},{"key":"C","text":"most of"},{"key":"D","text":"a little"}],
+          "answer": "B",
+          "explanation": "Few = rất ít (nghĩa phủ định) → ít chính sách nên giao thông vẫn tệ."
+        },
+        {
+          "id": "208935",
+          "kind": "mcq",
+          "question": "If you want the job done well, you had better do _______ _______.",
+          "options": [{"key":"A","text":"yourself – its own"},{"key":"B","text":"them – your own"},{"key":"C","text":"it – yourself"},{"key":"D","text":"your own – itself"}],
+          "answer": "C",
+          "explanation": "Do it yourself = tự mình làm. 'it' thay cho 'the job'."
+        },
+        {
+          "id": "208936",
+          "kind": "mcq",
+          "question": "The group monitoring the election estimated that about ten percent of the ballots were not counted for _______.",
+          "options": [{"key":"A","text":"that – these"},{"key":"B","text":"whether – that"},{"key":"C","text":"some – any"},{"key":"D","text":"one – another"}],
+          "answer": "D",
+          "explanation": "For one reason or another = vì lý do này hay lý do khác."
+        },
+        {
+          "id": "208937",
+          "kind": "mcq",
+          "question": "_______ who was arrested during the riots was released since it couldn't be proved that they had done _______ against the law.",
+          "options": [{"key":"A","text":"Somebody – anywhere"},{"key":"B","text":"Everyone – anything"},{"key":"C","text":"Anyone – nothing"},{"key":"D","text":"Some of – something"}],
+          "answer": "B",
+          "explanation": "Everyone was released; couldn't be proved → anything (phủ định)."
+        },
+        {
+          "id": "208938",
+          "kind": "mcq",
+          "question": "I can't possibly allow _______ of you to enter the house with your shoes covered with _______ mud.",
+          "options": [{"key":"A","text":"many – those"},{"key":"B","text":"none – too much"},{"key":"C","text":"any – so much"},{"key":"D","text":"some – another"}],
+          "answer": "C",
+          "explanation": "Can't allow any of you; 'mud' không đếm được → so much mud."
+        },
+        {
+          "id": "208939",
+          "kind": "mcq",
+          "question": "You may not be impressed with _______ ideas, but are _______ any better?",
+          "options": [{"key":"A","text":"mine – yourself"},{"key":"B","text":"my own – your"},{"key":"C","text":"us – hers"},{"key":"D","text":"my – your own"}],
+          "answer": "D",
+          "explanation": "My ideas; are your own (ideas) any better?"
+        },
+        {
+          "id": "208940",
+          "kind": "mcq",
+          "question": "She found _______ without any friends after alienating _______ all with her unpleasant behavior.",
+          "options": [{"key":"A","text":"him – theirs"},{"key":"B","text":"herself – them"},{"key":"C","text":"them – herself"},{"key":"D","text":"her own – him"}],
+          "answer": "B",
+          "explanation": "Found herself = thấy mình; alienating them all = làm xa lánh tất cả họ."
+        },
+        {
+          "id": "208941",
+          "kind": "mcq",
+          "question": "Don't worry. After _______ rest she'll be all right.",
+          "options": [{"key":"A","text":"a little"},{"key":"B","text":"hardly any"},{"key":"C","text":"just little"},{"key":"D","text":"the little"}],
+          "answer": "A",
+          "explanation": "A little rest = nghỉ ngơi một chút (nghĩa tích cực)."
+        },
+        {
+          "id": "208942",
+          "kind": "mcq",
+          "question": "_______ who knows _______ about literature takes Jeffrey Archer seriously as a novelist.",
+          "options": [{"key":"A","text":"Somebody – anyone"},{"key":"B","text":"No one – anything"},{"key":"C","text":"Nowhere – everything"},{"key":"D","text":"Everyone – someone"}],
+          "answer": "B",
+          "explanation": "No one who knows anything = không ai biết gì (về văn học) lại coi trọng."
+        },
+        {
+          "id": "208943",
+          "kind": "mcq",
+          "question": "_______ university in the country would like to have such _______ well-known academic on its staff.",
+          "options": [{"key":"A","text":"All – the"},{"key":"B","text":"Each – some"},{"key":"C","text":"Most – ∅"},{"key":"D","text":"Every – a"}],
+          "answer": "D",
+          "explanation": "Every + danh từ số ít; such a + tính từ + danh từ."
+        },
+        {
+          "id": "208944",
+          "kind": "mcq",
+          "question": "I spent the _______ day at the library trying to find the articles I needed for my research.",
+          "options": [{"key":"A","text":"most"},{"key":"B","text":"whole"},{"key":"C","text":"all"},{"key":"D","text":"every"}],
+          "answer": "B",
+          "explanation": "The whole day = cả ngày. (all day cũng đúng nhưng không có 'the')."
+        },
+        {
+          "id": "208945",
+          "kind": "mcq",
+          "question": "Take _______ things or you'll regret it; don't take _______ jewellery either.",
+          "options": [{"key":"A","text":"a few – many"},{"key":"B","text":"little – much"},{"key":"C","text":"few – much"},{"key":"D","text":"a little – many"}],
+          "answer": "C",
+          "explanation": "Few things = ít đồ (đếm được); much jewellery (không đếm được, phủ định)."
+        },
+        {
+          "id": "208946",
+          "kind": "mcq",
+          "question": "Couldn't you have answered _______ more questions on the exam? You have hardly answered _______.",
+          "options": [{"key":"A","text":"a lot of – some"},{"key":"B","text":"a few – any"},{"key":"C","text":"so many – a little"},{"key":"D","text":"too much – one"}],
+          "answer": "B",
+          "explanation": "A few more questions; hardly answered any = hầu như không trả lời câu nào."
+        },
+        {
+          "id": "208947",
+          "kind": "mcq",
+          "question": "I was prepared to have to give my speech in an almost empty hall so it was something of a surprise to see that quite _______ students did in fact attend.",
+          "options": [{"key":"A","text":"a few"},{"key":"B","text":"few"},{"key":"C","text":"some"},{"key":"D","text":"many"}],
+          "answer": "A",
+          "explanation": "Quite a few = khá nhiều (bất ngờ vì tưởng ít)."
+        },
+        {
+          "id": "208948",
+          "kind": "mcq",
+          "question": "There will be _______ film festival in which _______ of the films come from Middle Eastern countries.",
+          "options": [{"key":"A","text":"∅ – most"},{"key":"B","text":"some – each"},{"key":"C","text":"a – all"},{"key":"D","text":"the – every"}],
+          "answer": "C",
+          "explanation": "A film festival (mạo từ không xác định); all of the films."
+        },
+        {
+          "id": "208949",
+          "kind": "mcq",
+          "question": "Not _______ can be done to help her if she herself doesn't put in quite _______ effort to put her own life in order.",
+          "options": [{"key":"A","text":"enough – many"},{"key":"B","text":"so much – any"},{"key":"C","text":"many – a great deal of"},{"key":"D","text":"much – a lot of"}],
+          "answer": "D",
+          "explanation": "Not much can be done; a lot of effort (không đếm được)."
+        },
+        {
+          "id": "208950",
+          "kind": "mcq",
+          "question": "I'm not lazy but I think we have _______ public holidays. We ought to have more.",
+          "options": [{"key":"A","text":"too little"},{"key":"B","text":"rather a few"},{"key":"C","text":"fairly little"},{"key":"D","text":"too few"}],
+          "answer": "D",
+          "explanation": "Too few + danh từ đếm được số nhiều = quá ít ngày nghỉ."
+        },
+        {
+          "id": "208951",
+          "kind": "mcq",
+          "question": "The doctor told me I had to eat _______ sweets and drink _______ wine if I wanted to lose _______ kilos.",
+          "options": [{"key":"A","text":"less – fewer – a few"},{"key":"B","text":"fewer – less – a few"},{"key":"C","text":"a few – a little – more"},{"key":"D","text":"fewer – less – a little"}],
+          "answer": "B",
+          "explanation": "Fewer sweets (đếm được); less wine (không đếm được); a few kilos (đếm được, một vài)."
+        },
+        {
+          "id": "208952",
+          "kind": "mcq",
+          "question": "He was an extremely entertaining speaker, so we all enjoyed _______ even more than we had expected to.",
+          "options": [{"key":"A","text":"themselves"},{"key":"B","text":"us"},{"key":"C","text":"himself"},{"key":"D","text":"ourselves"}],
+          "answer": "D",
+          "explanation": "We enjoyed ourselves = chúng tôi rất vui."
+        },
+        {
+          "id": "208953",
+          "kind": "mcq",
+          "question": "Though the cloakroom was very crowded, she managed to find _______ coat fairly quickly, but it took me a long time to find _______.",
+          "options": [{"key":"A","text":"theirs – our"},{"key":"B","text":"her – mine"},{"key":"C","text":"our – us"},{"key":"D","text":"hers – theirs"}],
+          "answer": "B",
+          "explanation": "Her coat (tính từ sở hữu + danh từ); mine (đại từ sở hữu thay 'my coat')."
+        },
+        {
+          "id": "208954",
+          "kind": "mcq",
+          "question": "My books are still on the table where I left _______, but _______ have been stolen.",
+          "options": [{"key":"A","text":"mine – they"},{"key":"B","text":"hers – mine"},{"key":"C","text":"them – hers"},{"key":"D","text":"those – these"}],
+          "answer": "C",
+          "explanation": "Left them (đại từ tân ngữ); hers have been stolen (đại từ sở hữu = her books)."
+        },
+        {
+          "id": "208955",
+          "kind": "mcq",
+          "question": "I am so lonely and bored in this town; _______ ever invites me _______.",
+          "options": [{"key":"A","text":"nobody – anywhere"},{"key":"B","text":"no one – nowhere"},{"key":"C","text":"anyone – nowhere"},{"key":"D","text":"anybody – anywhere"}],
+          "answer": "A",
+          "explanation": "Nobody (phủ định) + anywhere. Tránh phủ định kép (no one + nowhere)."
+        },
+        {
+          "id": "208956",
+          "kind": "mcq",
+          "question": "They are worried that if the decline in the number of the Siberian tigers continues at this high rate, _______ of the species will be left in a few years.",
+          "options": [{"key":"A","text":"none"},{"key":"B","text":"many"},{"key":"C","text":"most"},{"key":"D","text":"any"}],
+          "answer": "A",
+          "explanation": "None of the species will be left = không còn cá thể nào."
+        },
+        {
+          "id": "208957",
+          "kind": "mcq",
+          "question": "\"How much are those melons?\" — \"Two dollars _______.\"",
+          "options": [{"key":"A","text":"any"},{"key":"B","text":"every"},{"key":"C","text":"some"},{"key":"D","text":"each"}],
+          "answer": "D",
+          "explanation": "Two dollars each = mỗi quả hai đô."
+        },
+        {
+          "id": "208958",
+          "kind": "mcq",
+          "question": "The contract does not mean anything legally without the signatures of _______ sides.",
+          "options": [{"key":"A","text":"both"},{"key":"B","text":"either"},{"key":"C","text":"each"},{"key":"D","text":"every"}],
+          "answer": "A",
+          "explanation": "Both sides = cả hai bên."
+        },
+        {
+          "id": "208959",
+          "kind": "mcq",
+          "question": "We are _______ in search of happiness, but to _______ of us, it means a different thing.",
+          "options": [{"key":"A","text":"some – any"},{"key":"B","text":"both – all"},{"key":"C","text":"either – none"},{"key":"D","text":"all – each"}],
+          "answer": "D",
+          "explanation": "We are all = tất cả chúng ta; to each of us = với mỗi người."
+        },
+        {
+          "id": "208960",
+          "kind": "mcq",
+          "question": "His parents did not really give _______ _______ support, yet he still managed to become successful.",
+          "options": [{"key":"A","text":"theirs – him"},{"key":"B","text":"them – his"},{"key":"C","text":"him – their"},{"key":"D","text":"himself – theirs"}],
+          "answer": "C",
+          "explanation": "Give him (tân ngữ) their support (tính từ sở hữu + danh từ)."
+        },
+        {
+          "id": "208961",
+          "kind": "mcq",
+          "question": "_______ of you is going to be questioned by the police about your whereabouts at the time of the crime.",
+          "options": [{"key":"A","text":"All"},{"key":"B","text":"Each"},{"key":"C","text":"Every"},{"key":"D","text":"Some"}],
+          "answer": "B",
+          "explanation": "Each of you + động từ số ít (is going). Every không đi với 'of you'."
+        },
+        {
+          "id": "208962",
+          "kind": "mcq",
+          "question": "You can see _______ people jogging along _______ side of the river in the morning.",
+          "options": [{"key":"A","text":"less – each"},{"key":"B","text":"those – both"},{"key":"C","text":"other – all"},{"key":"D","text":"a lot of – either"}],
+          "answer": "D",
+          "explanation": "A lot of people; either side = bên nào cũng (của sông, 2 bên)."
+        },
+        {
+          "id": "208963",
+          "kind": "mcq",
+          "question": "Almost _______ children love sweets, so it's unusual that _______ do not eat them at all.",
+          "options": [{"key":"A","text":"each – they"},{"key":"B","text":"all – yours"},{"key":"C","text":"any – the others"},{"key":"D","text":"many – those"}],
+          "answer": "B",
+          "explanation": "Almost all children; yours (= your children) do not eat them."
+        },
+        {
+          "id": "208964",
+          "kind": "mcq",
+          "question": "Sam didn't know _______ fish had been in the bowl before the cat had got _______ of them.",
+          "options": [{"key":"A","text":"any – whole"},{"key":"B","text":"how many – some"},{"key":"C","text":"all – much"},{"key":"D","text":"more – anything"}],
+          "answer": "B",
+          "explanation": "How many fish (đếm được); the cat had got some of them."
+        },
+        {
+          "id": "208965",
+          "kind": "mcq",
+          "question": "_______ time he was a student, he did _______ but go to parties.",
+          "options": [{"key":"A","text":"Most of – everything"},{"key":"B","text":"Every – something"},{"key":"C","text":"The whole – nothing"},{"key":"D","text":"All – whatever"}],
+          "answer": "C",
+          "explanation": "The whole time = suốt thời gian; did nothing but = chẳng làm gì ngoài."
+        },
+        {
+          "id": "208966",
+          "kind": "mcq",
+          "question": "Colours can affect our emotions; _______ colours make us feel happy or excited, while _______ colours make us feel sad.",
+          "options": [{"key":"A","text":"several – the others"},{"key":"B","text":"many – another"},{"key":"C","text":"much – the other"},{"key":"D","text":"some – other"}],
+          "answer": "D",
+          "explanation": "Some … other … : một số … một số khác …"
+        },
+        {
+          "id": "208967",
+          "kind": "mcq",
+          "question": "_______ of the students in my class could solve the problem yesterday.",
+          "options": [{"key":"A","text":"None"},{"key":"B","text":"Neither"},{"key":"C","text":"Either"},{"key":"D","text":"Not much"}],
+          "answer": "A",
+          "explanation": "None of + danh từ số nhiều = không ai trong số."
+        },
+        {
+          "id": "208968",
+          "kind": "mcq",
+          "question": "Although _______ was angered by the changes to the schedule last week, _______ attempts have been made yet to put matters right.",
+          "options": [{"key":"A","text":"no one – several"},{"key":"B","text":"the others – many"},{"key":"C","text":"most – few"},{"key":"D","text":"everyone – no"}],
+          "answer": "D",
+          "explanation": "Everyone was angered; no attempts = chưa có nỗ lực nào."
+        },
+        {
+          "id": "208969",
+          "kind": "mcq",
+          "question": "Every morning, millions of _______ waste _______ time reading the sports pages.",
+          "options": [{"key":"A","text":"they – my"},{"key":"B","text":"ours – our own"},{"key":"C","text":"us – our"},{"key":"D","text":"them – its"}],
+          "answer": "C",
+          "explanation": "Millions of us (tân ngữ); waste our time (tính từ sở hữu)."
         }
       ]
     }

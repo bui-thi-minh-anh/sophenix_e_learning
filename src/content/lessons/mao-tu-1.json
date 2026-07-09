@@ -47,6 +47,144 @@
           "explanation": "Lần đầu nhắc đến, 'piano' bắt đầu bằng âm phụ âm /p/ → a."
         }
       ]
+    },
+    {
+      "id": "fill-ex1",
+      "title": "Điền mạo từ — Ex 1",
+      "description": "Điền a, an, the hoặc Ø (không dùng) vào chỗ trống.",
+      "exercises": [
+        {"id":"f1-1","kind":"fill","question":"There is _______ interesting movie playing at the Valley Art Theater.","answer":"an","acceptable":["An"],"explanation":"'interesting' bắt đầu bằng nguyên âm /ɪ/ → an."},
+        {"id":"f1-2","kind":"fill","question":"My parents live in a country where there are _______ long cold winters.","answer":"Ø","acceptable":["0","ø","zero article"],"explanation":"Danh từ số nhiều nói chung, không xác định → không dùng mạo từ."},
+        {"id":"f1-3","kind":"fill","question":"The Airbus is made by _______ European company.","answer":"a","acceptable":["A"],"explanation":"'European' phát âm /jʊ/ (âm phụ âm) → a."},
+        {"id":"f1-4","kind":"fill","question":"What _______ honor it is to meet the Queen!","answer":"an","acceptable":["An"],"explanation":"'honor' có âm câm /h/, bắt đầu bằng nguyên âm /ɒ/ → an."},
+        {"id":"f1-5","kind":"fill","question":"I saw _______ horrible accident last week.","answer":"a","acceptable":["A"],"explanation":"'horrible' phát âm /h/ (âm phụ âm) → a."},
+        {"id":"f1-6","kind":"fill","question":"The police often call _______ unknown thief Mr. Joe.","answer":"the","acceptable":["The"],"explanation":"Xác định cụ thể 'unknown thief' được nói đến → the."},
+        {"id":"f1-7","kind":"fill","question":"_______ whales breathe air.","answer":"Ø","acceptable":["0","ø","zero article"],"explanation":"Nói về loài nói chung (số nhiều) → không dùng mạo từ."},
+        {"id":"f1-8","kind":"fill","question":"Everything went wrong, we had _______ terrible time.","answer":"a","acceptable":["A"],"explanation":"Cụm 'have a terrible time' → a."},
+        {"id":"f1-9","kind":"fill","question":"_______ time and space are related.","answer":"Ø","acceptable":["0","ø","zero article"],"explanation":"Khái niệm trừu tượng nói chung → không dùng mạo từ."},
+        {"id":"f1-10","kind":"fill","question":"Wait a minute: I've got _______ idea!","answer":"an","acceptable":["An"],"explanation":"'idea' bắt đầu bằng nguyên âm /aɪ/ → an."}
+      ]
+    },
+    {
+      "id": "fill-ex2",
+      "title": "Điền mạo từ — Ex 2",
+      "exercises": [
+        {"id":"f2-1","kind":"fill","question":"A snail moves only a few inches _______ hour.","answer":"an","acceptable":["An"],"explanation":"'hour' có /h/ câm, bắt đầu âm nguyên âm /aʊ/ → an."},
+        {"id":"f2-2","kind":"fill","question":"A storm struck the coast of Vietnam. _______ storm caused a lot of damage.","answer":"The","acceptable":["the"],"explanation":"Lần thứ hai nhắc đến 'storm' (đã xác định) → the."},
+        {"id":"f2-3","kind":"fill","question":"A thousand is ten times more than _______ hundred.","answer":"a","acceptable":["A"],"explanation":"'a hundred' = một trăm."},
+        {"id":"f2-4","kind":"fill","question":"_______ eulogy is usually a speech about someone who has died.","answer":"A","acceptable":["a"],"explanation":"'eulogy' phát âm /juː/ (âm phụ âm /j/) → a."},
+        {"id":"f2-5","kind":"fill","question":"_______ unknown person stole a TV from my mother's home.","answer":"An","acceptable":["an"],"explanation":"'unknown' bắt đầu bằng nguyên âm /ʌ/ → an."},
+        {"id":"f2-6","kind":"fill","question":"I know the melody of that song, but I don't know _______ words.","answer":"the","acceptable":["The"],"explanation":"'words' đã xác định (của bài hát đó) → the."},
+        {"id":"f2-7","kind":"fill","question":"I made some coffee. _______ coffee was too strong.","answer":"The","acceptable":["the"],"explanation":"Lần thứ hai nhắc đến 'coffee' → the."},
+        {"id":"f2-8","kind":"fill","question":"_______ \"E\" looks like a \"3\" in a mirror.","answer":"An","acceptable":["an"],"explanation":"Chữ 'E' phát âm /iː/ (nguyên âm) → an."},
+        {"id":"f2-9","kind":"fill","question":"My friend went fishing and fell into _______ water.","answer":"the","acceptable":["The"],"explanation":"Nước ở nơi câu cá (xác định theo ngữ cảnh) → the."},
+        {"id":"f2-10","kind":"fill","question":"My last name begins with _______ \"C\".","answer":"a","acceptable":["A"],"explanation":"Chữ 'C' phát âm /siː/ (phụ âm /s/) → a."}
+      ]
+    },
+    {
+      "id": "fill-ex3",
+      "title": "Điền mạo từ — Ex 3",
+      "exercises": [
+        {"id":"f3-1","kind":"fill","question":"_______ oxygen is needed for all people.","answer":"Ø","acceptable":["0","ø"],"explanation":"Chất nói chung → không dùng mạo từ."},
+        {"id":"f3-2","kind":"fill","question":"I read _______ book on geology last week.","answer":"a","acceptable":["A"],"explanation":"Một cuốn sách không xác định → a."},
+        {"id":"f3-3","kind":"fill","question":"_______ members of that band are very talented.","answer":"The","acceptable":["the"],"explanation":"Xác định cụ thể 'of that band' → the."},
+        {"id":"f3-4","kind":"fill","question":"A birthday cake usually has _______ candles on it.","answer":"Ø","acceptable":["0","ø"],"explanation":"Nến nói chung, không xác định → không dùng mạo từ."},
+        {"id":"f3-5","kind":"fill","question":"Many of _______ airliners in the world are made in Washington State.","answer":"the","acceptable":["The"],"explanation":"'Many of the + N' = nhiều trong số những cái (xác định)."},
+        {"id":"f3-6","kind":"fill","question":"Most _______ dogs hate cats.","answer":"Ø","acceptable":["0","ø"],"explanation":"'Most + N (chung chung)' → không dùng mạo từ."},
+        {"id":"f3-7","kind":"fill","question":"All of _______ fish in the river died.","answer":"the","acceptable":["The"],"explanation":"'All of the + N' xác định cụ thể → the."},
+        {"id":"f3-8","kind":"fill","question":"I picked up the sugar bowl, and some of _______ sugar fell on the floor.","answer":"the","acceptable":["The"],"explanation":"Đường trong bát (xác định) → the."},
+        {"id":"f3-9","kind":"fill","question":"Some _______ movies are good, and others aren't.","answer":"Ø","acceptable":["0","ø"],"explanation":"'Some + N (chung chung)' → không dùng mạo từ."},
+        {"id":"f3-10","kind":"fill","question":"Is this _______ road to Santa Fe?","answer":"the","acceptable":["The"],"explanation":"Con đường cụ thể dẫn đến Santa Fe → the."}
+      ]
+    },
+    {
+      "id": "fill-ex4",
+      "title": "Điền mạo từ — Ex 4",
+      "exercises": [
+        {"id":"f4-1","kind":"fill","question":"In _______ town where I was born lived a man who sailed to sea.","answer":"the","acceptable":["The"],"explanation":"Xác định bởi mệnh đề quan hệ 'where I was born' → the."},
+        {"id":"f4-2","kind":"fill","question":"_______ blue whales are the largest animals that ever lived.","answer":"Ø","acceptable":["0","ø"],"explanation":"Loài nói chung (số nhiều) → không dùng mạo từ."},
+        {"id":"f4-3","kind":"fill","question":"You don't have _______ camera, do you?","answer":"a","acceptable":["A"],"explanation":"Một chiếc máy ảnh bất kỳ → a."},
+        {"id":"f4-4","kind":"fill","question":"I spent the day at the ocean sitting on _______ shore.","answer":"the","acceptable":["The"],"explanation":"Bờ biển xác định (của đại dương đó) → the."},
+        {"id":"f4-5","kind":"fill","question":"Our store is on the northwest corner of _______ Main Street and Elm Road.","answer":"Ø","acceptable":["0","ø"],"explanation":"Tên đường phố → không dùng mạo từ."},
+        {"id":"f4-6","kind":"fill","question":"I saw _______ exciting soccer game last week.","answer":"an","acceptable":["An"],"explanation":"'exciting' bắt đầu bằng nguyên âm /ɪ/ → an."},
+        {"id":"f4-7","kind":"fill","question":"She looks down at _______ papers lying on her desk.","answer":"the","acceptable":["The"],"explanation":"Giấy tờ xác định (trên bàn cô ấy) → the."},
+        {"id":"f4-8","kind":"fill","question":"I prefer apples to _______ oranges.","answer":"Ø","acceptable":["0","ø"],"explanation":"Trái cam nói chung → không dùng mạo từ."},
+        {"id":"f4-9","kind":"fill","question":"They're tearing up _______ street in front of my house.","answer":"the","acceptable":["The"],"explanation":"Con đường cụ thể (trước nhà tôi) → the."},
+        {"id":"f4-10","kind":"fill","question":"_______ unemployment is a growing problem.","answer":"Ø","acceptable":["0","ø"],"explanation":"Danh từ trừu tượng nói chung → không dùng mạo từ."}
+      ]
+    },
+    {
+      "id": "fill-ex5",
+      "title": "Điền mạo từ — Ex 5",
+      "exercises": [
+        {"id":"f5-1","kind":"fill","question":"Dr. Finley has a degree from _______ University of the Americas in Mexico.","answer":"the","acceptable":["The"],"explanation":"Tên trường có 'of' → the University of…"},
+        {"id":"f5-2","kind":"fill","question":"_______ College of Design is no longer located in Hascall Hall.","answer":"The","acceptable":["the"],"explanation":"Tên trường có 'of' → The College of Design."},
+        {"id":"f5-3","kind":"fill","question":"How long have you been in _______ U.S?","answer":"the","acceptable":["The"],"explanation":"Tên nước viết tắt (the U.S.) → the."},
+        {"id":"f5-4","kind":"fill","question":"_______ University of Green Village has over 10,000 students.","answer":"The","acceptable":["the"],"explanation":"Tên trường có 'of' → The University of…"},
+        {"id":"f5-5","kind":"fill","question":"Mr. Smith liked Johnny's essay even though _______ boy's spelling was poor.","answer":"the","acceptable":["The"],"explanation":"Cậu bé đã xác định (Johnny) → the."},
+        {"id":"f5-6","kind":"fill","question":"Greenville is very old and many of _______ town's buildings need repair.","answer":"the","acceptable":["The"],"explanation":"Thị trấn xác định (Greenville) → the."},
+        {"id":"f5-7","kind":"fill","question":"That's _______ worst movie I've ever seen!","answer":"the","acceptable":["The"],"explanation":"So sánh nhất → the worst."},
+        {"id":"f5-8","kind":"fill","question":"_______ Bay City University is well-known for its Drama Department.","answer":"Ø","acceptable":["0","ø"],"explanation":"Tên trường không có 'of' → không dùng the."},
+        {"id":"f5-9","kind":"fill","question":"Muhammad Ali was one of _______ greatest boxers of all time.","answer":"the","acceptable":["The"],"explanation":"So sánh nhất → the greatest."},
+        {"id":"f5-10","kind":"fill","question":"_______ Cochies College is also known as CC.","answer":"Ø","acceptable":["0","ø"],"explanation":"Tên trường không có 'of' → không dùng the."}
+      ]
+    },
+    {
+      "id": "et1037",
+      "title": "Trắc nghiệm Mạo từ (ET1037)",
+      "description": "50 câu trắc nghiệm chọn a, an, the hoặc Ø.",
+      "exercises": [
+        {"id":"202732","kind":"mcq","question":"There was _______ piano in the corner of the room.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"the"}],"answer":"A","explanation":"'piano' bắt đầu bằng phụ âm /p/, lần đầu nhắc đến → a."},
+        {"id":"202733","kind":"mcq","question":"It is fun to learn English on _______ computer.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"the"}],"answer":"A","explanation":"Một chiếc máy tính bất kỳ → a."},
+        {"id":"202734","kind":"mcq","question":"Are they _______ students?","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"the"}],"answer":"C","explanation":"Danh từ số nhiều không xác định → không dùng mạo từ."},
+        {"id":"202735","kind":"mcq","question":"Have you ever been to _______ British Museum?","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"the"}],"answer":"D","explanation":"Tên bảo tàng xác định → the British Museum."},
+        {"id":"202736","kind":"mcq","question":"We only have _______ hour to complete the test.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"the"}],"answer":"B","explanation":"'hour' có /h/ câm, bắt đầu nguyên âm /aʊ/ → an."},
+        {"id":"202737","kind":"mcq","question":"_______ Hyde Park is a very large park in central London.","options":[{"key":"A","text":"A"},{"key":"B","text":"An"},{"key":"C","text":"Ø"},{"key":"D","text":"The"}],"answer":"C","explanation":"Tên công viên → không dùng mạo từ."},
+        {"id":"202738","kind":"mcq","question":"I would like _______ rice with my curry.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"the"}],"answer":"C","explanation":"'rice' không đếm được, nói chung → Ø."},
+        {"id":"202739","kind":"mcq","question":"He is _______ English man.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"the"}],"answer":"B","explanation":"'English' bắt đầu bằng nguyên âm /ɪ/ → an."},
+        {"id":"202740","kind":"mcq","question":"He is _______ English.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"the"}],"answer":"C","explanation":"Quốc tịch dùng như tính từ → Ø (He is English)."},
+        {"id":"202741","kind":"mcq","question":"We may have _______ look at the magazines?","options":[{"key":"A","text":"Ø"},{"key":"B","text":"a"},{"key":"C","text":"the"},{"key":"D","text":"an"}],"answer":"B","explanation":"Cụm 'have a look' → a."},
+        {"id":"202742","kind":"mcq","question":"Children usually begin to go to _______ school at _______ age of six.","options":[{"key":"A","text":"the, the"},{"key":"B","text":"a, a"},{"key":"C","text":"Ø, the"},{"key":"D","text":"the, a"}],"answer":"C","explanation":"'go to school' (mục đích) → Ø; 'at the age of' → the."},
+        {"id":"202743","kind":"mcq","question":"Finally we got to _______ house where our grandfather and grandmother had once lived.","options":[{"key":"A","text":"the"},{"key":"B","text":"an"},{"key":"C","text":"Ø"},{"key":"D","text":"a"}],"answer":"A","explanation":"Xác định bởi mệnh đề quan hệ 'where…' → the."},
+        {"id":"202744","kind":"mcq","question":"Sam is _______ man to speak at the conference tomorrow.","options":[{"key":"A","text":"Ø"},{"key":"B","text":"a"},{"key":"C","text":"the"},{"key":"D","text":"an"}],"answer":"C","explanation":"Người cụ thể (duy nhất phát biểu) → the."},
+        {"id":"202745","kind":"mcq","question":"Birds can fly in _______ sky.","options":[{"key":"A","text":"an"},{"key":"B","text":"the"},{"key":"C","text":"Ø"},{"key":"D","text":"a"}],"answer":"B","explanation":"'the sky' — duy nhất → the."},
+        {"id":"202746","kind":"mcq","question":"All work had to be done by _______ hand when there were no modern machines.","options":[{"key":"A","text":"an"},{"key":"B","text":"the"},{"key":"C","text":"Ø"},{"key":"D","text":"a"}],"answer":"C","explanation":"Cụm 'by hand' (bằng tay) → không dùng mạo từ."},
+        {"id":"202747","kind":"mcq","question":"She is _______ tallest girl in the school.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"C","explanation":"So sánh nhất → the tallest."},
+        {"id":"202748","kind":"mcq","question":"Where is _______ pretty, pink sweater I bought last week?","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"C","explanation":"Xác định bởi 'I bought last week' → the."},
+        {"id":"202749","kind":"mcq","question":"I want to see _______ movie. I don't care which one we see.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"A","explanation":"Một bộ phim bất kỳ (don't care which one) → a."},
+        {"id":"202750","kind":"mcq","question":"Can you play _______ piano?","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"C","explanation":"Nhạc cụ: play the piano → the."},
+        {"id":"202751","kind":"mcq","question":"Do you like _______ my new glasses?","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"Đã có tính từ sở hữu 'my' → không dùng thêm mạo từ."},
+        {"id":"202752","kind":"mcq","question":"I want to introduce you to Sharon. She is _______ very nice person.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"A","explanation":"Lần đầu giới thiệu, danh từ đếm được số ít → a."},
+        {"id":"202753","kind":"mcq","question":"She needs _______ water. She is really thirsty.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"'water' không đếm được, không xác định → Ø."},
+        {"id":"202754","kind":"mcq","question":"Canada is one of _______ biggest countries in the world.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"C","explanation":"So sánh nhất → the biggest."},
+        {"id":"202755","kind":"mcq","question":"Quick! Someone call _______ police. I need help right now.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"C","explanation":"'the police' — tổ chức xác định → the."},
+        {"id":"202756","kind":"mcq","question":"Do you like _______ my wedding dress?","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"Đã có 'my' → không dùng thêm mạo từ."},
+        {"id":"202757","kind":"mcq","question":"I need _______ new computer. I'm going to the electronics store to pick one out today.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"A","explanation":"Một chiếc máy tính bất kỳ → a."},
+        {"id":"202758","kind":"mcq","question":"I want to have _______ apple for _______ lunch.","options":[{"key":"A","text":"a, the"},{"key":"B","text":"an, Ø"},{"key":"C","text":"the, Ø"},{"key":"D","text":"Ø, Ø"}],"answer":"B","explanation":"'apple' bắt đầu nguyên âm → an; 'lunch' (bữa ăn) → Ø."},
+        {"id":"202759","kind":"mcq","question":"_______ Grand Hotel is in _______ Baker Street.","options":[{"key":"A","text":"Ø, Ø"},{"key":"B","text":"The, the"},{"key":"C","text":"The, Ø"},{"key":"D","text":"Ø, the"}],"answer":"C","explanation":"Tên khách sạn → The Grand Hotel; tên đường → Ø."},
+        {"id":"202760","kind":"mcq","question":"Can you give me _______ little more information about the house?","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"A","explanation":"'a little' = một chút → a."},
+        {"id":"202761","kind":"mcq","question":"I like _______ beautiful, brown coffee table in your living room. Where did you buy it?","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"C","explanation":"Cái bàn xác định (trong phòng khách của bạn) → the."},
+        {"id":"202762","kind":"mcq","question":"The largest landmass is divided into two continents along _______ Ural mountains.","options":[{"key":"A","text":"an"},{"key":"B","text":"the"},{"key":"C","text":"Ø"},{"key":"D","text":"a"}],"answer":"B","explanation":"Tên dãy núi → the Ural mountains."},
+        {"id":"202763","kind":"mcq","question":"There are only _______ few mistakes in your composition. Don't make _______ same ones any more.","options":[{"key":"A","text":"the, the"},{"key":"B","text":"a, a"},{"key":"C","text":"Ø, Ø"},{"key":"D","text":"a, the"}],"answer":"D","explanation":"'a few' = vài cái; 'the same' → the."},
+        {"id":"202764","kind":"mcq","question":"What _______ day we are having today!","options":[{"key":"A","text":"an"},{"key":"B","text":"the"},{"key":"C","text":"Ø"},{"key":"D","text":"a"}],"answer":"D","explanation":"Câu cảm thán: What + a + N đếm được số ít → a."},
+        {"id":"202765","kind":"mcq","question":"Lisa met one of her old friends on his way _______ home from Vancouver.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"Cụm cố định 'on the way home' — 'home' không dùng mạo từ."},
+        {"id":"202766","kind":"mcq","question":"Spring is _______ best season of the year. Autumn is _______ busy season.","options":[{"key":"A","text":"the, a"},{"key":"B","text":"a, a"},{"key":"C","text":"a, the"},{"key":"D","text":"the, the"}],"answer":"A","explanation":"So sánh nhất → the best; nhắc đến lần đầu → a busy season."},
+        {"id":"202767","kind":"mcq","question":"My girlfriend bought _______ dress _______ last weekend.","options":[{"key":"A","text":"a, the"},{"key":"B","text":"the, the"},{"key":"C","text":"a, Ø"},{"key":"D","text":"the, a"}],"answer":"C","explanation":"Một chiếc váy bất kỳ → a; 'last weekend' → Ø."},
+        {"id":"202768","kind":"mcq","question":"Kent always has _______ lunch in a restaurant.","options":[{"key":"A","text":"Ø"},{"key":"B","text":"the"},{"key":"C","text":"a"},{"key":"D","text":"an"}],"answer":"A","explanation":"Bữa ăn (have lunch) → không dùng mạo từ."},
+        {"id":"202769","kind":"mcq","question":"Wendy is _______ eleven-year-old girl.","options":[{"key":"A","text":"a"},{"key":"B","text":"the"},{"key":"C","text":"an"},{"key":"D","text":"Ø"}],"answer":"C","explanation":"'eleven' bắt đầu bằng nguyên âm /ɪ/ → an."},
+        {"id":"202770","kind":"mcq","question":"_______ sun and the moon both set in _______ west.","options":[{"key":"A","text":"The, the"},{"key":"B","text":"Ø, Ø"},{"key":"C","text":"Ø, the"},{"key":"D","text":"The, Ø"}],"answer":"A","explanation":"Duy nhất: the sun; phương hướng: the west → the, the."},
+        {"id":"202771","kind":"mcq","question":"I will keep _______ eye on the baby when its father is away.","options":[{"key":"A","text":"an"},{"key":"B","text":"much"},{"key":"C","text":"the"},{"key":"D","text":"one"}],"answer":"A","explanation":"Cụm 'keep an eye on' = để mắt đến → an."},
+        {"id":"206688","kind":"mcq","question":"\"James is not coming tonight.\" — \"Oh, that is _______ bad news.\"","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"'news' không đếm được → không dùng mạo từ."},
+        {"id":"206689","kind":"mcq","question":"I'm not the man to give you _______ advice.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"'advice' không đếm được → Ø."},
+        {"id":"206690","kind":"mcq","question":"I just want to ask you for _______ advice.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"'advice' không đếm được, nói chung → Ø."},
+        {"id":"206691","kind":"mcq","question":"_______ advice he had got from most of his friends was to turn down _______ offer.","options":[{"key":"A","text":"The, the"},{"key":"B","text":"The, an"},{"key":"C","text":"An, an"},{"key":"D","text":"Ø, Ø"}],"answer":"A","explanation":"Lời khuyên xác định (từ bạn bè) → the; lời đề nghị xác định → the."},
+        {"id":"206692","kind":"mcq","question":"_______ equipment from _______ wrecked plane has to be saved.","options":[{"key":"A","text":"The, the"},{"key":"B","text":"The, a"},{"key":"C","text":"A, a"},{"key":"D","text":"Ø, Ø"}],"answer":"A","explanation":"Thiết bị xác định (từ máy bay đó) → the; máy bay xác định → the."},
+        {"id":"206693","kind":"mcq","question":"It was nearly _______ midnight, and Margaret rose to go.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"'midnight' — thời điểm trong ngày → Ø."},
+        {"id":"206694","kind":"mcq","question":"As _______ boy Herbert wanted to study _______ music.","options":[{"key":"A","text":"the, Ø"},{"key":"B","text":"the, a"},{"key":"C","text":"a, Ø"},{"key":"D","text":"Ø, Ø"}],"answer":"C","explanation":"'a boy' = khi còn là một cậu bé; 'music' (môn học/nghệ thuật) → Ø."},
+        {"id":"206695","kind":"mcq","question":"We got back to _______ inn as _______ night was falling.","options":[{"key":"A","text":"the, the"},{"key":"B","text":"the, a"},{"key":"C","text":"the, Ø"},{"key":"D","text":"Ø, Ø"}],"answer":"C","explanation":"Quán trọ xác định → the; 'night was falling' (trời tối dần) → Ø."},
+        {"id":"206696","kind":"mcq","question":"I paid my first visit to them on _______ clear cold February night.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"A","explanation":"Một đêm tháng Hai không xác định → a."},
+        {"id":"206697","kind":"mcq","question":"Charles was in a hurry to get back home by _______ midnight.","options":[{"key":"A","text":"a"},{"key":"B","text":"an"},{"key":"C","text":"the"},{"key":"D","text":"Ø"}],"answer":"D","explanation":"'midnight' — thời điểm trong ngày → Ø."}
+      ]
     }
   ]
 }
