@@ -18,6 +18,9 @@ import pastPerfect from "./past-perfect.json";
 import futureSimple from "./future-simple.json";
 import futureAdvanced from "./future-advanced.json";
 import tenseAgreement from "./tense-agreement.json";
+import presentTensesReview from "./present-tenses-review.json";
+import pastTensesReview from "./past-tenses-review.json";
+import futureTensesReview from "./future-tenses-review.json";
 
 const jsonLessons = [
   daiTu1,
@@ -32,6 +35,9 @@ const jsonLessons = [
   futureSimple,
   futureAdvanced,
   tenseAgreement,
+  presentTensesReview,
+  pastTensesReview,
+  futureTensesReview,
 ] as unknown as Lesson[];
 
 // Danh sách bài giảng (thứ tự hiển thị). Thêm bài mới = import rồi thêm vào mảng này.

@@ -1,0 +1,323 @@
+{
+  "slug": "present-tenses-review",
+  "title": "Thi Online: Các thì hiện tại",
+  "level": "A2",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "25 câu trắc nghiệm tổng hợp các thì hiện tại: HTĐ, HTTD, HTHT, HTHT tiếp diễn.",
+  "sections": [
+    {
+      "heading": "Tóm tắt các thì hiện tại",
+      "body": "| Thì | Cấu trúc | Dấu hiệu |\n|---|---|---|\n| **Hiện tại đơn (HTĐ)** | S + V(s/es) | always, often, usually, every day/week... |\n| **Hiện tại tiếp diễn (HTTD)** | S + am/is/are + V-ing | now, right now, at the moment, Look!, Listen! |\n| **Hiện tại hoàn thành (HTHT)** | S + have/has + V3 | already, yet, just, ever, never, since, for, so far, recently |\n| **HTHT tiếp diễn** | S + have/has + been + V-ing | all morning/day, for + thời gian (nhấn mạnh liên tục) |\n\n**Lưu ý quan trọng:**\n- Động từ tri giác (smell, taste, see, hear...) và trạng thái (know, want, like, love...) → **không** dùng thì tiếp diễn.\n- **This is the first time** + HTHT.\n- **Whenever** + HTĐ cho thói quen lặp lại.\n- Mệnh đề thời gian (as soon as, when, until...) → **không** dùng will, dùng HTĐ."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "online-test-present",
+      "title": "Thi Online: Các thì hiện tại",
+      "description": "25 câu trắc nghiệm tổng hợp.",
+      "exercises": [
+        {
+          "id": "q1", "kind": "mcq",
+          "question": "Look! That girl ________ to steal the wallet of that man.",
+          "options": [
+            { "key": "A", "text": "tries" },
+            { "key": "B", "text": "is trying" },
+            { "key": "C", "text": "are trying" },
+            { "key": "D", "text": "was trying" }
+          ],
+          "answer": "B",
+          "explanation": "Look! → hành động đang xảy ra ngay lúc nói → HTTD: is trying."
+        },
+        {
+          "id": "q2", "kind": "mcq",
+          "question": "I'll give you a call as soon as I ______ Singapore.",
+          "options": [
+            { "key": "A", "text": "will arrive" },
+            { "key": "B", "text": "am arriving" },
+            { "key": "C", "text": "arrive" },
+            { "key": "D", "text": "will have arrived" }
+          ],
+          "answer": "C",
+          "explanation": "As soon as + HTĐ (arrive): không dùng will trong mệnh đề trạng ngữ thời gian."
+        },
+        {
+          "id": "q3", "kind": "mcq",
+          "question": "I'm afraid I can't go out with you because I _____________ my assignment yet.",
+          "options": [
+            { "key": "A", "text": "hasn't finished" },
+            { "key": "B", "text": "didn't finish" },
+            { "key": "C", "text": "don't finish" },
+            { "key": "D", "text": "haven't finished" }
+          ],
+          "answer": "D",
+          "explanation": "Yet → HTHT phủ định. Chủ ngữ I → haven't finished."
+        },
+        {
+          "id": "q4", "kind": "mcq",
+          "question": "He _________ in 70 matches for the national team so far.",
+          "options": [
+            { "key": "A", "text": "has played" },
+            { "key": "B", "text": "has been played" },
+            { "key": "C", "text": "played" },
+            { "key": "D", "text": "is playing" }
+          ],
+          "answer": "A",
+          "explanation": "So far → HTHT: has played. Chủ động vì 'he' tự chơi."
+        },
+        {
+          "id": "q5", "kind": "mcq",
+          "question": "Recently, a group of Australians _________ an amazing campaign to raise awareness about mental health issues.",
+          "options": [
+            { "key": "A", "text": "had developed" },
+            { "key": "B", "text": "developed" },
+            { "key": "C", "text": "has developed" },
+            { "key": "D", "text": "was developed" }
+          ],
+          "answer": "C",
+          "explanation": "Recently → HTHT: has developed. Chủ ngữ 'a group' (số ít) → has."
+        },
+        {
+          "id": "q6", "kind": "mcq",
+          "question": "My father often _______ sports programs in his free time.",
+          "options": [
+            { "key": "A", "text": "has watched" },
+            { "key": "B", "text": "watches" },
+            { "key": "C", "text": "is watching" },
+            { "key": "D", "text": "watch" }
+          ],
+          "answer": "B",
+          "explanation": "Often → HTĐ: thói quen. My father (ngôi 3 số ít) → watches."
+        },
+        {
+          "id": "q7", "kind": "mcq",
+          "question": "The organization ________ to have some voluntary programs to help disabled children since last year.",
+          "options": [
+            { "key": "A", "text": "has planned" },
+            { "key": "B", "text": "have planned" },
+            { "key": "C", "text": "planned" },
+            { "key": "D", "text": "was planning" }
+          ],
+          "answer": "A",
+          "explanation": "Since last year → HTHT. The organization (số ít) → has planned."
+        },
+        {
+          "id": "q8", "kind": "mcq",
+          "question": "\"Where is John?\" — \"He __________ for an important telephone call in his office.\"",
+          "options": [
+            { "key": "A", "text": "waiting" },
+            { "key": "B", "text": "waits" },
+            { "key": "C", "text": "is waiting" },
+            { "key": "D", "text": "has been waiting" }
+          ],
+          "answer": "C",
+          "explanation": "Where is John? → hỏi về hiện tại, hành động đang diễn ra → HTTD: is waiting."
+        },
+        {
+          "id": "q9", "kind": "mcq",
+          "question": "I _______ an art class at the university once a week.",
+          "options": [
+            { "key": "A", "text": "attends" },
+            { "key": "B", "text": "attend" },
+            { "key": "C", "text": "has attended" },
+            { "key": "D", "text": "am attending" }
+          ],
+          "answer": "B",
+          "explanation": "Once a week → HTĐ: thói quen. Chủ ngữ I → attend (không thêm s)."
+        },
+        {
+          "id": "q10", "kind": "mcq",
+          "question": "The young writer ________ four novels and one collection of essays so far.",
+          "options": [
+            { "key": "A", "text": "has published" },
+            { "key": "B", "text": "was publishing" },
+            { "key": "C", "text": "had published" },
+            { "key": "D", "text": "published" }
+          ],
+          "answer": "A",
+          "explanation": "So far → HTHT: has published."
+        },
+        {
+          "id": "q11", "kind": "mcq",
+          "question": "I heard that the movie at the Roxy Theatre is great, but I ______________ it yet.",
+          "options": [
+            { "key": "A", "text": "don't watch" },
+            { "key": "B", "text": "haven't watched" },
+            { "key": "C", "text": "didn't watch" },
+            { "key": "D", "text": "hasn't watched" }
+          ],
+          "answer": "B",
+          "explanation": "Yet → HTHT phủ định. Chủ ngữ I → haven't watched."
+        },
+        {
+          "id": "q12", "kind": "mcq",
+          "question": "He __________ his report at the moment. He will bring it into the office when it is complete.",
+          "options": [
+            { "key": "A", "text": "was preparing" },
+            { "key": "B", "text": "is preparing" },
+            { "key": "C", "text": "has prepared" },
+            { "key": "D", "text": "prepares" }
+          ],
+          "answer": "B",
+          "explanation": "At the moment → HTTD: is preparing."
+        },
+        {
+          "id": "q13", "kind": "mcq",
+          "question": "Their son's English ________ recently thanks to a four-month English course.",
+          "options": [
+            { "key": "A", "text": "had improved" },
+            { "key": "B", "text": "is improving" },
+            { "key": "C", "text": "improved" },
+            { "key": "D", "text": "has improved" }
+          ],
+          "answer": "D",
+          "explanation": "Recently → HTHT: has improved."
+        },
+        {
+          "id": "q14", "kind": "mcq",
+          "question": "Look to your left! Jane _________ her little brother to school. How sweet!",
+          "options": [
+            { "key": "A", "text": "brings" },
+            { "key": "B", "text": "has brought" },
+            { "key": "C", "text": "is bringing" },
+            { "key": "D", "text": "brought" }
+          ],
+          "answer": "C",
+          "explanation": "Look! → hành động đang xảy ra → HTTD: is bringing."
+        },
+        {
+          "id": "q15", "kind": "mcq",
+          "question": "You won't find Mark at home right now. He ________ shopping with his mom.",
+          "options": [
+            { "key": "A", "text": "is going" },
+            { "key": "B", "text": "went" },
+            { "key": "C", "text": "goes" },
+            { "key": "D", "text": "was going" }
+          ],
+          "answer": "A",
+          "explanation": "Right now → HTTD: is going."
+        },
+        {
+          "id": "q16", "kind": "mcq",
+          "question": "He took his car to the service station yesterday, but they ____________ it yet.",
+          "options": [
+            { "key": "A", "text": "didn't fix" },
+            { "key": "B", "text": "haven't fixed" },
+            { "key": "C", "text": "don't fix" },
+            { "key": "D", "text": "are fixing" }
+          ],
+          "answer": "B",
+          "explanation": "Yet → HTHT phủ định: haven't fixed — chưa sửa xong cho đến hiện tại."
+        },
+        {
+          "id": "q17", "kind": "mcq",
+          "question": "Every Wednesday my dad _____ to work by train because my mom ______ the car.",
+          "options": [
+            { "key": "A", "text": "is going / needs" },
+            { "key": "B", "text": "goes / need" },
+            { "key": "C", "text": "went / needs" },
+            { "key": "D", "text": "goes / needs" }
+          ],
+          "answer": "D",
+          "explanation": "Every Wednesday → HTĐ. My dad, my mom (ngôi 3 số ít) → goes, needs."
+        },
+        {
+          "id": "q18", "kind": "mcq",
+          "question": "Peter often takes the bus to school, but today his mother _________ him.",
+          "options": [
+            { "key": "A", "text": "is driving" },
+            { "key": "B", "text": "drives" },
+            { "key": "C", "text": "has driven" },
+            { "key": "D", "text": "drive" }
+          ],
+          "answer": "A",
+          "explanation": "Today (đối lập với thói quen 'often takes') → HTTD: is driving — hôm nay mẹ đang chở."
+        },
+        {
+          "id": "q19", "kind": "mcq",
+          "question": "You should know that everyone in our company _______ busy preparing for the event for weeks.",
+          "options": [
+            { "key": "A", "text": "is" },
+            { "key": "B", "text": "has been" },
+            { "key": "C", "text": "are" },
+            { "key": "D", "text": "have been" }
+          ],
+          "answer": "B",
+          "explanation": "For weeks → HTHT tiếp diễn. Everyone (số ít) → has been."
+        },
+        {
+          "id": "q20", "kind": "mcq",
+          "question": "The president ___________ for his speech the whole morning. He still isn't finished.",
+          "options": [
+            { "key": "A", "text": "is preparing" },
+            { "key": "B", "text": "prepares" },
+            { "key": "C", "text": "has been preparing" },
+            { "key": "D", "text": "prepared" }
+          ],
+          "answer": "C",
+          "explanation": "The whole morning + still isn't finished → HTHT tiếp diễn: has been preparing — nhấn mạnh quá trình liên tục."
+        },
+        {
+          "id": "q21", "kind": "mcq",
+          "question": "In recent years, there _________ a significant increase in the number of female students.",
+          "options": [
+            { "key": "A", "text": "has been" },
+            { "key": "B", "text": "are" },
+            { "key": "C", "text": "is" },
+            { "key": "D", "text": "have been" }
+          ],
+          "answer": "A",
+          "explanation": "In recent years → HTHT. 'A significant increase' (số ít) → has been."
+        },
+        {
+          "id": "q22", "kind": "mcq",
+          "question": "I have never played golf before. This is the first time I ________ to play.",
+          "options": [
+            { "key": "A", "text": "tried" },
+            { "key": "B", "text": "am trying" },
+            { "key": "C", "text": "have tried" },
+            { "key": "D", "text": "try" }
+          ],
+          "answer": "C",
+          "explanation": "This is the first time + HTHT: have tried — cấu trúc cố định."
+        },
+        {
+          "id": "q23", "kind": "mcq",
+          "question": "______________, she always brings a novel with her.",
+          "options": [
+            { "key": "A", "text": "After I have met my beloved teacher" },
+            { "key": "B", "text": "Whenever I meet my beloved teacher" },
+            { "key": "C", "text": "By the time I meet my beloved teacher" },
+            { "key": "D", "text": "Until I will meet my beloved teacher" }
+          ],
+          "answer": "B",
+          "explanation": "Whenever + HTĐ (meet) → HTĐ (brings): mỗi khi gặp cô giáo, cô ấy luôn mang theo tiểu thuyết."
+        },
+        {
+          "id": "q24", "kind": "mcq",
+          "question": "The two department managers _________ dinner at the moment. We shouldn't disturb them.",
+          "options": [
+            { "key": "A", "text": "have had" },
+            { "key": "B", "text": "are having" },
+            { "key": "C", "text": "have been having" },
+            { "key": "D", "text": "have" }
+          ],
+          "answer": "B",
+          "explanation": "At the moment → HTTD: are having dinner."
+        },
+        {
+          "id": "q25", "kind": "mcq",
+          "question": "The air _______ strange. There must be something going on in the factory.",
+          "options": [
+            { "key": "A", "text": "is smelling" },
+            { "key": "B", "text": "smells" },
+            { "key": "C", "text": "was smelling" },
+            { "key": "D", "text": "has been smelling" }
+          ],
+          "answer": "B",
+          "explanation": "'Smell' là động từ tri giác → dùng HTĐ, không dùng thì tiếp diễn: smells."
+        }
+      ]
+    }
+  ]
+}

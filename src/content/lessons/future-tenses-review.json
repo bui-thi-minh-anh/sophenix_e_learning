@@ -1,0 +1,323 @@
+{
+  "slug": "future-tenses-review",
+  "title": "Thi Online: Các thì tương lai",
+  "level": "B1",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "25 câu trắc nghiệm tổng hợp các thì tương lai: TLĐ, TL tiếp diễn, TLHT.",
+  "sections": [
+    {
+      "heading": "Tóm tắt các thì tương lai",
+      "body": "| Thì | Cấu trúc | Dấu hiệu / Cách dùng |\n|---|---|---|\n| **Tương lai đơn (TLĐ)** | S + will + V | Quyết định tại thời điểm nói, dự đoán (I think...), lời hứa, đề nghị |\n| **Be going to** | S + am/is/are going to + V | Kế hoạch đã lên trước, bằng chứng rõ ràng |\n| **TL tiếp diễn** | S + will be + V-ing | At this time tomorrow/next week, hành động đang diễn ra tại thời điểm tương lai |\n| **TL hoàn thành (TLHT)** | S + will have + V3 | By + thời điểm, by the time + HTĐ |\n\n**Phân biệt will vs be going to:**\n- **Will:** quyết định ngay lúc nói (\"I'll help you\"), dự đoán không có bằng chứng.\n- **Be going to:** kế hoạch đã quyết định trước (\"I'm going to work in Africa\"), dự đoán có bằng chứng.\n\n**Lưu ý:** By the time / as soon as / when + **HTĐ** (không dùng will)."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "online-test-future",
+      "title": "Thi Online: Các thì tương lai",
+      "description": "25 câu trắc nghiệm tổng hợp.",
+      "exercises": [
+        {
+          "id": "q1", "kind": "mcq",
+          "question": "Our rescue team __________ hundreds of endangered species by next year.",
+          "options": [
+            { "key": "A", "text": "will have saved" },
+            { "key": "B", "text": "saved" },
+            { "key": "C", "text": "are saving" },
+            { "key": "D", "text": "save" }
+          ],
+          "answer": "A",
+          "explanation": "By next year → TLHT: will have saved — sẽ hoàn thành trước mốc tương lai."
+        },
+        {
+          "id": "q2", "kind": "mcq",
+          "question": "Mom: I told you to tidy your room. Son: Sorry, mom. I forgot. I ________ it after having lunch.",
+          "options": [
+            { "key": "A", "text": "would do" },
+            { "key": "B", "text": "am going to do" },
+            { "key": "C", "text": "will do" },
+            { "key": "D", "text": "will have done" }
+          ],
+          "answer": "C",
+          "explanation": "Quyết định tại thời điểm nói (vừa nhớ ra, hứa làm ngay) → will do."
+        },
+        {
+          "id": "q3", "kind": "mcq",
+          "question": "I ____________ the science fiction book by Saturday, then you'll be able to borrow it.",
+          "options": [
+            { "key": "A", "text": "will finish" },
+            { "key": "B", "text": "will be finishing" },
+            { "key": "C", "text": "will have finished" },
+            { "key": "D", "text": "finish" }
+          ],
+          "answer": "C",
+          "explanation": "By Saturday → TLHT: will have finished — hoàn thành trước thứ Bảy."
+        },
+        {
+          "id": "q4", "kind": "mcq",
+          "question": "By the time I arrive home, the workers __________ repairing my TV set.",
+          "options": [
+            { "key": "A", "text": "will finish" },
+            { "key": "B", "text": "will have finished" },
+            { "key": "C", "text": "had finished" },
+            { "key": "D", "text": "are finishing" }
+          ],
+          "answer": "B",
+          "explanation": "By the time + HTĐ (arrive) → TLHT: will have finished."
+        },
+        {
+          "id": "q5", "kind": "mcq",
+          "question": "Sally: \"Why don't we meet for coffee on Saturday morning?\" Willy: \"Sorry. I can't. I __________ the doctor then.\"",
+          "options": [
+            { "key": "A", "text": "will see" },
+            { "key": "B", "text": "will have seen" },
+            { "key": "C", "text": "would see" },
+            { "key": "D", "text": "am going to see" }
+          ],
+          "answer": "D",
+          "explanation": "Kế hoạch đã lên lịch trước (đã hẹn bác sĩ rồi) → be going to: am going to see."
+        },
+        {
+          "id": "q6", "kind": "mcq",
+          "question": "Sarah will have completed all of her duties __________.",
+          "options": [
+            { "key": "A", "text": "until her boss will return" },
+            { "key": "B", "text": "when her boss will return" },
+            { "key": "C", "text": "by the time her boss returns" },
+            { "key": "D", "text": "as soon as her boss returned" }
+          ],
+          "answer": "C",
+          "explanation": "TLHT (will have completed) + by the time + HTĐ (returns). Không dùng will trong mệnh đề thời gian."
+        },
+        {
+          "id": "q7", "kind": "mcq",
+          "question": "I think I ________ an astronaut someday.",
+          "options": [
+            { "key": "A", "text": "has been" },
+            { "key": "B", "text": "will have been" },
+            { "key": "C", "text": "will be" },
+            { "key": "D", "text": "am" }
+          ],
+          "answer": "C",
+          "explanation": "I think + TLĐ: will be — dự đoán về tương lai."
+        },
+        {
+          "id": "q8", "kind": "mcq",
+          "question": "Next summer, they will have finished building the road ______________.",
+          "options": [
+            { "key": "A", "text": "while we were coming back" },
+            { "key": "B", "text": "as soon as we had come back" },
+            { "key": "C", "text": "by the time we come back" },
+            { "key": "D", "text": "before we has come back" }
+          ],
+          "answer": "C",
+          "explanation": "TLHT (will have finished) + by the time + HTĐ (come back)."
+        },
+        {
+          "id": "q9", "kind": "mcq",
+          "question": "The doctor ________ next week to check on your progress.",
+          "options": [
+            { "key": "A", "text": "would call" },
+            { "key": "B", "text": "will have called" },
+            { "key": "C", "text": "calls" },
+            { "key": "D", "text": "will call" }
+          ],
+          "answer": "D",
+          "explanation": "Next week → TLĐ: will call."
+        },
+        {
+          "id": "q10", "kind": "mcq",
+          "question": "They ________ a new bridge in this province next year.",
+          "options": [
+            { "key": "A", "text": "have built" },
+            { "key": "B", "text": "will build" },
+            { "key": "C", "text": "will have built" },
+            { "key": "D", "text": "would build" }
+          ],
+          "answer": "B",
+          "explanation": "Next year → TLĐ: will build."
+        },
+        {
+          "id": "q11", "kind": "mcq",
+          "question": "My parents ________ our new baby for the first time tomorrow when they come to visit.",
+          "options": [
+            { "key": "A", "text": "will have seen" },
+            { "key": "B", "text": "will see" },
+            { "key": "C", "text": "have seen" },
+            { "key": "D", "text": "are seeing" }
+          ],
+          "answer": "B",
+          "explanation": "Tomorrow → TLĐ: will see — hành động xảy ra vào ngày mai."
+        },
+        {
+          "id": "q12", "kind": "mcq",
+          "question": "A: What are your plans after you leave university? B: I _________ in a hospital in Africa. I will leave on the 28th.",
+          "options": [
+            { "key": "A", "text": "am going to work" },
+            { "key": "B", "text": "will work" },
+            { "key": "C", "text": "have worked" },
+            { "key": "D", "text": "am working" }
+          ],
+          "answer": "A",
+          "explanation": "Plans (kế hoạch đã quyết định trước) → be going to: am going to work."
+        },
+        {
+          "id": "q13", "kind": "mcq",
+          "question": "By the end of next year, my little sister __________ in Germany for 5 years.",
+          "options": [
+            { "key": "A", "text": "has learned" },
+            { "key": "B", "text": "will have learned" },
+            { "key": "C", "text": "will learn" },
+            { "key": "D", "text": "would learn" }
+          ],
+          "answer": "B",
+          "explanation": "By the end of next year → TLHT: will have learned."
+        },
+        {
+          "id": "q14", "kind": "mcq",
+          "question": "As soon as my mother finishes her meal, she ________ the dog for a walk.",
+          "options": [
+            { "key": "A", "text": "would take" },
+            { "key": "B", "text": "is going to take" },
+            { "key": "C", "text": "has taken" },
+            { "key": "D", "text": "will take" }
+          ],
+          "answer": "D",
+          "explanation": "As soon as + HTĐ (finishes) → TLĐ: will take."
+        },
+        {
+          "id": "q15", "kind": "mcq",
+          "question": "I ________ my first three years of university studies by the time I finish the final term tests.",
+          "options": [
+            { "key": "A", "text": "have completed" },
+            { "key": "B", "text": "will be completed" },
+            { "key": "C", "text": "will complete" },
+            { "key": "D", "text": "will have completed" }
+          ],
+          "answer": "D",
+          "explanation": "By the time + HTĐ (finish) → TLHT: will have completed."
+        },
+        {
+          "id": "q16", "kind": "mcq",
+          "question": "She _________ for a secretary job as soon as she graduates from university.",
+          "options": [
+            { "key": "A", "text": "will apply" },
+            { "key": "B", "text": "would apply" },
+            { "key": "C", "text": "has applied" },
+            { "key": "D", "text": "will be applying" }
+          ],
+          "answer": "A",
+          "explanation": "As soon as + HTĐ (graduates) → TLĐ: will apply."
+        },
+        {
+          "id": "q17", "kind": "mcq",
+          "question": "In 2025 she _______ to live in the USA.",
+          "options": [
+            { "key": "A", "text": "has moved" },
+            { "key": "B", "text": "are moving" },
+            { "key": "C", "text": "will move" },
+            { "key": "D", "text": "will have moved" }
+          ],
+          "answer": "C",
+          "explanation": "In 2025 → TLĐ: will move."
+        },
+        {
+          "id": "q18", "kind": "mcq",
+          "question": "A: \"Are you ready to order?\" B: \"I can't decide… Okay, I _____ the steak, please.\"",
+          "options": [
+            { "key": "A", "text": "will have" },
+            { "key": "B", "text": "am going to have" },
+            { "key": "C", "text": "will be having" },
+            { "key": "D", "text": "would have" }
+          ],
+          "answer": "A",
+          "explanation": "Quyết định tại thời điểm nói (can't decide → OK) → will: will have."
+        },
+        {
+          "id": "q19", "kind": "mcq",
+          "question": "By the time Janet finishes her study, she ________ in London for 6 years.",
+          "options": [
+            { "key": "A", "text": "is" },
+            { "key": "B", "text": "will have been" },
+            { "key": "C", "text": "had been" },
+            { "key": "D", "text": "have been" }
+          ],
+          "answer": "B",
+          "explanation": "By the time + HTĐ (finishes) → TLHT: will have been."
+        },
+        {
+          "id": "q20", "kind": "mcq",
+          "question": "I'm sure the party _______ a big success.",
+          "options": [
+            { "key": "A", "text": "would be" },
+            { "key": "B", "text": "has been" },
+            { "key": "C", "text": "will be" },
+            { "key": "D", "text": "was" }
+          ],
+          "answer": "C",
+          "explanation": "I'm sure + TLĐ: will be — dự đoán chắc chắn về tương lai."
+        },
+        {
+          "id": "q21", "kind": "mcq",
+          "question": "A: \"Are you busy tonight? Would you like to have coffee?\" B: \"Sorry. I ________ to the library. I've been planning to study all day.\"",
+          "options": [
+            { "key": "A", "text": "am going to go" },
+            { "key": "B", "text": "will go" },
+            { "key": "C", "text": "have gone" },
+            { "key": "D", "text": "go" }
+          ],
+          "answer": "A",
+          "explanation": "Kế hoạch đã lên trước (been planning all day) → be going to: am going to go."
+        },
+        {
+          "id": "q22", "kind": "mcq",
+          "question": "Next week at this time we __________ in the sun in Australia.",
+          "options": [
+            { "key": "A", "text": "will be lying" },
+            { "key": "B", "text": "will lie" },
+            { "key": "C", "text": "will have laid" },
+            { "key": "D", "text": "lie" }
+          ],
+          "answer": "A",
+          "explanation": "Next week at this time → TL tiếp diễn: will be lying — hành động đang diễn ra tại thời điểm tương lai."
+        },
+        {
+          "id": "q23", "kind": "mcq",
+          "question": "A: \"There's no milk in our house.\" B: \"Really? I _______ some from the shop on the way home.\"",
+          "options": [
+            { "key": "A", "text": "am going to get" },
+            { "key": "B", "text": "would get" },
+            { "key": "C", "text": "will get" },
+            { "key": "D", "text": "will have got" }
+          ],
+          "answer": "C",
+          "explanation": "Quyết định tại thời điểm nói (vừa biết hết sữa) → will: will get."
+        },
+        {
+          "id": "q24", "kind": "mcq",
+          "question": "At this time next year, we _________ in our new villa.",
+          "options": [
+            { "key": "A", "text": "will be living" },
+            { "key": "B", "text": "will live" },
+            { "key": "C", "text": "will have lived" },
+            { "key": "D", "text": "would live" }
+          ],
+          "answer": "A",
+          "explanation": "At this time next year → TL tiếp diễn: will be living."
+        },
+        {
+          "id": "q25", "kind": "mcq",
+          "question": "\"Could you help me lift this suitcase into the hotel?\" — \"I'm not busy. I ________ you.\"",
+          "options": [
+            { "key": "A", "text": "help" },
+            { "key": "B", "text": "will help" },
+            { "key": "C", "text": "am going to help" },
+            { "key": "D", "text": "am helping" }
+          ],
+          "answer": "B",
+          "explanation": "Đề nghị giúp đỡ ngay tại thời điểm nói → will: will help."
+        }
+      ]
+    }
+  ]
+}

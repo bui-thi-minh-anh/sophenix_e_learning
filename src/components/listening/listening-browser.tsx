@@ -135,7 +135,7 @@ export function ListeningBrowser({ topics }: { topics: ListeningTopic[] }) {
         <Stat icon={Clock} label="Total listening time" value={fmtTime(stats.time)} color="sky" />
       </div>
 
-      {/* Topic Grid: 6 desktop / 3 tablet / 1 mobile */}
+      {/* Topic Grid: 4 desktop / 3 tablet / 2 small / 1 mobile */}
       {filtered.length === 0 ? (
         <EmptyState
           icon={Headphones}
@@ -143,7 +143,7 @@ export function ListeningBrowser({ topics }: { topics: ListeningTopic[] }) {
           description="Thêm thư mục chủ đề vào docs/09_PAGE_CONTENT/listening/ để hiển thị ở đây."
         />
       ) : (
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-3 xl:grid-cols-6">
+        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {filtered.map((t) => {
             const pct = topicProgressPct(progress, t.topicId, t.lessons.map((l) => l.lessonId));
             return (

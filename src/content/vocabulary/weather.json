@@ -1,0 +1,87 @@
+{
+  "vocabulary": [
+    { "id": 1, "word": "weather", "ipa_uk": "/ˈweðə(r)/", "ipa_us": "/ˈweðər/", "part_of_speech": "noun", "meaning": "thời tiết", "example": "The weather is beautiful today." },
+    { "id": 2, "word": "forecast", "ipa_uk": "/ˈfɔːkɑːst/", "ipa_us": "/ˈfɔːrkæst/", "part_of_speech": "noun", "meaning": "dự báo thời tiết", "example": "Check the weather forecast before traveling." },
+    { "id": 3, "word": "temperature", "ipa_uk": "/ˈtemprətʃə(r)/", "ipa_us": "/ˈtemprətʃər/", "part_of_speech": "noun", "meaning": "nhiệt độ", "example": "The temperature is 28 degrees." },
+    { "id": 4, "word": "storm", "ipa_uk": "/stɔːm/", "ipa_us": "/stɔːrm/", "part_of_speech": "noun", "meaning": "cơn bão", "example": "A storm is coming." },
+    { "id": 5, "word": "lightning", "ipa_uk": "/ˈlaɪtnɪŋ/", "ipa_us": "/ˈlaɪtnɪŋ/", "part_of_speech": "noun", "meaning": "tia chớp", "example": "Lightning flashed across the sky." },
+    { "id": 6, "word": "thunder", "ipa_uk": "/ˈθʌndə(r)/", "ipa_us": "/ˈθʌndər/", "part_of_speech": "noun", "meaning": "tiếng sấm", "example": "The thunder was very loud." },
+    { "id": 7, "word": "umbrella", "ipa_uk": "/ʌmˈbrelə/", "ipa_us": "/ʌmˈbrelə/", "part_of_speech": "noun", "meaning": "ô, dù", "example": "Take an umbrella with you." },
+    { "id": 8, "word": "sunny", "ipa_uk": "/ˈsʌni/", "ipa_us": "/ˈsʌni/", "part_of_speech": "adjective", "meaning": "có nắng", "example": "It is sunny today." },
+    { "id": 9, "word": "cloudy", "ipa_uk": "/ˈklaʊdi/", "ipa_us": "/ˈklaʊdi/", "part_of_speech": "adjective", "meaning": "nhiều mây", "example": "Tomorrow will be cloudy." },
+    { "id": 10, "word": "rainy", "ipa_uk": "/ˈreɪni/", "ipa_us": "/ˈreɪni/", "part_of_speech": "adjective", "meaning": "có mưa", "example": "It is rainy in July." },
+    { "id": 11, "word": "windy", "ipa_uk": "/ˈwɪndi/", "ipa_us": "/ˈwɪndi/", "part_of_speech": "adjective", "meaning": "có gió", "example": "It's windy this afternoon." },
+    { "id": 12, "word": "foggy", "ipa_uk": "/ˈfɒɡi/", "ipa_us": "/ˈfɑːɡi/", "part_of_speech": "adjective", "meaning": "có sương mù", "example": "It was foggy this morning." },
+    { "id": 13, "word": "humid", "ipa_uk": "/ˈhjuːmɪd/", "ipa_us": "/ˈhjuːmɪd/", "part_of_speech": "adjective", "meaning": "ẩm", "example": "The air is hot and humid." },
+    { "id": 14, "word": "dry", "ipa_uk": "/draɪ/", "ipa_us": "/draɪ/", "part_of_speech": "adjective", "meaning": "khô", "example": "The weather is dry today." },
+    { "id": 15, "word": "freezing", "ipa_uk": "/ˈfriːzɪŋ/", "ipa_us": "/ˈfriːzɪŋ/", "part_of_speech": "adjective", "meaning": "rét buốt", "example": "It's freezing outside." },
+    { "id": 16, "word": "chilly", "ipa_uk": "/ˈtʃɪli/", "ipa_us": "/ˈtʃɪli/", "part_of_speech": "adjective", "meaning": "lạnh se se", "example": "The evening is chilly." },
+    { "id": 17, "word": "mild", "ipa_uk": "/maɪld/", "ipa_us": "/maɪld/", "part_of_speech": "adjective", "meaning": "ôn hòa", "example": "We have a mild winter." },
+    { "id": 18, "word": "refreshing", "ipa_uk": "/rɪˈfreʃɪŋ/", "ipa_us": "/rɪˈfreʃɪŋ/", "part_of_speech": "adjective", "meaning": "mát mẻ, sảng khoái", "example": "The morning breeze is refreshing." },
+    { "id": 19, "word": "cozy", "ipa_uk": "/ˈkəʊzi/", "ipa_us": "/ˈkoʊzi/", "part_of_speech": "adjective", "meaning": "ấm cúng, dễ chịu", "example": "It's cozy inside while it's raining." },
+    { "id": 20, "word": "gloomy", "ipa_uk": "/ˈɡluːmi/", "ipa_us": "/ˈɡluːmi/", "part_of_speech": "adjective", "meaning": "u ám", "example": "The sky looks gloomy today." }
+  ],
+  "collocations": [
+    { "phrase": "weather forecast", "meaning": "dự báo thời tiết" },
+    { "phrase": "heavy rain", "meaning": "mưa lớn" },
+    { "phrase": "strong wind", "meaning": "gió mạnh" },
+    { "phrase": "bright sunshine", "meaning": "ánh nắng rực rỡ" },
+    { "phrase": "clear sky", "meaning": "bầu trời quang đãng" },
+    { "phrase": "pouring rain", "meaning": "mưa như trút nước" },
+    { "phrase": "high temperature", "meaning": "nhiệt độ cao" },
+    { "phrase": "low temperature", "meaning": "nhiệt độ thấp" },
+    { "phrase": "take an umbrella", "meaning": "mang theo ô" },
+    { "phrase": "catch a cold", "meaning": "bị cảm lạnh" }
+  ],
+  "exerciseSets": [
+    {
+      "id": "weather-fill-1",
+      "title": "Điền từ vào chỗ trống",
+      "description": "Chọn từ phù hợp trong danh sách từ vựng để hoàn thành câu.",
+      "exercises": [
+        { "id": "wf1", "kind": "fill", "question": "The ___ is beautiful today. Let's go outside!", "answer": "weather", "acceptable": [], "explanation": "weather = thời tiết" },
+        { "id": "wf2", "kind": "fill", "question": "Check the weather ___ before you travel.", "answer": "forecast", "acceptable": [], "explanation": "forecast = dự báo thời tiết" },
+        { "id": "wf3", "kind": "fill", "question": "The ___ dropped to 5 degrees last night.", "answer": "temperature", "acceptable": [], "explanation": "temperature = nhiệt độ" },
+        { "id": "wf4", "kind": "fill", "question": "A big ___ is coming. We should stay indoors.", "answer": "storm", "acceptable": [], "explanation": "storm = cơn bão" },
+        { "id": "wf5", "kind": "fill", "question": "___ flashed across the dark sky during the storm.", "answer": "Lightning", "acceptable": ["lightning"], "explanation": "lightning = tia chớp" },
+        { "id": "wf6", "kind": "fill", "question": "The ___ was so loud that it woke the baby.", "answer": "thunder", "acceptable": [], "explanation": "thunder = tiếng sấm" },
+        { "id": "wf7", "kind": "fill", "question": "Don't forget to take an ___ — it might rain.", "answer": "umbrella", "acceptable": [], "explanation": "umbrella = ô, dù" },
+        { "id": "wf8", "kind": "fill", "question": "It's ___ today, so let's have a picnic.", "answer": "sunny", "acceptable": [], "explanation": "sunny = có nắng" },
+        { "id": "wf9", "kind": "fill", "question": "The sky is very ___. I think it will rain soon.", "answer": "cloudy", "acceptable": [], "explanation": "cloudy = nhiều mây" },
+        { "id": "wf10", "kind": "fill", "question": "It's been ___ all week. The streets are wet.", "answer": "rainy", "acceptable": [], "explanation": "rainy = có mưa" },
+        { "id": "wf11", "kind": "fill", "question": "Hold your hat — it's very ___ outside!", "answer": "windy", "acceptable": [], "explanation": "windy = có gió" },
+        { "id": "wf12", "kind": "fill", "question": "Drive slowly — it's really ___ on the road.", "answer": "foggy", "acceptable": [], "explanation": "foggy = có sương mù" },
+        { "id": "wf13", "kind": "fill", "question": "The air feels hot and ___. I'm sweating a lot.", "answer": "humid", "acceptable": [], "explanation": "humid = ẩm" },
+        { "id": "wf14", "kind": "fill", "question": "It's ___ outside! I need a thick coat.", "answer": "freezing", "acceptable": [], "explanation": "freezing = rét buốt" },
+        { "id": "wf15", "kind": "fill", "question": "We had a ___ winter this year — not too cold, not too hot.", "answer": "mild", "acceptable": [], "explanation": "mild = ôn hòa" }
+      ]
+    },
+    {
+      "id": "weather-en-word",
+      "title": "Viết từ tiếng Anh",
+      "description": "Dựa vào nghĩa tiếng Việt, viết từ tiếng Anh tương ứng.",
+      "exercises": [
+        { "id": "we1", "kind": "fill", "question": "thời tiết → ___", "answer": "weather", "acceptable": [], "explanation": "weather /ˈweðər/" },
+        { "id": "we2", "kind": "fill", "question": "dự báo thời tiết → ___", "answer": "forecast", "acceptable": [], "explanation": "forecast /ˈfɔːrkæst/" },
+        { "id": "we3", "kind": "fill", "question": "nhiệt độ → ___", "answer": "temperature", "acceptable": [], "explanation": "temperature /ˈtemprətʃər/" },
+        { "id": "we4", "kind": "fill", "question": "cơn bão → ___", "answer": "storm", "acceptable": [], "explanation": "storm /stɔːrm/" },
+        { "id": "we5", "kind": "fill", "question": "tia chớp → ___", "answer": "lightning", "acceptable": [], "explanation": "lightning /ˈlaɪtnɪŋ/" },
+        { "id": "we6", "kind": "fill", "question": "tiếng sấm → ___", "answer": "thunder", "acceptable": [], "explanation": "thunder /ˈθʌndər/" },
+        { "id": "we7", "kind": "fill", "question": "ô, dù → ___", "answer": "umbrella", "acceptable": [], "explanation": "umbrella /ʌmˈbrelə/" },
+        { "id": "we8", "kind": "fill", "question": "có nắng → ___", "answer": "sunny", "acceptable": [], "explanation": "sunny /ˈsʌni/" },
+        { "id": "we9", "kind": "fill", "question": "nhiều mây → ___", "answer": "cloudy", "acceptable": [], "explanation": "cloudy /ˈklaʊdi/" },
+        { "id": "we10", "kind": "fill", "question": "có mưa → ___", "answer": "rainy", "acceptable": [], "explanation": "rainy /ˈreɪni/" },
+        { "id": "we11", "kind": "fill", "question": "có gió → ___", "answer": "windy", "acceptable": [], "explanation": "windy /ˈwɪndi/" },
+        { "id": "we12", "kind": "fill", "question": "có sương mù → ___", "answer": "foggy", "acceptable": [], "explanation": "foggy /ˈfɑːɡi/" },
+        { "id": "we13", "kind": "fill", "question": "ẩm → ___", "answer": "humid", "acceptable": [], "explanation": "humid /ˈhjuːmɪd/" },
+        { "id": "we14", "kind": "fill", "question": "khô → ___", "answer": "dry", "acceptable": [], "explanation": "dry /draɪ/" },
+        { "id": "we15", "kind": "fill", "question": "rét buốt → ___", "answer": "freezing", "acceptable": [], "explanation": "freezing /ˈfriːzɪŋ/" },
+        { "id": "we16", "kind": "fill", "question": "lạnh se se → ___", "answer": "chilly", "acceptable": [], "explanation": "chilly /ˈtʃɪli/" },
+        { "id": "we17", "kind": "fill", "question": "ôn hòa → ___", "answer": "mild", "acceptable": [], "explanation": "mild /maɪld/" },
+        { "id": "we18", "kind": "fill", "question": "mát mẻ, sảng khoái → ___", "answer": "refreshing", "acceptable": [], "explanation": "refreshing /rɪˈfreʃɪŋ/" },
+        { "id": "we19", "kind": "fill", "question": "ấm cúng, dễ chịu → ___", "answer": "cozy", "acceptable": ["cosy"], "explanation": "cozy /ˈkoʊzi/ (UK: cosy)" },
+        { "id": "we20", "kind": "fill", "question": "u ám → ___", "answer": "gloomy", "acceptable": [], "explanation": "gloomy /ˈɡluːmi/" }
+      ]
+    }
+  ]
+}

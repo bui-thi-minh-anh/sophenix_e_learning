@@ -25,12 +25,14 @@ const iconMap: Record<string, typeof BookOpen> = {
   "Động từ": Languages,
   "Danh từ": Layers,
   "Tính từ": MessageSquare,
+  "Chủ đề": Puzzle,
 };
 
 const colorMap: Record<string, { bg: string; icon: string }> = {
   "Động từ": { bg: "from-emerald-500/20 to-emerald-600/10", icon: "text-emerald-400" },
   "Danh từ": { bg: "from-blue-500/20 to-blue-600/10", icon: "text-blue-400" },
   "Tính từ": { bg: "from-pink-500/20 to-pink-600/10", icon: "text-pink-400" },
+  "Chủ đề": { bg: "from-violet-500/20 to-violet-600/10", icon: "text-violet-400" },
 };
 
 function getIcon(category: string) {

@@ -1,0 +1,87 @@
+{
+  "vocabulary": [
+    { "id": 1, "word": "school", "ipa_uk": "/skuːl/", "ipa_us": "/skuːl/", "part_of_speech": "noun", "meaning": "trường học", "example": "I go to school every day." },
+    { "id": 2, "word": "teacher", "ipa_uk": "/ˈtiːtʃə(r)/", "ipa_us": "/ˈtiːtʃər/", "part_of_speech": "noun", "meaning": "giáo viên", "example": "My teacher is very kind." },
+    { "id": 3, "word": "student", "ipa_uk": "/ˈstjuːdnt/", "ipa_us": "/ˈstuːdnt/", "part_of_speech": "noun", "meaning": "học sinh", "example": "She is a good student." },
+    { "id": 4, "word": "classroom", "ipa_uk": "/ˈklɑːsruːm/", "ipa_us": "/ˈklæsruːm/", "part_of_speech": "noun", "meaning": "lớp học", "example": "Our classroom is large." },
+    { "id": 5, "word": "library", "ipa_uk": "/ˈlaɪbrəri/", "ipa_us": "/ˈlaɪbreri/", "part_of_speech": "noun", "meaning": "thư viện", "example": "I study in the library." },
+    { "id": 6, "word": "homework", "ipa_uk": "/ˈhəʊmwɜːk/", "ipa_us": "/ˈhoʊmwɜːrk/", "part_of_speech": "noun", "meaning": "bài tập về nhà", "example": "I finish my homework after dinner." },
+    { "id": 7, "word": "exam", "ipa_uk": "/ɪɡˈzæm/", "ipa_us": "/ɪɡˈzæm/", "part_of_speech": "noun", "meaning": "kỳ thi", "example": "My exam is next week." },
+    { "id": 8, "word": "lesson", "ipa_uk": "/ˈlesn/", "ipa_us": "/ˈlesn/", "part_of_speech": "noun", "meaning": "bài học", "example": "Today's lesson is easy." },
+    { "id": 9, "word": "subject", "ipa_uk": "/ˈsʌbdʒɪkt/", "ipa_us": "/ˈsʌbdʒekt/", "part_of_speech": "noun", "meaning": "môn học", "example": "Math is my favourite subject." },
+    { "id": 10, "word": "notebook", "ipa_uk": "/ˈnəʊtbʊk/", "ipa_us": "/ˈnoʊtbʊk/", "part_of_speech": "noun", "meaning": "quyển vở", "example": "Open your notebook." },
+    { "id": 11, "word": "pen", "ipa_uk": "/pen/", "ipa_us": "/pen/", "part_of_speech": "noun", "meaning": "bút mực", "example": "This pen is blue." },
+    { "id": 12, "word": "pencil", "ipa_uk": "/ˈpensl/", "ipa_us": "/ˈpensl/", "part_of_speech": "noun", "meaning": "bút chì", "example": "Write with a pencil." },
+    { "id": 13, "word": "eraser", "ipa_uk": "/ɪˈreɪzə(r)/", "ipa_us": "/ɪˈreɪsər/", "part_of_speech": "noun", "meaning": "cục tẩy", "example": "I need an eraser." },
+    { "id": 14, "word": "desk", "ipa_uk": "/desk/", "ipa_us": "/desk/", "part_of_speech": "noun", "meaning": "bàn học", "example": "My books are on the desk." },
+    { "id": 15, "word": "chair", "ipa_uk": "/tʃeə(r)/", "ipa_us": "/tʃer/", "part_of_speech": "noun", "meaning": "ghế", "example": "Please sit on the chair." },
+    { "id": 16, "word": "backpack", "ipa_uk": "/ˈbækpæk/", "ipa_us": "/ˈbækpæk/", "part_of_speech": "noun", "meaning": "ba lô", "example": "My backpack is heavy." },
+    { "id": 17, "word": "study", "ipa_uk": "/ˈstʌdi/", "ipa_us": "/ˈstʌdi/", "part_of_speech": "verb", "meaning": "học", "example": "I study English every day." },
+    { "id": 18, "word": "learn", "ipa_uk": "/lɜːn/", "ipa_us": "/lɜːrn/", "part_of_speech": "verb", "meaning": "học, tiếp thu", "example": "Children learn quickly." },
+    { "id": 19, "word": "answer", "ipa_uk": "/ˈɑːnsə(r)/", "ipa_us": "/ˈænsər/", "part_of_speech": "verb", "meaning": "trả lời", "example": "Please answer the question." },
+    { "id": 20, "word": "question", "ipa_uk": "/ˈkwestʃən/", "ipa_us": "/ˈkwestʃən/", "part_of_speech": "noun", "meaning": "câu hỏi", "example": "Do you have any questions?" }
+  ],
+  "collocations": [
+    "go to school",
+    "do homework",
+    "study English",
+    "take notes",
+    "pass an exam",
+    "fail an exam",
+    "attend class",
+    "ask a question",
+    "answer a question",
+    "borrow a book"
+  ],
+  "exerciseSets": [
+    {
+      "id": "school-fill-1",
+      "title": "Điền từ vào chỗ trống",
+      "description": "Chọn từ phù hợp trong danh sách từ vựng để hoàn thành câu.",
+      "exercises": [
+        { "id": "sf1", "kind": "fill", "question": "I go to ___ every morning at 7 o'clock.", "answer": "school", "acceptable": [], "explanation": "school = trường học" },
+        { "id": "sf2", "kind": "fill", "question": "Our ___ teaches us math and science.", "answer": "teacher", "acceptable": [], "explanation": "teacher = giáo viên" },
+        { "id": "sf3", "kind": "fill", "question": "She is a hardworking ___. She always gets good grades.", "answer": "student", "acceptable": [], "explanation": "student = học sinh" },
+        { "id": "sf4", "kind": "fill", "question": "There are 30 desks in our ___.", "answer": "classroom", "acceptable": [], "explanation": "classroom = lớp học" },
+        { "id": "sf5", "kind": "fill", "question": "I go to the ___ to borrow books.", "answer": "library", "acceptable": [], "explanation": "library = thư viện" },
+        { "id": "sf6", "kind": "fill", "question": "Don't forget to do your ___ before going to bed.", "answer": "homework", "acceptable": [], "explanation": "homework = bài tập về nhà" },
+        { "id": "sf7", "kind": "fill", "question": "The final ___ is on Friday. I need to study hard.", "answer": "exam", "acceptable": ["test"], "explanation": "exam = kỳ thi" },
+        { "id": "sf8", "kind": "fill", "question": "Today's English ___ is about present tenses.", "answer": "lesson", "acceptable": [], "explanation": "lesson = bài học" },
+        { "id": "sf9", "kind": "fill", "question": "My favourite ___ at school is history.", "answer": "subject", "acceptable": [], "explanation": "subject = môn học" },
+        { "id": "sf10", "kind": "fill", "question": "Please write the new words in your ___.", "answer": "notebook", "acceptable": [], "explanation": "notebook = quyển vở" },
+        { "id": "sf11", "kind": "fill", "question": "Can I borrow your ___? I need to write something.", "answer": "pen", "acceptable": ["pencil"], "explanation": "pen = bút mực" },
+        { "id": "sf12", "kind": "fill", "question": "Use a ___ so you can erase mistakes easily.", "answer": "pencil", "acceptable": [], "explanation": "pencil = bút chì" },
+        { "id": "sf13", "kind": "fill", "question": "I made a mistake. Do you have an ___?", "answer": "eraser", "acceptable": [], "explanation": "eraser = cục tẩy" },
+        { "id": "sf14", "kind": "fill", "question": "Put your books on the ___ and open to page 10.", "answer": "desk", "acceptable": [], "explanation": "desk = bàn học" },
+        { "id": "sf15", "kind": "fill", "question": "My ___ is so heavy because I have many books inside.", "answer": "backpack", "acceptable": ["bag"], "explanation": "backpack = ba lô" }
+      ]
+    },
+    {
+      "id": "school-en-word",
+      "title": "Viết từ tiếng Anh",
+      "description": "Dựa vào nghĩa tiếng Việt, viết từ tiếng Anh tương ứng.",
+      "exercises": [
+        { "id": "se1", "kind": "fill", "question": "trường học → ___", "answer": "school", "acceptable": [], "explanation": "school /skuːl/" },
+        { "id": "se2", "kind": "fill", "question": "giáo viên → ___", "answer": "teacher", "acceptable": [], "explanation": "teacher /ˈtiːtʃər/" },
+        { "id": "se3", "kind": "fill", "question": "học sinh → ___", "answer": "student", "acceptable": ["pupil"], "explanation": "student /ˈstuːdnt/" },
+        { "id": "se4", "kind": "fill", "question": "lớp học → ___", "answer": "classroom", "acceptable": [], "explanation": "classroom /ˈklæsruːm/" },
+        { "id": "se5", "kind": "fill", "question": "thư viện → ___", "answer": "library", "acceptable": [], "explanation": "library /ˈlaɪbreri/" },
+        { "id": "se6", "kind": "fill", "question": "bài tập về nhà → ___", "answer": "homework", "acceptable": [], "explanation": "homework /ˈhoʊmwɜːrk/" },
+        { "id": "se7", "kind": "fill", "question": "kỳ thi → ___", "answer": "exam", "acceptable": ["test", "examination"], "explanation": "exam /ɪɡˈzæm/" },
+        { "id": "se8", "kind": "fill", "question": "bài học → ___", "answer": "lesson", "acceptable": [], "explanation": "lesson /ˈlesn/" },
+        { "id": "se9", "kind": "fill", "question": "môn học → ___", "answer": "subject", "acceptable": [], "explanation": "subject /ˈsʌbdʒekt/" },
+        { "id": "se10", "kind": "fill", "question": "quyển vở → ___", "answer": "notebook", "acceptable": [], "explanation": "notebook /ˈnoʊtbʊk/" },
+        { "id": "se11", "kind": "fill", "question": "bút mực → ___", "answer": "pen", "acceptable": [], "explanation": "pen /pen/" },
+        { "id": "se12", "kind": "fill", "question": "bút chì → ___", "answer": "pencil", "acceptable": [], "explanation": "pencil /ˈpensl/" },
+        { "id": "se13", "kind": "fill", "question": "cục tẩy → ___", "answer": "eraser", "acceptable": ["rubber"], "explanation": "eraser /ɪˈreɪsər/" },
+        { "id": "se14", "kind": "fill", "question": "bàn học → ___", "answer": "desk", "acceptable": [], "explanation": "desk /desk/" },
+        { "id": "se15", "kind": "fill", "question": "ghế → ___", "answer": "chair", "acceptable": [], "explanation": "chair /tʃer/" },
+        { "id": "se16", "kind": "fill", "question": "ba lô → ___", "answer": "backpack", "acceptable": ["bag", "rucksack"], "explanation": "backpack /ˈbækpæk/" },
+        { "id": "se17", "kind": "fill", "question": "học → ___", "answer": "study", "acceptable": ["learn"], "explanation": "study /ˈstʌdi/" },
+        { "id": "se18", "kind": "fill", "question": "học, tiếp thu → ___", "answer": "learn", "acceptable": [], "explanation": "learn /lɜːrn/" },
+        { "id": "se19", "kind": "fill", "question": "trả lời → ___", "answer": "answer", "acceptable": ["reply", "respond"], "explanation": "answer /ˈænsər/" },
+        { "id": "se20", "kind": "fill", "question": "câu hỏi → ___", "answer": "question", "acceptable": [], "explanation": "question /ˈkwestʃən/" }
+      ]
+    }
+  ]
+}

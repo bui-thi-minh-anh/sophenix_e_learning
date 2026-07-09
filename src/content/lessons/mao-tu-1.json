@@ -7,12 +7,32 @@
   "summary": "Quy tắc dùng a/an và the.",
   "sections": [
     {
-      "heading": "Lý thuyết",
-      "body": "- **a / an** (không xác định): 'an' dùng trước danh từ bắt đầu bằng **âm nguyên âm** (an apple, an uncle); 'a' dùng trước **âm phụ âm** (a dog, a book).\n- Không dùng a/an với danh từ **số nhiều** và **không đếm được**.\n- **the** (xác định): khi vật đã được nhắc đến, hoặc trong ngữ cố định (in the morning/afternoon/evening).\n- Không dùng a/an/the trước **tên đường phố**."
+      "heading": "1. Mạo từ không xác định a/an",
+      "body": "Dùng **a/an + danh từ đếm được số ít**.\n\n- **an** → trước danh từ bắt đầu bằng **âm nguyên âm** (phát âm, không phải chữ viết): an uncle (/ʌ/), an apple, an hour (/aʊ/ — 'h' câm).\n- **a** → trước **âm phụ âm**: a dog, a university (/j/), a one-way street (/w/).\n\n**Không dùng a/an với:**\n- Danh từ **số nhiều**: brothers, books…\n- Danh từ **không đếm được**: water, air, information, news… → dùng lượng từ: a cup of coffee, a piece of advice.\n\n**Cấu trúc There is + a/an + N** khi giới thiệu lần đầu: *There is a cat on the table.*\n\n**Đo lường:** sixty miles **an** hour, 70 cents **a** dozen."
     },
     {
-      "heading": "Ví dụ",
-      "body": "- an uncle, an apple, a dog, a book.\n- In **the** morning, I usually have bread and milk.\n- I live on Phan Dinh Phung street."
+      "heading": "2. Mạo từ xác định 'the' — khi đã xác định",
+      "body": "Dùng **the** khi:\n- Vật/người **đã được nhắc đến** trước đó: *I have a cat. **The** cat is named Miu.*\n- Cả người nói và nghe **ngầm hiểu** đang nói về vật gì: *Be careful! You're spilling coffee on **the** floor.*\n- Danh từ được bổ nghĩa bởi **cụm giới từ**: *The back **of this room** is dirty.*\n- Danh từ được bổ nghĩa bởi **mệnh đề quan hệ**: *The teacher **that we had** last semester was good.*\n\n**Ngữ cố định:** in **the** morning / afternoon / evening. (Nhưng: at night — **không** dùng the)."
+    },
+    {
+      "heading": "3. 'the' với so sánh nhất, thứ tự, duy nhất",
+      "body": "- **So sánh nhất:** the most beautiful, the biggest, the best.\n- **So sánh kép:** **The** hotter it is, **the** more comfortable I feel.\n- **Thứ tự:** the first, the second, the last, the only, the next.\n- **Sự vật duy nhất:** the sun, the moon, the sky, the Earth.\n- **Trước 'same':** the same grade, the same interests."
+    },
+    {
+      "heading": "4. 'the' với địa danh và tên riêng",
+      "body": "| Dùng **the** | Không dùng mạo từ |\n|---|---|\n| Sông, biển, đại dương: the Congo River, the Pacific Ocean | Núi riêng lẻ: Mountain Everest |\n| Dãy núi, quần đảo: the Alps, the Philippines | Hồ: Lake Ba Be |\n| Nước liên bang/viết tắt: the US, the UK, the UAE | Nước đơn lẻ: Thailand, Vietnam |\n| The University **of** Utah | Utah State University (tên riêng đứng đầu) |\n| — | Tên đường phố: Elm Street, Baker Street |\n| — | Công viên, bệnh viện (tên riêng): Hyde Park, Hillsdale Hospital |"
+    },
+    {
+      "heading": "5. 'the' — trường hợp đặc biệt",
+      "body": "- **The + tính từ** = nhóm người: the rich (người giàu), the old, the blind, the English.\n- **The + nhạc cụ:** play **the** guitar, play **the** piano.\n- **The + họ số nhiều** = gia đình: **the** Smiths (nhà Smith).\n- **The + lực lượng vũ trang:** the army, the police, the navy.\n- **The + phương hướng** (danh từ): from **the** north, in **the** west.\n  - Nhưng: trạng từ chỉ hướng di chuyển → **không** dùng the: *Go south.*"
+    },
+    {
+      "heading": "6. Không dùng mạo từ (Zero Article)",
+      "body": "- **Danh từ số nhiều nói chung:** Dogs are loyal. Pigeons can fly.\n- **Danh từ không đếm được nói chung:** Time is gold. Water is essential.\n- **Tên ngôn ngữ:** English, Chinese, Spanish.\n- **Tên bệnh:** Heart disease, cancer. (Ngoại lệ: the flu / flu đều được.)\n- **Bữa ăn:** have breakfast/lunch/dinner.\n- **Cụm cố định:** go to bed, go to school, by hand, at night.\n- **Most/All/Some + N (chung chung):** Most women like cosmetics.\n  - So sánh: Most **of the** women in my family… (xác định cụ thể)."
+    },
+    {
+      "heading": "7. Ví dụ tổng hợp",
+      "body": "- **an** uncle, **an** hour, **a** university, **a** one-way street.\n- In **the** morning / at night (không dùng 'the').\n- I live on Phan Dinh Phung street. (Tên đường → Ø)\n- **The** University of Architecture / Foreign Trade University (Ø).\n- Alaska is **the** biggest state in **the** U.S.\n- **The** hotter it is, **the** more comfortable I feel.\n- **The** Smiths live next door. (Gia đình nhà Smith)\n- Play **the** piano. / Go to bed. (Ø)"
     }
   ],
   "exerciseSets": [

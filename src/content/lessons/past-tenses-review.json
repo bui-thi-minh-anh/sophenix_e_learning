@@ -1,0 +1,323 @@
+{
+  "slug": "past-tenses-review",
+  "title": "Thi Online: Các thì quá khứ",
+  "level": "B1",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "25 câu trắc nghiệm tổng hợp các thì quá khứ: QKĐ, QKTD, QKHT, QKHT tiếp diễn.",
+  "sections": [
+    {
+      "heading": "Tóm tắt các thì quá khứ",
+      "body": "| Thì | Cấu trúc | Dấu hiệu |\n|---|---|---|\n| **Quá khứ đơn (QKĐ)** | S + V2/V-ed | yesterday, last week/month/year, ago, in 1990... |\n| **Quá khứ tiếp diễn (QKTD)** | S + was/were + V-ing | while, at 7 o'clock last night, when + QKĐ |\n| **Quá khứ hoàn thành (QKHT)** | S + had + V3 | before, after, by the time, already, previously |\n| **QKHT tiếp diễn** | S + had been + V-ing | for + thời gian + before/when (nhấn mạnh liên tục) |\n\n**Phối hợp thì phổ biến:**\n- While + QKTD, QKĐ (đang làm thì bị xen vào)\n- When + QKĐ, QKTD (khi đến thì đang...)\n- After + QKHT, QKĐ (xong rồi mới...)\n- Before + QKĐ, QKHT (trước khi... đã...)\n- HTHT + since + QKĐ (kể từ khi...)"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "online-test-past",
+      "title": "Thi Online: Các thì quá khứ",
+      "description": "25 câu trắc nghiệm tổng hợp.",
+      "exercises": [
+        {
+          "id": "q1", "kind": "mcq",
+          "question": "Marry took many photos with her friends while they _________ from Newhaven to Dieppe.",
+          "options": [
+            { "key": "A", "text": "are sailing" },
+            { "key": "B", "text": "had sailed" },
+            { "key": "C", "text": "were sailing" },
+            { "key": "D", "text": "sail" }
+          ],
+          "answer": "C",
+          "explanation": "While + QKTD (were sailing): hành động chụp ảnh xảy ra trong khi đang đi thuyền."
+        },
+        {
+          "id": "q2", "kind": "mcq",
+          "question": "Sam's brother has written four letters home since he _______ to France.",
+          "options": [
+            { "key": "A", "text": "was moving" },
+            { "key": "B", "text": "moved" },
+            { "key": "C", "text": "had moved" },
+            { "key": "D", "text": "has moved" }
+          ],
+          "answer": "B",
+          "explanation": "HTHT (has written) + since + QKĐ (moved): kể từ khi chuyển đến Pháp."
+        },
+        {
+          "id": "q3", "kind": "mcq",
+          "question": "She ______ a severe headache while she was taking her exams.",
+          "options": [
+            { "key": "A", "text": "will have" },
+            { "key": "B", "text": "has" },
+            { "key": "C", "text": "had" },
+            { "key": "D", "text": "is having" }
+          ],
+          "answer": "C",
+          "explanation": "While + QKTD (was taking) → QKĐ (had): bị đau đầu trong lúc thi."
+        },
+        {
+          "id": "q4", "kind": "mcq",
+          "question": "In the 18th century, new methods of transportation ________ for carrying products from place to place.",
+          "options": [
+            { "key": "A", "text": "are developed" },
+            { "key": "B", "text": "had been developed" },
+            { "key": "C", "text": "were developed" },
+            { "key": "D", "text": "have been developed" }
+          ],
+          "answer": "C",
+          "explanation": "In the 18th century → QKĐ bị động: were developed."
+        },
+        {
+          "id": "q5", "kind": "mcq",
+          "question": "She had owned the telephone for 5 years __________ a new smartphone.",
+          "options": [
+            { "key": "A", "text": "until she decides to buy" },
+            { "key": "B", "text": "when she was deciding to buy" },
+            { "key": "C", "text": "before she decided to buy" },
+            { "key": "D", "text": "after she had decided to buy" }
+          ],
+          "answer": "C",
+          "explanation": "QKHT (had owned) + before + QKĐ (decided): sở hữu 5 năm trước khi quyết định mua mới."
+        },
+        {
+          "id": "q6", "kind": "mcq",
+          "question": "When the guests arrived, my mother _________ the washing-up.",
+          "options": [
+            { "key": "A", "text": "was doing" },
+            { "key": "B", "text": "had been doing" },
+            { "key": "C", "text": "will do" },
+            { "key": "D", "text": "has done" }
+          ],
+          "answer": "A",
+          "explanation": "When + QKĐ (arrived) → QKTD (was doing): mẹ đang rửa bát khi khách đến."
+        },
+        {
+          "id": "q7", "kind": "mcq",
+          "question": "When he was young, he _____ handsome and attractive.",
+          "options": [
+            { "key": "A", "text": "is" },
+            { "key": "B", "text": "were" },
+            { "key": "C", "text": "was" },
+            { "key": "D", "text": "had been" }
+          ],
+          "answer": "C",
+          "explanation": "When he was young → QKĐ (was): mô tả trạng thái trong quá khứ."
+        },
+        {
+          "id": "q8", "kind": "mcq",
+          "question": "When we arrived at the stadium to watch the final match, the game ________ for about 20 minutes.",
+          "options": [
+            { "key": "A", "text": "has already started" },
+            { "key": "B", "text": "had already been started" },
+            { "key": "C", "text": "had already started" },
+            { "key": "D", "text": "has already been starting" }
+          ],
+          "answer": "C",
+          "explanation": "When + QKĐ (arrived) → QKHT (had already started): trận đấu đã bắt đầu trước 20 phút."
+        },
+        {
+          "id": "q9", "kind": "mcq",
+          "question": "She had a knee injury while she __________ marbles with her classmates.",
+          "options": [
+            { "key": "A", "text": "played" },
+            { "key": "B", "text": "had played" },
+            { "key": "C", "text": "is playing" },
+            { "key": "D", "text": "was playing" }
+          ],
+          "answer": "D",
+          "explanation": "While + QKTD (was playing): bị chấn thương trong khi đang chơi bi."
+        },
+        {
+          "id": "q10", "kind": "mcq",
+          "question": "Many families _________ to the new location before the flood occurred.",
+          "options": [
+            { "key": "A", "text": "was moving" },
+            { "key": "B", "text": "had moved" },
+            { "key": "C", "text": "moved" },
+            { "key": "D", "text": "moving" }
+          ],
+          "answer": "B",
+          "explanation": "Before + QKĐ (occurred) → QKHT (had moved): đã di chuyển trước khi lũ đến."
+        },
+        {
+          "id": "q11", "kind": "mcq",
+          "question": "What ________ at 7 o'clock last night? I phoned you but nobody answered.",
+          "options": [
+            { "key": "A", "text": "had you done" },
+            { "key": "B", "text": "would you do" },
+            { "key": "C", "text": "were you doing" },
+            { "key": "D", "text": "did you do" }
+          ],
+          "answer": "C",
+          "explanation": "At 7 o'clock last night → QKTD: were you doing — đang làm gì vào thời điểm cụ thể trong quá khứ?"
+        },
+        {
+          "id": "q12", "kind": "mcq",
+          "question": "After I __________ the stairs to the seventh floor, I was tired.",
+          "options": [
+            { "key": "A", "text": "would have climbed" },
+            { "key": "B", "text": "have climbed" },
+            { "key": "C", "text": "had climbed" },
+            { "key": "D", "text": "was climbing" }
+          ],
+          "answer": "C",
+          "explanation": "After + QKHT (had climbed) → QKĐ (was tired): leo xong rồi mới mệt."
+        },
+        {
+          "id": "q13", "kind": "mcq",
+          "question": "When the laptop broke down, we __________ our PowerPoint presentation on the topic of 'Wonders of The World.'",
+          "options": [
+            { "key": "A", "text": "gave" },
+            { "key": "B", "text": "were giving" },
+            { "key": "C", "text": "give" },
+            { "key": "D", "text": "are giving" }
+          ],
+          "answer": "B",
+          "explanation": "When + QKĐ (broke down) → QKTD (were giving): đang thuyết trình thì laptop hỏng."
+        },
+        {
+          "id": "q14", "kind": "mcq",
+          "question": "Laura's cousin _______ her a Japanese watch on her sixteenth birthday last week.",
+          "options": [
+            { "key": "A", "text": "was buying" },
+            { "key": "B", "text": "bought" },
+            { "key": "C", "text": "had bought" },
+            { "key": "D", "text": "would buy" }
+          ],
+          "answer": "B",
+          "explanation": "Last week → QKĐ: bought — hành động hoàn tất trong quá khứ."
+        },
+        {
+          "id": "q15", "kind": "mcq",
+          "question": "Mary took some amazing photos of insects while she __________ in the forest.",
+          "options": [
+            { "key": "A", "text": "had hiked" },
+            { "key": "B", "text": "hiked" },
+            { "key": "C", "text": "was hiking" },
+            { "key": "D", "text": "is hiking" }
+          ],
+          "answer": "C",
+          "explanation": "While + QKTD (was hiking): chụp ảnh trong khi đang đi bộ trong rừng."
+        },
+        {
+          "id": "q16", "kind": "mcq",
+          "question": "Last night, her husband ______ her a big diamond ring at her birthday party.",
+          "options": [
+            { "key": "A", "text": "gave" },
+            { "key": "B", "text": "is giving" },
+            { "key": "C", "text": "was giving" },
+            { "key": "D", "text": "gives" }
+          ],
+          "answer": "A",
+          "explanation": "Last night → QKĐ: gave — hành động hoàn tất."
+        },
+        {
+          "id": "q17", "kind": "mcq",
+          "question": "Laura _________ a horror film when she heard the noise outside.",
+          "options": [
+            { "key": "A", "text": "watched" },
+            { "key": "B", "text": "was watching" },
+            { "key": "C", "text": "is watching" },
+            { "key": "D", "text": "watches" }
+          ],
+          "answer": "B",
+          "explanation": "When + QKĐ (heard) → QKTD (was watching): đang xem phim thì nghe thấy tiếng động."
+        },
+        {
+          "id": "q18", "kind": "mcq",
+          "question": "While Andrew _________ for Sara outside the theatre, he noticed that the street was crowded.",
+          "options": [
+            { "key": "A", "text": "had been waiting" },
+            { "key": "B", "text": "had waited" },
+            { "key": "C", "text": "waited" },
+            { "key": "D", "text": "was waiting" }
+          ],
+          "answer": "D",
+          "explanation": "While + QKTD (was waiting): đang đợi thì nhận ra đường đông."
+        },
+        {
+          "id": "q19", "kind": "mcq",
+          "question": "I haven't heard anything from my father since he _______.",
+          "options": [
+            { "key": "A", "text": "has left" },
+            { "key": "B", "text": "had left" },
+            { "key": "C", "text": "left" },
+            { "key": "D", "text": "was left" }
+          ],
+          "answer": "C",
+          "explanation": "HTHT (haven't heard) + since + QKĐ (left): kể từ khi anh ấy rời đi."
+        },
+        {
+          "id": "q20", "kind": "mcq",
+          "question": "When my alarm went off at seven o'clock this morning, I __________ a scary dream.",
+          "options": [
+            { "key": "A", "text": "had" },
+            { "key": "B", "text": "is having" },
+            { "key": "C", "text": "have" },
+            { "key": "D", "text": "was having" }
+          ],
+          "answer": "D",
+          "explanation": "When + QKĐ (went off) → QKTD (was having): đang mơ thì chuông reo."
+        },
+        {
+          "id": "q21", "kind": "mcq",
+          "question": "Mary ___________ for her Japanese test when her father came home from work.",
+          "options": [
+            { "key": "A", "text": "was studying" },
+            { "key": "B", "text": "studied" },
+            { "key": "C", "text": "studying" },
+            { "key": "D", "text": "is studying" }
+          ],
+          "answer": "A",
+          "explanation": "When + QKĐ (came) → QKTD (was studying): đang ôn thi khi bố về."
+        },
+        {
+          "id": "q22", "kind": "mcq",
+          "question": "After he _______ breakfast, he went to the canteen to have some coffee.",
+          "options": [
+            { "key": "A", "text": "was having" },
+            { "key": "B", "text": "had had" },
+            { "key": "C", "text": "has" },
+            { "key": "D", "text": "has had" }
+          ],
+          "answer": "B",
+          "explanation": "After + QKHT (had had) → QKĐ (went): ăn sáng xong rồi mới đi uống cà phê."
+        },
+        {
+          "id": "q23", "kind": "mcq",
+          "question": "____________, she had studied Spanish.",
+          "options": [
+            { "key": "A", "text": "Before she came to Mexico" },
+            { "key": "B", "text": "By the time she comes to Mexico" },
+            { "key": "C", "text": "While she was in Mexico" },
+            { "key": "D", "text": "After she came to Mexico" }
+          ],
+          "answer": "A",
+          "explanation": "QKHT (had studied) + before + QKĐ (came): đã học tiếng Tây Ban Nha trước khi đến Mexico."
+        },
+        {
+          "id": "q24", "kind": "mcq",
+          "question": "The outdoor center ________ lots of energetic activities for the kids, like cycling and canoeing last week.",
+          "options": [
+            { "key": "A", "text": "organizes" },
+            { "key": "B", "text": "is organizing" },
+            { "key": "C", "text": "organized" },
+            { "key": "D", "text": "was organizing" }
+          ],
+          "answer": "C",
+          "explanation": "Last week → QKĐ: organized."
+        },
+        {
+          "id": "q25", "kind": "mcq",
+          "question": "I traveled around Singapore by car with two friends and we ________ lots of interesting places last summer.",
+          "options": [
+            { "key": "A", "text": "had visited" },
+            { "key": "B", "text": "visited" },
+            { "key": "C", "text": "was visiting" },
+            { "key": "D", "text": "are visiting" }
+          ],
+          "answer": "B",
+          "explanation": "Last summer → QKĐ: visited — hai hành động nối tiếp (traveled, visited)."
+        }
+      ]
+    }
+  ]
+}

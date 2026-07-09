@@ -8,7 +8,30 @@ export interface IrregularVerb {
   meaning: string;
 }
 
-export type VocabLevel = "A1" | "A2" | "B1" | "B2" | "C1" | "C2";
+export interface VocabWord {
+  id: number;
+  word: string;
+  ipa_uk: string;
+  ipa_us: string;
+  part_of_speech: string;
+  meaning: string;
+  example: string;
+}
+
+export interface Collocation {
+  phrase: string;
+  meaning: string;
+}
+
+export interface WordListData {
+  vocabulary: VocabWord[];
+  collocations: (string | Collocation)[];
+}
+
+export type VocabLevel =
+  | "A1" | "A1-A2" | "A1-B1" | "A1-B2" | "A2" | "A2-B1" | "A2-B2"
+  | "B1" | "B1-B2" | "B2"
+  | "C1" | "C2";
 
 export interface VocabTopic {
   slug: string;
