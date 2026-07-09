@@ -1,0 +1,56 @@
+{
+  "slug": "past-perfect",
+  "title": "Quá khứ hoàn thành & Quá khứ hoàn thành tiếp diễn",
+  "level": "B1",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Past Perfect vs Past Perfect Continuous, cấu trúc before/after/by the time.",
+  "sections": [
+    {
+      "heading": "Quá khứ hoàn thành (Past Perfect)",
+      "body": "- **Khẳng định:** had + PII\n- **Phủ định:** had not (hadn't) + PII\n- Diễn tả một hành động **xảy ra trước** một hành động khác hoặc trước một mốc thời gian trong quá khứ.\n- Cấu trúc phổ biến:\n  - Mệnh đề QKHT + **before / by / by the time** + mệnh đề QKĐ\n  - **After** + mệnh đề QKHT, mệnh đề QKĐ"
+    },
+    {
+      "heading": "Quá khứ hoàn thành tiếp diễn (Past Perfect Continuous)",
+      "body": "- **Khẳng định:** had been + V-ing\n- Nhấn mạnh **tính liên tục, tính quá trình** của hành động xảy ra trước một thời điểm hoặc một hành động khác trong quá khứ.\n- Không dùng cho **động từ trạng thái** hoặc **to be**."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- When I arrived, she **had left**. (Khi tôi đến cô ấy đã đi rồi)\n- I **had brushed** my teeth by the time I went to bed.\n- He **had been painting** the door when I came. (Hành động sơn cửa diễn ra liên tục trước khi tôi đến, có lẽ nước sơn vẫn còn ướt)"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1 — Trắc nghiệm",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "question": "Before she came to England, she _________ English.",
+          "options": [
+            { "key": "A", "text": "studied" },
+            { "key": "B", "text": "will study" },
+            { "key": "C", "text": "had studied" },
+            { "key": "D", "text": "was studying" }
+          ],
+          "answer": "C",
+          "explanation": "Hành động học tiếng Anh xảy ra TRƯỚC khi cô ấy đến Anh (before + QKĐ) → quá khứ hoàn thành: had studied."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "question": "Mrs. Pike _______ the door before the customers arrived.",
+          "options": [
+            { "key": "A", "text": "had opened" },
+            { "key": "B", "text": "will open" },
+            { "key": "C", "text": "would open" },
+            { "key": "D", "text": "has opened" }
+          ],
+          "answer": "A",
+          "explanation": "Mở cửa xảy ra TRƯỚC khi khách đến (before + QKĐ) → quá khứ hoàn thành: had opened."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "future-simple",
+  "title": "Tương lai đơn & Tương lai gần (Be going to)",
+  "level": "A2",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Phân biệt will vs be going to, quyết định tức thời vs kế hoạch sẵn.",
+  "sections": [
+    {
+      "heading": "Tương lai đơn (Future Simple)",
+      "body": "- **Khẳng định:** will + V-inf\n- **Phủ định:** will not (won't) + V-inf\n- Dùng để diễn tả **quyết định tức thời** ngay tại thời điểm nói, không có kế hoạch trước.\n- Diễn tả **ý kiến, ước đoán, giả định** về tương lai với: hope, think, believe, expect, assume, afraid...\n- Dùng trong **câu điều kiện loại 1** diễn tả giả thiết có thể xảy ra ở tương lai."
+    },
+    {
+      "heading": "Tương lai gần (Be going to)",
+      "body": "- **Công thức:** S + be (am/is/are) + going to + V-inf\n- Dùng khi có **kế hoạch, dự định sẵn** từ trước khi nói.\n- Dùng khi có **dấu hiệu/chứng cứ rõ ràng** ở hiện tại cho thấy hành động sắp xảy ra."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- I **will meet** him tomorrow. (Tôi sẽ gặp anh ấy ngày mai)\n- Look at those clouds! It**'s going to** rain. (Có bằng chứng thực tế → going to)\n- I**'m meeting** Tom at the station at six. (Hiện tại tiếp diễn mang nghĩa tương lai: đã có kế hoạch và dàn xếp sẵn)"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "bt1",
+      "title": "Bài tập 1 — Trắc nghiệm",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "question": "Don't go anywhere until I_________ back.",
+          "options": [
+            { "key": "A", "text": "come" },
+            { "key": "B", "text": "came" },
+            { "key": "C", "text": "will come" },
+            { "key": "D", "text": "am coming" }
+          ],
+          "answer": "A",
+          "explanation": "Sau 'until' (mệnh đề trạng ngữ chỉ thời gian) không dùng thì tương lai → dùng hiện tại đơn: come."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "question": "When she comes, I_________ her the news.",
+          "options": [
+            { "key": "A", "text": "tell" },
+            { "key": "B", "text": "will tell" },
+            { "key": "C", "text": "would tell" },
+            { "key": "D", "text": "would have told" }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề chính dùng tương lai đơn (will tell), mệnh đề trạng ngữ 'when she comes' dùng hiện tại đơn."
+        }
+      ]
+    }
+  ]
+}

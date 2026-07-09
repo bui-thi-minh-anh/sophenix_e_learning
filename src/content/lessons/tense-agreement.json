@@ -1,0 +1,1349 @@
+{
+  "slug": "tense-agreement",
+  "title": "Sự phối hợp thì trong câu phức",
+  "level": "B1",
+  "topic": "Thì (Tenses)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Quy tắc phối hợp thì giữa mệnh đề chính và mệnh đề phụ (when, while, since, before, after...).",
+  "sections": [
+    {
+      "heading": "Khái niệm",
+      "body": "Câu phức (Complex Sentence) là câu có một mệnh đề chính và một hoặc nhiều mệnh đề phụ. Thì của động từ trong mệnh đề phụ **phụ thuộc** vào thì của mệnh đề chính."
+    },
+    {
+      "heading": "Quy tắc với say/said",
+      "body": "- **say that** → mệnh đề sau that có thể chia ở **tất cả các thì**.\n- **said that** → mệnh đề sau that phải **lùi thì** (không chia hiện tại, tương lai)."
+    },
+    {
+      "heading": "Phối hợp thì với mệnh đề trạng ngữ chỉ thời gian",
+      "body": "Các liên từ: **when, while, as, before, after, since, as soon as, until...**\n\n| Mệnh đề chính | Mệnh đề trạng ngữ | Ý nghĩa |\n|---|---|---|\n| HTĐ | HTĐ | Thói quen, sự thật hiển nhiên |\n| HTĐ | HTTD | Nhấn mạnh hành động đang diễn ra |\n| HTTD | HTTD (hoặc QKTD - QKTD) | 2 hành động song song |\n| HTHT | QKĐ (với since) | Hành động từ quá khứ kéo dài đến hiện tại |\n| QKĐ | QKHT (với after/when) | Hành động xảy ra khi hành động khác đã kết thúc |\n| QKTD | QKĐ (với when) | Hành động đang xảy ra thì có hành động xen vào |\n| QKHT | QKĐ (với before) | Hành động xảy ra trước hành động khác trong QK |\n| TLĐ | HTĐ | Nhấn mạnh thời điểm tương lai |\n\n**Lưu ý:** Không dùng thì tương lai trong mệnh đề trạng ngữ chỉ thời gian."
+    },
+    {
+      "heading": "Ví dụ",
+      "body": "- She **says** that she **is** a film star. / She **said** that she **would become** a star.\n- If we put ice under the sun, it **melts**. (HTĐ - HTĐ)\n- I usually read books while I**'m waiting** for the bus. (HTĐ - HTTD)\n- Lan **has learnt** English since she **was** a small girl. (HTHT - QKĐ)\n- The train **had** already **left** when I **arrived** at the station. (QKHT - QKĐ)\n- Please wait here until he **comes** back. (Không dùng: until he *will come* back)"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "phoi-hop-thi-1",
+      "title": "Luyện Tập Sự Phối Hợp Thì 1",
+      "description": "20 câu trắc nghiệm luyện tập phối hợp thì trong câu phức.",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "question": "………, I will give him the report.",
+          "options": [
+            { "key": "A", "text": "When he will return" },
+            { "key": "B", "text": "When he returns" },
+            { "key": "C", "text": "Until he will return" },
+            { "key": "D", "text": "Until he have returned" }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề trạng ngữ chỉ thời gian (when) không dùng thì tương lai → dùng HTĐ: when he returns."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "question": "We saw many beautiful birds …….. in the lake.",
+          "options": [
+            { "key": "A", "text": "when we are fishing" },
+            { "key": "B", "text": "while fishing" },
+            { "key": "C", "text": "while fished" },
+            { "key": "D", "text": "fishing" }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề: 'while we were fishing' → while fishing (cùng chủ ngữ)."
+        },
+        {
+          "id": "q3",
+          "kind": "mcq",
+          "question": "……, Joe stays in bed and reads magazines.",
+          "options": [
+            { "key": "A", "text": "Whenever raining" },
+            { "key": "B", "text": "Whenever it will rain" },
+            { "key": "C", "text": "When it will rain" },
+            { "key": "D", "text": "Whenever it rains" }
+          ],
+          "answer": "D",
+          "explanation": "Whenever + HTĐ diễn tả thói quen lặp lại. Không dùng will trong mệnh đề thời gian."
+        },
+        {
+          "id": "q4",
+          "kind": "mcq",
+          "question": "Lan has learnt English since she_________ a small girl.",
+          "options": [
+            { "key": "A", "text": "is" },
+            { "key": "B", "text": "was" },
+            { "key": "C", "text": "has been" },
+            { "key": "D", "text": "had been" }
+          ],
+          "answer": "B",
+          "explanation": "HTHT (has learnt) + since + QKĐ (was): hành động bắt đầu từ quá khứ kéo dài đến hiện tại."
+        },
+        {
+          "id": "q5",
+          "kind": "mcq",
+          "question": "Don't go anywhere until I_________ back.",
+          "options": [
+            { "key": "A", "text": "come" },
+            { "key": "B", "text": "came" },
+            { "key": "C", "text": "will come" },
+            { "key": "D", "text": "am coming" }
+          ],
+          "answer": "A",
+          "explanation": "Until + HTĐ cho ý nghĩa tương lai. Không dùng will trong mệnh đề thời gian."
+        },
+        {
+          "id": "q6",
+          "kind": "mcq",
+          "question": "I am going to speak with the boss when the meeting _______.",
+          "options": [
+            { "key": "A", "text": "will end" },
+            { "key": "B", "text": "ends" },
+            { "key": "C", "text": "is ending" },
+            { "key": "D", "text": "would end" }
+          ],
+          "answer": "B",
+          "explanation": "When + HTĐ (ends) cho hành động tương lai. Mệnh đề chính dùng be going to."
+        },
+        {
+          "id": "q7",
+          "kind": "mcq",
+          "question": "When she comes, I_________ her the news.",
+          "options": [
+            { "key": "A", "text": "tell" },
+            { "key": "B", "text": "will tell" },
+            { "key": "C", "text": "would tell" },
+            { "key": "D", "text": "would have told" }
+          ],
+          "answer": "B",
+          "explanation": "When + HTĐ (comes) → mệnh đề chính dùng TLĐ: will tell."
+        },
+        {
+          "id": "q8",
+          "kind": "mcq",
+          "question": "When the police came, they _________.",
+          "options": [
+            { "key": "A", "text": "are fighting" },
+            { "key": "B", "text": "fought" },
+            { "key": "C", "text": "would be fighting" },
+            { "key": "D", "text": "were fighting" }
+          ],
+          "answer": "D",
+          "explanation": "When + QKĐ (came) → QKTD (were fighting): hành động đang xảy ra khi cảnh sát đến."
+        },
+        {
+          "id": "q9",
+          "kind": "mcq",
+          "question": "Before she came to England, she _________ English.",
+          "options": [
+            { "key": "A", "text": "studied" },
+            { "key": "B", "text": "will study" },
+            { "key": "C", "text": "had studied" },
+            { "key": "D", "text": "was studying" }
+          ],
+          "answer": "C",
+          "explanation": "Before + QKĐ (came) → QKHT (had studied): hành động học tiếng Anh xảy ra trước khi đến Anh."
+        },
+        {
+          "id": "q10",
+          "kind": "mcq",
+          "question": "_______ my homework, I went to bed.",
+          "options": [
+            { "key": "A", "text": "After finished" },
+            { "key": "B", "text": "Having been finished" },
+            { "key": "C", "text": "Finished" },
+            { "key": "D", "text": "Having finished" }
+          ],
+          "answer": "D",
+          "explanation": "Phân từ hoàn thành (Having + V3) diễn tả hành động hoàn tất trước hành động chính: Having finished = After I had finished."
+        },
+        {
+          "id": "q11",
+          "kind": "mcq",
+          "question": "______ Peter gets here, we will congratulate him.",
+          "options": [
+            { "key": "A", "text": "When" },
+            { "key": "B", "text": "As long as" },
+            { "key": "C", "text": "No sooner" },
+            { "key": "D", "text": "Since" }
+          ],
+          "answer": "A",
+          "explanation": "When + HTĐ (gets) → TLĐ (will congratulate). 'No sooner' cần đảo ngữ và 'than'. 'Since' không phù hợp nghĩa."
+        },
+        {
+          "id": "q12",
+          "kind": "mcq",
+          "question": "Mrs. Pike _______ the door before the customers arrived.",
+          "options": [
+            { "key": "A", "text": "had opened" },
+            { "key": "B", "text": "will open" },
+            { "key": "C", "text": "would open" },
+            { "key": "D", "text": "has opened" }
+          ],
+          "answer": "A",
+          "explanation": "Before + QKĐ (arrived) → QKHT (had opened): hành động mở cửa xảy ra trước khi khách đến."
+        },
+        {
+          "id": "q13",
+          "kind": "mcq",
+          "question": "I'll have to buy a map_______ I don't know the area.",
+          "options": [
+            { "key": "A", "text": "when" },
+            { "key": "B", "text": "while" },
+            { "key": "C", "text": "as" },
+            { "key": "D", "text": "until" }
+          ],
+          "answer": "C",
+          "explanation": "'As' ở đây mang nghĩa 'vì, bởi vì' (= because/since) — liên từ chỉ nguyên nhân."
+        },
+        {
+          "id": "q14",
+          "kind": "mcq",
+          "question": "When I_______ here for fifteen years, I'll be entitled to a pension.",
+          "options": [
+            { "key": "A", "text": "work" },
+            { "key": "B", "text": "am working" },
+            { "key": "C", "text": "have worked" },
+            { "key": "D", "text": "had worked" }
+          ],
+          "answer": "C",
+          "explanation": "When + HTHT (have worked) → TLĐ (will be entitled). HTHT nhấn mạnh thời gian đã hoàn tất (15 năm)."
+        },
+        {
+          "id": "q15",
+          "kind": "mcq",
+          "question": "When_______ older, I'd love to be an artist.",
+          "options": [
+            { "key": "A", "text": "I'm" },
+            { "key": "B", "text": "I'll be" },
+            { "key": "C", "text": "was" },
+            { "key": "D", "text": "have been" }
+          ],
+          "answer": "A",
+          "explanation": "When + HTĐ (I'm) cho ý tương lai. Không dùng will trong mệnh đề trạng ngữ thời gian."
+        },
+        {
+          "id": "q16",
+          "kind": "mcq",
+          "question": "They were playing in the garden when_______.",
+          "options": [
+            { "key": "A", "text": "they have heard a scream" },
+            { "key": "B", "text": "they were hearing a scream" },
+            { "key": "C", "text": "they heard a scream" },
+            { "key": "D", "text": "they had heard a scream" }
+          ],
+          "answer": "C",
+          "explanation": "QKTD (were playing) + when + QKĐ (heard): hành động đang diễn ra thì bị xen vào bởi hành động ngắn."
+        },
+        {
+          "id": "q17",
+          "kind": "mcq",
+          "question": "The boy knew that an hour _______ sixty minutes.",
+          "options": [
+            { "key": "A", "text": "had" },
+            { "key": "B", "text": "would have" },
+            { "key": "C", "text": "have" },
+            { "key": "D", "text": "has" }
+          ],
+          "answer": "D",
+          "explanation": "Sự thật hiển nhiên (1 giờ = 60 phút) không lùi thì → giữ nguyên HTĐ: has."
+        },
+        {
+          "id": "q18",
+          "kind": "mcq",
+          "question": "The teacher asked Bill why he ________ to school the day before.",
+          "options": [
+            { "key": "A", "text": "not go" },
+            { "key": "B", "text": "didn't go" },
+            { "key": "C", "text": "wouldn't go" },
+            { "key": "D", "text": "hadn't gone" }
+          ],
+          "answer": "D",
+          "explanation": "Asked (QKĐ) + 'the day before' → lùi thì: didn't go → hadn't gone (QKHT)."
+        },
+        {
+          "id": "q19",
+          "kind": "mcq",
+          "question": "We find that we ________ a wrong way.",
+          "options": [
+            { "key": "A", "text": "will take" },
+            { "key": "B", "text": "have take" },
+            { "key": "C", "text": "have taken" },
+            { "key": "D", "text": "will have taken" }
+          ],
+          "answer": "C",
+          "explanation": "Find (HTĐ) + HTHT (have taken): nhận ra rằng đã đi sai đường (hành động xảy ra trước thời điểm nhận ra)."
+        },
+        {
+          "id": "q20",
+          "kind": "mcq",
+          "question": "I wonder what changes the new resident ________.",
+          "options": [
+            { "key": "A", "text": "will introduce" },
+            { "key": "B", "text": "introduce" },
+            { "key": "C", "text": "have introduce" },
+            { "key": "D", "text": "would introduce" }
+          ],
+          "answer": "A",
+          "explanation": "Wonder (HTĐ) + TLĐ (will introduce): dự đoán về thay đổi trong tương lai."
+        }
+      ]
+    },
+    {
+      "id": "et1054",
+      "title": "Luyện Tập Các Thì Tổng Hợp (ET1054)",
+      "description": "50 câu trắc nghiệm tổng hợp tất cả các thì và phối hợp thì.",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "question": "Although they _______, they did not lose heart.",
+          "options": [
+            { "key": "A", "text": "defeated" },
+            { "key": "B", "text": "were defeated" },
+            { "key": "C", "text": "had defeated" },
+            { "key": "D", "text": "have defeated" }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ 'they' bị đánh bại → bị động QKĐ: were defeated. Phối hợp với QKĐ 'did not lose'."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "question": "Our holy books tell us that man _______ mortal.",
+          "options": [
+            { "key": "A", "text": "is" },
+            { "key": "B", "text": "was" },
+            { "key": "C", "text": "were" },
+            { "key": "D", "text": "has" }
+          ],
+          "answer": "A",
+          "explanation": "Chân lý, sự thật hiển nhiên (con người là hữu hạn) → không lùi thì, giữ HTĐ: is."
+        },
+        {
+          "id": "q3",
+          "kind": "mcq",
+          "question": "He spoke so fast that I _______ understand anything.",
+          "options": [
+            { "key": "A", "text": "could" },
+            { "key": "B", "text": "could not" },
+            { "key": "C", "text": "cannot" },
+            { "key": "D", "text": "had not" }
+          ],
+          "answer": "B",
+          "explanation": "Spoke (QKĐ) → phối hợp với 'could not' (QKĐ). Nghĩa: nói nhanh đến mức không thể hiểu."
+        },
+        {
+          "id": "q4",
+          "kind": "mcq",
+          "question": "His health has improved since he _______ from the hills.",
+          "options": [
+            { "key": "A", "text": "return" },
+            { "key": "B", "text": "returned" },
+            { "key": "C", "text": "would return" },
+            { "key": "D", "text": "returning" }
+          ],
+          "answer": "B",
+          "explanation": "HTHT (has improved) + since + QKĐ (returned): sức khỏe cải thiện kể từ khi trở về."
+        },
+        {
+          "id": "q5",
+          "kind": "mcq",
+          "question": "He declared that he _______ it even if he saw it with his own eyes.",
+          "options": [
+            { "key": "A", "text": "would not believe" },
+            { "key": "B", "text": "believe" },
+            { "key": "C", "text": "did not believe" },
+            { "key": "D", "text": "had not believed" }
+          ],
+          "answer": "A",
+          "explanation": "Declared (QKĐ) → lùi thì: will not believe → would not believe."
+        },
+        {
+          "id": "q6",
+          "kind": "mcq",
+          "question": "The manager ______ the store before I arrived.",
+          "options": [
+            { "key": "A", "text": "closed" },
+            { "key": "B", "text": "had closed" },
+            { "key": "C", "text": "has closed" },
+            { "key": "D", "text": "was closing" }
+          ],
+          "answer": "B",
+          "explanation": "Before + QKĐ (arrived) → QKHT (had closed): hành động đóng cửa xảy ra trước khi tôi đến."
+        },
+        {
+          "id": "q7",
+          "kind": "mcq",
+          "question": "When the alarm rang, Hai ______ out of bed quickly.",
+          "options": [
+            { "key": "A", "text": "was jumping" },
+            { "key": "B", "text": "has jumped" },
+            { "key": "C", "text": "had jumped" },
+            { "key": "D", "text": "jumped" }
+          ],
+          "answer": "D",
+          "explanation": "When + QKĐ (rang) → QKĐ (jumped): hai hành động nối tiếp nhau trong quá khứ."
+        },
+        {
+          "id": "q8",
+          "kind": "mcq",
+          "question": "When we see Mr. Minh tomorrow, I ______ him of that.",
+          "options": [
+            { "key": "A", "text": "will remind" },
+            { "key": "B", "text": "remind" },
+            { "key": "C", "text": "have reminded" },
+            { "key": "D", "text": "reminded" }
+          ],
+          "answer": "A",
+          "explanation": "When + HTĐ (see) → TLĐ (will remind) cho hành động tương lai."
+        },
+        {
+          "id": "q9",
+          "kind": "mcq",
+          "question": "When I got home I found that water ______ down the kitchen walls.",
+          "options": [
+            { "key": "A", "text": "ran" },
+            { "key": "B", "text": "was running" },
+            { "key": "C", "text": "has run" },
+            { "key": "D", "text": "had been running" }
+          ],
+          "answer": "D",
+          "explanation": "Got home (QKĐ) → QKHT tiếp diễn (had been running): nước đã chảy liên tục từ trước khi về nhà."
+        },
+        {
+          "id": "q10",
+          "kind": "mcq",
+          "question": "After he ______ his English course, he went to England to continue his study.",
+          "options": [
+            { "key": "A", "text": "has finish" },
+            { "key": "B", "text": "had finished" },
+            { "key": "C", "text": "was finished" },
+            { "key": "D", "text": "would finish" }
+          ],
+          "answer": "B",
+          "explanation": "After + QKHT (had finished) → QKĐ (went): hoàn thành khóa học trước khi sang Anh."
+        },
+        {
+          "id": "q11",
+          "kind": "mcq",
+          "question": "How ______ since we ______ college?",
+          "options": [
+            { "key": "A", "text": "are you / left" },
+            { "key": "B", "text": "were you / left" },
+            { "key": "C", "text": "have you been / have left" },
+            { "key": "D", "text": "have you been / left" }
+          ],
+          "answer": "D",
+          "explanation": "HTHT (have you been) + since + QKĐ (left): từ khi rời trường đến nay bạn thế nào?"
+        },
+        {
+          "id": "q12",
+          "kind": "mcq",
+          "question": "The Chinese ______ spaghetti dishes for a long time before Marco Polo ______ back to Italy.",
+          "options": [
+            { "key": "A", "text": "made – brought" },
+            { "key": "B", "text": "have made – brought" },
+            { "key": "C", "text": "made – had brought" },
+            { "key": "D", "text": "had been making – brought" }
+          ],
+          "answer": "D",
+          "explanation": "QKHT tiếp diễn (had been making) + for a long time + before + QKĐ (brought): hành động kéo dài trước mốc quá khứ."
+        },
+        {
+          "id": "q13",
+          "kind": "mcq",
+          "question": "When I arrived at the meeting the first speaker ______ speaking and the audience ______.",
+          "options": [
+            { "key": "A", "text": "just finished – were clapping" },
+            { "key": "B", "text": "had just finished – had clapped" },
+            { "key": "C", "text": "had just finished – were clapping" },
+            { "key": "D", "text": "just finished – had clapped" }
+          ],
+          "answer": "C",
+          "explanation": "QKHT (had just finished): vừa nói xong trước khi tôi đến. QKTD (were clapping): khán giả đang vỗ tay lúc tôi đến."
+        },
+        {
+          "id": "q14",
+          "kind": "mcq",
+          "question": "He ______ his job last month and then he ______ out of work.",
+          "options": [
+            { "key": "A", "text": "lost – was" },
+            { "key": "B", "text": "was lost – had been" },
+            { "key": "C", "text": "has lost – was" },
+            { "key": "D", "text": "lost – has been" }
+          ],
+          "answer": "A",
+          "explanation": "Last month → QKĐ (lost) + then + QKĐ (was): hai hành động nối tiếp trong quá khứ."
+        },
+        {
+          "id": "q15",
+          "kind": "mcq",
+          "question": "In the past, the trip ______ very rough and often dangerous, but things ______ a great deal in the last hundred and fifty years.",
+          "options": [
+            { "key": "A", "text": "was – have changed" },
+            { "key": "B", "text": "is – change" },
+            { "key": "C", "text": "had been – will change" },
+            { "key": "D", "text": "has been – changed" }
+          ],
+          "answer": "A",
+          "explanation": "In the past → QKĐ (was). In the last 150 years → HTHT (have changed): so sánh quá khứ với hiện tại."
+        },
+        {
+          "id": "q16",
+          "kind": "mcq",
+          "question": "When Carol ______ last night, I ______ my favorite show on television.",
+          "options": [
+            { "key": "A", "text": "was calling – watched" },
+            { "key": "B", "text": "called – have watched" },
+            { "key": "C", "text": "called – was watching" },
+            { "key": "D", "text": "had called – watched" }
+          ],
+          "answer": "C",
+          "explanation": "When + QKĐ (called) → QKTD (was watching): hành động đang xem TV thì bị xen vào bởi cuộc gọi."
+        },
+        {
+          "id": "q17",
+          "kind": "mcq",
+          "question": "Right now, Jim ______ the newspaper and Kathy ______ dinner.",
+          "options": [
+            { "key": "A", "text": "reads – has cooked" },
+            { "key": "B", "text": "is reading – is cooking" },
+            { "key": "C", "text": "has read – was cooking" },
+            { "key": "D", "text": "read – will be cooking" }
+          ],
+          "answer": "B",
+          "explanation": "Right now → HTTD: is reading, is cooking — hai hành động đang diễn ra tại thời điểm nói."
+        },
+        {
+          "id": "q18",
+          "kind": "mcq",
+          "question": "Sam ______ to change a light bulb when he ______ and ______.",
+          "options": [
+            { "key": "A", "text": "was trying – slipped – fell" },
+            { "key": "B", "text": "tried – was slipping – falling" },
+            { "key": "C", "text": "had been trying – slipped – was falling" },
+            { "key": "D", "text": "has tried – slips – falls" }
+          ],
+          "answer": "A",
+          "explanation": "QKTD (was trying) + when + QKĐ (slipped, fell): đang cố thay bóng đèn thì trượt và ngã."
+        },
+        {
+          "id": "q19",
+          "kind": "mcq",
+          "question": "Every day I ______ up at 6 o'clock, ______ breakfast at seven o'clock and ______ for work at 8 o'clock.",
+          "options": [
+            { "key": "A", "text": "get – eat – leave" },
+            { "key": "B", "text": "have got – eating – leaving" },
+            { "key": "C", "text": "got – ate – left" },
+            { "key": "D", "text": "will get – have eaten – left" }
+          ],
+          "answer": "A",
+          "explanation": "Every day → HTĐ: get, eat, leave — diễn tả thói quen hàng ngày."
+        },
+        {
+          "id": "q20",
+          "kind": "mcq",
+          "question": "I ______ for this company for more than thirty years, and I intend to stay here until I ______ next year.",
+          "options": [
+            { "key": "A", "text": "am working – will retire" },
+            { "key": "B", "text": "am going to work – am retiring" },
+            { "key": "C", "text": "work – am going to retire" },
+            { "key": "D", "text": "have been working – retire" }
+          ],
+          "answer": "D",
+          "explanation": "HTHT tiếp diễn (have been working) + for 30 years: nhấn mạnh thời gian làm việc liên tục. Until + HTĐ (retire): không dùng will."
+        },
+        {
+          "id": "q21",
+          "kind": "mcq",
+          "question": "By the time you receive this letter, I ______ for the USA.",
+          "options": [
+            { "key": "A", "text": "have left" },
+            { "key": "B", "text": "will leave" },
+            { "key": "C", "text": "will have left" },
+            { "key": "D", "text": "am leaving" }
+          ],
+          "answer": "C",
+          "explanation": "By the time + HTĐ (receive) → TLHT (will have left): hành động sẽ hoàn tất trước thời điểm tương lai."
+        },
+        {
+          "id": "q22",
+          "kind": "mcq",
+          "question": "While I ______ along the road, I saw a friend of mine.",
+          "options": [
+            { "key": "A", "text": "was cycling" },
+            { "key": "B", "text": "have cycled" },
+            { "key": "C", "text": "cycled" },
+            { "key": "D", "text": "am cycling" }
+          ],
+          "answer": "A",
+          "explanation": "While + QKTD (was cycling) + QKĐ (saw): đang đạp xe thì nhìn thấy bạn."
+        },
+        {
+          "id": "q23",
+          "kind": "mcq",
+          "question": "By the time I ______ this report, I will give you a ring.",
+          "options": [
+            { "key": "A", "text": "type" },
+            { "key": "B", "text": "will type" },
+            { "key": "C", "text": "have typed" },
+            { "key": "D", "text": "will have typed" }
+          ],
+          "answer": "C",
+          "explanation": "By the time + HTHT (have typed) → TLĐ (will give). Không dùng will trong mệnh đề thời gian. HTHT nhấn mạnh hoàn tất."
+        },
+        {
+          "id": "q24",
+          "kind": "mcq",
+          "question": "While my mother ______ a film on TV, my father was cooking dinner. It was March 8th yesterday.",
+          "options": [
+            { "key": "A", "text": "watched" },
+            { "key": "B", "text": "was watching" },
+            { "key": "C", "text": "had watched" },
+            { "key": "D", "text": "watches" }
+          ],
+          "answer": "B",
+          "explanation": "While + QKTD (was watching) + QKTD (was cooking): hai hành động song song trong quá khứ."
+        },
+        {
+          "id": "q25",
+          "kind": "mcq",
+          "question": "When we came, a party ______ in the hall.",
+          "options": [
+            { "key": "A", "text": "is being held" },
+            { "key": "B", "text": "had being held" },
+            { "key": "C", "text": "will be held" },
+            { "key": "D", "text": "was being held" }
+          ],
+          "answer": "D",
+          "explanation": "When + QKĐ (came) → QK bị động tiếp diễn (was being held): bữa tiệc đang được tổ chức khi chúng tôi đến."
+        },
+        {
+          "id": "q26",
+          "kind": "mcq",
+          "question": "When I came to visit her last night, she ______ a bath.",
+          "options": [
+            { "key": "A", "text": "is having" },
+            { "key": "B", "text": "was having" },
+            { "key": "C", "text": "has" },
+            { "key": "D", "text": "had" }
+          ],
+          "answer": "B",
+          "explanation": "When + QKĐ (came) → QKTD (was having): đang tắm khi tôi đến thăm."
+        },
+        {
+          "id": "q27",
+          "kind": "mcq",
+          "question": "When we arrived at the restaurant, the others ______.",
+          "options": [
+            { "key": "A", "text": "left" },
+            { "key": "B", "text": "have left" },
+            { "key": "C", "text": "had left" },
+            { "key": "D", "text": "are leaving" }
+          ],
+          "answer": "C",
+          "explanation": "When + QKĐ (arrived) → QKHT (had left): những người khác đã rời đi trước khi chúng tôi đến."
+        },
+        {
+          "id": "q28",
+          "kind": "mcq",
+          "question": "I learned that the college ______ in 1900.",
+          "options": [
+            { "key": "A", "text": "found" },
+            { "key": "B", "text": "was founded" },
+            { "key": "C", "text": "founded" },
+            { "key": "D", "text": "had been founded" }
+          ],
+          "answer": "D",
+          "explanation": "Learned (QKĐ) → QKHT bị động (had been founded): việc thành lập xảy ra trước thời điểm biết. Bị động vì trường được thành lập."
+        },
+        {
+          "id": "q29",
+          "kind": "mcq",
+          "question": "He said that he ______ a lot of money on advertising to expand his business.",
+          "options": [
+            { "key": "A", "text": "spends" },
+            { "key": "B", "text": "has spent" },
+            { "key": "C", "text": "spending" },
+            { "key": "D", "text": "had spent" }
+          ],
+          "answer": "D",
+          "explanation": "Said (QKĐ) → lùi thì: has spent → had spent (QKHT)."
+        },
+        {
+          "id": "q30",
+          "kind": "mcq",
+          "question": "The train ______ when we got to the station.",
+          "options": [
+            { "key": "A", "text": "just left" },
+            { "key": "B", "text": "just leaves" },
+            { "key": "C", "text": "had just left" },
+            { "key": "D", "text": "will leave" }
+          ],
+          "answer": "C",
+          "explanation": "When + QKĐ (got) → QKHT (had just left): tàu vừa rời đi trước khi chúng tôi đến ga."
+        },
+        {
+          "id": "q31",
+          "kind": "mcq",
+          "question": "Tom told me he ______ call me at the airport when I ______.",
+          "options": [
+            { "key": "A", "text": "would / arrived" },
+            { "key": "B", "text": "will / arrive" },
+            { "key": "C", "text": "will have / arriving" },
+            { "key": "D", "text": "would be / arriving" }
+          ],
+          "answer": "A",
+          "explanation": "Told (QKĐ) → lùi thì: will → would. When + QKĐ (arrived) phối hợp với mệnh đề chính."
+        },
+        {
+          "id": "q32",
+          "kind": "mcq",
+          "question": "– ______ before? – Yes, I ______ my holidays here last year.",
+          "options": [
+            { "key": "A", "text": "Have you ever been / spent" },
+            { "key": "B", "text": "Have you ever been / spend" },
+            { "key": "C", "text": "Had you ever been / spent" },
+            { "key": "D", "text": "Were you ever / spend" }
+          ],
+          "answer": "A",
+          "explanation": "HTHT (Have you ever been) cho trải nghiệm. QKĐ (spent) + last year cho thời điểm cụ thể."
+        },
+        {
+          "id": "q33",
+          "kind": "mcq",
+          "question": "______ I was working in the garden, John was repairing the washing machine.",
+          "options": [
+            { "key": "A", "text": "When" },
+            { "key": "B", "text": "As" },
+            { "key": "C", "text": "While" },
+            { "key": "D", "text": "Until" }
+          ],
+          "answer": "C",
+          "explanation": "While + QKTD (was working) + QKTD (was repairing): hai hành động song song trong quá khứ. 'While' nhấn mạnh tính song song."
+        },
+        {
+          "id": "q34",
+          "kind": "mcq",
+          "question": "Peter said he ______ a test the following day.",
+          "options": [
+            { "key": "A", "text": "had had" },
+            { "key": "B", "text": "will have" },
+            { "key": "C", "text": "has had" },
+            { "key": "D", "text": "would have" }
+          ],
+          "answer": "D",
+          "explanation": "Said (QKĐ) + 'the following day' → lùi thì: will have → would have."
+        },
+        {
+          "id": "q35",
+          "kind": "mcq",
+          "question": "After she ______ at the hospital for 2 years, she ______ to give up the job yesterday.",
+          "options": [
+            { "key": "A", "text": "had been working / decides" },
+            { "key": "B", "text": "had been working / decided" },
+            { "key": "C", "text": "working / had decided" },
+            { "key": "D", "text": "is working / will decide" }
+          ],
+          "answer": "B",
+          "explanation": "After + QKHT tiếp diễn (had been working) → QKĐ (decided): làm việc liên tục 2 năm trước khi quyết định nghỉ."
+        },
+        {
+          "id": "q36",
+          "kind": "mcq",
+          "question": "Tom ______ before we arrive there.",
+          "options": [
+            { "key": "A", "text": "has left" },
+            { "key": "B", "text": "had left" },
+            { "key": "C", "text": "will leave" },
+            { "key": "D", "text": "leaves" }
+          ],
+          "answer": "C",
+          "explanation": "Before + HTĐ (arrive) → TLĐ (will leave): Tom sẽ rời đi trước khi chúng tôi đến."
+        },
+        {
+          "id": "q37",
+          "kind": "mcq",
+          "question": "In 1970, the Canadian scientist George Kelly ______ that warm water ______ more quickly than cold water.",
+          "options": [
+            { "key": "A", "text": "prove / freeze" },
+            { "key": "B", "text": "proves / freezed" },
+            { "key": "C", "text": "proving / freezing" },
+            { "key": "D", "text": "proved / freezes" }
+          ],
+          "answer": "D",
+          "explanation": "In 1970 → QKĐ (proved). Sự thật khoa học → HTĐ (freezes): không lùi thì cho quy luật tự nhiên."
+        },
+        {
+          "id": "q38",
+          "kind": "mcq",
+          "question": "After we ______ our work, we ______ for lunch.",
+          "options": [
+            { "key": "A", "text": "having finish / went" },
+            { "key": "B", "text": "have finished / went" },
+            { "key": "C", "text": "had finished / went" },
+            { "key": "D", "text": "having finish / going" }
+          ],
+          "answer": "C",
+          "explanation": "After + QKHT (had finished) → QKĐ (went): hoàn thành công việc trước khi đi ăn trưa."
+        },
+        {
+          "id": "q39",
+          "kind": "mcq",
+          "question": "After he ______ his English course, he went to England to continue his study.",
+          "options": [
+            { "key": "A", "text": "will finish" },
+            { "key": "B", "text": "has finished" },
+            { "key": "C", "text": "had finished" },
+            { "key": "D", "text": "will have finished" }
+          ],
+          "answer": "C",
+          "explanation": "After + QKHT (had finished) → QKĐ (went): hoàn thành khóa học trước khi sang Anh."
+        },
+        {
+          "id": "q40",
+          "kind": "mcq",
+          "question": "They ______ a lot of preparation before the match started.",
+          "options": [
+            { "key": "A", "text": "has made" },
+            { "key": "B", "text": "had made" },
+            { "key": "C", "text": "will be made" },
+            { "key": "D", "text": "are making" }
+          ],
+          "answer": "B",
+          "explanation": "Before + QKĐ (started) → QKHT (had made): chuẩn bị xong trước khi trận đấu bắt đầu."
+        },
+        {
+          "id": "q41",
+          "kind": "mcq",
+          "question": "I ______ in the US for one year, but I still find it difficult to communicate with the American.",
+          "options": [
+            { "key": "A", "text": "am" },
+            { "key": "B", "text": "was" },
+            { "key": "C", "text": "have been" },
+            { "key": "D", "text": "had been" }
+          ],
+          "answer": "C",
+          "explanation": "For one year + still find → HTHT (have been): hành động từ quá khứ kéo dài đến hiện tại."
+        },
+        {
+          "id": "q42",
+          "kind": "mcq",
+          "question": "American women may ______ conversations with men or even ______ them to dance.",
+          "options": [
+            { "key": "A", "text": "to start / to ask" },
+            { "key": "B", "text": "start / ask" },
+            { "key": "C", "text": "starting / asking" },
+            { "key": "D", "text": "started / asked" }
+          ],
+          "answer": "B",
+          "explanation": "May + V nguyên thể (không 'to'): may start, may ask."
+        },
+        {
+          "id": "q43",
+          "kind": "mcq",
+          "question": "As soon as she arrived in London, she found that the English people spoke English differently from what she ______.",
+          "options": [
+            { "key": "A", "text": "will learn" },
+            { "key": "B", "text": "is learning" },
+            { "key": "C", "text": "has been learning" },
+            { "key": "D", "text": "had learnt" }
+          ],
+          "answer": "D",
+          "explanation": "Arrived (QKĐ) → QKHT (had learnt): việc học xảy ra trước khi đến London."
+        },
+        {
+          "id": "q44",
+          "kind": "mcq",
+          "question": "Don't go anywhere until I ______ back.",
+          "options": [
+            { "key": "A", "text": "come" },
+            { "key": "B", "text": "will come" },
+            { "key": "C", "text": "have come" },
+            { "key": "D", "text": "came" }
+          ],
+          "answer": "A",
+          "explanation": "Until + HTĐ (come) cho ý nghĩa tương lai. Không dùng will trong mệnh đề thời gian."
+        },
+        {
+          "id": "q45",
+          "kind": "mcq",
+          "question": "I ______ the book by the time you come tonight.",
+          "options": [
+            { "key": "A", "text": "will be finishing" },
+            { "key": "B", "text": "finished" },
+            { "key": "C", "text": "have finishing" },
+            { "key": "D", "text": "will have finished" }
+          ],
+          "answer": "D",
+          "explanation": "By the time + HTĐ (come) → TLHT (will have finished): sẽ hoàn thành cuốn sách trước khi bạn đến."
+        },
+        {
+          "id": "q46",
+          "kind": "mcq",
+          "question": "Who ______ when I came?",
+          "options": [
+            { "key": "A", "text": "were you talking to" },
+            { "key": "B", "text": "are you talking to" },
+            { "key": "C", "text": "you were talking to" },
+            { "key": "D", "text": "you are talking to" }
+          ],
+          "answer": "A",
+          "explanation": "When + QKĐ (came) → QKTD đảo ngữ câu hỏi: were you talking to — đang nói chuyện với ai khi tôi đến?"
+        },
+        {
+          "id": "q47",
+          "kind": "mcq",
+          "question": "Please send us a postcard as soon as you ______ in London.",
+          "options": [
+            { "key": "A", "text": "will arrive" },
+            { "key": "B", "text": "is going to arrive" },
+            { "key": "C", "text": "arrive" },
+            { "key": "D", "text": "arrived" }
+          ],
+          "answer": "C",
+          "explanation": "As soon as + HTĐ (arrive): không dùng will trong mệnh đề thời gian."
+        },
+        {
+          "id": "q48",
+          "kind": "mcq",
+          "question": "I will give you this book ______ I meet you tomorrow.",
+          "options": [
+            { "key": "A", "text": "when" },
+            { "key": "B", "text": "until" },
+            { "key": "C", "text": "since" },
+            { "key": "D", "text": "for" }
+          ],
+          "answer": "A",
+          "explanation": "When + HTĐ (meet) + tomorrow → TLĐ (will give): liên từ thời gian phù hợp cho hành động tương lai."
+        },
+        {
+          "id": "q49",
+          "kind": "mcq",
+          "question": "Jane ______ her house all the morning before the guest arrived.",
+          "options": [
+            { "key": "A", "text": "is cleaning" },
+            { "key": "B", "text": "was cleaning" },
+            { "key": "C", "text": "has been cleaning" },
+            { "key": "D", "text": "had been cleaning" }
+          ],
+          "answer": "D",
+          "explanation": "Before + QKĐ (arrived) → QKHT tiếp diễn (had been cleaning): dọn dẹp liên tục cả buổi sáng trước khi khách đến."
+        },
+        {
+          "id": "q50",
+          "kind": "mcq",
+          "question": "We ______ to go home when it began to rain.",
+          "options": [
+            { "key": "A", "text": "are preparing" },
+            { "key": "B", "text": "were preparing" },
+            { "key": "C", "text": "will be preparing" },
+            { "key": "D", "text": "have prepared" }
+          ],
+          "answer": "B",
+          "explanation": "When + QKĐ (began) → QKTD (were preparing): đang chuẩn bị về thì trời bắt đầu mưa."
+        }
+      ]
+    },
+    {
+      "id": "hoa-hop-thi-1",
+      "title": "Thi Online: Sự Hòa Hợp Các Thì 1",
+      "description": "30 câu trắc nghiệm kiểm tra sự hòa hợp các thì.",
+      "exercises": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "question": "By the age of 25, he ______ two famous novels.",
+          "options": [
+            { "key": "A", "text": "wrote" },
+            { "key": "B", "text": "writes" },
+            { "key": "C", "text": "has written" },
+            { "key": "D", "text": "had written" }
+          ],
+          "answer": "D",
+          "explanation": "By the age of 25 (mốc quá khứ) → QKHT (had written): đã viết xong trước mốc thời gian đó."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "question": "The man got out of the car, ______ round to the back and opened the boot.",
+          "options": [
+            { "key": "A", "text": "walking" },
+            { "key": "B", "text": "walked" },
+            { "key": "C", "text": "walks" },
+            { "key": "D", "text": "walk" }
+          ],
+          "answer": "B",
+          "explanation": "QKĐ liên tiếp: got out, walked, opened — chuỗi hành động nối tiếp nhau trong quá khứ."
+        },
+        {
+          "id": "q3",
+          "kind": "mcq",
+          "question": "While her husband was in the army, Janet ______ to him twice a week.",
+          "options": [
+            { "key": "A", "text": "was writing" },
+            { "key": "B", "text": "wrote" },
+            { "key": "C", "text": "was written" },
+            { "key": "D", "text": "had written" }
+          ],
+          "answer": "B",
+          "explanation": "While + QKTD → QKĐ (wrote) cho thói quen lặp lại trong quá khứ (twice a week)."
+        },
+        {
+          "id": "q4",
+          "kind": "mcq",
+          "question": "I couldn't cut the grass because the machine ______ a few days previously.",
+          "options": [
+            { "key": "A", "text": "broke down" },
+            { "key": "B", "text": "has been broken" },
+            { "key": "C", "text": "had broken down" },
+            { "key": "D", "text": "breaks down" }
+          ],
+          "answer": "C",
+          "explanation": "'A few days previously' → QKHT (had broken down): máy đã hỏng trước thời điểm muốn cắt cỏ."
+        },
+        {
+          "id": "q5",
+          "kind": "mcq",
+          "question": "______ to rain before you woke up this morning?",
+          "options": [
+            { "key": "A", "text": "Did it begin" },
+            { "key": "B", "text": "Has it begun" },
+            { "key": "C", "text": "Had it begun" },
+            { "key": "D", "text": "Would it begin" }
+          ],
+          "answer": "C",
+          "explanation": "Before + QKĐ (woke up) → QKHT (Had it begun): mưa bắt đầu trước khi bạn thức dậy?"
+        },
+        {
+          "id": "q6",
+          "kind": "mcq",
+          "question": "My daughter saw an elephant this morning but she ______ one before.",
+          "options": [
+            { "key": "A", "text": "had never seen" },
+            { "key": "B", "text": "has never seen" },
+            { "key": "C", "text": "never seen" },
+            { "key": "D", "text": "never had seen" }
+          ],
+          "answer": "A",
+          "explanation": "Saw (QKĐ) + before → QKHT (had never seen): chưa từng thấy trước thời điểm sáng nay."
+        },
+        {
+          "id": "q7",
+          "kind": "mcq",
+          "question": "I ______ in Da Nang before I moved to Dong Nai.",
+          "options": [
+            { "key": "A", "text": "have been living" },
+            { "key": "B", "text": "have lived" },
+            { "key": "C", "text": "had lived" },
+            { "key": "D", "text": "had been living" }
+          ],
+          "answer": "C",
+          "explanation": "Before + QKĐ (moved) → QKHT (had lived): sống ở Đà Nẵng trước khi chuyển đến Đồng Nai."
+        },
+        {
+          "id": "q8",
+          "kind": "mcq",
+          "question": "When we got home, dinner ______, so we had a drink first.",
+          "options": [
+            { "key": "A", "text": "was preparing" },
+            { "key": "B", "text": "was being prepared" },
+            { "key": "C", "text": "was prepared" },
+            { "key": "D", "text": "had been prepared" }
+          ],
+          "answer": "B",
+          "explanation": "QK bị động tiếp diễn (was being prepared): bữa tối đang được chuẩn bị (chưa xong) nên phải uống nước đợi."
+        },
+        {
+          "id": "q9",
+          "kind": "mcq",
+          "question": "He said he would visit me, but he ______ me yet.",
+          "options": [
+            { "key": "A", "text": "has not visited" },
+            { "key": "B", "text": "had not visited" },
+            { "key": "C", "text": "is not visiting" },
+            { "key": "D", "text": "does not visit" }
+          ],
+          "answer": "A",
+          "explanation": "Yet → HTHT (has not visited): cho đến hiện tại vẫn chưa thăm (kết quả liên quan đến hiện tại)."
+        },
+        {
+          "id": "q10",
+          "kind": "mcq",
+          "question": "Before the Prime Minister left New York he ______ several talks.",
+          "options": [
+            { "key": "A", "text": "will have had" },
+            { "key": "B", "text": "had had" },
+            { "key": "C", "text": "will be having" },
+            { "key": "D", "text": "has" }
+          ],
+          "answer": "B",
+          "explanation": "Before + QKĐ (left) → QKHT (had had): đã có các cuộc hội đàm trước khi rời New York."
+        },
+        {
+          "id": "q11",
+          "kind": "mcq",
+          "question": "We had just got out of the car when it ______ to set fire.",
+          "options": [
+            { "key": "A", "text": "has begun" },
+            { "key": "B", "text": "had begun" },
+            { "key": "C", "text": "was beginning" },
+            { "key": "D", "text": "began" }
+          ],
+          "answer": "D",
+          "explanation": "Had just + V3 (had just got out) + when + QKĐ (began): vừa ra khỏi xe thì xe bắt lửa."
+        },
+        {
+          "id": "q12",
+          "kind": "mcq",
+          "question": "As soon as he ______ a certificate in English, he will apply for a job.",
+          "options": [
+            { "key": "A", "text": "would get" },
+            { "key": "B", "text": "got" },
+            { "key": "C", "text": "gets" },
+            { "key": "D", "text": "will get" }
+          ],
+          "answer": "C",
+          "explanation": "As soon as + HTĐ (gets) → TLĐ (will apply). Không dùng will trong mệnh đề thời gian."
+        },
+        {
+          "id": "q13",
+          "kind": "mcq",
+          "question": "It was told that he ______ knocked out in the first round.",
+          "options": [
+            { "key": "A", "text": "had been" },
+            { "key": "B", "text": "was" },
+            { "key": "C", "text": "has been" },
+            { "key": "D", "text": "was being" }
+          ],
+          "answer": "A",
+          "explanation": "Was told (QKĐ bị động) → QKHT bị động (had been knocked out): bị hạ gục trước thời điểm kể lại."
+        },
+        {
+          "id": "q14",
+          "kind": "mcq",
+          "question": "My grandfather ______ when I ______ only 2 years old.",
+          "options": [
+            { "key": "A", "text": "dies / am" },
+            { "key": "B", "text": "dies / was" },
+            { "key": "C", "text": "will die / am" },
+            { "key": "D", "text": "died / was" }
+          ],
+          "answer": "D",
+          "explanation": "Sự kiện trong quá khứ → QKĐ (died) + when + QKĐ (was)."
+        },
+        {
+          "id": "q15",
+          "kind": "mcq",
+          "question": "When I ______ for school this morning, it ______ so I used my umbrella.",
+          "options": [
+            { "key": "A", "text": "leave / rained" },
+            { "key": "B", "text": "left / was raining" },
+            { "key": "C", "text": "was leaving / rained" },
+            { "key": "D", "text": "was leaving / was raining" }
+          ],
+          "answer": "B",
+          "explanation": "When + QKĐ (left) → QKTD (was raining): trời đang mưa khi tôi ra khỏi nhà → dùng ô."
+        },
+        {
+          "id": "q16",
+          "kind": "mcq",
+          "question": "I ______ my family since I ______ to Ho Chi Minh City.",
+          "options": [
+            { "key": "A", "text": "didn't see / moved" },
+            { "key": "B", "text": "don't see / move" },
+            { "key": "C", "text": "am not seeing / moved" },
+            { "key": "D", "text": "haven't seen / moved" }
+          ],
+          "answer": "D",
+          "explanation": "HTHT (haven't seen) + since + QKĐ (moved): chưa gặp gia đình kể từ khi chuyển đến TP.HCM."
+        },
+        {
+          "id": "q17",
+          "kind": "mcq",
+          "question": "While Diana ______ her favourite television program, there was a power cut.",
+          "options": [
+            { "key": "A", "text": "was watching" },
+            { "key": "B", "text": "watched" },
+            { "key": "C", "text": "has been watching" },
+            { "key": "D", "text": "is watching" }
+          ],
+          "answer": "A",
+          "explanation": "While + QKTD (was watching): đang xem TV thì bị cắt điện."
+        },
+        {
+          "id": "q18",
+          "kind": "mcq",
+          "question": "What exactly ______ when I came into your office yesterday?",
+          "options": [
+            { "key": "A", "text": "did you do" },
+            { "key": "B", "text": "were you do" },
+            { "key": "C", "text": "were you doing" },
+            { "key": "D", "text": "are you doing" }
+          ],
+          "answer": "C",
+          "explanation": "When + QKĐ (came) → QKTD câu hỏi (were you doing): bạn đang làm gì khi tôi vào?"
+        },
+        {
+          "id": "q19",
+          "kind": "mcq",
+          "question": "My sister ______ very happy when she ______ my gift on her last birthday.",
+          "options": [
+            { "key": "A", "text": "is / gets" },
+            { "key": "B", "text": "is / got" },
+            { "key": "C", "text": "was / got" },
+            { "key": "D", "text": "was / get" }
+          ],
+          "answer": "C",
+          "explanation": "Last birthday → QKĐ (was) + when + QKĐ (got): cả hai hành động trong quá khứ."
+        },
+        {
+          "id": "q20",
+          "kind": "mcq",
+          "question": "He ______ to smoke a lot 10 years ago. He ______ it up last year.",
+          "options": [
+            { "key": "A", "text": "used / gives" },
+            { "key": "B", "text": "used / gave" },
+            { "key": "C", "text": "has used / has given" },
+            { "key": "D", "text": "uses / gave" }
+          ],
+          "answer": "B",
+          "explanation": "10 years ago → used to (thói quen QK). Last year → QKĐ (gave up): bỏ thuốc năm ngoái."
+        },
+        {
+          "id": "q21",
+          "kind": "mcq",
+          "question": "I don't have to take any more math classes. I ______ all the required courses.",
+          "options": [
+            { "key": "A", "text": "already took" },
+            { "key": "B", "text": "am already taking" },
+            { "key": "C", "text": "have taken already" },
+            { "key": "D", "text": "have already taken" }
+          ],
+          "answer": "D",
+          "explanation": "HTHT + already (have already taken): đã hoàn thành tất cả khóa học (kết quả liên quan hiện tại)."
+        },
+        {
+          "id": "q22",
+          "kind": "mcq",
+          "question": "I ______ to Paris yet. I hope I can visit it once.",
+          "options": [
+            { "key": "A", "text": "have never been" },
+            { "key": "B", "text": "was never" },
+            { "key": "C", "text": "am never" },
+            { "key": "D", "text": "will never be" }
+          ],
+          "answer": "A",
+          "explanation": "Yet → HTHT (have never been): chưa bao giờ đến Paris cho đến hiện tại."
+        },
+        {
+          "id": "q23",
+          "kind": "mcq",
+          "question": "My uncle ______ school in 1997 and ______ a job right after that.",
+          "options": [
+            { "key": "A", "text": "leaves / gets" },
+            { "key": "B", "text": "leaves / got" },
+            { "key": "C", "text": "left / got" },
+            { "key": "D", "text": "has left / got" }
+          ],
+          "answer": "C",
+          "explanation": "In 1997 → QKĐ (left) + QKĐ (got): hai hành động nối tiếp trong quá khứ."
+        },
+        {
+          "id": "q24",
+          "kind": "mcq",
+          "question": "I work in a bookshop. I ______ $100 a week.",
+          "options": [
+            { "key": "A", "text": "will earn" },
+            { "key": "B", "text": "earn" },
+            { "key": "C", "text": "am earning" },
+            { "key": "D", "text": "have earned" }
+          ],
+          "answer": "B",
+          "explanation": "Thói quen, sự thật hiện tại → HTĐ (earn): kiếm $100 mỗi tuần."
+        },
+        {
+          "id": "q25",
+          "kind": "mcq",
+          "question": "My father ______ very pleased when I ______ the second prize in the contest.",
+          "options": [
+            { "key": "A", "text": "is / get" },
+            { "key": "B", "text": "was / got" },
+            { "key": "C", "text": "has been / has got" },
+            { "key": "D", "text": "had been / got" }
+          ],
+          "answer": "B",
+          "explanation": "Sự kiện quá khứ (cuộc thi) → QKĐ (was) + when + QKĐ (got)."
+        },
+        {
+          "id": "q26",
+          "kind": "mcq",
+          "question": "The man often ______ his vacation on this island when he ______ young.",
+          "options": [
+            { "key": "A", "text": "spends / is" },
+            { "key": "B", "text": "spent / was" },
+            { "key": "C", "text": "spends / was" },
+            { "key": "D", "text": "has spent / was" }
+          ],
+          "answer": "B",
+          "explanation": "When + QKĐ (was young) → QKĐ (spent): thói quen trong quá khứ."
+        },
+        {
+          "id": "q27",
+          "kind": "mcq",
+          "question": "I want to buy a new bike. I ______ it since I was 7.",
+          "options": [
+            { "key": "A", "text": "have used" },
+            { "key": "B", "text": "used" },
+            { "key": "C", "text": "am using" },
+            { "key": "D", "text": "will use" }
+          ],
+          "answer": "A",
+          "explanation": "Since + QKĐ (was 7) → HTHT (have used): dùng xe từ 7 tuổi đến nay."
+        },
+        {
+          "id": "q28",
+          "kind": "mcq",
+          "question": "______ you ______ him again since you went abroad?",
+          "options": [
+            { "key": "A", "text": "Did / see" },
+            { "key": "B", "text": "Do / see" },
+            { "key": "C", "text": "Have / seen" },
+            { "key": "D", "text": "Will / see" }
+          ],
+          "answer": "C",
+          "explanation": "Since + QKĐ (went abroad) → HTHT (Have you seen): bạn đã gặp lại anh ấy kể từ khi đi nước ngoài chưa?"
+        },
+        {
+          "id": "q29",
+          "kind": "mcq",
+          "question": "David ______ Japanese food before, so he knew what to order.",
+          "options": [
+            { "key": "A", "text": "ate" },
+            { "key": "B", "text": "has eaten" },
+            { "key": "C", "text": "was eating" },
+            { "key": "D", "text": "had eaten" }
+          ],
+          "answer": "D",
+          "explanation": "Knew (QKĐ) + before → QKHT (had eaten): đã ăn đồ Nhật trước đó nên biết gọi gì."
+        },
+        {
+          "id": "q30",
+          "kind": "mcq",
+          "question": "While Diana ______ a volleyball match on TV, her friend ______.",
+          "options": [
+            { "key": "A", "text": "was watching / called" },
+            { "key": "B", "text": "was watching / was calling" },
+            { "key": "C", "text": "watched / called" },
+            { "key": "D", "text": "watched / was calling" }
+          ],
+          "answer": "A",
+          "explanation": "While + QKTD (was watching) + QKĐ (called): đang xem TV thì bạn gọi điện — hành động dài bị xen vào bởi hành động ngắn."
+        }
+      ]
+    }
+  ]
+}
