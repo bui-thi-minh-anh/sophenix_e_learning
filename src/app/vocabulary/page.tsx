@@ -9,9 +9,18 @@ import {
   Layers,
   ListChecks,
   Puzzle,
+  Repeat,
+  GraduationCap,
+  CloudSun,
+  Smile,
+  Stethoscope,
+  UtensilsCrossed,
+  ShieldAlert,
+  Dumbbell,
+  type LucideIcon,
 } from "lucide-react";
 import { getAllVocabTopics } from "@/content/vocabulary";
-import type { VocabLevel } from "@/content/vocabulary/types";
+import type { VocabLevel, VocabTopic } from "@/content/vocabulary/types";
 
 const levelFilters = [
   { label: "Tất cả", value: "all" },
@@ -21,32 +30,49 @@ const levelFilters = [
   { label: "Cao cấp", value: "C" },
 ] as const;
 
-const iconMap: Record<string, typeof BookOpen> = {
+// Logo riêng cho từng chủ đề (theo slug) để mỗi chủ đề có nhận diện khác biệt.
+const topicVisualMap: Record<string, { icon: LucideIcon; bg: string; icon_color: string }> = {
+  "irregular-verbs": { icon: Repeat, bg: "from-emerald-500/20 to-emerald-600/10", icon_color: "text-emerald-400" },
+  school: { icon: GraduationCap, bg: "from-blue-500/20 to-blue-600/10", icon_color: "text-blue-400" },
+  weather: { icon: CloudSun, bg: "from-sky-500/20 to-sky-600/10", icon_color: "text-sky-400" },
+  personality: { icon: Smile, bg: "from-pink-500/20 to-pink-600/10", icon_color: "text-pink-400" },
+  sickness: { icon: Stethoscope, bg: "from-rose-500/20 to-rose-600/10", icon_color: "text-rose-400" },
+  restaurant: { icon: UtensilsCrossed, bg: "from-amber-500/20 to-amber-600/10", icon_color: "text-amber-400" },
+  crime: { icon: ShieldAlert, bg: "from-indigo-500/20 to-indigo-600/10", icon_color: "text-indigo-400" },
+  sports: { icon: Dumbbell, bg: "from-orange-500/20 to-orange-600/10", icon_color: "text-orange-400" },
+};
+
+// Fallback theo nhóm từ loại khi chủ đề chưa có logo riêng.
+const categoryIconMap: Record<string, LucideIcon> = {
   "Động từ": Languages,
   "Danh từ": Layers,
   "Tính từ": MessageSquare,
   "Chủ đề": Puzzle,
 };
 
-const colorMap: Record<string, { bg: string; icon: string }> = {
-  "Động từ": { bg: "from-emerald-500/20 to-emerald-600/10", icon: "text-emerald-400" },
-  "Danh từ": { bg: "from-blue-500/20 to-blue-600/10", icon: "text-blue-400" },
-  "Tính từ": { bg: "from-pink-500/20 to-pink-600/10", icon: "text-pink-400" },
-  "Chủ đề": { bg: "from-violet-500/20 to-violet-600/10", icon: "text-violet-400" },
+const categoryColorMap: Record<string, { bg: string; icon_color: string }> = {
+  "Động từ": { bg: "from-emerald-500/20 to-emerald-600/10", icon_color: "text-emerald-400" },
+  "Danh từ": { bg: "from-blue-500/20 to-blue-600/10", icon_color: "text-blue-400" },
+  "Tính từ": { bg: "from-pink-500/20 to-pink-600/10", icon_color: "text-pink-400" },
+  "Chủ đề": { bg: "from-violet-500/20 to-violet-600/10", icon_color: "text-violet-400" },
 };
 
-function getIcon(category: string) {
-  for (const [key, Icon] of Object.entries(iconMap)) {
-    if (category.includes(key)) return Icon;
+function getIcon(topic: VocabTopic): LucideIcon {
+  const own = topicVisualMap[topic.slug];
+  if (own) return own.icon;
+  for (const [key, Icon] of Object.entries(categoryIconMap)) {
+    if (topic.category.includes(key)) return Icon;
   }
   return BookOpen;
 }
 
-function getColor(category: string) {
-  for (const [key, color] of Object.entries(colorMap)) {
-    if (category.includes(key)) return color;
+function getColor(topic: VocabTopic): { bg: string; icon_color: string } {
+  const own = topicVisualMap[topic.slug];
+  if (own) return { bg: own.bg, icon_color: own.icon_color };
+  for (const [key, color] of Object.entries(categoryColorMap)) {
+    if (topic.category.includes(key)) return color;
   }
-  return { bg: "from-blue-500/20 to-blue-600/10", icon: "text-blue-400" };
+  return { bg: "from-blue-500/20 to-blue-600/10", icon_color: "text-blue-400" };
 }
 
 function levelBadgeClass(level: VocabLevel): string {
@@ -101,8 +127,8 @@ export default function VocabularyPage() {
       {/* Topic grid */}
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.map((topic) => {
-          const Icon = getIcon(topic.category);
-          const color = getColor(topic.category);
+          const Icon = getIcon(topic);
+          const color = getColor(topic);
 
           return (
             <Link
@@ -114,7 +140,7 @@ export default function VocabularyPage() {
                 <div
                   className={`flex h-11 w-11 items-center justify-center rounded-xl bg-gradient-to-br ${color.bg}`}
                 >
-                  <Icon className={`h-5 w-5 ${color.icon}`} />
+                  <Icon className={`h-5 w-5 ${color.icon_color}`} />
                 </div>
                 <span
                   className={`rounded-full border px-2.5 py-0.5 text-[11px] font-semibold ${levelBadgeClass(topic.level)}`}

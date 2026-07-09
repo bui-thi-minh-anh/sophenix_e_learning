@@ -11,7 +11,7 @@ import {
   getIrregularVerbs,
   getWordListData,
 } from "@/content/vocabulary";
-import type { VocabWord, VocabLevel, Collocation } from "@/content/vocabulary/types";
+import type { VocabWord, VocabLevel, Collocation, CommonPattern } from "@/content/vocabulary/types";
 
 function levelBadgeClass(level: VocabLevel): string {
   if (level.startsWith("A"))
@@ -74,6 +74,7 @@ export default function VocabDetailPage() {
             <VocabWordList
               words={wordListData.vocabulary}
               collocations={wordListData.collocations}
+              commonPatterns={wordListData.common_patterns}
             />
           ) : slug === "irregular-verbs" ? (
             <IrregularVerbsTable />
@@ -105,9 +106,11 @@ function posClass(pos: string) {
 function VocabWordList({
   words,
   collocations,
+  commonPatterns,
 }: {
   words: VocabWord[];
   collocations: (string | Collocation)[];
+  commonPatterns?: CommonPattern[];
 }) {
   const [query, setQuery] = useState("");
 
@@ -188,6 +191,46 @@ function VocabWordList({
         <p className="py-12 text-center text-sm text-muted-foreground">
           Không tìm thấy từ vựng nào.
         </p>
+      )}
+
+      {/* Common patterns (mẫu câu thường gặp) */}
+      {commonPatterns && commonPatterns.length > 0 && (
+        <div className="rounded-xl border border-border/40 bg-card/80 p-5">
+          <div className="mb-4 flex items-center gap-2">
+            <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-emerald-500/15 text-xs font-bold text-emerald-400">
+              P
+            </span>
+            <h3 className="text-sm font-semibold text-foreground">
+              Mẫu câu thường gặp
+            </h3>
+            <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-medium text-muted-foreground">
+              {commonPatterns.length}
+            </span>
+          </div>
+          <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
+            {commonPatterns.map((p) => (
+              <div
+                key={p.pattern}
+                className="rounded-lg border border-border/30 bg-background/40 p-4"
+              >
+                <p className="font-mono text-sm font-semibold text-emerald-400">
+                  {p.pattern}
+                </p>
+                <ul className="mt-3 space-y-1.5">
+                  {p.examples.map((ex) => (
+                    <li
+                      key={ex}
+                      className="flex items-center gap-2 text-xs text-muted-foreground"
+                    >
+                      <span className="h-1 w-1 shrink-0 rounded-full bg-emerald-400/60" />
+                      {ex}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
       )}
 
       {/* Collocations */}

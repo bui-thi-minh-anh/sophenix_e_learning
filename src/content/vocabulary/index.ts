@@ -3,10 +3,20 @@ import type { ExerciseSet } from "@/content/lessons/types";
 import irregularVerbs from "./irregular-verbs.json";
 import schoolData from "./school.json";
 import weatherData from "./weather.json";
+import personalityData from "./personality.json";
+import sicknessData from "./sickness.json";
+import restaurantData from "./restaurant.json";
+import crimeData from "./crime.json";
+import sportsData from "./sports.json";
 
 const wordListMap: Record<string, WordListData> = {
   school: schoolData as WordListData,
   weather: weatherData as unknown as WordListData,
+  personality: personalityData as unknown as WordListData,
+  sickness: sicknessData as unknown as WordListData,
+  restaurant: restaurantData as unknown as WordListData,
+  crime: crimeData as unknown as WordListData,
+  sports: sportsData as unknown as WordListData,
 };
 
 const topics: VocabTopic[] = [
@@ -36,6 +46,51 @@ const topics: VocabTopic[] = [
     summary: "20 từ vựng mô tả thời tiết, nhiệt độ và các hiện tượng tự nhiên.",
     itemCount: weatherData.vocabulary.length,
     exerciseSets: weatherData.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "personality",
+    title: "Personality — Tính cách",
+    level: "A1-B2",
+    category: "Chủ đề (Topics)",
+    summary: "30 tính từ mô tả tính cách con người, từ cơ bản đến nâng cao.",
+    itemCount: personalityData.vocabulary.length,
+    exerciseSets: personalityData.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "sickness",
+    title: "Sickness — Bệnh tật",
+    level: "A1-B2",
+    category: "Chủ đề (Topics)",
+    summary: "30 từ vựng về bệnh tật, triệu chứng và chăm sóc sức khỏe.",
+    itemCount: sicknessData.vocabulary.length,
+    exerciseSets: sicknessData.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "restaurant",
+    title: "Restaurant — Nhà hàng",
+    level: "A1-B2",
+    category: "Chủ đề (Topics)",
+    summary: "30 từ vựng về nhà hàng, món ăn và cách chế biến, kèm bài tập giao tiếp.",
+    itemCount: restaurantData.vocabulary.length,
+    exerciseSets: restaurantData.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "crime",
+    title: "Crime — Tội phạm & Pháp luật",
+    level: "A2-B2",
+    category: "Chủ đề (Topics)",
+    summary: "40 từ vựng về tội phạm, con người và quy trình pháp luật, kèm bài tập phong phú.",
+    itemCount: crimeData.vocabulary.length,
+    exerciseSets: crimeData.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "sports",
+    title: "Sports — Thể thao",
+    level: "A1-B2",
+    category: "Chủ đề (Topics)",
+    summary: "Từ vựng về các môn thể thao, thi đấu và rèn luyện sức khỏe, kèm bài tập phong phú.",
+    itemCount: sportsData.vocabulary.length,
+    exerciseSets: sportsData.exerciseSets as unknown as ExerciseSet[],
   },
 ];
 

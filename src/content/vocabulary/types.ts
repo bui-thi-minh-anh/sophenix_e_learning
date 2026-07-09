@@ -23,9 +23,16 @@ export interface Collocation {
   meaning: string;
 }
 
+// Mẫu câu/cấu trúc thường gặp của chủ đề (ví dụ: play + sport, go + V-ing).
+export interface CommonPattern {
+  pattern: string;
+  examples: string[];
+}
+
 export interface WordListData {
   vocabulary: VocabWord[];
   collocations: (string | Collocation)[];
+  common_patterns?: CommonPattern[];
 }
 
 export type VocabLevel =
