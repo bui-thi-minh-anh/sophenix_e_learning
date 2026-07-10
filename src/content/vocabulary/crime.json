@@ -1,61 +1,423 @@
 {
   "vocabulary": [
-    { "id": 1, "word": "crime", "ipa_uk": "/kraɪm/", "ipa_us": "/kraɪm/", "part_of_speech": "noun", "meaning": "tội phạm, tội ác", "example": "Crime has increased in the city." },
-    { "id": 2, "word": "criminal", "ipa_uk": "/ˈkrɪmɪnl/", "ipa_us": "/ˈkrɪmɪnl/", "part_of_speech": "noun", "meaning": "tội phạm", "example": "The criminal was arrested yesterday." },
-    { "id": 3, "word": "thief", "ipa_uk": "/θiːf/", "ipa_us": "/θiːf/", "part_of_speech": "noun", "meaning": "kẻ trộm", "example": "A thief stole my bicycle." },
-    { "id": 4, "word": "robber", "ipa_uk": "/ˈrɒbə(r)/", "ipa_us": "/ˈrɑːbər/", "part_of_speech": "noun", "meaning": "kẻ cướp", "example": "The robber escaped." },
-    { "id": 5, "word": "burglar", "ipa_uk": "/ˈbɜːɡlə(r)/", "ipa_us": "/ˈbɜːrɡlər/", "part_of_speech": "noun", "meaning": "kẻ trộm đột nhập", "example": "The burglar broke into the house." },
-    { "id": 6, "word": "shoplifter", "ipa_uk": "/ˈʃɒplɪftə(r)/", "ipa_us": "/ˈʃɑːplɪftər/", "part_of_speech": "noun", "meaning": "kẻ trộm trong cửa hàng", "example": "The shoplifter was caught." },
-    { "id": 7, "word": "suspect", "ipa_uk": "/ˈsʌspekt/", "ipa_us": "/ˈsʌspekt/", "part_of_speech": "noun", "meaning": "nghi phạm", "example": "The suspect denied everything." },
-    { "id": 8, "word": "victim", "ipa_uk": "/ˈvɪktɪm/", "ipa_us": "/ˈvɪktɪm/", "part_of_speech": "noun", "meaning": "nạn nhân", "example": "The victim called the police." },
-    { "id": 9, "word": "witness", "ipa_uk": "/ˈwɪtnəs/", "ipa_us": "/ˈwɪtnəs/", "part_of_speech": "noun", "meaning": "nhân chứng", "example": "A witness saw the accident." },
-    { "id": 10, "word": "detective", "ipa_uk": "/dɪˈtektɪv/", "ipa_us": "/dɪˈtektɪv/", "part_of_speech": "noun", "meaning": "thám tử", "example": "The detective solved the case." },
-    { "id": 11, "word": "police officer", "ipa_uk": "/pəˈliːs ˌɒfɪsə(r)/", "ipa_us": "/pəˈliːs ˌɔːfɪsər/", "part_of_speech": "noun", "meaning": "cảnh sát", "example": "The police officer questioned the suspect." },
-    { "id": 12, "word": "judge", "ipa_uk": "/dʒʌdʒ/", "ipa_us": "/dʒʌdʒ/", "part_of_speech": "noun", "meaning": "thẩm phán", "example": "The judge announced the sentence." },
-    { "id": 13, "word": "lawyer", "ipa_uk": "/ˈlɔːjə(r)/", "ipa_us": "/ˈlɔɪər/", "part_of_speech": "noun", "meaning": "luật sư", "example": "She hired a lawyer." },
-    { "id": 14, "word": "court", "ipa_uk": "/kɔːt/", "ipa_us": "/kɔːrt/", "part_of_speech": "noun", "meaning": "tòa án", "example": "The case went to court." },
-    { "id": 15, "word": "trial", "ipa_uk": "/ˈtraɪəl/", "ipa_us": "/ˈtraɪəl/", "part_of_speech": "noun", "meaning": "phiên tòa", "example": "The trial lasted three weeks." },
-    { "id": 16, "word": "prison", "ipa_uk": "/ˈprɪzn/", "ipa_us": "/ˈprɪzn/", "part_of_speech": "noun", "meaning": "nhà tù", "example": "He was sent to prison." },
-    { "id": 17, "word": "jail", "ipa_uk": "/dʒeɪl/", "ipa_us": "/dʒeɪl/", "part_of_speech": "noun", "meaning": "trại giam", "example": "She spent one night in jail." },
-    { "id": 18, "word": "handcuffs", "ipa_uk": "/ˈhændkʌfs/", "ipa_us": "/ˈhændkʌfs/", "part_of_speech": "noun", "meaning": "còng tay", "example": "The suspect was in handcuffs." },
-    { "id": 19, "word": "evidence", "ipa_uk": "/ˈevɪdəns/", "ipa_us": "/ˈevɪdəns/", "part_of_speech": "noun", "meaning": "bằng chứng", "example": "The police found new evidence." },
-    { "id": 20, "word": "fingerprint", "ipa_uk": "/ˈfɪŋɡəprɪnt/", "ipa_us": "/ˈfɪŋɡərprɪnt/", "part_of_speech": "noun", "meaning": "dấu vân tay", "example": "The fingerprint matched the suspect." },
-    { "id": 21, "word": "steal", "ipa_uk": "/stiːl/", "ipa_us": "/stiːl/", "part_of_speech": "verb", "meaning": "ăn cắp", "example": "Someone stole my phone." },
-    { "id": 22, "word": "rob", "ipa_uk": "/rɒb/", "ipa_us": "/rɑːb/", "part_of_speech": "verb", "meaning": "cướp", "example": "The gang robbed a bank." },
-    { "id": 23, "word": "arrest", "ipa_uk": "/əˈrest/", "ipa_us": "/əˈrest/", "part_of_speech": "verb", "meaning": "bắt giữ", "example": "The police arrested him." },
-    { "id": 24, "word": "investigate", "ipa_uk": "/ɪnˈvestɪɡeɪt/", "ipa_us": "/ɪnˈvestɪɡeɪt/", "part_of_speech": "verb", "meaning": "điều tra", "example": "The police are investigating the case." },
-    { "id": 25, "word": "accuse", "ipa_uk": "/əˈkjuːz/", "ipa_us": "/əˈkjuːz/", "part_of_speech": "verb", "meaning": "buộc tội", "example": "She accused him of stealing." },
-    { "id": 26, "word": "charge", "ipa_uk": "/tʃɑːdʒ/", "ipa_us": "/tʃɑːrdʒ/", "part_of_speech": "verb", "meaning": "truy tố", "example": "He was charged with robbery." },
-    { "id": 27, "word": "escape", "ipa_uk": "/ɪˈskeɪp/", "ipa_us": "/ɪˈskeɪp/", "part_of_speech": "verb", "meaning": "trốn thoát", "example": "The prisoner escaped." },
-    { "id": 28, "word": "confess", "ipa_uk": "/kənˈfes/", "ipa_us": "/kənˈfes/", "part_of_speech": "verb", "meaning": "thú nhận", "example": "The suspect confessed." },
-    { "id": 29, "word": "sentence", "ipa_uk": "/ˈsentəns/", "ipa_us": "/ˈsentəns/", "part_of_speech": "verb", "meaning": "kết án", "example": "The judge sentenced him to prison." },
-    { "id": 30, "word": "release", "ipa_uk": "/rɪˈliːs/", "ipa_us": "/rɪˈliːs/", "part_of_speech": "verb", "meaning": "thả tự do", "example": "The police released the suspect." },
-    { "id": 31, "word": "illegal", "ipa_uk": "/ɪˈliːɡl/", "ipa_us": "/ɪˈliːɡl/", "part_of_speech": "adjective", "meaning": "bất hợp pháp", "example": "Drug trafficking is illegal." },
-    { "id": 32, "word": "legal", "ipa_uk": "/ˈliːɡl/", "ipa_us": "/ˈliːɡl/", "part_of_speech": "adjective", "meaning": "hợp pháp", "example": "It is legal to vote at 18." },
-    { "id": 33, "word": "guilty", "ipa_uk": "/ˈɡɪlti/", "ipa_us": "/ˈɡɪlti/", "part_of_speech": "adjective", "meaning": "có tội", "example": "The jury found him guilty." },
-    { "id": 34, "word": "innocent", "ipa_uk": "/ˈɪnəsnt/", "ipa_us": "/ˈɪnəsnt/", "part_of_speech": "adjective", "meaning": "vô tội", "example": "She was innocent." },
-    { "id": 35, "word": "dangerous", "ipa_uk": "/ˈdeɪndʒərəs/", "ipa_us": "/ˈdeɪndʒərəs/", "part_of_speech": "adjective", "meaning": "nguy hiểm", "example": "The criminal was dangerous." },
-    { "id": 36, "word": "violent", "ipa_uk": "/ˈvaɪələnt/", "ipa_us": "/ˈvaɪələnt/", "part_of_speech": "adjective", "meaning": "bạo lực", "example": "It was a violent attack." },
-    { "id": 37, "word": "suspicious", "ipa_uk": "/səˈspɪʃəs/", "ipa_us": "/səˈspɪʃəs/", "part_of_speech": "adjective", "meaning": "đáng ngờ", "example": "His behavior was suspicious." },
-    { "id": 38, "word": "fake", "ipa_uk": "/feɪk/", "ipa_us": "/feɪk/", "part_of_speech": "adjective", "meaning": "giả mạo", "example": "The passport was fake." },
-    { "id": 39, "word": "fraud", "ipa_uk": "/frɔːd/", "ipa_us": "/frɔːd/", "part_of_speech": "noun", "meaning": "gian lận, lừa đảo", "example": "Online fraud is becoming more common." },
-    { "id": 40, "word": "murder", "ipa_uk": "/ˈmɜːdə(r)/", "ipa_us": "/ˈmɜːrdər/", "part_of_speech": "noun / verb", "meaning": "giết người", "example": "The police are investigating the murder." }
+    {
+      "id": 1,
+      "word": "crime",
+      "ipa_uk": "/kraɪm/",
+      "ipa_us": "/kraɪm/",
+      "part_of_speech": "noun",
+      "meaning": "tội phạm, tội ác",
+      "example": "Crime has increased in the city."
+    },
+    {
+      "id": 2,
+      "word": "criminal",
+      "ipa_uk": "/ˈkrɪmɪnl/",
+      "ipa_us": "/ˈkrɪmɪnl/",
+      "part_of_speech": "noun",
+      "meaning": "tội phạm",
+      "example": "The criminal was arrested yesterday."
+    },
+    {
+      "id": 3,
+      "word": "thief",
+      "ipa_uk": "/θiːf/",
+      "ipa_us": "/θiːf/",
+      "part_of_speech": "noun",
+      "meaning": "kẻ trộm",
+      "example": "A thief stole my bicycle."
+    },
+    {
+      "id": 4,
+      "word": "robber",
+      "ipa_uk": "/ˈrɒbə(r)/",
+      "ipa_us": "/ˈrɑːbər/",
+      "part_of_speech": "noun",
+      "meaning": "kẻ cướp",
+      "example": "The robber escaped."
+    },
+    {
+      "id": 5,
+      "word": "burglar",
+      "ipa_uk": "/ˈbɜːɡlə(r)/",
+      "ipa_us": "/ˈbɜːrɡlər/",
+      "part_of_speech": "noun",
+      "meaning": "kẻ trộm đột nhập",
+      "example": "The burglar broke into the house."
+    },
+    {
+      "id": 6,
+      "word": "shoplifter",
+      "ipa_uk": "/ˈʃɒplɪftə(r)/",
+      "ipa_us": "/ˈʃɑːplɪftər/",
+      "part_of_speech": "noun",
+      "meaning": "kẻ trộm trong cửa hàng",
+      "example": "The shoplifter was caught."
+    },
+    {
+      "id": 7,
+      "word": "suspect",
+      "ipa_uk": "/ˈsʌspekt/",
+      "ipa_us": "/ˈsʌspekt/",
+      "part_of_speech": "noun",
+      "meaning": "nghi phạm",
+      "example": "The suspect denied everything."
+    },
+    {
+      "id": 8,
+      "word": "victim",
+      "ipa_uk": "/ˈvɪktɪm/",
+      "ipa_us": "/ˈvɪktɪm/",
+      "part_of_speech": "noun",
+      "meaning": "nạn nhân",
+      "example": "The victim called the police."
+    },
+    {
+      "id": 9,
+      "word": "witness",
+      "ipa_uk": "/ˈwɪtnəs/",
+      "ipa_us": "/ˈwɪtnəs/",
+      "part_of_speech": "noun",
+      "meaning": "nhân chứng",
+      "example": "A witness saw the accident."
+    },
+    {
+      "id": 10,
+      "word": "detective",
+      "ipa_uk": "/dɪˈtektɪv/",
+      "ipa_us": "/dɪˈtektɪv/",
+      "part_of_speech": "noun",
+      "meaning": "thám tử",
+      "example": "The detective solved the case."
+    },
+    {
+      "id": 11,
+      "word": "police officer",
+      "ipa_uk": "/pəˈliːs ˌɒfɪsə(r)/",
+      "ipa_us": "/pəˈliːs ˌɔːfɪsər/",
+      "part_of_speech": "noun",
+      "meaning": "cảnh sát",
+      "example": "The police officer questioned the suspect."
+    },
+    {
+      "id": 12,
+      "word": "judge",
+      "ipa_uk": "/dʒʌdʒ/",
+      "ipa_us": "/dʒʌdʒ/",
+      "part_of_speech": "noun",
+      "meaning": "thẩm phán",
+      "example": "The judge announced the sentence."
+    },
+    {
+      "id": 13,
+      "word": "lawyer",
+      "ipa_uk": "/ˈlɔːjə(r)/",
+      "ipa_us": "/ˈlɔɪər/",
+      "part_of_speech": "noun",
+      "meaning": "luật sư",
+      "example": "She hired a lawyer."
+    },
+    {
+      "id": 14,
+      "word": "court",
+      "ipa_uk": "/kɔːt/",
+      "ipa_us": "/kɔːrt/",
+      "part_of_speech": "noun",
+      "meaning": "tòa án",
+      "example": "The case went to court."
+    },
+    {
+      "id": 15,
+      "word": "trial",
+      "ipa_uk": "/ˈtraɪəl/",
+      "ipa_us": "/ˈtraɪəl/",
+      "part_of_speech": "noun",
+      "meaning": "phiên tòa",
+      "example": "The trial lasted three weeks."
+    },
+    {
+      "id": 16,
+      "word": "prison",
+      "ipa_uk": "/ˈprɪzn/",
+      "ipa_us": "/ˈprɪzn/",
+      "part_of_speech": "noun",
+      "meaning": "nhà tù",
+      "example": "He was sent to prison."
+    },
+    {
+      "id": 17,
+      "word": "jail",
+      "ipa_uk": "/dʒeɪl/",
+      "ipa_us": "/dʒeɪl/",
+      "part_of_speech": "noun",
+      "meaning": "trại giam",
+      "example": "She spent one night in jail."
+    },
+    {
+      "id": 18,
+      "word": "handcuffs",
+      "ipa_uk": "/ˈhændkʌfs/",
+      "ipa_us": "/ˈhændkʌfs/",
+      "part_of_speech": "noun",
+      "meaning": "còng tay",
+      "example": "The suspect was in handcuffs."
+    },
+    {
+      "id": 19,
+      "word": "evidence",
+      "ipa_uk": "/ˈevɪdəns/",
+      "ipa_us": "/ˈevɪdəns/",
+      "part_of_speech": "noun",
+      "meaning": "bằng chứng",
+      "example": "The police found new evidence."
+    },
+    {
+      "id": 20,
+      "word": "fingerprint",
+      "ipa_uk": "/ˈfɪŋɡəprɪnt/",
+      "ipa_us": "/ˈfɪŋɡərprɪnt/",
+      "part_of_speech": "noun",
+      "meaning": "dấu vân tay",
+      "example": "The fingerprint matched the suspect."
+    },
+    {
+      "id": 21,
+      "word": "steal",
+      "ipa_uk": "/stiːl/",
+      "ipa_us": "/stiːl/",
+      "part_of_speech": "verb",
+      "meaning": "ăn cắp",
+      "example": "Someone stole my phone."
+    },
+    {
+      "id": 22,
+      "word": "rob",
+      "ipa_uk": "/rɒb/",
+      "ipa_us": "/rɑːb/",
+      "part_of_speech": "verb",
+      "meaning": "cướp",
+      "example": "The gang robbed a bank."
+    },
+    {
+      "id": 23,
+      "word": "arrest",
+      "ipa_uk": "/əˈrest/",
+      "ipa_us": "/əˈrest/",
+      "part_of_speech": "verb",
+      "meaning": "bắt giữ",
+      "example": "The police arrested him."
+    },
+    {
+      "id": 24,
+      "word": "investigate",
+      "ipa_uk": "/ɪnˈvestɪɡeɪt/",
+      "ipa_us": "/ɪnˈvestɪɡeɪt/",
+      "part_of_speech": "verb",
+      "meaning": "điều tra",
+      "example": "The police are investigating the case."
+    },
+    {
+      "id": 25,
+      "word": "accuse",
+      "ipa_uk": "/əˈkjuːz/",
+      "ipa_us": "/əˈkjuːz/",
+      "part_of_speech": "verb",
+      "meaning": "buộc tội",
+      "example": "She accused him of stealing."
+    },
+    {
+      "id": 26,
+      "word": "charge",
+      "ipa_uk": "/tʃɑːdʒ/",
+      "ipa_us": "/tʃɑːrdʒ/",
+      "part_of_speech": "verb",
+      "meaning": "truy tố",
+      "example": "He was charged with robbery."
+    },
+    {
+      "id": 27,
+      "word": "escape",
+      "ipa_uk": "/ɪˈskeɪp/",
+      "ipa_us": "/ɪˈskeɪp/",
+      "part_of_speech": "verb",
+      "meaning": "trốn thoát",
+      "example": "The prisoner escaped."
+    },
+    {
+      "id": 28,
+      "word": "confess",
+      "ipa_uk": "/kənˈfes/",
+      "ipa_us": "/kənˈfes/",
+      "part_of_speech": "verb",
+      "meaning": "thú nhận",
+      "example": "The suspect confessed."
+    },
+    {
+      "id": 29,
+      "word": "sentence",
+      "ipa_uk": "/ˈsentəns/",
+      "ipa_us": "/ˈsentəns/",
+      "part_of_speech": "verb",
+      "meaning": "kết án",
+      "example": "The judge sentenced him to prison."
+    },
+    {
+      "id": 30,
+      "word": "release",
+      "ipa_uk": "/rɪˈliːs/",
+      "ipa_us": "/rɪˈliːs/",
+      "part_of_speech": "verb",
+      "meaning": "thả tự do",
+      "example": "The police released the suspect."
+    },
+    {
+      "id": 31,
+      "word": "illegal",
+      "ipa_uk": "/ɪˈliːɡl/",
+      "ipa_us": "/ɪˈliːɡl/",
+      "part_of_speech": "adjective",
+      "meaning": "bất hợp pháp",
+      "example": "Drug trafficking is illegal."
+    },
+    {
+      "id": 32,
+      "word": "legal",
+      "ipa_uk": "/ˈliːɡl/",
+      "ipa_us": "/ˈliːɡl/",
+      "part_of_speech": "adjective",
+      "meaning": "hợp pháp",
+      "example": "It is legal to vote at 18."
+    },
+    {
+      "id": 33,
+      "word": "guilty",
+      "ipa_uk": "/ˈɡɪlti/",
+      "ipa_us": "/ˈɡɪlti/",
+      "part_of_speech": "adjective",
+      "meaning": "có tội",
+      "example": "The jury found him guilty."
+    },
+    {
+      "id": 34,
+      "word": "innocent",
+      "ipa_uk": "/ˈɪnəsnt/",
+      "ipa_us": "/ˈɪnəsnt/",
+      "part_of_speech": "adjective",
+      "meaning": "vô tội",
+      "example": "She was innocent."
+    },
+    {
+      "id": 35,
+      "word": "dangerous",
+      "ipa_uk": "/ˈdeɪndʒərəs/",
+      "ipa_us": "/ˈdeɪndʒərəs/",
+      "part_of_speech": "adjective",
+      "meaning": "nguy hiểm",
+      "example": "The criminal was dangerous."
+    },
+    {
+      "id": 36,
+      "word": "violent",
+      "ipa_uk": "/ˈvaɪələnt/",
+      "ipa_us": "/ˈvaɪələnt/",
+      "part_of_speech": "adjective",
+      "meaning": "bạo lực",
+      "example": "It was a violent attack."
+    },
+    {
+      "id": 37,
+      "word": "suspicious",
+      "ipa_uk": "/səˈspɪʃəs/",
+      "ipa_us": "/səˈspɪʃəs/",
+      "part_of_speech": "adjective",
+      "meaning": "đáng ngờ",
+      "example": "His behavior was suspicious."
+    },
+    {
+      "id": 38,
+      "word": "fake",
+      "ipa_uk": "/feɪk/",
+      "ipa_us": "/feɪk/",
+      "part_of_speech": "adjective",
+      "meaning": "giả mạo",
+      "example": "The passport was fake."
+    },
+    {
+      "id": 39,
+      "word": "fraud",
+      "ipa_uk": "/frɔːd/",
+      "ipa_us": "/frɔːd/",
+      "part_of_speech": "noun",
+      "meaning": "gian lận, lừa đảo",
+      "example": "Online fraud is becoming more common."
+    },
+    {
+      "id": 40,
+      "word": "murder",
+      "ipa_uk": "/ˈmɜːdə(r)/",
+      "ipa_us": "/ˈmɜːrdər/",
+      "part_of_speech": "noun / verb",
+      "meaning": "giết người",
+      "example": "The police are investigating the murder."
+    }
   ],
   "collocations": [
-    { "phrase": "commit a crime", "meaning": "phạm tội" },
-    { "phrase": "break the law", "meaning": "vi phạm pháp luật" },
-    { "phrase": "report a crime", "meaning": "trình báo tội phạm" },
-    { "phrase": "witness a crime", "meaning": "chứng kiến tội phạm" },
-    { "phrase": "arrest a suspect", "meaning": "bắt giữ nghi phạm" },
-    { "phrase": "investigate a case", "meaning": "điều tra một vụ án" },
-    { "phrase": "solve a case", "meaning": "phá án" },
-    { "phrase": "gather evidence", "meaning": "thu thập bằng chứng" },
-    { "phrase": "press charges", "meaning": "đưa ra cáo buộc" },
-    { "phrase": "stand trial", "meaning": "hầu tòa" },
-    { "phrase": "find somebody guilty", "meaning": "kết luận ai đó có tội" },
-    { "phrase": "serve a sentence", "meaning": "thụ án" },
-    { "phrase": "go to prison", "meaning": "vào tù" },
-    { "phrase": "commit fraud", "meaning": "thực hiện hành vi lừa đảo" }
+    {
+      "phrase": "commit a crime",
+      "meaning": "phạm tội"
+    },
+    {
+      "phrase": "break the law",
+      "meaning": "vi phạm pháp luật"
+    },
+    {
+      "phrase": "report a crime",
+      "meaning": "trình báo tội phạm"
+    },
+    {
+      "phrase": "witness a crime",
+      "meaning": "chứng kiến tội phạm"
+    },
+    {
+      "phrase": "arrest a suspect",
+      "meaning": "bắt giữ nghi phạm"
+    },
+    {
+      "phrase": "investigate a case",
+      "meaning": "điều tra một vụ án"
+    },
+    {
+      "phrase": "solve a case",
+      "meaning": "phá án"
+    },
+    {
+      "phrase": "gather evidence",
+      "meaning": "thu thập bằng chứng"
+    },
+    {
+      "phrase": "press charges",
+      "meaning": "đưa ra cáo buộc"
+    },
+    {
+      "phrase": "stand trial",
+      "meaning": "hầu tòa"
+    },
+    {
+      "phrase": "find somebody guilty",
+      "meaning": "kết luận ai đó có tội"
+    },
+    {
+      "phrase": "serve a sentence",
+      "meaning": "thụ án"
+    },
+    {
+      "phrase": "go to prison",
+      "meaning": "vào tù"
+    },
+    {
+      "phrase": "commit fraud",
+      "meaning": "thực hiện hành vi lừa đảo"
+    }
   ],
   "exerciseSets": [
     {
@@ -63,26 +425,172 @@
       "title": "Điền từ vào chỗ trống",
       "description": "Chọn từ vựng phù hợp để hoàn thành câu trong bối cảnh tội phạm và pháp luật.",
       "exercises": [
-        { "id": "cf1", "kind": "fill", "question": "A ___ broke into our house last night and stole the television.", "answer": "burglar", "acceptable": [], "explanation": "burglar = kẻ trộm đột nhập vào nhà" },
-        { "id": "cf2", "kind": "fill", "question": "A ___ saw the whole robbery and told the police what happened.", "answer": "witness", "acceptable": [], "explanation": "witness = nhân chứng" },
-        { "id": "cf3", "kind": "fill", "question": "The ___ of the theft lost all her money and jewelry.", "answer": "victim", "acceptable": [], "explanation": "victim = nạn nhân" },
-        { "id": "cf4", "kind": "fill", "question": "After months of work, the ___ finally solved the mysterious case.", "answer": "detective", "acceptable": [], "explanation": "detective = thám tử" },
-        { "id": "cf5", "kind": "fill", "question": "There was not enough ___ to prove that he committed the crime.", "answer": "evidence", "acceptable": [], "explanation": "evidence = bằng chứng" },
-        { "id": "cf6", "kind": "fill", "question": "The jury found the defendant ___, so he was sent to prison.", "answer": "guilty", "acceptable": [], "explanation": "guilty = có tội" },
-        { "id": "cf7", "kind": "fill", "question": "She had done nothing wrong; she was completely ___.", "answer": "innocent", "acceptable": [], "explanation": "innocent = vô tội" },
-        { "id": "cf8", "kind": "fill", "question": "Selling drugs is ___ in almost every country.", "answer": "illegal", "acceptable": [], "explanation": "illegal = bất hợp pháp" },
-        { "id": "cf9", "kind": "fill", "question": "During the night, the prisoner managed to ___ from jail.", "answer": "escape", "acceptable": [], "explanation": "escape = trốn thoát" },
-        { "id": "cf10", "kind": "fill", "question": "Under pressure, the suspect finally ___ to the crime.", "answer": "confessed", "acceptable": ["confess"], "explanation": "confess = thú nhận (confessed = quá khứ)" },
-        { "id": "cf11", "kind": "fill", "question": "The police need to ___ the case before making an arrest.", "answer": "investigate", "acceptable": [], "explanation": "investigate = điều tra" },
-        { "id": "cf12", "kind": "fill", "question": "The ___ stole a chocolate bar from the supermarket and hid it in his bag.", "answer": "shoplifter", "acceptable": [], "explanation": "shoplifter = kẻ trộm trong cửa hàng" },
-        { "id": "cf13", "kind": "fill", "question": "He was sent to ___ for ten years after the trial.", "answer": "prison", "acceptable": ["jail"], "explanation": "prison = nhà tù" },
-        { "id": "cf14", "kind": "fill", "question": "The police officer put ___ on the suspect's wrists.", "answer": "handcuffs", "acceptable": [], "explanation": "handcuffs = còng tay" },
-        { "id": "cf15", "kind": "fill", "question": "The ___ announced the final decision at the end of the trial.", "answer": "judge", "acceptable": [], "explanation": "judge = thẩm phán" },
-        { "id": "cf16", "kind": "fill", "question": "Online ___ costs people millions of dollars every year.", "answer": "fraud", "acceptable": [], "explanation": "fraud = gian lận, lừa đảo" },
-        { "id": "cf17", "kind": "fill", "question": "His story kept changing, which made the police ___ of him.", "answer": "suspicious", "acceptable": [], "explanation": "suspicious = đáng ngờ" },
-        { "id": "cf18", "kind": "fill", "question": "The police took the man's ___ to compare with the marks found at the scene.", "answer": "fingerprints", "acceptable": ["fingerprint"], "explanation": "fingerprint = dấu vân tay" },
-        { "id": "cf19", "kind": "fill", "question": "The gang used a ___ passport to enter the country.", "answer": "fake", "acceptable": [], "explanation": "fake = giả mạo" },
-        { "id": "cf20", "kind": "fill", "question": "It was a ___ attack, and several people were badly hurt.", "answer": "violent", "acceptable": [], "explanation": "violent = bạo lực" }
+        {
+          "id": "cf1",
+          "kind": "fill",
+          "question": "A ___ broke into our house last night and stole the television.",
+          "answer": "burglar",
+          "acceptable": [],
+          "explanation": "burglar = kẻ trộm đột nhập vào nhà"
+        },
+        {
+          "id": "cf2",
+          "kind": "fill",
+          "question": "A ___ saw the whole robbery and told the police what happened.",
+          "answer": "witness",
+          "acceptable": [],
+          "explanation": "witness = nhân chứng"
+        },
+        {
+          "id": "cf3",
+          "kind": "fill",
+          "question": "The ___ of the theft lost all her money and jewelry.",
+          "answer": "victim",
+          "acceptable": [],
+          "explanation": "victim = nạn nhân"
+        },
+        {
+          "id": "cf4",
+          "kind": "fill",
+          "question": "After months of work, the ___ finally solved the mysterious case.",
+          "answer": "detective",
+          "acceptable": [],
+          "explanation": "detective = thám tử"
+        },
+        {
+          "id": "cf5",
+          "kind": "fill",
+          "question": "There was not enough ___ to prove that he committed the crime.",
+          "answer": "evidence",
+          "acceptable": [],
+          "explanation": "evidence = bằng chứng"
+        },
+        {
+          "id": "cf6",
+          "kind": "fill",
+          "question": "The jury found the defendant ___, so he was sent to prison.",
+          "answer": "guilty",
+          "acceptable": [],
+          "explanation": "guilty = có tội"
+        },
+        {
+          "id": "cf7",
+          "kind": "fill",
+          "question": "She had done nothing wrong; she was completely ___.",
+          "answer": "innocent",
+          "acceptable": [],
+          "explanation": "innocent = vô tội"
+        },
+        {
+          "id": "cf8",
+          "kind": "fill",
+          "question": "Selling drugs is ___ in almost every country.",
+          "answer": "illegal",
+          "acceptable": [],
+          "explanation": "illegal = bất hợp pháp"
+        },
+        {
+          "id": "cf9",
+          "kind": "fill",
+          "question": "During the night, the prisoner managed to ___ from jail.",
+          "answer": "escape",
+          "acceptable": [],
+          "explanation": "escape = trốn thoát"
+        },
+        {
+          "id": "cf10",
+          "kind": "fill",
+          "question": "Under pressure, the suspect finally ___ to the crime.",
+          "answer": "confessed",
+          "acceptable": [
+            "confess"
+          ],
+          "explanation": "confess = thú nhận (confessed = quá khứ)"
+        },
+        {
+          "id": "cf11",
+          "kind": "fill",
+          "question": "The police need to ___ the case before making an arrest.",
+          "answer": "investigate",
+          "acceptable": [],
+          "explanation": "investigate = điều tra"
+        },
+        {
+          "id": "cf12",
+          "kind": "fill",
+          "question": "The ___ stole a chocolate bar from the supermarket and hid it in his bag.",
+          "answer": "shoplifter",
+          "acceptable": [],
+          "explanation": "shoplifter = kẻ trộm trong cửa hàng"
+        },
+        {
+          "id": "cf13",
+          "kind": "fill",
+          "question": "He was sent to ___ for ten years after the trial.",
+          "answer": "prison",
+          "acceptable": [
+            "jail"
+          ],
+          "explanation": "prison = nhà tù"
+        },
+        {
+          "id": "cf14",
+          "kind": "fill",
+          "question": "The police officer put ___ on the suspect's wrists.",
+          "answer": "handcuffs",
+          "acceptable": [],
+          "explanation": "handcuffs = còng tay"
+        },
+        {
+          "id": "cf15",
+          "kind": "fill",
+          "question": "The ___ announced the final decision at the end of the trial.",
+          "answer": "judge",
+          "acceptable": [],
+          "explanation": "judge = thẩm phán"
+        },
+        {
+          "id": "cf16",
+          "kind": "fill",
+          "question": "Online ___ costs people millions of dollars every year.",
+          "answer": "fraud",
+          "acceptable": [],
+          "explanation": "fraud = gian lận, lừa đảo"
+        },
+        {
+          "id": "cf17",
+          "kind": "fill",
+          "question": "His story kept changing, which made the police ___ of him.",
+          "answer": "suspicious",
+          "acceptable": [],
+          "explanation": "suspicious = đáng ngờ"
+        },
+        {
+          "id": "cf18",
+          "kind": "fill",
+          "question": "The police took the man's ___ to compare with the marks found at the scene.",
+          "answer": "fingerprints",
+          "acceptable": [
+            "fingerprint"
+          ],
+          "explanation": "fingerprint = dấu vân tay"
+        },
+        {
+          "id": "cf19",
+          "kind": "fill",
+          "question": "The gang used a ___ passport to enter the country.",
+          "answer": "fake",
+          "acceptable": [],
+          "explanation": "fake = giả mạo"
+        },
+        {
+          "id": "cf20",
+          "kind": "fill",
+          "question": "It was a ___ attack, and several people were badly hurt.",
+          "answer": "violent",
+          "acceptable": [],
+          "explanation": "violent = bạo lực"
+        }
       ]
     },
     {
@@ -90,21 +598,381 @@
       "title": "Trắc nghiệm nghĩa của từ",
       "description": "Chọn nghĩa hoặc từ tiếng Anh đúng nhất.",
       "exercises": [
-        { "id": "cm1", "kind": "mcq", "question": "Từ \"burglar\" nghĩa là gì?", "options": [ { "key": "A", "text": "kẻ cướp có vũ khí" }, { "key": "B", "text": "kẻ trộm đột nhập vào nhà" }, { "key": "C", "text": "kẻ trộm trong cửa hàng" }, { "key": "D", "text": "nghi phạm" } ], "answer": "B", "explanation": "burglar = kẻ trộm đột nhập vào nhà/tòa nhà" },
-        { "id": "cm2", "kind": "mcq", "question": "Người làm chứng cho một vụ việc gọi là gì?", "options": [ { "key": "A", "text": "victim" }, { "key": "B", "text": "suspect" }, { "key": "C", "text": "witness" }, { "key": "D", "text": "judge" } ], "answer": "C", "explanation": "witness = nhân chứng" },
-        { "id": "cm3", "kind": "mcq", "question": "Từ trái nghĩa với \"guilty\" là:", "options": [ { "key": "A", "text": "innocent" }, { "key": "B", "text": "illegal" }, { "key": "C", "text": "violent" }, { "key": "D", "text": "dangerous" } ], "answer": "A", "explanation": "guilty (có tội) ↔ innocent (vô tội)" },
-        { "id": "cm4", "kind": "mcq", "question": "Câu nào dùng \"rob\" đúng?", "options": [ { "key": "A", "text": "They robbed a bank." }, { "key": "B", "text": "They robbed a wallet." }, { "key": "C", "text": "They robbed some money." }, { "key": "D", "text": "They robbed a phone." } ], "answer": "A", "explanation": "rob + người/nơi chốn (rob a bank); steal + đồ vật (steal money)" },
-        { "id": "cm5", "kind": "mcq", "question": "Động từ \"investigate\" nghĩa là gì?", "options": [ { "key": "A", "text": "bắt giữ" }, { "key": "B", "text": "điều tra" }, { "key": "C", "text": "kết án" }, { "key": "D", "text": "thú nhận" } ], "answer": "B", "explanation": "investigate = điều tra" },
-        { "id": "cm6", "kind": "mcq", "question": "Từ nào có nghĩa là \"bằng chứng\"?", "options": [ { "key": "A", "text": "witness" }, { "key": "B", "text": "trial" }, { "key": "C", "text": "evidence" }, { "key": "D", "text": "sentence" } ], "answer": "C", "explanation": "evidence = bằng chứng" },
-        { "id": "cm7", "kind": "mcq", "question": "\"The judge sentenced him to prison.\" — \"sentence\" ở đây nghĩa là:", "options": [ { "key": "A", "text": "câu văn" }, { "key": "B", "text": "kết án" }, { "key": "C", "text": "tha bổng" }, { "key": "D", "text": "điều tra" } ], "answer": "B", "explanation": "sentence (v) = kết án, tuyên án" },
-        { "id": "cm8", "kind": "mcq", "question": "Từ trái nghĩa với \"legal\" là:", "options": [ { "key": "A", "text": "illegal" }, { "key": "B", "text": "innocent" }, { "key": "C", "text": "fake" }, { "key": "D", "text": "guilty" } ], "answer": "A", "explanation": "legal (hợp pháp) ↔ illegal (bất hợp pháp)" },
-        { "id": "cm9", "kind": "mcq", "question": "\"confess\" nghĩa là gì?", "options": [ { "key": "A", "text": "phủ nhận" }, { "key": "B", "text": "thú nhận" }, { "key": "C", "text": "buộc tội" }, { "key": "D", "text": "trốn thoát" } ], "answer": "B", "explanation": "confess = thú nhận" },
-        { "id": "cm10", "kind": "mcq", "question": "Ai là người quyết định hình phạt tại tòa án?", "options": [ { "key": "A", "text": "lawyer" }, { "key": "B", "text": "detective" }, { "key": "C", "text": "judge" }, { "key": "D", "text": "witness" } ], "answer": "C", "explanation": "judge = thẩm phán, người tuyên án" },
-        { "id": "cm11", "kind": "mcq", "question": "Từ nào có nghĩa là \"giả mạo\"?", "options": [ { "key": "A", "text": "fake" }, { "key": "B", "text": "fraud" }, { "key": "C", "text": "violent" }, { "key": "D", "text": "suspicious" } ], "answer": "A", "explanation": "fake = giả mạo (tính từ)" },
-        { "id": "cm12", "kind": "mcq", "question": "\"release\" nghĩa là gì?", "options": [ { "key": "A", "text": "bắt giữ" }, { "key": "B", "text": "thả tự do" }, { "key": "C", "text": "truy tố" }, { "key": "D", "text": "kết án" } ], "answer": "B", "explanation": "release = thả tự do" },
-        { "id": "cm13", "kind": "mcq", "question": "Nơi diễn ra một phiên xử án là:", "options": [ { "key": "A", "text": "prison" }, { "key": "B", "text": "court" }, { "key": "C", "text": "jail" }, { "key": "D", "text": "station" } ], "answer": "B", "explanation": "court = tòa án" },
-        { "id": "cm14", "kind": "mcq", "question": "\"murder\" nghĩa là gì?", "options": [ { "key": "A", "text": "trộm cắp" }, { "key": "B", "text": "lừa đảo" }, { "key": "C", "text": "giết người" }, { "key": "D", "text": "cướp giật" } ], "answer": "C", "explanation": "murder = giết người" },
-        { "id": "cm15", "kind": "mcq", "question": "Người bị nghi là đã gây ra tội gọi là:", "options": [ { "key": "A", "text": "victim" }, { "key": "B", "text": "suspect" }, { "key": "C", "text": "witness" }, { "key": "D", "text": "detective" } ], "answer": "B", "explanation": "suspect = nghi phạm" }
+        {
+          "id": "cm1",
+          "kind": "mcq",
+          "question": "Từ \"burglar\" nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "kẻ cướp có vũ khí"
+            },
+            {
+              "key": "B",
+              "text": "kẻ trộm đột nhập vào nhà"
+            },
+            {
+              "key": "C",
+              "text": "kẻ trộm trong cửa hàng"
+            },
+            {
+              "key": "D",
+              "text": "nghi phạm"
+            }
+          ],
+          "answer": "B",
+          "explanation": "burglar = kẻ trộm đột nhập vào nhà/tòa nhà"
+        },
+        {
+          "id": "cm2",
+          "kind": "mcq",
+          "question": "Người làm chứng cho một vụ việc gọi là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "victim"
+            },
+            {
+              "key": "B",
+              "text": "suspect"
+            },
+            {
+              "key": "C",
+              "text": "witness"
+            },
+            {
+              "key": "D",
+              "text": "judge"
+            }
+          ],
+          "answer": "C",
+          "explanation": "witness = nhân chứng"
+        },
+        {
+          "id": "cm3",
+          "kind": "mcq",
+          "question": "Từ trái nghĩa với \"guilty\" là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "innocent"
+            },
+            {
+              "key": "B",
+              "text": "illegal"
+            },
+            {
+              "key": "C",
+              "text": "violent"
+            },
+            {
+              "key": "D",
+              "text": "dangerous"
+            }
+          ],
+          "answer": "A",
+          "explanation": "guilty (có tội) ↔ innocent (vô tội)"
+        },
+        {
+          "id": "cm4",
+          "kind": "mcq",
+          "question": "Câu nào dùng \"rob\" đúng?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They robbed a bank."
+            },
+            {
+              "key": "B",
+              "text": "They robbed a wallet."
+            },
+            {
+              "key": "C",
+              "text": "They robbed some money."
+            },
+            {
+              "key": "D",
+              "text": "They robbed a phone."
+            }
+          ],
+          "answer": "A",
+          "explanation": "rob + người/nơi chốn (rob a bank); steal + đồ vật (steal money)"
+        },
+        {
+          "id": "cm5",
+          "kind": "mcq",
+          "question": "Động từ \"investigate\" nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "bắt giữ"
+            },
+            {
+              "key": "B",
+              "text": "điều tra"
+            },
+            {
+              "key": "C",
+              "text": "kết án"
+            },
+            {
+              "key": "D",
+              "text": "thú nhận"
+            }
+          ],
+          "answer": "B",
+          "explanation": "investigate = điều tra"
+        },
+        {
+          "id": "cm6",
+          "kind": "mcq",
+          "question": "Từ nào có nghĩa là \"bằng chứng\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "witness"
+            },
+            {
+              "key": "B",
+              "text": "trial"
+            },
+            {
+              "key": "C",
+              "text": "evidence"
+            },
+            {
+              "key": "D",
+              "text": "sentence"
+            }
+          ],
+          "answer": "C",
+          "explanation": "evidence = bằng chứng"
+        },
+        {
+          "id": "cm7",
+          "kind": "mcq",
+          "question": "\"The judge sentenced him to prison.\" — \"sentence\" ở đây nghĩa là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "câu văn"
+            },
+            {
+              "key": "B",
+              "text": "kết án"
+            },
+            {
+              "key": "C",
+              "text": "tha bổng"
+            },
+            {
+              "key": "D",
+              "text": "điều tra"
+            }
+          ],
+          "answer": "B",
+          "explanation": "sentence (v) = kết án, tuyên án"
+        },
+        {
+          "id": "cm8",
+          "kind": "mcq",
+          "question": "Từ trái nghĩa với \"legal\" là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "illegal"
+            },
+            {
+              "key": "B",
+              "text": "innocent"
+            },
+            {
+              "key": "C",
+              "text": "fake"
+            },
+            {
+              "key": "D",
+              "text": "guilty"
+            }
+          ],
+          "answer": "A",
+          "explanation": "legal (hợp pháp) ↔ illegal (bất hợp pháp)"
+        },
+        {
+          "id": "cm9",
+          "kind": "mcq",
+          "question": "\"confess\" nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "phủ nhận"
+            },
+            {
+              "key": "B",
+              "text": "thú nhận"
+            },
+            {
+              "key": "C",
+              "text": "buộc tội"
+            },
+            {
+              "key": "D",
+              "text": "trốn thoát"
+            }
+          ],
+          "answer": "B",
+          "explanation": "confess = thú nhận"
+        },
+        {
+          "id": "cm10",
+          "kind": "mcq",
+          "question": "Ai là người quyết định hình phạt tại tòa án?",
+          "options": [
+            {
+              "key": "A",
+              "text": "lawyer"
+            },
+            {
+              "key": "B",
+              "text": "detective"
+            },
+            {
+              "key": "C",
+              "text": "judge"
+            },
+            {
+              "key": "D",
+              "text": "witness"
+            }
+          ],
+          "answer": "C",
+          "explanation": "judge = thẩm phán, người tuyên án"
+        },
+        {
+          "id": "cm11",
+          "kind": "mcq",
+          "question": "Từ nào có nghĩa là \"giả mạo\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "fake"
+            },
+            {
+              "key": "B",
+              "text": "fraud"
+            },
+            {
+              "key": "C",
+              "text": "violent"
+            },
+            {
+              "key": "D",
+              "text": "suspicious"
+            }
+          ],
+          "answer": "A",
+          "explanation": "fake = giả mạo (tính từ)"
+        },
+        {
+          "id": "cm12",
+          "kind": "mcq",
+          "question": "\"release\" nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "bắt giữ"
+            },
+            {
+              "key": "B",
+              "text": "thả tự do"
+            },
+            {
+              "key": "C",
+              "text": "truy tố"
+            },
+            {
+              "key": "D",
+              "text": "kết án"
+            }
+          ],
+          "answer": "B",
+          "explanation": "release = thả tự do"
+        },
+        {
+          "id": "cm13",
+          "kind": "mcq",
+          "question": "Nơi diễn ra một phiên xử án là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "prison"
+            },
+            {
+              "key": "B",
+              "text": "court"
+            },
+            {
+              "key": "C",
+              "text": "jail"
+            },
+            {
+              "key": "D",
+              "text": "station"
+            }
+          ],
+          "answer": "B",
+          "explanation": "court = tòa án"
+        },
+        {
+          "id": "cm14",
+          "kind": "mcq",
+          "question": "\"murder\" nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "trộm cắp"
+            },
+            {
+              "key": "B",
+              "text": "lừa đảo"
+            },
+            {
+              "key": "C",
+              "text": "giết người"
+            },
+            {
+              "key": "D",
+              "text": "cướp giật"
+            }
+          ],
+          "answer": "C",
+          "explanation": "murder = giết người"
+        },
+        {
+          "id": "cm15",
+          "kind": "mcq",
+          "question": "Người bị nghi là đã gây ra tội gọi là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "victim"
+            },
+            {
+              "key": "B",
+              "text": "suspect"
+            },
+            {
+              "key": "C",
+              "text": "witness"
+            },
+            {
+              "key": "D",
+              "text": "detective"
+            }
+          ],
+          "answer": "B",
+          "explanation": "suspect = nghi phạm"
+        }
       ]
     },
     {
@@ -112,46 +980,326 @@
       "title": "Viết từ tiếng Anh",
       "description": "Dựa vào nghĩa tiếng Việt, viết từ tiếng Anh tương ứng (đủ 40 từ).",
       "exercises": [
-        { "id": "ce1", "kind": "fill", "question": "tội phạm, tội ác → ___", "answer": "crime", "acceptable": [], "explanation": "crime /kraɪm/" },
-        { "id": "ce2", "kind": "fill", "question": "tội phạm (người) → ___", "answer": "criminal", "acceptable": [], "explanation": "criminal /ˈkrɪmɪnl/" },
-        { "id": "ce3", "kind": "fill", "question": "kẻ trộm → ___", "answer": "thief", "acceptable": [], "explanation": "thief /θiːf/" },
-        { "id": "ce4", "kind": "fill", "question": "kẻ cướp → ___", "answer": "robber", "acceptable": [], "explanation": "robber /ˈrɑːbər/" },
-        { "id": "ce5", "kind": "fill", "question": "kẻ trộm đột nhập → ___", "answer": "burglar", "acceptable": [], "explanation": "burglar /ˈbɜːrɡlər/" },
-        { "id": "ce6", "kind": "fill", "question": "kẻ trộm trong cửa hàng → ___", "answer": "shoplifter", "acceptable": [], "explanation": "shoplifter /ˈʃɑːplɪftər/" },
-        { "id": "ce7", "kind": "fill", "question": "nghi phạm → ___", "answer": "suspect", "acceptable": [], "explanation": "suspect /ˈsʌspekt/" },
-        { "id": "ce8", "kind": "fill", "question": "nạn nhân → ___", "answer": "victim", "acceptable": [], "explanation": "victim /ˈvɪktɪm/" },
-        { "id": "ce9", "kind": "fill", "question": "nhân chứng → ___", "answer": "witness", "acceptable": [], "explanation": "witness /ˈwɪtnəs/" },
-        { "id": "ce10", "kind": "fill", "question": "thám tử → ___", "answer": "detective", "acceptable": [], "explanation": "detective /dɪˈtektɪv/" },
-        { "id": "ce11", "kind": "fill", "question": "cảnh sát → ___", "answer": "police officer", "acceptable": [], "explanation": "police officer /pəˈliːs ˌɔːfɪsər/" },
-        { "id": "ce12", "kind": "fill", "question": "thẩm phán → ___", "answer": "judge", "acceptable": [], "explanation": "judge /dʒʌdʒ/" },
-        { "id": "ce13", "kind": "fill", "question": "luật sư → ___", "answer": "lawyer", "acceptable": [], "explanation": "lawyer /ˈlɔɪər/" },
-        { "id": "ce14", "kind": "fill", "question": "tòa án → ___", "answer": "court", "acceptable": [], "explanation": "court /kɔːrt/" },
-        { "id": "ce15", "kind": "fill", "question": "phiên tòa → ___", "answer": "trial", "acceptable": [], "explanation": "trial /ˈtraɪəl/" },
-        { "id": "ce16", "kind": "fill", "question": "nhà tù → ___", "answer": "prison", "acceptable": [], "explanation": "prison /ˈprɪzn/" },
-        { "id": "ce17", "kind": "fill", "question": "trại giam → ___", "answer": "jail", "acceptable": [], "explanation": "jail /dʒeɪl/" },
-        { "id": "ce18", "kind": "fill", "question": "còng tay → ___", "answer": "handcuffs", "acceptable": [], "explanation": "handcuffs /ˈhændkʌfs/" },
-        { "id": "ce19", "kind": "fill", "question": "bằng chứng → ___", "answer": "evidence", "acceptable": [], "explanation": "evidence /ˈevɪdəns/" },
-        { "id": "ce20", "kind": "fill", "question": "dấu vân tay → ___", "answer": "fingerprint", "acceptable": [], "explanation": "fingerprint /ˈfɪŋɡərprɪnt/" },
-        { "id": "ce21", "kind": "fill", "question": "ăn cắp → ___", "answer": "steal", "acceptable": [], "explanation": "steal /stiːl/" },
-        { "id": "ce22", "kind": "fill", "question": "cướp → ___", "answer": "rob", "acceptable": [], "explanation": "rob /rɑːb/" },
-        { "id": "ce23", "kind": "fill", "question": "bắt giữ → ___", "answer": "arrest", "acceptable": [], "explanation": "arrest /əˈrest/" },
-        { "id": "ce24", "kind": "fill", "question": "điều tra → ___", "answer": "investigate", "acceptable": [], "explanation": "investigate /ɪnˈvestɪɡeɪt/" },
-        { "id": "ce25", "kind": "fill", "question": "buộc tội → ___", "answer": "accuse", "acceptable": [], "explanation": "accuse /əˈkjuːz/" },
-        { "id": "ce26", "kind": "fill", "question": "truy tố → ___", "answer": "charge", "acceptable": [], "explanation": "charge /tʃɑːrdʒ/" },
-        { "id": "ce27", "kind": "fill", "question": "trốn thoát → ___", "answer": "escape", "acceptable": [], "explanation": "escape /ɪˈskeɪp/" },
-        { "id": "ce28", "kind": "fill", "question": "thú nhận → ___", "answer": "confess", "acceptable": [], "explanation": "confess /kənˈfes/" },
-        { "id": "ce29", "kind": "fill", "question": "kết án → ___", "answer": "sentence", "acceptable": [], "explanation": "sentence /ˈsentəns/" },
-        { "id": "ce30", "kind": "fill", "question": "thả tự do → ___", "answer": "release", "acceptable": [], "explanation": "release /rɪˈliːs/" },
-        { "id": "ce31", "kind": "fill", "question": "bất hợp pháp → ___", "answer": "illegal", "acceptable": [], "explanation": "illegal /ɪˈliːɡl/" },
-        { "id": "ce32", "kind": "fill", "question": "hợp pháp → ___", "answer": "legal", "acceptable": [], "explanation": "legal /ˈliːɡl/" },
-        { "id": "ce33", "kind": "fill", "question": "có tội → ___", "answer": "guilty", "acceptable": [], "explanation": "guilty /ˈɡɪlti/" },
-        { "id": "ce34", "kind": "fill", "question": "vô tội → ___", "answer": "innocent", "acceptable": [], "explanation": "innocent /ˈɪnəsnt/" },
-        { "id": "ce35", "kind": "fill", "question": "nguy hiểm → ___", "answer": "dangerous", "acceptable": [], "explanation": "dangerous /ˈdeɪndʒərəs/" },
-        { "id": "ce36", "kind": "fill", "question": "bạo lực → ___", "answer": "violent", "acceptable": [], "explanation": "violent /ˈvaɪələnt/" },
-        { "id": "ce37", "kind": "fill", "question": "đáng ngờ → ___", "answer": "suspicious", "acceptable": [], "explanation": "suspicious /səˈspɪʃəs/" },
-        { "id": "ce38", "kind": "fill", "question": "giả mạo → ___", "answer": "fake", "acceptable": [], "explanation": "fake /feɪk/" },
-        { "id": "ce39", "kind": "fill", "question": "gian lận, lừa đảo → ___", "answer": "fraud", "acceptable": [], "explanation": "fraud /frɔːd/" },
-        { "id": "ce40", "kind": "fill", "question": "giết người → ___", "answer": "murder", "acceptable": [], "explanation": "murder /ˈmɜːrdər/" }
+        {
+          "id": "ce1",
+          "kind": "fill",
+          "question": "tội phạm, tội ác → ___",
+          "answer": "crime",
+          "acceptable": [],
+          "explanation": "crime /kraɪm/"
+        },
+        {
+          "id": "ce2",
+          "kind": "fill",
+          "question": "tội phạm (người) → ___",
+          "answer": "criminal",
+          "acceptable": [],
+          "explanation": "criminal /ˈkrɪmɪnl/"
+        },
+        {
+          "id": "ce3",
+          "kind": "fill",
+          "question": "kẻ trộm → ___",
+          "answer": "thief",
+          "acceptable": [],
+          "explanation": "thief /θiːf/"
+        },
+        {
+          "id": "ce4",
+          "kind": "fill",
+          "question": "kẻ cướp → ___",
+          "answer": "robber",
+          "acceptable": [],
+          "explanation": "robber /ˈrɑːbər/"
+        },
+        {
+          "id": "ce5",
+          "kind": "fill",
+          "question": "kẻ trộm đột nhập → ___",
+          "answer": "burglar",
+          "acceptable": [],
+          "explanation": "burglar /ˈbɜːrɡlər/"
+        },
+        {
+          "id": "ce6",
+          "kind": "fill",
+          "question": "kẻ trộm trong cửa hàng → ___",
+          "answer": "shoplifter",
+          "acceptable": [],
+          "explanation": "shoplifter /ˈʃɑːplɪftər/"
+        },
+        {
+          "id": "ce7",
+          "kind": "fill",
+          "question": "nghi phạm → ___",
+          "answer": "suspect",
+          "acceptable": [],
+          "explanation": "suspect /ˈsʌspekt/"
+        },
+        {
+          "id": "ce8",
+          "kind": "fill",
+          "question": "nạn nhân → ___",
+          "answer": "victim",
+          "acceptable": [],
+          "explanation": "victim /ˈvɪktɪm/"
+        },
+        {
+          "id": "ce9",
+          "kind": "fill",
+          "question": "nhân chứng → ___",
+          "answer": "witness",
+          "acceptable": [],
+          "explanation": "witness /ˈwɪtnəs/"
+        },
+        {
+          "id": "ce10",
+          "kind": "fill",
+          "question": "thám tử → ___",
+          "answer": "detective",
+          "acceptable": [],
+          "explanation": "detective /dɪˈtektɪv/"
+        },
+        {
+          "id": "ce11",
+          "kind": "fill",
+          "question": "cảnh sát → ___",
+          "answer": "police officer",
+          "acceptable": [],
+          "explanation": "police officer /pəˈliːs ˌɔːfɪsər/"
+        },
+        {
+          "id": "ce12",
+          "kind": "fill",
+          "question": "thẩm phán → ___",
+          "answer": "judge",
+          "acceptable": [],
+          "explanation": "judge /dʒʌdʒ/"
+        },
+        {
+          "id": "ce13",
+          "kind": "fill",
+          "question": "luật sư → ___",
+          "answer": "lawyer",
+          "acceptable": [],
+          "explanation": "lawyer /ˈlɔɪər/"
+        },
+        {
+          "id": "ce14",
+          "kind": "fill",
+          "question": "tòa án → ___",
+          "answer": "court",
+          "acceptable": [],
+          "explanation": "court /kɔːrt/"
+        },
+        {
+          "id": "ce15",
+          "kind": "fill",
+          "question": "phiên tòa → ___",
+          "answer": "trial",
+          "acceptable": [],
+          "explanation": "trial /ˈtraɪəl/"
+        },
+        {
+          "id": "ce16",
+          "kind": "fill",
+          "question": "nhà tù → ___",
+          "answer": "prison",
+          "acceptable": [],
+          "explanation": "prison /ˈprɪzn/"
+        },
+        {
+          "id": "ce17",
+          "kind": "fill",
+          "question": "trại giam → ___",
+          "answer": "jail",
+          "acceptable": [],
+          "explanation": "jail /dʒeɪl/"
+        },
+        {
+          "id": "ce18",
+          "kind": "fill",
+          "question": "còng tay → ___",
+          "answer": "handcuffs",
+          "acceptable": [],
+          "explanation": "handcuffs /ˈhændkʌfs/"
+        },
+        {
+          "id": "ce19",
+          "kind": "fill",
+          "question": "bằng chứng → ___",
+          "answer": "evidence",
+          "acceptable": [],
+          "explanation": "evidence /ˈevɪdəns/"
+        },
+        {
+          "id": "ce20",
+          "kind": "fill",
+          "question": "dấu vân tay → ___",
+          "answer": "fingerprint",
+          "acceptable": [],
+          "explanation": "fingerprint /ˈfɪŋɡərprɪnt/"
+        },
+        {
+          "id": "ce21",
+          "kind": "fill",
+          "question": "ăn cắp → ___",
+          "answer": "steal",
+          "acceptable": [],
+          "explanation": "steal /stiːl/"
+        },
+        {
+          "id": "ce22",
+          "kind": "fill",
+          "question": "cướp → ___",
+          "answer": "rob",
+          "acceptable": [],
+          "explanation": "rob /rɑːb/"
+        },
+        {
+          "id": "ce23",
+          "kind": "fill",
+          "question": "bắt giữ → ___",
+          "answer": "arrest",
+          "acceptable": [],
+          "explanation": "arrest /əˈrest/"
+        },
+        {
+          "id": "ce24",
+          "kind": "fill",
+          "question": "điều tra → ___",
+          "answer": "investigate",
+          "acceptable": [],
+          "explanation": "investigate /ɪnˈvestɪɡeɪt/"
+        },
+        {
+          "id": "ce25",
+          "kind": "fill",
+          "question": "buộc tội → ___",
+          "answer": "accuse",
+          "acceptable": [],
+          "explanation": "accuse /əˈkjuːz/"
+        },
+        {
+          "id": "ce26",
+          "kind": "fill",
+          "question": "truy tố → ___",
+          "answer": "charge",
+          "acceptable": [],
+          "explanation": "charge /tʃɑːrdʒ/"
+        },
+        {
+          "id": "ce27",
+          "kind": "fill",
+          "question": "trốn thoát → ___",
+          "answer": "escape",
+          "acceptable": [],
+          "explanation": "escape /ɪˈskeɪp/"
+        },
+        {
+          "id": "ce28",
+          "kind": "fill",
+          "question": "thú nhận → ___",
+          "answer": "confess",
+          "acceptable": [],
+          "explanation": "confess /kənˈfes/"
+        },
+        {
+          "id": "ce29",
+          "kind": "fill",
+          "question": "kết án → ___",
+          "answer": "sentence",
+          "acceptable": [],
+          "explanation": "sentence /ˈsentəns/"
+        },
+        {
+          "id": "ce30",
+          "kind": "fill",
+          "question": "thả tự do → ___",
+          "answer": "release",
+          "acceptable": [],
+          "explanation": "release /rɪˈliːs/"
+        },
+        {
+          "id": "ce31",
+          "kind": "fill",
+          "question": "bất hợp pháp → ___",
+          "answer": "illegal",
+          "acceptable": [],
+          "explanation": "illegal /ɪˈliːɡl/"
+        },
+        {
+          "id": "ce32",
+          "kind": "fill",
+          "question": "hợp pháp → ___",
+          "answer": "legal",
+          "acceptable": [],
+          "explanation": "legal /ˈliːɡl/"
+        },
+        {
+          "id": "ce33",
+          "kind": "fill",
+          "question": "có tội → ___",
+          "answer": "guilty",
+          "acceptable": [],
+          "explanation": "guilty /ˈɡɪlti/"
+        },
+        {
+          "id": "ce34",
+          "kind": "fill",
+          "question": "vô tội → ___",
+          "answer": "innocent",
+          "acceptable": [],
+          "explanation": "innocent /ˈɪnəsnt/"
+        },
+        {
+          "id": "ce35",
+          "kind": "fill",
+          "question": "nguy hiểm → ___",
+          "answer": "dangerous",
+          "acceptable": [],
+          "explanation": "dangerous /ˈdeɪndʒərəs/"
+        },
+        {
+          "id": "ce36",
+          "kind": "fill",
+          "question": "bạo lực → ___",
+          "answer": "violent",
+          "acceptable": [],
+          "explanation": "violent /ˈvaɪələnt/"
+        },
+        {
+          "id": "ce37",
+          "kind": "fill",
+          "question": "đáng ngờ → ___",
+          "answer": "suspicious",
+          "acceptable": [],
+          "explanation": "suspicious /səˈspɪʃəs/"
+        },
+        {
+          "id": "ce38",
+          "kind": "fill",
+          "question": "giả mạo → ___",
+          "answer": "fake",
+          "acceptable": [],
+          "explanation": "fake /feɪk/"
+        },
+        {
+          "id": "ce39",
+          "kind": "fill",
+          "question": "gian lận, lừa đảo → ___",
+          "answer": "fraud",
+          "acceptable": [],
+          "explanation": "fraud /frɔːd/"
+        },
+        {
+          "id": "ce40",
+          "kind": "fill",
+          "question": "giết người → ___",
+          "answer": "murder",
+          "acceptable": [],
+          "explanation": "murder /ˈmɜːrdər/"
+        }
       ]
     },
     {
@@ -159,18 +1307,553 @@
       "title": "Con người & quy trình pháp luật",
       "description": "Phân biệt vai trò và hoàn thành các cụm từ về quy trình xử lý tội phạm.",
       "exercises": [
-        { "id": "cp1", "kind": "mcq", "question": "Ai là người bào chữa cho bạn trước tòa?", "options": [ { "key": "A", "text": "judge" }, { "key": "B", "text": "lawyer" }, { "key": "C", "text": "witness" }, { "key": "D", "text": "detective" } ], "answer": "B", "explanation": "lawyer = luật sư, người bào chữa" },
-        { "id": "cp2", "kind": "mcq", "question": "Bước nào thường diễn ra ĐẦU TIÊN?", "options": [ { "key": "A", "text": "trial (phiên tòa)" }, { "key": "B", "text": "sentence (tuyên án)" }, { "key": "C", "text": "arrest (bắt giữ)" }, { "key": "D", "text": "release (thả tự do)" } ], "answer": "C", "explanation": "Trình tự: crime → arrest → trial → sentence" },
-        { "id": "cp3", "kind": "mcq", "question": "Người trực tiếp điều tra và phá án thường là:", "options": [ { "key": "A", "text": "judge" }, { "key": "B", "text": "detective" }, { "key": "C", "text": "lawyer" }, { "key": "D", "text": "victim" } ], "answer": "B", "explanation": "detective = thám tử, người điều tra vụ án" },
-        { "id": "cp4", "kind": "fill", "question": "commit a ___ (phạm tội)", "answer": "crime", "acceptable": [], "explanation": "commit a crime = phạm tội" },
-        { "id": "cp5", "kind": "fill", "question": "break the ___ (vi phạm pháp luật)", "answer": "law", "acceptable": [], "explanation": "break the law = vi phạm pháp luật" },
-        { "id": "cp6", "kind": "fill", "question": "serve a ___ (thụ án)", "answer": "sentence", "acceptable": [], "explanation": "serve a sentence = thụ án" },
-        { "id": "cp7", "kind": "fill", "question": "gather ___ (thu thập bằng chứng)", "answer": "evidence", "acceptable": [], "explanation": "gather evidence = thu thập bằng chứng" },
-        { "id": "cp8", "kind": "fill", "question": "report a ___ to the police (trình báo tội phạm)", "answer": "crime", "acceptable": [], "explanation": "report a crime = trình báo tội phạm" },
-        { "id": "cp9", "kind": "mcq", "question": "Điền đúng: \"The thieves ___ a jewelry store last night.\"", "options": [ { "key": "A", "text": "stole" }, { "key": "B", "text": "robbed" }, { "key": "C", "text": "burgled" }, { "key": "D", "text": "charged" } ], "answer": "B", "explanation": "rob + nơi chốn: robbed a store" },
-        { "id": "cp10", "kind": "fill", "question": "He was found guilty and sent to ___ (nhà tù).", "answer": "prison", "acceptable": ["jail"], "explanation": "go to prison = vào tù" },
-        { "id": "cp11", "kind": "mcq", "question": "Một người chưa gây ra tội thì được coi là:", "options": [ { "key": "A", "text": "guilty" }, { "key": "B", "text": "innocent" }, { "key": "C", "text": "suspicious" }, { "key": "D", "text": "illegal" } ], "answer": "B", "explanation": "innocent = vô tội" },
-        { "id": "cp12", "kind": "fill", "question": "The police will ___ the suspect if they find enough evidence. (bắt giữ)", "answer": "arrest", "acceptable": [], "explanation": "arrest = bắt giữ" }
+        {
+          "id": "cp1",
+          "kind": "mcq",
+          "question": "Ai là người bào chữa cho bạn trước tòa?",
+          "options": [
+            {
+              "key": "A",
+              "text": "judge"
+            },
+            {
+              "key": "B",
+              "text": "lawyer"
+            },
+            {
+              "key": "C",
+              "text": "witness"
+            },
+            {
+              "key": "D",
+              "text": "detective"
+            }
+          ],
+          "answer": "B",
+          "explanation": "lawyer = luật sư, người bào chữa"
+        },
+        {
+          "id": "cp2",
+          "kind": "mcq",
+          "question": "Bước nào thường diễn ra ĐẦU TIÊN?",
+          "options": [
+            {
+              "key": "A",
+              "text": "trial (phiên tòa)"
+            },
+            {
+              "key": "B",
+              "text": "sentence (tuyên án)"
+            },
+            {
+              "key": "C",
+              "text": "arrest (bắt giữ)"
+            },
+            {
+              "key": "D",
+              "text": "release (thả tự do)"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Trình tự: crime → arrest → trial → sentence"
+        },
+        {
+          "id": "cp3",
+          "kind": "mcq",
+          "question": "Người trực tiếp điều tra và phá án thường là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "judge"
+            },
+            {
+              "key": "B",
+              "text": "detective"
+            },
+            {
+              "key": "C",
+              "text": "lawyer"
+            },
+            {
+              "key": "D",
+              "text": "victim"
+            }
+          ],
+          "answer": "B",
+          "explanation": "detective = thám tử, người điều tra vụ án"
+        },
+        {
+          "id": "cp4",
+          "kind": "fill",
+          "question": "commit a ___ (phạm tội)",
+          "answer": "crime",
+          "acceptable": [],
+          "explanation": "commit a crime = phạm tội"
+        },
+        {
+          "id": "cp5",
+          "kind": "fill",
+          "question": "break the ___ (vi phạm pháp luật)",
+          "answer": "law",
+          "acceptable": [],
+          "explanation": "break the law = vi phạm pháp luật"
+        },
+        {
+          "id": "cp6",
+          "kind": "fill",
+          "question": "serve a ___ (thụ án)",
+          "answer": "sentence",
+          "acceptable": [],
+          "explanation": "serve a sentence = thụ án"
+        },
+        {
+          "id": "cp7",
+          "kind": "fill",
+          "question": "gather ___ (thu thập bằng chứng)",
+          "answer": "evidence",
+          "acceptable": [],
+          "explanation": "gather evidence = thu thập bằng chứng"
+        },
+        {
+          "id": "cp8",
+          "kind": "fill",
+          "question": "report a ___ to the police (trình báo tội phạm)",
+          "answer": "crime",
+          "acceptable": [],
+          "explanation": "report a crime = trình báo tội phạm"
+        },
+        {
+          "id": "cp9",
+          "kind": "mcq",
+          "question": "Điền đúng: \"The thieves ___ a jewelry store last night.\"",
+          "options": [
+            {
+              "key": "A",
+              "text": "stole"
+            },
+            {
+              "key": "B",
+              "text": "robbed"
+            },
+            {
+              "key": "C",
+              "text": "burgled"
+            },
+            {
+              "key": "D",
+              "text": "charged"
+            }
+          ],
+          "answer": "B",
+          "explanation": "rob + nơi chốn: robbed a store"
+        },
+        {
+          "id": "cp10",
+          "kind": "fill",
+          "question": "He was found guilty and sent to ___ (nhà tù).",
+          "answer": "prison",
+          "acceptable": [
+            "jail"
+          ],
+          "explanation": "go to prison = vào tù"
+        },
+        {
+          "id": "cp11",
+          "kind": "mcq",
+          "question": "Một người chưa gây ra tội thì được coi là:",
+          "options": [
+            {
+              "key": "A",
+              "text": "guilty"
+            },
+            {
+              "key": "B",
+              "text": "innocent"
+            },
+            {
+              "key": "C",
+              "text": "suspicious"
+            },
+            {
+              "key": "D",
+              "text": "illegal"
+            }
+          ],
+          "answer": "B",
+          "explanation": "innocent = vô tội"
+        },
+        {
+          "id": "cp12",
+          "kind": "fill",
+          "question": "The police will ___ the suspect if they find enough evidence. (bắt giữ)",
+          "answer": "arrest",
+          "acceptable": [],
+          "explanation": "arrest = bắt giữ"
+        }
+      ]
+    },
+    {
+      "id": "crime-match-col",
+      "title": "Nối collocation — Tội phạm",
+      "description": "Chọn từ đi kèm đúng để tạo thành cụm từ pháp luật.",
+      "exercises": [
+        {
+          "id": "cmc1",
+          "kind": "mcq",
+          "question": "___ a crime (phạm tội)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Commit"
+            },
+            {
+              "key": "D",
+              "text": "Take"
+            }
+          ],
+          "answer": "C",
+          "explanation": "commit a crime = phạm tội"
+        },
+        {
+          "id": "cmc2",
+          "kind": "mcq",
+          "question": "___ the law (vi phạm pháp luật)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cut"
+            },
+            {
+              "key": "B",
+              "text": "Break"
+            },
+            {
+              "key": "C",
+              "text": "Crack"
+            },
+            {
+              "key": "D",
+              "text": "Hit"
+            }
+          ],
+          "answer": "B",
+          "explanation": "break the law = vi phạm pháp luật"
+        },
+        {
+          "id": "cmc3",
+          "kind": "mcq",
+          "question": "___ a suspect (bắt giữ nghi phạm)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Catch"
+            },
+            {
+              "key": "B",
+              "text": "Get"
+            },
+            {
+              "key": "C",
+              "text": "Arrest"
+            },
+            {
+              "key": "D",
+              "text": "Hold"
+            }
+          ],
+          "answer": "C",
+          "explanation": "arrest a suspect = bắt giữ nghi phạm"
+        },
+        {
+          "id": "cmc4",
+          "kind": "mcq",
+          "question": "___ evidence (thu thập bằng chứng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Get"
+            },
+            {
+              "key": "B",
+              "text": "Collect"
+            },
+            {
+              "key": "C",
+              "text": "Gather"
+            },
+            {
+              "key": "D",
+              "text": "B & C đều đúng"
+            }
+          ],
+          "answer": "D",
+          "explanation": "gather/collect evidence = thu thập bằng chứng"
+        },
+        {
+          "id": "cmc5",
+          "kind": "mcq",
+          "question": "___ a case (điều tra vụ án)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Search"
+            },
+            {
+              "key": "B",
+              "text": "Investigate"
+            },
+            {
+              "key": "C",
+              "text": "Research"
+            },
+            {
+              "key": "D",
+              "text": "Look"
+            }
+          ],
+          "answer": "B",
+          "explanation": "investigate a case = điều tra một vụ án"
+        },
+        {
+          "id": "cmc6",
+          "kind": "mcq",
+          "question": "___ charges (đưa ra cáo buộc)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Make"
+            },
+            {
+              "key": "B",
+              "text": "Put"
+            },
+            {
+              "key": "C",
+              "text": "Press"
+            },
+            {
+              "key": "D",
+              "text": "Give"
+            }
+          ],
+          "answer": "C",
+          "explanation": "press charges = đưa ra cáo buộc"
+        },
+        {
+          "id": "cmc7",
+          "kind": "mcq",
+          "question": "___ trial (hầu tòa)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Go"
+            },
+            {
+              "key": "B",
+              "text": "Stand"
+            },
+            {
+              "key": "C",
+              "text": "Have"
+            },
+            {
+              "key": "D",
+              "text": "Take"
+            }
+          ],
+          "answer": "B",
+          "explanation": "stand trial = hầu tòa"
+        },
+        {
+          "id": "cmc8",
+          "kind": "mcq",
+          "question": "___ a sentence (thụ án)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Serve"
+            },
+            {
+              "key": "D",
+              "text": "Take"
+            }
+          ],
+          "answer": "C",
+          "explanation": "serve a sentence = thụ án"
+        }
+      ]
+    },
+    {
+      "id": "crime-choose-col",
+      "title": "Chọn collocation tự nhiên — Tội phạm",
+      "description": "Chọn cụm từ tự nhiên nhất mà người bản ngữ thường dùng.",
+      "exercises": [
+        {
+          "id": "ccc1",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'phạm tội'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "do a crime"
+            },
+            {
+              "key": "B",
+              "text": "make a crime"
+            },
+            {
+              "key": "C",
+              "text": "commit a crime"
+            },
+            {
+              "key": "D",
+              "text": "perform a crime"
+            }
+          ],
+          "answer": "C",
+          "explanation": "commit a crime = phạm tội"
+        },
+        {
+          "id": "ccc2",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'phá án'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "break a case"
+            },
+            {
+              "key": "B",
+              "text": "solve a case"
+            },
+            {
+              "key": "C",
+              "text": "fix a case"
+            },
+            {
+              "key": "D",
+              "text": "close a case"
+            }
+          ],
+          "answer": "B",
+          "explanation": "solve a case = phá án"
+        },
+        {
+          "id": "ccc3",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "go to prison"
+            },
+            {
+              "key": "B",
+              "text": "enter prison"
+            },
+            {
+              "key": "C",
+              "text": "come to prison"
+            },
+            {
+              "key": "D",
+              "text": "arrive at prison"
+            }
+          ],
+          "answer": "A",
+          "explanation": "go to prison = vào tù"
+        },
+        {
+          "id": "ccc4",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "find somebody guilty"
+            },
+            {
+              "key": "B",
+              "text": "make somebody guilty"
+            },
+            {
+              "key": "C",
+              "text": "prove somebody guilty"
+            },
+            {
+              "key": "D",
+              "text": "say somebody guilty"
+            }
+          ],
+          "answer": "A",
+          "explanation": "find somebody guilty = kết luận ai đó có tội"
+        },
+        {
+          "id": "ccc5",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "report a crime"
+            },
+            {
+              "key": "B",
+              "text": "tell a crime"
+            },
+            {
+              "key": "C",
+              "text": "say a crime"
+            },
+            {
+              "key": "D",
+              "text": "inform a crime"
+            }
+          ],
+          "answer": "A",
+          "explanation": "report a crime = trình báo tội phạm"
+        },
+        {
+          "id": "ccc6",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "commit fraud"
+            },
+            {
+              "key": "B",
+              "text": "do fraud"
+            },
+            {
+              "key": "C",
+              "text": "make fraud"
+            },
+            {
+              "key": "D",
+              "text": "perform fraud"
+            }
+          ],
+          "answer": "A",
+          "explanation": "commit fraud = thực hiện hành vi lừa đảo"
+        }
       ]
     }
   ]

@@ -35,3 +35,5 @@ next-env.d.ts
 # Ảnh minh hoạ (illustration) được COMMIT vì thường ít & do người curate;
 # nếu về sau sinh ảnh hàng loạt thì bỏ comment dòng dưới:
 # /public/images/**/*.png
+
+/src/generated/prisma

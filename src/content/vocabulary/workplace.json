@@ -1,0 +1,1723 @@
+{
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "office",
+      "ipa_uk": "/ˈɒfɪs/",
+      "ipa_us": "/ˈɑːfɪs/",
+      "part_of_speech": "noun",
+      "meaning": "văn phòng",
+      "example": "I work in an office in the city center."
+    },
+    {
+      "id": 2,
+      "word": "workplace",
+      "ipa_uk": "/ˈwɜːkpleɪs/",
+      "ipa_us": "/ˈwɜːrkpleɪs/",
+      "part_of_speech": "noun",
+      "meaning": "nơi làm việc",
+      "example": "A healthy workplace makes employees happier."
+    },
+    {
+      "id": 3,
+      "word": "meeting room",
+      "ipa_uk": "/ˈmiːtɪŋ ruːm/",
+      "ipa_us": "/ˈmiːtɪŋ ruːm/",
+      "part_of_speech": "noun",
+      "meaning": "phòng họp",
+      "example": "The meeting room is on the third floor."
+    },
+    {
+      "id": 4,
+      "word": "conference room",
+      "ipa_uk": "/ˈkɒnfərəns ruːm/",
+      "ipa_us": "/ˈkɑːnfərəns ruːm/",
+      "part_of_speech": "noun",
+      "meaning": "phòng hội nghị",
+      "example": "We booked the conference room for the presentation."
+    },
+    {
+      "id": 5,
+      "word": "reception",
+      "ipa_uk": "/rɪˈsepʃn/",
+      "ipa_us": "/rɪˈsepʃn/",
+      "part_of_speech": "noun",
+      "meaning": "quầy lễ tân",
+      "example": "Please wait at the reception."
+    },
+    {
+      "id": 6,
+      "word": "pantry",
+      "ipa_uk": "/ˈpæntri/",
+      "ipa_us": "/ˈpæntri/",
+      "part_of_speech": "noun",
+      "meaning": "phòng bếp nhỏ (nơi làm việc)",
+      "example": "There is free coffee in the pantry."
+    },
+    {
+      "id": 7,
+      "word": "cafeteria",
+      "ipa_uk": "/ˌkæfəˈtɪəriə/",
+      "ipa_us": "/ˌkæfəˈtɪriə/",
+      "part_of_speech": "noun",
+      "meaning": "căng tin",
+      "example": "We usually have lunch at the cafeteria."
+    },
+    {
+      "id": 8,
+      "word": "employee",
+      "ipa_uk": "/ɪmˈplɔɪiː/",
+      "ipa_us": "/ɪmˈplɔɪiː/",
+      "part_of_speech": "noun",
+      "meaning": "nhân viên",
+      "example": "The company has 500 employees."
+    },
+    {
+      "id": 9,
+      "word": "employer",
+      "ipa_uk": "/ɪmˈplɔɪə(r)/",
+      "ipa_us": "/ɪmˈplɔɪər/",
+      "part_of_speech": "noun",
+      "meaning": "người sử dụng lao động",
+      "example": "A good employer values their staff."
+    },
+    {
+      "id": 10,
+      "word": "colleague",
+      "ipa_uk": "/ˈkɒliːɡ/",
+      "ipa_us": "/ˈkɑːliːɡ/",
+      "part_of_speech": "noun",
+      "meaning": "đồng nghiệp",
+      "example": "I get along well with my colleagues."
+    },
+    {
+      "id": 11,
+      "word": "coworker",
+      "ipa_uk": "/ˈkəʊwɜːkə(r)/",
+      "ipa_us": "/ˈkoʊwɜːrkər/",
+      "part_of_speech": "noun",
+      "meaning": "đồng nghiệp",
+      "example": "My coworker helped me with the project."
+    },
+    {
+      "id": 12,
+      "word": "teammate",
+      "ipa_uk": "/ˈtiːmmeɪt/",
+      "ipa_us": "/ˈtiːmmeɪt/",
+      "part_of_speech": "noun",
+      "meaning": "đồng đội, thành viên nhóm",
+      "example": "She is a reliable teammate."
+    },
+    {
+      "id": 13,
+      "word": "manager",
+      "ipa_uk": "/ˈmænɪdʒə(r)/",
+      "ipa_us": "/ˈmænɪdʒər/",
+      "part_of_speech": "noun",
+      "meaning": "quản lý",
+      "example": "The manager approved my leave request."
+    },
+    {
+      "id": 14,
+      "word": "supervisor",
+      "ipa_uk": "/ˈsuːpəvaɪzə(r)/",
+      "ipa_us": "/ˈsuːpərvaɪzər/",
+      "part_of_speech": "noun",
+      "meaning": "người giám sát",
+      "example": "My supervisor checks my work every week."
+    },
+    {
+      "id": 15,
+      "word": "director",
+      "ipa_uk": "/dəˈrektə(r)/",
+      "ipa_us": "/dəˈrektər/",
+      "part_of_speech": "noun",
+      "meaning": "giám đốc",
+      "example": "The director made the final decision."
+    },
+    {
+      "id": 16,
+      "word": "CEO",
+      "ipa_uk": "/ˌsiː iː ˈəʊ/",
+      "ipa_us": "/ˌsiː iː ˈoʊ/",
+      "part_of_speech": "noun",
+      "meaning": "tổng giám đốc",
+      "example": "The CEO addressed all employees this morning."
+    },
+    {
+      "id": 17,
+      "word": "intern",
+      "ipa_uk": "/ɪnˈtɜːn/",
+      "ipa_us": "/ɪnˈtɜːrn/",
+      "part_of_speech": "noun",
+      "meaning": "thực tập sinh",
+      "example": "We have three new interns this summer."
+    },
+    {
+      "id": 18,
+      "word": "client",
+      "ipa_uk": "/ˈklaɪənt/",
+      "ipa_us": "/ˈklaɪənt/",
+      "part_of_speech": "noun",
+      "meaning": "khách hàng (dịch vụ)",
+      "example": "The client is happy with our proposal."
+    },
+    {
+      "id": 19,
+      "word": "customer",
+      "ipa_uk": "/ˈkʌstəmə(r)/",
+      "ipa_us": "/ˈkʌstəmər/",
+      "part_of_speech": "noun",
+      "meaning": "khách hàng (mua hàng)",
+      "example": "The customer asked for a refund."
+    },
+    {
+      "id": 20,
+      "word": "visitor",
+      "ipa_uk": "/ˈvɪzɪtə(r)/",
+      "ipa_us": "/ˈvɪzɪtər/",
+      "part_of_speech": "noun",
+      "meaning": "khách đến thăm",
+      "example": "All visitors must sign in at reception."
+    },
+    {
+      "id": 21,
+      "word": "attend",
+      "ipa_uk": "/əˈtend/",
+      "ipa_us": "/əˈtend/",
+      "part_of_speech": "verb",
+      "meaning": "tham dự",
+      "example": "Please attend the meeting at 3 PM."
+    },
+    {
+      "id": 22,
+      "word": "schedule",
+      "ipa_uk": "/ˈʃedjuːl/",
+      "ipa_us": "/ˈskedʒuːl/",
+      "part_of_speech": "verb",
+      "meaning": "lên lịch",
+      "example": "Can you schedule a call with the client?"
+    },
+    {
+      "id": 23,
+      "word": "organize",
+      "ipa_uk": "/ˈɔːɡənaɪz/",
+      "ipa_us": "/ˈɔːrɡənaɪz/",
+      "part_of_speech": "verb",
+      "meaning": "tổ chức, sắp xếp",
+      "example": "She organized the team-building event."
+    },
+    {
+      "id": 24,
+      "word": "discuss",
+      "ipa_uk": "/dɪˈskʌs/",
+      "ipa_us": "/dɪˈskʌs/",
+      "part_of_speech": "verb",
+      "meaning": "thảo luận",
+      "example": "Let's discuss this issue in the meeting."
+    },
+    {
+      "id": 25,
+      "word": "present",
+      "ipa_uk": "/prɪˈzent/",
+      "ipa_us": "/prɪˈzent/",
+      "part_of_speech": "verb",
+      "meaning": "thuyết trình, trình bày",
+      "example": "He will present the new strategy tomorrow."
+    },
+    {
+      "id": 26,
+      "word": "submit",
+      "ipa_uk": "/səbˈmɪt/",
+      "ipa_us": "/səbˈmɪt/",
+      "part_of_speech": "verb",
+      "meaning": "nộp, gửi",
+      "example": "Please submit the report by Friday."
+    },
+    {
+      "id": 27,
+      "word": "approve",
+      "ipa_uk": "/əˈpruːv/",
+      "ipa_us": "/əˈpruːv/",
+      "part_of_speech": "verb",
+      "meaning": "phê duyệt",
+      "example": "The manager approved the budget."
+    },
+    {
+      "id": 28,
+      "word": "reject",
+      "ipa_uk": "/rɪˈdʒekt/",
+      "ipa_us": "/rɪˈdʒekt/",
+      "part_of_speech": "verb",
+      "meaning": "từ chối",
+      "example": "They rejected our proposal."
+    },
+    {
+      "id": 29,
+      "word": "collaborate",
+      "ipa_uk": "/kəˈlæbəreɪt/",
+      "ipa_us": "/kəˈlæbəreɪt/",
+      "part_of_speech": "verb",
+      "meaning": "hợp tác",
+      "example": "We collaborate with teams in other countries."
+    },
+    {
+      "id": 30,
+      "word": "negotiate",
+      "ipa_uk": "/nɪˈɡəʊʃieɪt/",
+      "ipa_us": "/nɪˈɡoʊʃieɪt/",
+      "part_of_speech": "verb",
+      "meaning": "đàm phán",
+      "example": "She negotiated a better salary."
+    },
+    {
+      "id": 31,
+      "word": "professional",
+      "ipa_uk": "/prəˈfeʃənl/",
+      "ipa_us": "/prəˈfeʃənl/",
+      "part_of_speech": "adjective",
+      "meaning": "chuyên nghiệp",
+      "example": "He is very professional at work."
+    },
+    {
+      "id": 32,
+      "word": "productive",
+      "ipa_uk": "/prəˈdʌktɪv/",
+      "ipa_us": "/prəˈdʌktɪv/",
+      "part_of_speech": "adjective",
+      "meaning": "năng suất",
+      "example": "I feel more productive in the morning."
+    },
+    {
+      "id": 33,
+      "word": "efficient",
+      "ipa_uk": "/ɪˈfɪʃnt/",
+      "ipa_us": "/ɪˈfɪʃnt/",
+      "part_of_speech": "adjective",
+      "meaning": "hiệu quả",
+      "example": "This new system is more efficient."
+    },
+    {
+      "id": 34,
+      "word": "punctual",
+      "ipa_uk": "/ˈpʌŋktʃuəl/",
+      "ipa_us": "/ˈpʌŋktʃuəl/",
+      "part_of_speech": "adjective",
+      "meaning": "đúng giờ",
+      "example": "Please be punctual for the meeting."
+    },
+    {
+      "id": 35,
+      "word": "responsible",
+      "ipa_uk": "/rɪˈspɒnsəbl/",
+      "ipa_us": "/rɪˈspɑːnsəbl/",
+      "part_of_speech": "adjective",
+      "meaning": "có trách nhiệm",
+      "example": "She is responsible for the marketing team."
+    },
+    {
+      "id": 36,
+      "word": "flexible",
+      "ipa_uk": "/ˈfleksəbl/",
+      "ipa_us": "/ˈfleksəbl/",
+      "part_of_speech": "adjective",
+      "meaning": "linh hoạt",
+      "example": "We have flexible working hours."
+    },
+    {
+      "id": 37,
+      "word": "remote",
+      "ipa_uk": "/rɪˈməʊt/",
+      "ipa_us": "/rɪˈmoʊt/",
+      "part_of_speech": "adjective",
+      "meaning": "từ xa",
+      "example": "Many people prefer remote work."
+    },
+    {
+      "id": 38,
+      "word": "hybrid",
+      "ipa_uk": "/ˈhaɪbrɪd/",
+      "ipa_us": "/ˈhaɪbrɪd/",
+      "part_of_speech": "adjective",
+      "meaning": "kết hợp (văn phòng + từ xa)",
+      "example": "Our company uses a hybrid model."
+    },
+    {
+      "id": 39,
+      "word": "organized",
+      "ipa_uk": "/ˈɔːɡənaɪzd/",
+      "ipa_us": "/ˈɔːrɡənaɪzd/",
+      "part_of_speech": "adjective",
+      "meaning": "ngăn nắp, có tổ chức",
+      "example": "She is very organized."
+    },
+    {
+      "id": 40,
+      "word": "deadline",
+      "ipa_uk": "/ˈdedlaɪn/",
+      "ipa_us": "/ˈdedlaɪn/",
+      "part_of_speech": "noun",
+      "meaning": "hạn chót",
+      "example": "The deadline is next Monday."
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "attend a meeting",
+      "meaning": "tham dự cuộc họp"
+    },
+    {
+      "phrase": "schedule a meeting",
+      "meaning": "lên lịch họp"
+    },
+    {
+      "phrase": "hold a meeting",
+      "meaning": "tổ chức cuộc họp"
+    },
+    {
+      "phrase": "join a meeting",
+      "meaning": "tham gia cuộc họp"
+    },
+    {
+      "phrase": "give a presentation",
+      "meaning": "thuyết trình"
+    },
+    {
+      "phrase": "submit a report",
+      "meaning": "nộp báo cáo"
+    },
+    {
+      "phrase": "meet a deadline",
+      "meaning": "đúng hạn"
+    },
+    {
+      "phrase": "miss a deadline",
+      "meaning": "trễ hạn"
+    },
+    {
+      "phrase": "work overtime",
+      "meaning": "làm thêm giờ"
+    },
+    {
+      "phrase": "work from home",
+      "meaning": "làm việc tại nhà"
+    },
+    {
+      "phrase": "work remotely",
+      "meaning": "làm việc từ xa"
+    },
+    {
+      "phrase": "work as a team",
+      "meaning": "làm việc nhóm"
+    },
+    {
+      "phrase": "solve a problem",
+      "meaning": "giải quyết vấn đề"
+    },
+    {
+      "phrase": "manage a project",
+      "meaning": "quản lý dự án"
+    },
+    {
+      "phrase": "send an email",
+      "meaning": "gửi email"
+    },
+    {
+      "phrase": "reply to an email",
+      "meaning": "trả lời email"
+    },
+    {
+      "phrase": "make a phone call",
+      "meaning": "gọi điện"
+    },
+    {
+      "phrase": "answer the phone",
+      "meaning": "nghe điện thoại"
+    },
+    {
+      "phrase": "discuss a project",
+      "meaning": "thảo luận dự án"
+    },
+    {
+      "phrase": "sign a contract",
+      "meaning": "ký hợp đồng"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "workplace-fill-1",
+      "title": "Điền từ — Địa điểm & Con người",
+      "description": "Điền từ vựng phù hợp về nơi làm việc và các chức danh.",
+      "exercises": [
+        {
+          "id": "wk1",
+          "kind": "fill",
+          "question": "I work in an ___ in the city center.",
+          "answer": "office",
+          "acceptable": [],
+          "explanation": "office = văn phòng"
+        },
+        {
+          "id": "wk2",
+          "kind": "fill",
+          "question": "All visitors must check in at the ___.",
+          "answer": "reception",
+          "acceptable": [],
+          "explanation": "reception = quầy lễ tân"
+        },
+        {
+          "id": "wk3",
+          "kind": "fill",
+          "question": "Let's book the ___ for the team meeting.",
+          "answer": "meeting room",
+          "acceptable": [
+            "conference room"
+          ],
+          "explanation": "meeting room = phòng họp"
+        },
+        {
+          "id": "wk4",
+          "kind": "fill",
+          "question": "There is free coffee and snacks in the ___.",
+          "answer": "pantry",
+          "acceptable": [
+            "cafeteria"
+          ],
+          "explanation": "pantry = phòng bếp nhỏ nơi làm việc"
+        },
+        {
+          "id": "wk5",
+          "kind": "fill",
+          "question": "The company hired 50 new ___ this year.",
+          "answer": "employees",
+          "acceptable": [],
+          "explanation": "employee = nhân viên"
+        },
+        {
+          "id": "wk6",
+          "kind": "fill",
+          "question": "A good ___ treats their workers fairly.",
+          "answer": "employer",
+          "acceptable": [],
+          "explanation": "employer = người sử dụng lao động"
+        },
+        {
+          "id": "wk7",
+          "kind": "fill",
+          "question": "I get along well with my ___. We help each other a lot.",
+          "answer": "colleagues",
+          "acceptable": [
+            "coworkers"
+          ],
+          "explanation": "colleague = đồng nghiệp"
+        },
+        {
+          "id": "wk8",
+          "kind": "fill",
+          "question": "The ___ approved my request for a day off.",
+          "answer": "manager",
+          "acceptable": [
+            "supervisor"
+          ],
+          "explanation": "manager = quản lý"
+        },
+        {
+          "id": "wk9",
+          "kind": "fill",
+          "question": "She started as an ___ and was later hired full-time.",
+          "answer": "intern",
+          "acceptable": [],
+          "explanation": "intern = thực tập sinh"
+        },
+        {
+          "id": "wk10",
+          "kind": "fill",
+          "question": "The ___ of the company gave a speech at the annual event.",
+          "answer": "CEO",
+          "acceptable": [
+            "director"
+          ],
+          "explanation": "CEO = tổng giám đốc"
+        },
+        {
+          "id": "wk11",
+          "kind": "fill",
+          "question": "The ___ called to ask about the new service.",
+          "answer": "client",
+          "acceptable": [
+            "customer"
+          ],
+          "explanation": "client = khách hàng (dịch vụ)"
+        },
+        {
+          "id": "wk12",
+          "kind": "fill",
+          "question": "My ___ checks my progress every Friday.",
+          "answer": "supervisor",
+          "acceptable": [
+            "manager"
+          ],
+          "explanation": "supervisor = người giám sát"
+        }
+      ]
+    },
+    {
+      "id": "workplace-fill-2",
+      "title": "Điền từ — Hành động & Tính chất",
+      "description": "Điền động từ hoặc tính từ phù hợp trong ngữ cảnh công việc.",
+      "exercises": [
+        {
+          "id": "wk13",
+          "kind": "fill",
+          "question": "Please ___ the report by Friday.",
+          "answer": "submit",
+          "acceptable": [],
+          "explanation": "submit = nộp, gửi"
+        },
+        {
+          "id": "wk14",
+          "kind": "fill",
+          "question": "He will ___ the new marketing plan to the board.",
+          "answer": "present",
+          "acceptable": [],
+          "explanation": "present = thuyết trình, trình bày"
+        },
+        {
+          "id": "wk15",
+          "kind": "fill",
+          "question": "Can you ___ a meeting with the client for next week?",
+          "answer": "schedule",
+          "acceptable": [
+            "organize"
+          ],
+          "explanation": "schedule = lên lịch"
+        },
+        {
+          "id": "wk16",
+          "kind": "fill",
+          "question": "We need to ___ the terms of the contract.",
+          "answer": "negotiate",
+          "acceptable": [
+            "discuss"
+          ],
+          "explanation": "negotiate = đàm phán"
+        },
+        {
+          "id": "wk17",
+          "kind": "fill",
+          "question": "The two departments will ___ on this project.",
+          "answer": "collaborate",
+          "acceptable": [],
+          "explanation": "collaborate = hợp tác"
+        },
+        {
+          "id": "wk18",
+          "kind": "fill",
+          "question": "The manager ___ the budget increase.",
+          "answer": "approved",
+          "acceptable": [],
+          "explanation": "approve = phê duyệt"
+        },
+        {
+          "id": "wk19",
+          "kind": "fill",
+          "question": "Unfortunately, they ___ our proposal.",
+          "answer": "rejected",
+          "acceptable": [],
+          "explanation": "reject = từ chối"
+        },
+        {
+          "id": "wk20",
+          "kind": "fill",
+          "question": "She is very ___. She always arrives on time.",
+          "answer": "punctual",
+          "acceptable": [],
+          "explanation": "punctual = đúng giờ"
+        },
+        {
+          "id": "wk21",
+          "kind": "fill",
+          "question": "We have ___ working hours — you can start anytime between 7 and 10.",
+          "answer": "flexible",
+          "acceptable": [],
+          "explanation": "flexible = linh hoạt"
+        },
+        {
+          "id": "wk22",
+          "kind": "fill",
+          "question": "He works from home three days a week in a ___ model.",
+          "answer": "hybrid",
+          "acceptable": [],
+          "explanation": "hybrid = kết hợp văn phòng + từ xa"
+        },
+        {
+          "id": "wk23",
+          "kind": "fill",
+          "question": "This new software makes our process more ___.",
+          "answer": "efficient",
+          "acceptable": [
+            "productive"
+          ],
+          "explanation": "efficient = hiệu quả"
+        },
+        {
+          "id": "wk24",
+          "kind": "fill",
+          "question": "The ___ for the project is next Monday. Don't be late!",
+          "answer": "deadline",
+          "acceptable": [],
+          "explanation": "deadline = hạn chót"
+        }
+      ]
+    },
+    {
+      "id": "workplace-en-word",
+      "title": "Viết từ tiếng Anh",
+      "description": "Dựa vào nghĩa tiếng Việt, viết từ tiếng Anh tương ứng.",
+      "exercises": [
+        {
+          "id": "we1",
+          "kind": "fill",
+          "question": "văn phòng → ___",
+          "answer": "office",
+          "acceptable": [],
+          "explanation": "office /ˈɑːfɪs/"
+        },
+        {
+          "id": "we2",
+          "kind": "fill",
+          "question": "nhân viên → ___",
+          "answer": "employee",
+          "acceptable": [],
+          "explanation": "employee /ɪmˈplɔɪiː/"
+        },
+        {
+          "id": "we3",
+          "kind": "fill",
+          "question": "đồng nghiệp → ___",
+          "answer": "colleague",
+          "acceptable": [
+            "coworker"
+          ],
+          "explanation": "colleague /ˈkɑːliːɡ/"
+        },
+        {
+          "id": "we4",
+          "kind": "fill",
+          "question": "quản lý → ___",
+          "answer": "manager",
+          "acceptable": [],
+          "explanation": "manager /ˈmænɪdʒər/"
+        },
+        {
+          "id": "we5",
+          "kind": "fill",
+          "question": "thực tập sinh → ___",
+          "answer": "intern",
+          "acceptable": [],
+          "explanation": "intern /ɪnˈtɜːrn/"
+        },
+        {
+          "id": "we6",
+          "kind": "fill",
+          "question": "khách hàng (dịch vụ) → ___",
+          "answer": "client",
+          "acceptable": [
+            "customer"
+          ],
+          "explanation": "client /ˈklaɪənt/"
+        },
+        {
+          "id": "we7",
+          "kind": "fill",
+          "question": "tham dự → ___",
+          "answer": "attend",
+          "acceptable": [],
+          "explanation": "attend /əˈtend/"
+        },
+        {
+          "id": "we8",
+          "kind": "fill",
+          "question": "lên lịch → ___",
+          "answer": "schedule",
+          "acceptable": [],
+          "explanation": "schedule /ˈskedʒuːl/"
+        },
+        {
+          "id": "we9",
+          "kind": "fill",
+          "question": "thảo luận → ___",
+          "answer": "discuss",
+          "acceptable": [],
+          "explanation": "discuss /dɪˈskʌs/"
+        },
+        {
+          "id": "we10",
+          "kind": "fill",
+          "question": "nộp, gửi → ___",
+          "answer": "submit",
+          "acceptable": [],
+          "explanation": "submit /səbˈmɪt/"
+        },
+        {
+          "id": "we11",
+          "kind": "fill",
+          "question": "phê duyệt → ___",
+          "answer": "approve",
+          "acceptable": [],
+          "explanation": "approve /əˈpruːv/"
+        },
+        {
+          "id": "we12",
+          "kind": "fill",
+          "question": "từ chối → ___",
+          "answer": "reject",
+          "acceptable": [],
+          "explanation": "reject /rɪˈdʒekt/"
+        },
+        {
+          "id": "we13",
+          "kind": "fill",
+          "question": "hợp tác → ___",
+          "answer": "collaborate",
+          "acceptable": [],
+          "explanation": "collaborate /kəˈlæbəreɪt/"
+        },
+        {
+          "id": "we14",
+          "kind": "fill",
+          "question": "đàm phán → ___",
+          "answer": "negotiate",
+          "acceptable": [],
+          "explanation": "negotiate /nɪˈɡoʊʃieɪt/"
+        },
+        {
+          "id": "we15",
+          "kind": "fill",
+          "question": "chuyên nghiệp → ___",
+          "answer": "professional",
+          "acceptable": [],
+          "explanation": "professional /prəˈfeʃənl/"
+        },
+        {
+          "id": "we16",
+          "kind": "fill",
+          "question": "năng suất → ___",
+          "answer": "productive",
+          "acceptable": [],
+          "explanation": "productive /prəˈdʌktɪv/"
+        },
+        {
+          "id": "we17",
+          "kind": "fill",
+          "question": "đúng giờ → ___",
+          "answer": "punctual",
+          "acceptable": [],
+          "explanation": "punctual /ˈpʌŋktʃuəl/"
+        },
+        {
+          "id": "we18",
+          "kind": "fill",
+          "question": "linh hoạt → ___",
+          "answer": "flexible",
+          "acceptable": [],
+          "explanation": "flexible /ˈfleksəbl/"
+        },
+        {
+          "id": "we19",
+          "kind": "fill",
+          "question": "hạn chót → ___",
+          "answer": "deadline",
+          "acceptable": [],
+          "explanation": "deadline /ˈdedlaɪn/"
+        },
+        {
+          "id": "we20",
+          "kind": "fill",
+          "question": "ngăn nắp, có tổ chức → ___",
+          "answer": "organized",
+          "acceptable": [],
+          "explanation": "organized /ˈɔːrɡənaɪzd/"
+        }
+      ]
+    },
+    {
+      "id": "workplace-mcq-meaning",
+      "title": "Chọn nghĩa đúng",
+      "description": "Chọn nghĩa tiếng Việt đúng nhất cho từ tiếng Anh.",
+      "exercises": [
+        {
+          "id": "wm1",
+          "kind": "mcq",
+          "question": "**Collaborate** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Đàm phán"
+            },
+            {
+              "key": "B",
+              "text": "Hợp tác"
+            },
+            {
+              "key": "C",
+              "text": "Tổ chức"
+            },
+            {
+              "key": "D",
+              "text": "Phê duyệt"
+            }
+          ],
+          "answer": "B",
+          "explanation": "collaborate = hợp tác, làm việc cùng nhau"
+        },
+        {
+          "id": "wm2",
+          "kind": "mcq",
+          "question": "**Negotiate** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thuyết trình"
+            },
+            {
+              "key": "B",
+              "text": "Từ chối"
+            },
+            {
+              "key": "C",
+              "text": "Đàm phán"
+            },
+            {
+              "key": "D",
+              "text": "Nộp"
+            }
+          ],
+          "answer": "C",
+          "explanation": "negotiate = đàm phán, thương lượng"
+        },
+        {
+          "id": "wm3",
+          "kind": "mcq",
+          "question": "**Supervisor** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thực tập sinh"
+            },
+            {
+              "key": "B",
+              "text": "Giám đốc"
+            },
+            {
+              "key": "C",
+              "text": "Đồng nghiệp"
+            },
+            {
+              "key": "D",
+              "text": "Người giám sát"
+            }
+          ],
+          "answer": "D",
+          "explanation": "supervisor = người giám sát công việc"
+        },
+        {
+          "id": "wm4",
+          "kind": "mcq",
+          "question": "**Punctual** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Chuyên nghiệp"
+            },
+            {
+              "key": "B",
+              "text": "Linh hoạt"
+            },
+            {
+              "key": "C",
+              "text": "Đúng giờ"
+            },
+            {
+              "key": "D",
+              "text": "Có trách nhiệm"
+            }
+          ],
+          "answer": "C",
+          "explanation": "punctual = đúng giờ, không bao giờ muộn"
+        },
+        {
+          "id": "wm5",
+          "kind": "mcq",
+          "question": "**Hybrid** (trong ngữ cảnh công việc) nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Từ xa hoàn toàn"
+            },
+            {
+              "key": "B",
+              "text": "Kết hợp văn phòng và làm việc từ xa"
+            },
+            {
+              "key": "C",
+              "text": "Làm thêm giờ"
+            },
+            {
+              "key": "D",
+              "text": "Ngăn nắp"
+            }
+          ],
+          "answer": "B",
+          "explanation": "hybrid = mô hình kết hợp làm văn phòng + từ xa"
+        },
+        {
+          "id": "wm6",
+          "kind": "mcq",
+          "question": "**Employer** khác **employee** như thế nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "employer = nhân viên, employee = sếp"
+            },
+            {
+              "key": "B",
+              "text": "employer = người thuê lao động, employee = người được thuê"
+            },
+            {
+              "key": "C",
+              "text": "Hai từ giống nhau"
+            },
+            {
+              "key": "D",
+              "text": "employer = đồng nghiệp, employee = khách hàng"
+            }
+          ],
+          "answer": "B",
+          "explanation": "employer = người sử dụng lao động; employee = nhân viên"
+        },
+        {
+          "id": "wm7",
+          "kind": "mcq",
+          "question": "**Efficient** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Năng suất"
+            },
+            {
+              "key": "B",
+              "text": "Hiệu quả, ít lãng phí"
+            },
+            {
+              "key": "C",
+              "text": "Linh hoạt"
+            },
+            {
+              "key": "D",
+              "text": "Chuyên nghiệp"
+            }
+          ],
+          "answer": "B",
+          "explanation": "efficient = hiệu quả, đạt kết quả tốt với ít nguồn lực"
+        },
+        {
+          "id": "wm8",
+          "kind": "mcq",
+          "question": "**Client** khác **customer** như thế nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hoàn toàn giống nhau"
+            },
+            {
+              "key": "B",
+              "text": "client = khách hàng dịch vụ dài hạn, customer = người mua hàng"
+            },
+            {
+              "key": "C",
+              "text": "client = nhân viên, customer = sếp"
+            },
+            {
+              "key": "D",
+              "text": "client = khách thăm, customer = đồng nghiệp"
+            }
+          ],
+          "answer": "B",
+          "explanation": "client thường dùng cho khách hàng dịch vụ chuyên nghiệp; customer cho người mua hàng"
+        },
+        {
+          "id": "wm9",
+          "kind": "mcq",
+          "question": "**Cafeteria** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Quán cà phê"
+            },
+            {
+              "key": "B",
+              "text": "Căng tin, nhà ăn tập thể"
+            },
+            {
+              "key": "C",
+              "text": "Phòng bếp nhỏ"
+            },
+            {
+              "key": "D",
+              "text": "Phòng họp"
+            }
+          ],
+          "answer": "B",
+          "explanation": "cafeteria = căng tin, nơi ăn uống tập thể"
+        },
+        {
+          "id": "wm10",
+          "kind": "mcq",
+          "question": "**Productive** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Chuyên nghiệp"
+            },
+            {
+              "key": "B",
+              "text": "Có trách nhiệm"
+            },
+            {
+              "key": "C",
+              "text": "Năng suất, tạo ra nhiều kết quả"
+            },
+            {
+              "key": "D",
+              "text": "Đúng giờ"
+            }
+          ],
+          "answer": "C",
+          "explanation": "productive = năng suất, làm ra nhiều thành quả"
+        }
+      ]
+    },
+    {
+      "id": "workplace-collocation-mcq",
+      "title": "Chọn collocation đúng",
+      "description": "Chọn từ đi kèm đúng để tạo thành cụm từ (collocation) về công việc.",
+      "exercises": [
+        {
+          "id": "wc1",
+          "kind": "mcq",
+          "question": "___ a meeting (tham dự cuộc họp)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Attend"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Do"
+            },
+            {
+              "key": "D",
+              "text": "Take"
+            }
+          ],
+          "answer": "A",
+          "explanation": "attend a meeting = tham dự cuộc họp"
+        },
+        {
+          "id": "wc2",
+          "kind": "mcq",
+          "question": "___ a presentation (thuyết trình)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Make"
+            },
+            {
+              "key": "B",
+              "text": "Do"
+            },
+            {
+              "key": "C",
+              "text": "Give"
+            },
+            {
+              "key": "D",
+              "text": "Take"
+            }
+          ],
+          "answer": "C",
+          "explanation": "give a presentation = thuyết trình"
+        },
+        {
+          "id": "wc3",
+          "kind": "mcq",
+          "question": "___ a deadline (đúng hạn)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Meet"
+            },
+            {
+              "key": "C",
+              "text": "Take"
+            },
+            {
+              "key": "D",
+              "text": "Hit"
+            }
+          ],
+          "answer": "B",
+          "explanation": "meet a deadline = hoàn thành đúng hạn"
+        },
+        {
+          "id": "wc4",
+          "kind": "mcq",
+          "question": "___ a report (nộp báo cáo)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Give"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Submit"
+            },
+            {
+              "key": "D",
+              "text": "Take"
+            }
+          ],
+          "answer": "C",
+          "explanation": "submit a report = nộp báo cáo"
+        },
+        {
+          "id": "wc5",
+          "kind": "mcq",
+          "question": "___ overtime (làm thêm giờ)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Take"
+            },
+            {
+              "key": "D",
+              "text": "Work"
+            }
+          ],
+          "answer": "D",
+          "explanation": "work overtime = làm thêm giờ"
+        },
+        {
+          "id": "wc6",
+          "kind": "mcq",
+          "question": "___ a contract (ký hợp đồng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Write"
+            },
+            {
+              "key": "B",
+              "text": "Sign"
+            },
+            {
+              "key": "C",
+              "text": "Make"
+            },
+            {
+              "key": "D",
+              "text": "Do"
+            }
+          ],
+          "answer": "B",
+          "explanation": "sign a contract = ký hợp đồng"
+        },
+        {
+          "id": "wc7",
+          "kind": "mcq",
+          "question": "___ a project (quản lý dự án)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Take"
+            },
+            {
+              "key": "D",
+              "text": "Manage"
+            }
+          ],
+          "answer": "D",
+          "explanation": "manage a project = quản lý dự án"
+        },
+        {
+          "id": "wc8",
+          "kind": "mcq",
+          "question": "___ a phone call (gọi điện)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Take"
+            },
+            {
+              "key": "C",
+              "text": "Make"
+            },
+            {
+              "key": "D",
+              "text": "Give"
+            }
+          ],
+          "answer": "C",
+          "explanation": "make a phone call = gọi điện"
+        },
+        {
+          "id": "wc9",
+          "kind": "mcq",
+          "question": "___ a problem (giải quyết vấn đề)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Make"
+            },
+            {
+              "key": "B",
+              "text": "Fix"
+            },
+            {
+              "key": "C",
+              "text": "Solve"
+            },
+            {
+              "key": "D",
+              "text": "Do"
+            }
+          ],
+          "answer": "C",
+          "explanation": "solve a problem = giải quyết vấn đề"
+        },
+        {
+          "id": "wc10",
+          "kind": "mcq",
+          "question": "___ to an email (trả lời email)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Answer"
+            },
+            {
+              "key": "B",
+              "text": "Respond"
+            },
+            {
+              "key": "C",
+              "text": "Reply"
+            },
+            {
+              "key": "D",
+              "text": "Send"
+            }
+          ],
+          "answer": "C",
+          "explanation": "reply to an email = trả lời email"
+        }
+      ]
+    },
+    {
+      "id": "workplace-match-col",
+      "title": "Nối collocation — Nơi làm việc",
+      "description": "Chọn từ đi kèm đúng để tạo thành cụm từ công sở.",
+      "exercises": [
+        {
+          "id": "wkmc1",
+          "kind": "mcq",
+          "question": "___ a meeting (tham dự cuộc họp)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Go"
+            },
+            {
+              "key": "B",
+              "text": "Attend"
+            },
+            {
+              "key": "C",
+              "text": "Come"
+            },
+            {
+              "key": "D",
+              "text": "Visit"
+            }
+          ],
+          "answer": "B",
+          "explanation": "attend a meeting = tham dự cuộc họp"
+        },
+        {
+          "id": "wkmc2",
+          "kind": "mcq",
+          "question": "___ a presentation (thuyết trình)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Make"
+            },
+            {
+              "key": "B",
+              "text": "Do"
+            },
+            {
+              "key": "C",
+              "text": "Give"
+            },
+            {
+              "key": "D",
+              "text": "Take"
+            }
+          ],
+          "answer": "C",
+          "explanation": "give a presentation = thuyết trình"
+        },
+        {
+          "id": "wkmc3",
+          "kind": "mcq",
+          "question": "___ a deadline (đúng hạn)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hit"
+            },
+            {
+              "key": "B",
+              "text": "Reach"
+            },
+            {
+              "key": "C",
+              "text": "Meet"
+            },
+            {
+              "key": "D",
+              "text": "Get"
+            }
+          ],
+          "answer": "C",
+          "explanation": "meet a deadline = hoàn thành đúng hạn"
+        },
+        {
+          "id": "wkmc4",
+          "kind": "mcq",
+          "question": "___ overtime (làm thêm giờ)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Take"
+            },
+            {
+              "key": "D",
+              "text": "Work"
+            }
+          ],
+          "answer": "D",
+          "explanation": "work overtime = làm thêm giờ"
+        },
+        {
+          "id": "wkmc5",
+          "kind": "mcq",
+          "question": "___ a report (nộp báo cáo)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Give"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Submit"
+            },
+            {
+              "key": "D",
+              "text": "Send"
+            }
+          ],
+          "answer": "C",
+          "explanation": "submit a report = nộp báo cáo"
+        },
+        {
+          "id": "wkmc6",
+          "kind": "mcq",
+          "question": "___ a contract (ký hợp đồng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Write"
+            },
+            {
+              "key": "B",
+              "text": "Sign"
+            },
+            {
+              "key": "C",
+              "text": "Make"
+            },
+            {
+              "key": "D",
+              "text": "Do"
+            }
+          ],
+          "answer": "B",
+          "explanation": "sign a contract = ký hợp đồng"
+        },
+        {
+          "id": "wkmc7",
+          "kind": "mcq",
+          "question": "___ a problem (giải quyết vấn đề)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fix"
+            },
+            {
+              "key": "B",
+              "text": "Make"
+            },
+            {
+              "key": "C",
+              "text": "Solve"
+            },
+            {
+              "key": "D",
+              "text": "Do"
+            }
+          ],
+          "answer": "C",
+          "explanation": "solve a problem = giải quyết vấn đề"
+        },
+        {
+          "id": "wkmc8",
+          "kind": "mcq",
+          "question": "___ a project (quản lý dự án)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Run"
+            },
+            {
+              "key": "C",
+              "text": "Make"
+            },
+            {
+              "key": "D",
+              "text": "Manage"
+            }
+          ],
+          "answer": "D",
+          "explanation": "manage a project = quản lý dự án"
+        }
+      ]
+    },
+    {
+      "id": "workplace-choose-col",
+      "title": "Chọn collocation tự nhiên — Nơi làm việc",
+      "description": "Chọn cụm từ tự nhiên nhất mà người bản ngữ thường dùng.",
+      "exercises": [
+        {
+          "id": "wkcc1",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'lên lịch họp'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "make a meeting"
+            },
+            {
+              "key": "B",
+              "text": "schedule a meeting"
+            },
+            {
+              "key": "C",
+              "text": "plan a meeting"
+            },
+            {
+              "key": "D",
+              "text": "set a meeting"
+            }
+          ],
+          "answer": "B",
+          "explanation": "schedule a meeting = lên lịch họp"
+        },
+        {
+          "id": "wkcc2",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'trễ hạn'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "lose a deadline"
+            },
+            {
+              "key": "B",
+              "text": "fail a deadline"
+            },
+            {
+              "key": "C",
+              "text": "miss a deadline"
+            },
+            {
+              "key": "D",
+              "text": "drop a deadline"
+            }
+          ],
+          "answer": "C",
+          "explanation": "miss a deadline = trễ hạn"
+        },
+        {
+          "id": "wkcc3",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "work from home"
+            },
+            {
+              "key": "B",
+              "text": "work at home"
+            },
+            {
+              "key": "C",
+              "text": "work in home"
+            },
+            {
+              "key": "D",
+              "text": "work on home"
+            }
+          ],
+          "answer": "A",
+          "explanation": "work from home = làm việc tại nhà"
+        },
+        {
+          "id": "wkcc4",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "reply to an email"
+            },
+            {
+              "key": "B",
+              "text": "answer to an email"
+            },
+            {
+              "key": "C",
+              "text": "respond an email"
+            },
+            {
+              "key": "D",
+              "text": "write back an email"
+            }
+          ],
+          "answer": "A",
+          "explanation": "reply to an email = trả lời email"
+        },
+        {
+          "id": "wkcc5",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "make a phone call"
+            },
+            {
+              "key": "B",
+              "text": "do a phone call"
+            },
+            {
+              "key": "C",
+              "text": "take a phone call"
+            },
+            {
+              "key": "D",
+              "text": "give a phone call"
+            }
+          ],
+          "answer": "A",
+          "explanation": "make a phone call = gọi điện"
+        },
+        {
+          "id": "wkcc6",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "work as a team"
+            },
+            {
+              "key": "B",
+              "text": "work like a team"
+            },
+            {
+              "key": "C",
+              "text": "work in a team"
+            },
+            {
+              "key": "D",
+              "text": "A & C đều đúng"
+            }
+          ],
+          "answer": "D",
+          "explanation": "work as a team / work in a team đều tự nhiên = làm việc nhóm"
+        }
+      ]
+    }
+  ]
+}

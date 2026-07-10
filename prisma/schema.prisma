@@ -1,0 +1,407 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// ═══════════════════════════════════════════════════════════
+// AUTH (NextAuth)
+// ═══════════════════════════════════════════════════════════
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String    @unique
+  emailVerified DateTime?
+  image         String?
+  password      String?
+
+  accounts          Account[]
+  sessions          Session[]
+  lessonProgress    LessonProgress[]
+  listeningProgress ListeningProgress[]
+  favoriteWords     FavoriteWord[]
+  quizResults       QuizResult[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+// ═══════════════════════════════════════════════════════════
+// USER PROGRESS
+// ═══════════════════════════════════════════════════════════
+
+model LessonProgress {
+  id        String  @id @default(cuid())
+  userId    String
+  slug      String
+  completed Boolean @default(false)
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, slug])
+  @@index([userId])
+}
+
+model ListeningProgress {
+  id        String  @id @default(cuid())
+  userId    String
+  topicId   String
+  lessonId  String
+  completed Boolean @default(false)
+  accuracy  Int     @default(0)
+  timeSec   Int     @default(0)
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, topicId, lessonId])
+  @@index([userId])
+}
+
+model FavoriteWord {
+  id      String @id @default(cuid())
+  userId  String
+  word    String
+  meaning String
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@unique([userId, word])
+  @@index([userId])
+}
+
+model QuizResult {
+  id       String @id @default(cuid())
+  userId   String
+  quizType String
+  quizId   String
+  score    Int
+  total    Int
+  accuracy Int
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@index([userId, quizType])
+}
+
+// ═══════════════════════════════════════════════════════════
+// CONTENT: LESSONS (bài giảng ngữ pháp)
+// ═══════════════════════════════════════════════════════════
+
+model Lesson {
+  id      String  @id @default(cuid())
+  slug    String  @unique
+  title   String
+  level   String
+  topic   String
+  series  String?
+  summary String?
+  order   Int     @default(0)
+
+  sections     LessonSection[]
+  exerciseSets ExerciseSet[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model LessonSection {
+  id       String @id @default(cuid())
+  lessonId String
+  heading  String
+  body     String
+  order    Int    @default(0)
+
+  lesson Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}
+
+// ═══════════════════════════════════════════════════════════
+// SHARED: EXERCISES (dùng chung cho lessons + vocabulary)
+// ═══════════════════════════════════════════════════════════
+
+model ExerciseSet {
+  id          String  @id @default(cuid())
+  refId       String
+  title       String
+  description String?
+
+  lessonId     String?
+  vocabTopicId String?
+
+  lesson     Lesson?     @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  vocabTopic VocabTopic? @relation(fields: [vocabTopicId], references: [id], onDelete: Cascade)
+  exercises  Exercise[]
+
+  @@index([lessonId])
+  @@index([vocabTopicId])
+}
+
+model Exercise {
+  id            String   @id @default(cuid())
+  refId         String
+  exerciseSetId String
+  kind          String   @default("mcq")
+  question      String
+  answer        String
+  acceptable    String[]
+  explanation   String?
+  order         Int      @default(0)
+
+  exerciseSet ExerciseSet  @relation(fields: [exerciseSetId], references: [id], onDelete: Cascade)
+  options     QuizOption[]
+
+  @@index([exerciseSetId])
+}
+
+model QuizOption {
+  id         String @id @default(cuid())
+  exerciseId String
+  key        String
+  text       String
+  order      Int    @default(0)
+
+  exercise Exercise @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+
+  @@index([exerciseId])
+}
+
+// ═══════════════════════════════════════════════════════════
+// CONTENT: VOCABULARY (từ vựng theo chủ đề)
+// ═══════════════════════════════════════════════════════════
+
+model VocabTopic {
+  id       String @id @default(cuid())
+  slug     String @unique
+  title    String
+  level    String
+  category String
+  summary  String
+  order    Int    @default(0)
+
+  words        VocabWord[]
+  collocations VocabCollocation[]
+  patterns     CommonPattern[]
+  exerciseSets ExerciseSet[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model VocabWord {
+  id           String @id @default(cuid())
+  vocabTopicId String
+  word         String
+  ipaUk        String @default("")
+  ipaUs        String @default("")
+  partOfSpeech String @default("")
+  meaning      String
+  example      String @default("")
+  order        Int    @default(0)
+
+  vocabTopic VocabTopic @relation(fields: [vocabTopicId], references: [id], onDelete: Cascade)
+
+  @@index([vocabTopicId])
+}
+
+model VocabCollocation {
+  id           String @id @default(cuid())
+  vocabTopicId String
+  phrase       String
+  meaning      String @default("")
+  order        Int    @default(0)
+
+  vocabTopic VocabTopic @relation(fields: [vocabTopicId], references: [id], onDelete: Cascade)
+
+  @@index([vocabTopicId])
+}
+
+model CommonPattern {
+  id           String   @id @default(cuid())
+  vocabTopicId String
+  pattern      String
+  examples     String[]
+  order        Int      @default(0)
+
+  vocabTopic VocabTopic @relation(fields: [vocabTopicId], references: [id], onDelete: Cascade)
+
+  @@index([vocabTopicId])
+}
+
+model IrregularVerb {
+  id      String @id @default(cuid())
+  stt     Int    @unique
+  v1      String
+  v2      String
+  v3      String
+  meaning String
+}
+
+// ═══════════════════════════════════════════════════════════
+// CONTENT: LISTENING (luyện nghe)
+// ═══════════════════════════════════════════════════════════
+
+model ListeningTopic {
+  id           String @id @default(cuid())
+  topicSlug    String @unique
+  titleEn      String
+  titleVi      String
+  description  String @default("")
+  icon         String @default("headphones")
+  emoji        String @default("")
+  illustration String @default("")
+  ieltsSection String @default("")
+  difficulty   String @default("")
+  order        Int    @default(0)
+
+  lessons ListeningLesson[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model ListeningLesson {
+  id           String @id @default(cuid())
+  topicId      String
+  lessonSlug   String
+  titleEn      String
+  titleVi      String @default("")
+  level        String @default("")
+  audioType    String @default("")
+  duration     Int    @default(0)
+  accent       String @default("")
+  audio        String @default("")
+  image        String @default("")
+  difficulty   String @default("")
+  tags         String[]
+  grammarFocus String @default("")
+  transcript   String @default("")
+
+  topic           ListeningTopic              @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  speakers        ListeningSpeaker[]
+  vocabulary      ListeningVocab[]
+  fillBlanks      ListeningFillBlank[]
+  mcq             ListeningMcq[]
+  transcriptTurns ListeningTranscriptTurn[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([topicId, lessonSlug])
+  @@index([topicId])
+}
+
+model ListeningSpeaker {
+  id       String @id @default(cuid())
+  lessonId String
+  refId    String
+  role     String
+  voice    String @default("")
+
+  lesson ListeningLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}
+
+model ListeningVocab {
+  id       String @id @default(cuid())
+  lessonId String
+  word     String
+  ipa      String @default("")
+  meaning  String
+  example  String @default("")
+  order    Int    @default(0)
+
+  lesson ListeningLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}
+
+model ListeningFillBlank {
+  id       String @id @default(cuid())
+  lessonId String
+  text     String
+  answer   String
+  order    Int    @default(0)
+
+  lesson ListeningLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}
+
+model ListeningMcq {
+  id          String   @id @default(cuid())
+  lessonId    String
+  question    String
+  options     String[]
+  answer      String
+  explanation String?
+  order       Int      @default(0)
+
+  lesson ListeningLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}
+
+model ListeningTranscriptTurn {
+  id       String @id @default(cuid())
+  lessonId String
+  speaker  String
+  role     String
+  text     String
+  order    Int    @default(0)
+
+  lesson ListeningLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+}

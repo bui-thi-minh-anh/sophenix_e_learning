@@ -17,6 +17,9 @@ import {
   UtensilsCrossed,
   ShieldAlert,
   Dumbbell,
+  Brain,
+  Briefcase,
+  Bus,
   type LucideIcon,
 } from "lucide-react";
 import { getAllVocabTopics } from "@/content/vocabulary";
@@ -40,6 +43,9 @@ const topicVisualMap: Record<string, { icon: LucideIcon; bg: string; icon_color:
   restaurant: { icon: UtensilsCrossed, bg: "from-amber-500/20 to-amber-600/10", icon_color: "text-amber-400" },
   crime: { icon: ShieldAlert, bg: "from-indigo-500/20 to-indigo-600/10", icon_color: "text-indigo-400" },
   sports: { icon: Dumbbell, bg: "from-orange-500/20 to-orange-600/10", icon_color: "text-orange-400" },
+  "personality-2": { icon: Brain, bg: "from-fuchsia-500/20 to-fuchsia-600/10", icon_color: "text-fuchsia-400" },
+  workplace: { icon: Briefcase, bg: "from-teal-500/20 to-teal-600/10", icon_color: "text-teal-400" },
+  transportation: { icon: Bus, bg: "from-cyan-500/20 to-cyan-600/10", icon_color: "text-cyan-400" },
 };
 
 // Fallback theo nhóm từ loại khi chủ đề chưa có logo riêng.

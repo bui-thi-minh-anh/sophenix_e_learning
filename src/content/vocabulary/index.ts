@@ -8,6 +8,9 @@ import sicknessData from "./sickness.json";
 import restaurantData from "./restaurant.json";
 import crimeData from "./crime.json";
 import sportsData from "./sports.json";
+import personality2Data from "./personality-2.json";
+import workplaceData from "./workplace.json";
+import transportationData from "./transportation.json";
 
 const wordListMap: Record<string, WordListData> = {
   school: schoolData as WordListData,
@@ -17,6 +20,9 @@ const wordListMap: Record<string, WordListData> = {
   restaurant: restaurantData as unknown as WordListData,
   crime: crimeData as unknown as WordListData,
   sports: sportsData as unknown as WordListData,
+  "personality-2": personality2Data as unknown as WordListData,
+  workplace: workplaceData as unknown as WordListData,
+  transportation: transportationData as unknown as WordListData,
 };
 
 const topics: VocabTopic[] = [
@@ -91,6 +97,33 @@ const topics: VocabTopic[] = [
     summary: "Từ vựng về các môn thể thao, thi đấu và rèn luyện sức khỏe, kèm bài tập phong phú.",
     itemCount: sportsData.vocabulary.length,
     exerciseSets: sportsData.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "personality-2",
+    title: "Advanced Personality — Tính cách nâng cao",
+    level: "B1-C1",
+    category: "Chủ đề (Topics)",
+    summary: "40 tính từ nâng cao mô tả tính cách: tinh tế, thao túng, kiên cường, lập dị...",
+    itemCount: personality2Data.vocabulary.length,
+    exerciseSets: personality2Data.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "workplace",
+    title: "Workplace — Nơi làm việc",
+    level: "A1-B2",
+    category: "Chủ đề (Topics)",
+    summary: "40 từ vựng về văn phòng, chức danh, hành động công việc và 20 collocations thường gặp.",
+    itemCount: workplaceData.vocabulary.length,
+    exerciseSets: workplaceData.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "transportation",
+    title: "Transportation — Giao thông",
+    level: "A1-B2",
+    category: "Chủ đề (Topics)",
+    summary: "50 từ vựng về phương tiện, hạ tầng giao thông, an toàn đường bộ và 30 collocations.",
+    itemCount: transportationData.vocabulary.length,
+    exerciseSets: transportationData.exerciseSets as unknown as ExerciseSet[],
   },
 ];
 

@@ -1,0 +1,2048 @@
+{
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "insensitive",
+      "ipa_uk": "/ɪnˈsensətɪv/",
+      "ipa_us": "/ɪnˈsensətɪv/",
+      "part_of_speech": "adjective",
+      "meaning": "vô tâm, thiếu tinh tế",
+      "example": "It was insensitive to laugh at her mistake."
+    },
+    {
+      "id": 2,
+      "word": "sensitive",
+      "ipa_uk": "/ˈsensətɪv/",
+      "ipa_us": "/ˈsensətɪv/",
+      "part_of_speech": "adjective",
+      "meaning": "nhạy cảm, tinh tế",
+      "example": "She is very sensitive to criticism."
+    },
+    {
+      "id": 3,
+      "word": "sharp",
+      "ipa_uk": "/ʃɑːp/",
+      "ipa_us": "/ʃɑːrp/",
+      "part_of_speech": "adjective",
+      "meaning": "sắc sảo, nhanh trí",
+      "example": "She has a sharp mind."
+    },
+    {
+      "id": 4,
+      "word": "perceptive",
+      "ipa_uk": "/pəˈseptɪv/",
+      "ipa_us": "/pərˈseptɪv/",
+      "part_of_speech": "adjective",
+      "meaning": "tinh ý",
+      "example": "He is perceptive enough to notice small changes."
+    },
+    {
+      "id": 5,
+      "word": "observant",
+      "ipa_uk": "/əbˈzɜːvənt/",
+      "ipa_us": "/əbˈzɝːvənt/",
+      "part_of_speech": "adjective",
+      "meaning": "quan sát tốt",
+      "example": "Good detectives are observant."
+    },
+    {
+      "id": 6,
+      "word": "thoughtful",
+      "ipa_uk": "/ˈθɔːtfəl/",
+      "ipa_us": "/ˈθɔːtfəl/",
+      "part_of_speech": "adjective",
+      "meaning": "chu đáo",
+      "example": "That was a thoughtful gift."
+    },
+    {
+      "id": 7,
+      "word": "considerate",
+      "ipa_uk": "/kənˈsɪdərət/",
+      "ipa_us": "/kənˈsɪdərət/",
+      "part_of_speech": "adjective",
+      "meaning": "biết nghĩ cho người khác",
+      "example": "He is always considerate of others."
+    },
+    {
+      "id": 8,
+      "word": "compassionate",
+      "ipa_uk": "/kəmˈpæʃənət/",
+      "ipa_us": "/kəmˈpæʃənət/",
+      "part_of_speech": "adjective",
+      "meaning": "giàu lòng trắc ẩn",
+      "example": "She is compassionate towards animals."
+    },
+    {
+      "id": 9,
+      "word": "empathetic",
+      "ipa_uk": "/ˌempəˈθetɪk/",
+      "ipa_us": "/ˌempəˈθetɪk/",
+      "part_of_speech": "adjective",
+      "meaning": "đồng cảm",
+      "example": "A good leader is empathetic."
+    },
+    {
+      "id": 10,
+      "word": "sympathetic",
+      "ipa_uk": "/ˌsɪmpəˈθetɪk/",
+      "ipa_us": "/ˌsɪmpəˈθetɪk/",
+      "part_of_speech": "adjective",
+      "meaning": "cảm thông",
+      "example": "She was sympathetic to his situation."
+    },
+    {
+      "id": 11,
+      "word": "manipulative",
+      "ipa_uk": "/məˈnɪpjələtɪv/",
+      "ipa_us": "/məˈnɪpjəleɪtɪv/",
+      "part_of_speech": "adjective",
+      "meaning": "thao túng người khác",
+      "example": "He can be manipulative."
+    },
+    {
+      "id": 12,
+      "word": "calculating",
+      "ipa_uk": "/ˈkælkjəleɪtɪŋ/",
+      "ipa_us": "/ˈkælkjəleɪtɪŋ/",
+      "part_of_speech": "adjective",
+      "meaning": "toan tính",
+      "example": "She made a calculating decision."
+    },
+    {
+      "id": 13,
+      "word": "deceitful",
+      "ipa_uk": "/dɪˈsiːtfəl/",
+      "ipa_us": "/dɪˈsiːtfəl/",
+      "part_of_speech": "adjective",
+      "meaning": "dối trá",
+      "example": "He is deceitful."
+    },
+    {
+      "id": 14,
+      "word": "cunning",
+      "ipa_uk": "/ˈkʌnɪŋ/",
+      "ipa_us": "/ˈkʌnɪŋ/",
+      "part_of_speech": "adjective",
+      "meaning": "xảo quyệt",
+      "example": "The fox is cunning."
+    },
+    {
+      "id": 15,
+      "word": "sly",
+      "ipa_uk": "/slaɪ/",
+      "ipa_us": "/slaɪ/",
+      "part_of_speech": "adjective",
+      "meaning": "ranh mãnh",
+      "example": "He gave me a sly smile."
+    },
+    {
+      "id": 16,
+      "word": "arrogant",
+      "ipa_uk": "/ˈærəɡənt/",
+      "ipa_us": "/ˈærəɡənt/",
+      "part_of_speech": "adjective",
+      "meaning": "kiêu ngạo",
+      "example": "He is too arrogant to admit his mistakes."
+    },
+    {
+      "id": 17,
+      "word": "conceited",
+      "ipa_uk": "/kənˈsiːtɪd/",
+      "ipa_us": "/kənˈsiːtɪd/",
+      "part_of_speech": "adjective",
+      "meaning": "tự phụ",
+      "example": "She is conceited about her looks."
+    },
+    {
+      "id": 18,
+      "word": "humble",
+      "ipa_uk": "/ˈhʌmbl/",
+      "ipa_us": "/ˈhʌmbl/",
+      "part_of_speech": "adjective",
+      "meaning": "khiêm tốn",
+      "example": "Despite his success, he remains humble."
+    },
+    {
+      "id": 19,
+      "word": "assertive",
+      "ipa_uk": "/əˈsɜːtɪv/",
+      "ipa_us": "/əˈsɜːrtɪv/",
+      "part_of_speech": "adjective",
+      "meaning": "quyết đoán",
+      "example": "You need to be more assertive in meetings."
+    },
+    {
+      "id": 20,
+      "word": "submissive",
+      "ipa_uk": "/səbˈmɪsɪv/",
+      "ipa_us": "/səbˈmɪsɪv/",
+      "part_of_speech": "adjective",
+      "meaning": "phục tùng",
+      "example": "He was too submissive to speak up."
+    },
+    {
+      "id": 21,
+      "word": "resilient",
+      "ipa_uk": "/rɪˈzɪliənt/",
+      "ipa_us": "/rɪˈzɪliənt/",
+      "part_of_speech": "adjective",
+      "meaning": "kiên cường",
+      "example": "She is resilient and bounces back from failure."
+    },
+    {
+      "id": 22,
+      "word": "resourceful",
+      "ipa_uk": "/rɪˈzɔːsfəl/",
+      "ipa_us": "/rɪˈzɔːrsfəl/",
+      "part_of_speech": "adjective",
+      "meaning": "tháo vát",
+      "example": "A resourceful person finds solutions quickly."
+    },
+    {
+      "id": 23,
+      "word": "adaptable",
+      "ipa_uk": "/əˈdæptəbl/",
+      "ipa_us": "/əˈdæptəbl/",
+      "part_of_speech": "adjective",
+      "meaning": "dễ thích nghi",
+      "example": "She is adaptable to new environments."
+    },
+    {
+      "id": 24,
+      "word": "versatile",
+      "ipa_uk": "/ˈvɜːsətaɪl/",
+      "ipa_us": "/ˈvɜːrsətl/",
+      "part_of_speech": "adjective",
+      "meaning": "đa năng",
+      "example": "He is a versatile player who can play any position."
+    },
+    {
+      "id": 25,
+      "word": "diligent",
+      "ipa_uk": "/ˈdɪlɪdʒənt/",
+      "ipa_us": "/ˈdɪlɪdʒənt/",
+      "part_of_speech": "adjective",
+      "meaning": "chăm chỉ",
+      "example": "She is a diligent worker."
+    },
+    {
+      "id": 26,
+      "word": "meticulous",
+      "ipa_uk": "/məˈtɪkjələs/",
+      "ipa_us": "/məˈtɪkjələs/",
+      "part_of_speech": "adjective",
+      "meaning": "tỉ mỉ",
+      "example": "He is meticulous about every detail."
+    },
+    {
+      "id": 27,
+      "word": "pragmatic",
+      "ipa_uk": "/præɡˈmætɪk/",
+      "ipa_us": "/præɡˈmætɪk/",
+      "part_of_speech": "adjective",
+      "meaning": "thực tế",
+      "example": "We need a pragmatic approach to this problem."
+    },
+    {
+      "id": 28,
+      "word": "rational",
+      "ipa_uk": "/ˈræʃənl/",
+      "ipa_us": "/ˈræʃənl/",
+      "part_of_speech": "adjective",
+      "meaning": "lý trí",
+      "example": "Try to be rational, not emotional."
+    },
+    {
+      "id": 29,
+      "word": "impulsive",
+      "ipa_uk": "/ɪmˈpʌlsɪv/",
+      "ipa_us": "/ɪmˈpʌlsɪv/",
+      "part_of_speech": "adjective",
+      "meaning": "bốc đồng",
+      "example": "He made an impulsive decision he later regretted."
+    },
+    {
+      "id": 30,
+      "word": "eccentric",
+      "ipa_uk": "/ɪkˈsentrɪk/",
+      "ipa_us": "/ɪkˈsentrɪk/",
+      "part_of_speech": "adjective",
+      "meaning": "lập dị",
+      "example": "The professor is a bit eccentric."
+    },
+    {
+      "id": 31,
+      "word": "charismatic",
+      "ipa_uk": "/ˌkærɪzˈmætɪk/",
+      "ipa_us": "/ˌkærɪzˈmætɪk/",
+      "part_of_speech": "adjective",
+      "meaning": "có sức hút",
+      "example": "He is a charismatic speaker."
+    },
+    {
+      "id": 32,
+      "word": "witty",
+      "ipa_uk": "/ˈwɪti/",
+      "ipa_us": "/ˈwɪti/",
+      "part_of_speech": "adjective",
+      "meaning": "hóm hỉnh",
+      "example": "She always has a witty reply."
+    },
+    {
+      "id": 33,
+      "word": "sarcastic",
+      "ipa_uk": "/sɑːˈkæstɪk/",
+      "ipa_us": "/sɑːrˈkæstɪk/",
+      "part_of_speech": "adjective",
+      "meaning": "mỉa mai",
+      "example": "His sarcastic comments annoyed everyone."
+    },
+    {
+      "id": 34,
+      "word": "moody",
+      "ipa_uk": "/ˈmuːdi/",
+      "ipa_us": "/ˈmuːdi/",
+      "part_of_speech": "adjective",
+      "meaning": "thất thường",
+      "example": "She is moody and hard to predict."
+    },
+    {
+      "id": 35,
+      "word": "temperamental",
+      "ipa_uk": "/ˌtemprəˈmentl/",
+      "ipa_us": "/ˌtemprəˈmentl/",
+      "part_of_speech": "adjective",
+      "meaning": "dễ nóng nảy",
+      "example": "He is temperamental and gets angry easily."
+    },
+    {
+      "id": 36,
+      "word": "self-centered",
+      "ipa_uk": "/ˌself ˈsentəd/",
+      "ipa_us": "/ˌself ˈsentərd/",
+      "part_of_speech": "adjective",
+      "meaning": "ích kỷ",
+      "example": "She is self-centered and only talks about herself."
+    },
+    {
+      "id": 37,
+      "word": "open-minded",
+      "ipa_uk": "/ˌəʊpən ˈmaɪndɪd/",
+      "ipa_us": "/ˌoʊpən ˈmaɪndɪd/",
+      "part_of_speech": "adjective",
+      "meaning": "cởi mở",
+      "example": "Be open-minded and listen to different opinions."
+    },
+    {
+      "id": 38,
+      "word": "narrow-minded",
+      "ipa_uk": "/ˌnærəʊ ˈmaɪndɪd/",
+      "ipa_us": "/ˌnæroʊ ˈmaɪndɪd/",
+      "part_of_speech": "adjective",
+      "meaning": "bảo thủ",
+      "example": "He is narrow-minded and refuses to try new things."
+    },
+    {
+      "id": 39,
+      "word": "outspoken",
+      "ipa_uk": "/ˌaʊtˈspəʊkən/",
+      "ipa_us": "/ˌaʊtˈspoʊkən/",
+      "part_of_speech": "adjective",
+      "meaning": "thẳng thắn",
+      "example": "She is outspoken about her beliefs."
+    },
+    {
+      "id": 40,
+      "word": "reserved",
+      "ipa_uk": "/rɪˈzɜːvd/",
+      "ipa_us": "/rɪˈzɜːrvd/",
+      "part_of_speech": "adjective",
+      "meaning": "kiệm lời, kín đáo",
+      "example": "He is reserved and doesn't share his feelings easily."
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "a sharp mind",
+      "meaning": "đầu óc sắc bén"
+    },
+    {
+      "phrase": "show compassion",
+      "meaning": "thể hiện lòng trắc ẩn"
+    },
+    {
+      "phrase": "remain humble",
+      "meaning": "giữ khiêm tốn"
+    },
+    {
+      "phrase": "be open to change",
+      "meaning": "sẵn sàng thay đổi"
+    },
+    {
+      "phrase": "speak one's mind",
+      "meaning": "nói thẳng suy nghĩ"
+    },
+    {
+      "phrase": "bounce back from failure",
+      "meaning": "vực dậy sau thất bại"
+    },
+    {
+      "phrase": "pay attention to detail",
+      "meaning": "chú ý đến chi tiết"
+    },
+    {
+      "phrase": "make a quick decision",
+      "meaning": "đưa ra quyết định nhanh"
+    },
+    {
+      "phrase": "keep an open mind",
+      "meaning": "giữ đầu óc cởi mở"
+    },
+    {
+      "phrase": "lose one's temper",
+      "meaning": "mất bình tĩnh"
+    },
+    {
+      "phrase": "have a sense of humor",
+      "meaning": "có khiếu hài hước"
+    },
+    {
+      "phrase": "think outside the box",
+      "meaning": "suy nghĩ sáng tạo"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "personality2-fill-1",
+      "title": "Điền từ vào chỗ trống",
+      "description": "Chọn tính từ nâng cao phù hợp để hoàn thành câu mô tả tính cách.",
+      "exercises": [
+        {
+          "id": "p2f1",
+          "kind": "fill",
+          "question": "She always notices how others feel. She is very ___.",
+          "answer": "perceptive",
+          "acceptable": [
+            "observant"
+          ],
+          "explanation": "perceptive = tinh ý"
+        },
+        {
+          "id": "p2f2",
+          "kind": "fill",
+          "question": "He remembered her birthday and bought her favourite flowers. How ___!",
+          "answer": "thoughtful",
+          "acceptable": [
+            "considerate"
+          ],
+          "explanation": "thoughtful = chu đáo"
+        },
+        {
+          "id": "p2f3",
+          "kind": "fill",
+          "question": "She cares deeply about the suffering of others. She is ___.",
+          "answer": "compassionate",
+          "acceptable": [
+            "empathetic"
+          ],
+          "explanation": "compassionate = giàu lòng trắc ẩn"
+        },
+        {
+          "id": "p2f4",
+          "kind": "fill",
+          "question": "He tricks people into doing what he wants. He is very ___.",
+          "answer": "manipulative",
+          "acceptable": [],
+          "explanation": "manipulative = thao túng người khác"
+        },
+        {
+          "id": "p2f5",
+          "kind": "fill",
+          "question": "She lies all the time. She is ___.",
+          "answer": "deceitful",
+          "acceptable": [],
+          "explanation": "deceitful = dối trá"
+        },
+        {
+          "id": "p2f6",
+          "kind": "fill",
+          "question": "Despite winning the award, he stayed ___.",
+          "answer": "humble",
+          "acceptable": [],
+          "explanation": "humble = khiêm tốn"
+        },
+        {
+          "id": "p2f7",
+          "kind": "fill",
+          "question": "You need to be more ___ and express your opinions clearly.",
+          "answer": "assertive",
+          "acceptable": [
+            "outspoken"
+          ],
+          "explanation": "assertive = quyết đoán"
+        },
+        {
+          "id": "p2f8",
+          "kind": "fill",
+          "question": "She lost her job but quickly found a new one. She is very ___.",
+          "answer": "resilient",
+          "acceptable": [],
+          "explanation": "resilient = kiên cường"
+        },
+        {
+          "id": "p2f9",
+          "kind": "fill",
+          "question": "He can fix anything with whatever tools are available. He is ___.",
+          "answer": "resourceful",
+          "acceptable": [],
+          "explanation": "resourceful = tháo vát"
+        },
+        {
+          "id": "p2f10",
+          "kind": "fill",
+          "question": "She checks every tiny detail before submitting her work. She is ___.",
+          "answer": "meticulous",
+          "acceptable": [],
+          "explanation": "meticulous = tỉ mỉ"
+        },
+        {
+          "id": "p2f11",
+          "kind": "fill",
+          "question": "He bought the car without thinking. That was an ___ decision.",
+          "answer": "impulsive",
+          "acceptable": [],
+          "explanation": "impulsive = bốc đồng"
+        },
+        {
+          "id": "p2f12",
+          "kind": "fill",
+          "question": "The president is ___ — people love to listen to him speak.",
+          "answer": "charismatic",
+          "acceptable": [],
+          "explanation": "charismatic = có sức hút"
+        },
+        {
+          "id": "p2f13",
+          "kind": "fill",
+          "question": "His ___ comments made everyone uncomfortable.",
+          "answer": "sarcastic",
+          "acceptable": [],
+          "explanation": "sarcastic = mỉa mai"
+        },
+        {
+          "id": "p2f14",
+          "kind": "fill",
+          "question": "She only talks about herself. She is so ___.",
+          "answer": "self-centered",
+          "acceptable": [],
+          "explanation": "self-centered = ích kỷ"
+        },
+        {
+          "id": "p2f15",
+          "kind": "fill",
+          "question": "Be ___ and accept that other people may have different views.",
+          "answer": "open-minded",
+          "acceptable": [],
+          "explanation": "open-minded = cởi mở"
+        }
+      ]
+    },
+    {
+      "id": "personality2-en-word",
+      "title": "Viết từ tiếng Anh",
+      "description": "Dựa vào nghĩa tiếng Việt, viết tính từ tiếng Anh nâng cao tương ứng.",
+      "exercises": [
+        {
+          "id": "p2e1",
+          "kind": "fill",
+          "question": "vô tâm, thiếu tinh tế → ___",
+          "answer": "insensitive",
+          "acceptable": [],
+          "explanation": "insensitive /ɪnˈsensətɪv/"
+        },
+        {
+          "id": "p2e2",
+          "kind": "fill",
+          "question": "nhạy cảm, tinh tế → ___",
+          "answer": "sensitive",
+          "acceptable": [],
+          "explanation": "sensitive /ˈsensətɪv/"
+        },
+        {
+          "id": "p2e3",
+          "kind": "fill",
+          "question": "sắc sảo, nhanh trí → ___",
+          "answer": "sharp",
+          "acceptable": [],
+          "explanation": "sharp /ʃɑːrp/"
+        },
+        {
+          "id": "p2e4",
+          "kind": "fill",
+          "question": "tinh ý → ___",
+          "answer": "perceptive",
+          "acceptable": [],
+          "explanation": "perceptive /pərˈseptɪv/"
+        },
+        {
+          "id": "p2e5",
+          "kind": "fill",
+          "question": "chu đáo → ___",
+          "answer": "thoughtful",
+          "acceptable": [
+            "considerate"
+          ],
+          "explanation": "thoughtful /ˈθɔːtfəl/"
+        },
+        {
+          "id": "p2e6",
+          "kind": "fill",
+          "question": "đồng cảm → ___",
+          "answer": "empathetic",
+          "acceptable": [],
+          "explanation": "empathetic /ˌempəˈθetɪk/"
+        },
+        {
+          "id": "p2e7",
+          "kind": "fill",
+          "question": "thao túng người khác → ___",
+          "answer": "manipulative",
+          "acceptable": [],
+          "explanation": "manipulative /məˈnɪpjəleɪtɪv/"
+        },
+        {
+          "id": "p2e8",
+          "kind": "fill",
+          "question": "xảo quyệt → ___",
+          "answer": "cunning",
+          "acceptable": [
+            "sly"
+          ],
+          "explanation": "cunning /ˈkʌnɪŋ/"
+        },
+        {
+          "id": "p2e9",
+          "kind": "fill",
+          "question": "kiêu ngạo → ___",
+          "answer": "arrogant",
+          "acceptable": [],
+          "explanation": "arrogant /ˈærəɡənt/"
+        },
+        {
+          "id": "p2e10",
+          "kind": "fill",
+          "question": "khiêm tốn → ___",
+          "answer": "humble",
+          "acceptable": [],
+          "explanation": "humble /ˈhʌmbl/"
+        },
+        {
+          "id": "p2e11",
+          "kind": "fill",
+          "question": "quyết đoán → ___",
+          "answer": "assertive",
+          "acceptable": [],
+          "explanation": "assertive /əˈsɜːrtɪv/"
+        },
+        {
+          "id": "p2e12",
+          "kind": "fill",
+          "question": "kiên cường → ___",
+          "answer": "resilient",
+          "acceptable": [],
+          "explanation": "resilient /rɪˈzɪliənt/"
+        },
+        {
+          "id": "p2e13",
+          "kind": "fill",
+          "question": "tháo vát → ___",
+          "answer": "resourceful",
+          "acceptable": [],
+          "explanation": "resourceful /rɪˈzɔːrsfəl/"
+        },
+        {
+          "id": "p2e14",
+          "kind": "fill",
+          "question": "tỉ mỉ → ___",
+          "answer": "meticulous",
+          "acceptable": [],
+          "explanation": "meticulous /məˈtɪkjələs/"
+        },
+        {
+          "id": "p2e15",
+          "kind": "fill",
+          "question": "bốc đồng → ___",
+          "answer": "impulsive",
+          "acceptable": [],
+          "explanation": "impulsive /ɪmˈpʌlsɪv/"
+        },
+        {
+          "id": "p2e16",
+          "kind": "fill",
+          "question": "có sức hút → ___",
+          "answer": "charismatic",
+          "acceptable": [],
+          "explanation": "charismatic /ˌkærɪzˈmætɪk/"
+        },
+        {
+          "id": "p2e17",
+          "kind": "fill",
+          "question": "hóm hỉnh → ___",
+          "answer": "witty",
+          "acceptable": [],
+          "explanation": "witty /ˈwɪti/"
+        },
+        {
+          "id": "p2e18",
+          "kind": "fill",
+          "question": "mỉa mai → ___",
+          "answer": "sarcastic",
+          "acceptable": [],
+          "explanation": "sarcastic /sɑːrˈkæstɪk/"
+        },
+        {
+          "id": "p2e19",
+          "kind": "fill",
+          "question": "cởi mở → ___",
+          "answer": "open-minded",
+          "acceptable": [],
+          "explanation": "open-minded /ˌoʊpən ˈmaɪndɪd/"
+        },
+        {
+          "id": "p2e20",
+          "kind": "fill",
+          "question": "thẳng thắn → ___",
+          "answer": "outspoken",
+          "acceptable": [],
+          "explanation": "outspoken /ˌaʊtˈspoʊkən/"
+        }
+      ]
+    },
+    {
+      "id": "personality2-antonym",
+      "title": "Chọn từ trái nghĩa",
+      "description": "Chọn tính từ có nghĩa trái ngược với từ được in đậm.",
+      "exercises": [
+        {
+          "id": "p2a1",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **sensitive** là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "insensitive"
+            },
+            {
+              "key": "B",
+              "text": "perceptive"
+            },
+            {
+              "key": "C",
+              "text": "sympathetic"
+            },
+            {
+              "key": "D",
+              "text": "considerate"
+            }
+          ],
+          "answer": "A",
+          "explanation": "sensitive (nhạy cảm) ↔ insensitive (vô tâm)"
+        },
+        {
+          "id": "p2a2",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **humble** là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "resilient"
+            },
+            {
+              "key": "B",
+              "text": "arrogant"
+            },
+            {
+              "key": "C",
+              "text": "diligent"
+            },
+            {
+              "key": "D",
+              "text": "adaptable"
+            }
+          ],
+          "answer": "B",
+          "explanation": "humble (khiêm tốn) ↔ arrogant (kiêu ngạo)"
+        },
+        {
+          "id": "p2a3",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **assertive** là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "cunning"
+            },
+            {
+              "key": "B",
+              "text": "eccentric"
+            },
+            {
+              "key": "C",
+              "text": "submissive"
+            },
+            {
+              "key": "D",
+              "text": "impulsive"
+            }
+          ],
+          "answer": "C",
+          "explanation": "assertive (quyết đoán) ↔ submissive (phục tùng)"
+        },
+        {
+          "id": "p2a4",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **open-minded** là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "outspoken"
+            },
+            {
+              "key": "B",
+              "text": "narrow-minded"
+            },
+            {
+              "key": "C",
+              "text": "reserved"
+            },
+            {
+              "key": "D",
+              "text": "moody"
+            }
+          ],
+          "answer": "B",
+          "explanation": "open-minded (cởi mở) ↔ narrow-minded (bảo thủ)"
+        },
+        {
+          "id": "p2a5",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **rational** là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "pragmatic"
+            },
+            {
+              "key": "B",
+              "text": "meticulous"
+            },
+            {
+              "key": "C",
+              "text": "impulsive"
+            },
+            {
+              "key": "D",
+              "text": "versatile"
+            }
+          ],
+          "answer": "C",
+          "explanation": "rational (lý trí) ↔ impulsive (bốc đồng)"
+        },
+        {
+          "id": "p2a6",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **outspoken** là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "reserved"
+            },
+            {
+              "key": "B",
+              "text": "witty"
+            },
+            {
+              "key": "C",
+              "text": "charismatic"
+            },
+            {
+              "key": "D",
+              "text": "sarcastic"
+            }
+          ],
+          "answer": "A",
+          "explanation": "outspoken (thẳng thắn) ↔ reserved (kiệm lời, kín đáo)"
+        },
+        {
+          "id": "p2a7",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **generous** (bài trước) gần nghĩa nhất với từ nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "self-centered"
+            },
+            {
+              "key": "B",
+              "text": "conceited"
+            },
+            {
+              "key": "C",
+              "text": "temperamental"
+            },
+            {
+              "key": "D",
+              "text": "eccentric"
+            }
+          ],
+          "answer": "A",
+          "explanation": "generous (hào phóng) ↔ self-centered (ích kỷ, chỉ nghĩ cho mình)"
+        },
+        {
+          "id": "p2a8",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **honest** (trung thực) gần nghĩa nhất với từ nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "sly"
+            },
+            {
+              "key": "B",
+              "text": "deceitful"
+            },
+            {
+              "key": "C",
+              "text": "cunning"
+            },
+            {
+              "key": "D",
+              "text": "calculating"
+            }
+          ],
+          "answer": "B",
+          "explanation": "honest (trung thực) ↔ deceitful (dối trá)"
+        },
+        {
+          "id": "p2a9",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **careful** (cẩn thận) gần nghĩa nhất với từ nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "impulsive"
+            },
+            {
+              "key": "B",
+              "text": "moody"
+            },
+            {
+              "key": "C",
+              "text": "temperamental"
+            },
+            {
+              "key": "D",
+              "text": "eccentric"
+            }
+          ],
+          "answer": "A",
+          "explanation": "careful (cẩn thận) ↔ impulsive (bốc đồng, hành động không suy nghĩ)"
+        },
+        {
+          "id": "p2a10",
+          "kind": "mcq",
+          "question": "Trái nghĩa của **compassionate** là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "manipulative"
+            },
+            {
+              "key": "B",
+              "text": "insensitive"
+            },
+            {
+              "key": "C",
+              "text": "calculating"
+            },
+            {
+              "key": "D",
+              "text": "sarcastic"
+            }
+          ],
+          "answer": "B",
+          "explanation": "compassionate (giàu lòng trắc ẩn) ↔ insensitive (vô tâm)"
+        }
+      ]
+    },
+    {
+      "id": "personality2-meaning",
+      "title": "Chọn nghĩa đúng",
+      "description": "Chọn nghĩa tiếng Việt đúng nhất cho từ tiếng Anh.",
+      "exercises": [
+        {
+          "id": "p2m1",
+          "kind": "mcq",
+          "question": "**Resilient** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tháo vát"
+            },
+            {
+              "key": "B",
+              "text": "Kiên cường, hồi phục nhanh"
+            },
+            {
+              "key": "C",
+              "text": "Quyết đoán"
+            },
+            {
+              "key": "D",
+              "text": "Đa năng"
+            }
+          ],
+          "answer": "B",
+          "explanation": "resilient = kiên cường, có khả năng hồi phục sau khó khăn"
+        },
+        {
+          "id": "p2m2",
+          "kind": "mcq",
+          "question": "**Meticulous** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thực tế"
+            },
+            {
+              "key": "B",
+              "text": "Chăm chỉ"
+            },
+            {
+              "key": "C",
+              "text": "Tỉ mỉ, cẩn thận từng chi tiết"
+            },
+            {
+              "key": "D",
+              "text": "Lý trí"
+            }
+          ],
+          "answer": "C",
+          "explanation": "meticulous = tỉ mỉ, chú ý đến từng chi tiết nhỏ"
+        },
+        {
+          "id": "p2m3",
+          "kind": "mcq",
+          "question": "**Pragmatic** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bi quan"
+            },
+            {
+              "key": "B",
+              "text": "Lạc quan"
+            },
+            {
+              "key": "C",
+              "text": "Lý trí"
+            },
+            {
+              "key": "D",
+              "text": "Thực tế, thực dụng"
+            }
+          ],
+          "answer": "D",
+          "explanation": "pragmatic = thực tế, tập trung vào giải pháp khả thi"
+        },
+        {
+          "id": "p2m4",
+          "kind": "mcq",
+          "question": "**Eccentric** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Có sức hút"
+            },
+            {
+              "key": "B",
+              "text": "Lập dị, khác người"
+            },
+            {
+              "key": "C",
+              "text": "Hóm hỉnh"
+            },
+            {
+              "key": "D",
+              "text": "Bốc đồng"
+            }
+          ],
+          "answer": "B",
+          "explanation": "eccentric = lập dị, có hành vi hoặc sở thích khác thường"
+        },
+        {
+          "id": "p2m5",
+          "kind": "mcq",
+          "question": "**Versatile** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dễ thích nghi"
+            },
+            {
+              "key": "B",
+              "text": "Tháo vát"
+            },
+            {
+              "key": "C",
+              "text": "Đa năng, linh hoạt"
+            },
+            {
+              "key": "D",
+              "text": "Chăm chỉ"
+            }
+          ],
+          "answer": "C",
+          "explanation": "versatile = đa năng, có thể làm nhiều thứ khác nhau"
+        },
+        {
+          "id": "p2m6",
+          "kind": "mcq",
+          "question": "**Conceited** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kiêu ngạo"
+            },
+            {
+              "key": "B",
+              "text": "Tự phụ, tự mãn"
+            },
+            {
+              "key": "C",
+              "text": "Ích kỷ"
+            },
+            {
+              "key": "D",
+              "text": "Bướng bỉnh"
+            }
+          ],
+          "answer": "B",
+          "explanation": "conceited = tự phụ, đánh giá bản thân quá cao"
+        },
+        {
+          "id": "p2m7",
+          "kind": "mcq",
+          "question": "**Temperamental** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thất thường"
+            },
+            {
+              "key": "B",
+              "text": "Dễ nóng nảy, tâm trạng thay đổi nhanh"
+            },
+            {
+              "key": "C",
+              "text": "Bảo thủ"
+            },
+            {
+              "key": "D",
+              "text": "Phục tùng"
+            }
+          ],
+          "answer": "B",
+          "explanation": "temperamental = dễ nóng nảy, tâm trạng biến đổi khó đoán"
+        },
+        {
+          "id": "p2m8",
+          "kind": "mcq",
+          "question": "**Considerate** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cẩn thận"
+            },
+            {
+              "key": "B",
+              "text": "Chu đáo"
+            },
+            {
+              "key": "C",
+              "text": "Biết nghĩ cho người khác"
+            },
+            {
+              "key": "D",
+              "text": "Nhạy cảm"
+            }
+          ],
+          "answer": "C",
+          "explanation": "considerate = biết nghĩ cho người khác, quan tâm đến cảm xúc của họ"
+        },
+        {
+          "id": "p2m9",
+          "kind": "mcq",
+          "question": "**Cunning** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dối trá"
+            },
+            {
+              "key": "B",
+              "text": "Ranh mãnh"
+            },
+            {
+              "key": "C",
+              "text": "Xảo quyệt, mưu mô"
+            },
+            {
+              "key": "D",
+              "text": "Toan tính"
+            }
+          ],
+          "answer": "C",
+          "explanation": "cunning = xảo quyệt, dùng mưu mô để đạt mục đích"
+        },
+        {
+          "id": "p2m10",
+          "kind": "mcq",
+          "question": "**Diligent** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tỉ mỉ"
+            },
+            {
+              "key": "B",
+              "text": "Thực tế"
+            },
+            {
+              "key": "C",
+              "text": "Chăm chỉ, cần cù"
+            },
+            {
+              "key": "D",
+              "text": "Đa năng"
+            }
+          ],
+          "answer": "C",
+          "explanation": "diligent = chăm chỉ, siêng năng trong công việc"
+        },
+        {
+          "id": "p2m11",
+          "kind": "mcq",
+          "question": "**Sly** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Xảo quyệt"
+            },
+            {
+              "key": "B",
+              "text": "Ranh mãnh, lén lút"
+            },
+            {
+              "key": "C",
+              "text": "Dối trá"
+            },
+            {
+              "key": "D",
+              "text": "Thao túng"
+            }
+          ],
+          "answer": "B",
+          "explanation": "sly = ranh mãnh, hành động lén lút và khôn khéo"
+        },
+        {
+          "id": "p2m12",
+          "kind": "mcq",
+          "question": "**Adaptable** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kiên cường"
+            },
+            {
+              "key": "B",
+              "text": "Tháo vát"
+            },
+            {
+              "key": "C",
+              "text": "Đa năng"
+            },
+            {
+              "key": "D",
+              "text": "Dễ thích nghi"
+            }
+          ],
+          "answer": "D",
+          "explanation": "adaptable = dễ thích nghi, điều chỉnh được theo hoàn cảnh mới"
+        }
+      ]
+    },
+    {
+      "id": "personality2-fill-2",
+      "title": "Điền từ nâng cao — Ngữ cảnh thực tế",
+      "description": "Điền tính từ phù hợp vào các tình huống giao tiếp và mô tả con người.",
+      "exercises": [
+        {
+          "id": "p2g1",
+          "kind": "fill",
+          "question": "She moved to three different countries in five years and adjusted well each time. She is very ___.",
+          "answer": "adaptable",
+          "acceptable": [
+            "resilient"
+          ],
+          "explanation": "adaptable = dễ thích nghi"
+        },
+        {
+          "id": "p2g2",
+          "kind": "fill",
+          "question": "He can play guitar, paint, cook, and code. He is truly ___.",
+          "answer": "versatile",
+          "acceptable": [],
+          "explanation": "versatile = đa năng"
+        },
+        {
+          "id": "p2g3",
+          "kind": "fill",
+          "question": "She works from 6 AM to 10 PM every day without complaint. She is extremely ___.",
+          "answer": "diligent",
+          "acceptable": [
+            "hard-working"
+          ],
+          "explanation": "diligent = chăm chỉ, cần cù"
+        },
+        {
+          "id": "p2g4",
+          "kind": "fill",
+          "question": "He always thinks about practical solutions, not theories. He is very ___.",
+          "answer": "pragmatic",
+          "acceptable": [
+            "rational"
+          ],
+          "explanation": "pragmatic = thực tế"
+        },
+        {
+          "id": "p2g5",
+          "kind": "fill",
+          "question": "She makes decisions based on logic, not emotions. She is ___.",
+          "answer": "rational",
+          "acceptable": [],
+          "explanation": "rational = lý trí"
+        },
+        {
+          "id": "p2g6",
+          "kind": "fill",
+          "question": "The old professor wears mismatched socks and talks to his plants. He is quite ___.",
+          "answer": "eccentric",
+          "acceptable": [],
+          "explanation": "eccentric = lập dị"
+        },
+        {
+          "id": "p2g7",
+          "kind": "fill",
+          "question": "Her quick, clever responses always make people laugh. She is very ___.",
+          "answer": "witty",
+          "acceptable": [],
+          "explanation": "witty = hóm hỉnh"
+        },
+        {
+          "id": "p2g8",
+          "kind": "fill",
+          "question": "One moment she's happy, the next she's upset. She can be very ___.",
+          "answer": "moody",
+          "acceptable": [
+            "temperamental"
+          ],
+          "explanation": "moody = thất thường"
+        },
+        {
+          "id": "p2g9",
+          "kind": "fill",
+          "question": "He refuses to listen to anyone else's ideas. He is so ___.",
+          "answer": "narrow-minded",
+          "acceptable": [],
+          "explanation": "narrow-minded = bảo thủ"
+        },
+        {
+          "id": "p2g10",
+          "kind": "fill",
+          "question": "She doesn't share her feelings easily and prefers being alone. She is quite ___.",
+          "answer": "reserved",
+          "acceptable": [],
+          "explanation": "reserved = kiệm lời, kín đáo"
+        },
+        {
+          "id": "p2g11",
+          "kind": "fill",
+          "question": "He thinks he is better than everyone else. He is very ___.",
+          "answer": "conceited",
+          "acceptable": [
+            "arrogant"
+          ],
+          "explanation": "conceited = tự phụ"
+        },
+        {
+          "id": "p2g12",
+          "kind": "fill",
+          "question": "She always follows orders without questioning. She is too ___.",
+          "answer": "submissive",
+          "acceptable": [],
+          "explanation": "submissive = phục tùng"
+        },
+        {
+          "id": "p2g13",
+          "kind": "fill",
+          "question": "He smiled and agreed to help, but secretly planned to take all the credit. He is ___.",
+          "answer": "sly",
+          "acceptable": [
+            "cunning"
+          ],
+          "explanation": "sly = ranh mãnh"
+        },
+        {
+          "id": "p2g14",
+          "kind": "fill",
+          "question": "Every move she makes is planned to benefit herself. She is very ___.",
+          "answer": "calculating",
+          "acceptable": [],
+          "explanation": "calculating = toan tính"
+        },
+        {
+          "id": "p2g15",
+          "kind": "fill",
+          "question": "She is not afraid to criticize the boss publicly. She is very ___.",
+          "answer": "outspoken",
+          "acceptable": [
+            "assertive"
+          ],
+          "explanation": "outspoken = thẳng thắn"
+        }
+      ]
+    },
+    {
+      "id": "personality2-synonym",
+      "title": "Chọn từ đồng nghĩa / gần nghĩa",
+      "description": "Chọn từ có nghĩa gần nhất với từ được in đậm.",
+      "exercises": [
+        {
+          "id": "p2s1",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **thoughtful**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "considerate"
+            },
+            {
+              "key": "B",
+              "text": "calculating"
+            },
+            {
+              "key": "C",
+              "text": "rational"
+            },
+            {
+              "key": "D",
+              "text": "reserved"
+            }
+          ],
+          "answer": "A",
+          "explanation": "thoughtful ≈ considerate (chu đáo, biết nghĩ cho người khác)"
+        },
+        {
+          "id": "p2s2",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **empathetic**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "eccentric"
+            },
+            {
+              "key": "B",
+              "text": "sympathetic"
+            },
+            {
+              "key": "C",
+              "text": "assertive"
+            },
+            {
+              "key": "D",
+              "text": "versatile"
+            }
+          ],
+          "answer": "B",
+          "explanation": "empathetic ≈ sympathetic (đồng cảm, cảm thông)"
+        },
+        {
+          "id": "p2s3",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **cunning**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "sly"
+            },
+            {
+              "key": "B",
+              "text": "witty"
+            },
+            {
+              "key": "C",
+              "text": "sharp"
+            },
+            {
+              "key": "D",
+              "text": "charismatic"
+            }
+          ],
+          "answer": "A",
+          "explanation": "cunning ≈ sly (xảo quyệt, ranh mãnh)"
+        },
+        {
+          "id": "p2s4",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **arrogant**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "stubborn"
+            },
+            {
+              "key": "B",
+              "text": "conceited"
+            },
+            {
+              "key": "C",
+              "text": "temperamental"
+            },
+            {
+              "key": "D",
+              "text": "manipulative"
+            }
+          ],
+          "answer": "B",
+          "explanation": "arrogant ≈ conceited (kiêu ngạo, tự phụ)"
+        },
+        {
+          "id": "p2s5",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **diligent**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "meticulous"
+            },
+            {
+              "key": "B",
+              "text": "hard-working"
+            },
+            {
+              "key": "C",
+              "text": "pragmatic"
+            },
+            {
+              "key": "D",
+              "text": "resourceful"
+            }
+          ],
+          "answer": "B",
+          "explanation": "diligent ≈ hard-working (chăm chỉ, siêng năng)"
+        },
+        {
+          "id": "p2s6",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **adaptable**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "resilient"
+            },
+            {
+              "key": "B",
+              "text": "versatile"
+            },
+            {
+              "key": "C",
+              "text": "flexible"
+            },
+            {
+              "key": "D",
+              "text": "resourceful"
+            }
+          ],
+          "answer": "C",
+          "explanation": "adaptable ≈ flexible (dễ thích nghi, linh hoạt)"
+        },
+        {
+          "id": "p2s7",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **moody**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "temperamental"
+            },
+            {
+              "key": "B",
+              "text": "impulsive"
+            },
+            {
+              "key": "C",
+              "text": "eccentric"
+            },
+            {
+              "key": "D",
+              "text": "sarcastic"
+            }
+          ],
+          "answer": "A",
+          "explanation": "moody ≈ temperamental (thất thường, hay thay đổi tâm trạng)"
+        },
+        {
+          "id": "p2s8",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **perceptive**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "sensitive"
+            },
+            {
+              "key": "B",
+              "text": "observant"
+            },
+            {
+              "key": "C",
+              "text": "thoughtful"
+            },
+            {
+              "key": "D",
+              "text": "rational"
+            }
+          ],
+          "answer": "B",
+          "explanation": "perceptive ≈ observant (tinh ý, quan sát tốt)"
+        },
+        {
+          "id": "p2s9",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **self-centered**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "arrogant"
+            },
+            {
+              "key": "B",
+              "text": "selfish"
+            },
+            {
+              "key": "C",
+              "text": "conceited"
+            },
+            {
+              "key": "D",
+              "text": "stubborn"
+            }
+          ],
+          "answer": "B",
+          "explanation": "self-centered ≈ selfish (ích kỷ, chỉ nghĩ cho bản thân)"
+        },
+        {
+          "id": "p2s10",
+          "kind": "mcq",
+          "question": "Từ nào gần nghĩa nhất với **outspoken**?",
+          "options": [
+            {
+              "key": "A",
+              "text": "assertive"
+            },
+            {
+              "key": "B",
+              "text": "charismatic"
+            },
+            {
+              "key": "C",
+              "text": "sharp"
+            },
+            {
+              "key": "D",
+              "text": "witty"
+            }
+          ],
+          "answer": "A",
+          "explanation": "outspoken ≈ assertive (thẳng thắn, dám nói)"
+        }
+      ]
+    },
+    {
+      "id": "personality2-match-col",
+      "title": "Nối collocation — Tính cách nâng cao",
+      "description": "Chọn từ đi kèm đúng để tạo thành cụm từ về tính cách nâng cao.",
+      "exercises": [
+        {
+          "id": "p2mc1",
+          "kind": "mcq",
+          "question": "a ___ mind (đầu óc sắc bén)",
+          "options": [
+            {
+              "key": "A",
+              "text": "quick"
+            },
+            {
+              "key": "B",
+              "text": "fast"
+            },
+            {
+              "key": "C",
+              "text": "sharp"
+            },
+            {
+              "key": "D",
+              "text": "smart"
+            }
+          ],
+          "answer": "C",
+          "explanation": "a sharp mind = đầu óc sắc bén"
+        },
+        {
+          "id": "p2mc2",
+          "kind": "mcq",
+          "question": "___ compassion (thể hiện lòng trắc ẩn)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Give"
+            },
+            {
+              "key": "B",
+              "text": "Show"
+            },
+            {
+              "key": "C",
+              "text": "Make"
+            },
+            {
+              "key": "D",
+              "text": "Do"
+            }
+          ],
+          "answer": "B",
+          "explanation": "show compassion = thể hiện lòng trắc ẩn"
+        },
+        {
+          "id": "p2mc3",
+          "kind": "mcq",
+          "question": "___ humble (giữ khiêm tốn)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Stay"
+            },
+            {
+              "key": "B",
+              "text": "Keep"
+            },
+            {
+              "key": "C",
+              "text": "Remain"
+            },
+            {
+              "key": "D",
+              "text": "Tất cả đều đúng"
+            }
+          ],
+          "answer": "D",
+          "explanation": "stay/keep/remain humble đều đúng = giữ khiêm tốn"
+        },
+        {
+          "id": "p2mc4",
+          "kind": "mcq",
+          "question": "___ one's mind (nói thẳng suy nghĩ)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tell"
+            },
+            {
+              "key": "B",
+              "text": "Say"
+            },
+            {
+              "key": "C",
+              "text": "Speak"
+            },
+            {
+              "key": "D",
+              "text": "Talk"
+            }
+          ],
+          "answer": "C",
+          "explanation": "speak one's mind = nói thẳng suy nghĩ"
+        },
+        {
+          "id": "p2mc5",
+          "kind": "mcq",
+          "question": "___ back from failure (vực dậy sau thất bại)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Come"
+            },
+            {
+              "key": "B",
+              "text": "Get"
+            },
+            {
+              "key": "C",
+              "text": "Bounce"
+            },
+            {
+              "key": "D",
+              "text": "Jump"
+            }
+          ],
+          "answer": "C",
+          "explanation": "bounce back from failure = vực dậy sau thất bại"
+        },
+        {
+          "id": "p2mc6",
+          "kind": "mcq",
+          "question": "___ one's temper (mất bình tĩnh)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Drop"
+            },
+            {
+              "key": "B",
+              "text": "Miss"
+            },
+            {
+              "key": "C",
+              "text": "Lose"
+            },
+            {
+              "key": "D",
+              "text": "Break"
+            }
+          ],
+          "answer": "C",
+          "explanation": "lose one's temper = mất bình tĩnh"
+        },
+        {
+          "id": "p2mc7",
+          "kind": "mcq",
+          "question": "pay attention to ___ (chú ý đến chi tiết)",
+          "options": [
+            {
+              "key": "A",
+              "text": "details"
+            },
+            {
+              "key": "B",
+              "text": "detail"
+            },
+            {
+              "key": "C",
+              "text": "things"
+            },
+            {
+              "key": "D",
+              "text": "points"
+            }
+          ],
+          "answer": "B",
+          "explanation": "pay attention to detail = chú ý đến chi tiết"
+        },
+        {
+          "id": "p2mc8",
+          "kind": "mcq",
+          "question": "think outside the ___ (suy nghĩ sáng tạo)",
+          "options": [
+            {
+              "key": "A",
+              "text": "line"
+            },
+            {
+              "key": "B",
+              "text": "wall"
+            },
+            {
+              "key": "C",
+              "text": "box"
+            },
+            {
+              "key": "D",
+              "text": "room"
+            }
+          ],
+          "answer": "C",
+          "explanation": "think outside the box = suy nghĩ sáng tạo, vượt khuôn khổ"
+        }
+      ]
+    },
+    {
+      "id": "personality2-choose-col",
+      "title": "Chọn collocation tự nhiên — Tính cách nâng cao",
+      "description": "Chọn cụm từ tự nhiên nhất mà người bản ngữ thường dùng.",
+      "exercises": [
+        {
+          "id": "p2cc1",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'mất bình tĩnh'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "lose your temper"
+            },
+            {
+              "key": "B",
+              "text": "break your temper"
+            },
+            {
+              "key": "C",
+              "text": "drop your temper"
+            },
+            {
+              "key": "D",
+              "text": "miss your temper"
+            }
+          ],
+          "answer": "A",
+          "explanation": "lose your temper = mất bình tĩnh"
+        },
+        {
+          "id": "p2cc2",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "a sharp mind"
+            },
+            {
+              "key": "B",
+              "text": "a fast mind"
+            },
+            {
+              "key": "C",
+              "text": "a quick mind"
+            },
+            {
+              "key": "D",
+              "text": "a smart mind"
+            }
+          ],
+          "answer": "A",
+          "explanation": "a sharp mind = đầu óc sắc bén (collocation chuẩn)"
+        },
+        {
+          "id": "p2cc3",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "keep an open mind"
+            },
+            {
+              "key": "B",
+              "text": "hold an open mind"
+            },
+            {
+              "key": "C",
+              "text": "have an open mind"
+            },
+            {
+              "key": "D",
+              "text": "stay an open mind"
+            }
+          ],
+          "answer": "A",
+          "explanation": "keep an open mind = giữ đầu óc cởi mở"
+        },
+        {
+          "id": "p2cc4",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "bounce back from failure"
+            },
+            {
+              "key": "B",
+              "text": "jump back from failure"
+            },
+            {
+              "key": "C",
+              "text": "come back from failure"
+            },
+            {
+              "key": "D",
+              "text": "get back from failure"
+            }
+          ],
+          "answer": "A",
+          "explanation": "bounce back from failure = vực dậy sau thất bại"
+        },
+        {
+          "id": "p2cc5",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "make a quick decision"
+            },
+            {
+              "key": "B",
+              "text": "do a quick decision"
+            },
+            {
+              "key": "C",
+              "text": "take a quick decision"
+            },
+            {
+              "key": "D",
+              "text": "get a quick decision"
+            }
+          ],
+          "answer": "A",
+          "explanation": "make a quick decision = đưa ra quyết định nhanh"
+        },
+        {
+          "id": "p2cc6",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "have a sense of humor"
+            },
+            {
+              "key": "B",
+              "text": "get a sense of humor"
+            },
+            {
+              "key": "C",
+              "text": "make a sense of humor"
+            },
+            {
+              "key": "D",
+              "text": "take a sense of humor"
+            }
+          ],
+          "answer": "A",
+          "explanation": "have a sense of humor = có khiếu hài hước"
+        }
+      ]
+    }
+  ]
+}

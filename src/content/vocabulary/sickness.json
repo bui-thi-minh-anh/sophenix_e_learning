@@ -1,47 +1,317 @@
 {
   "vocabulary": [
-    { "id": 1, "word": "sick", "ipa_uk": "/sɪk/", "ipa_us": "/sɪk/", "part_of_speech": "adjective", "meaning": "ốm, bị bệnh", "example": "I'm feeling sick today." },
-    { "id": 2, "word": "ill", "ipa_uk": "/ɪl/", "ipa_us": "/ɪl/", "part_of_speech": "adjective", "meaning": "bị bệnh", "example": "She has been ill for two days." },
-    { "id": 3, "word": "fever", "ipa_uk": "/ˈfiːvə(r)/", "ipa_us": "/ˈfiːvər/", "part_of_speech": "noun", "meaning": "sốt", "example": "He has a high fever." },
-    { "id": 4, "word": "cough", "ipa_uk": "/kɒf/", "ipa_us": "/kɔːf/", "part_of_speech": "noun / verb", "meaning": "ho", "example": "She has a bad cough." },
-    { "id": 5, "word": "cold", "ipa_uk": "/kəʊld/", "ipa_us": "/koʊld/", "part_of_speech": "noun", "meaning": "cảm lạnh", "example": "I caught a cold." },
-    { "id": 6, "word": "flu", "ipa_uk": "/fluː/", "ipa_us": "/fluː/", "part_of_speech": "noun", "meaning": "cúm", "example": "Many people get the flu in winter." },
-    { "id": 7, "word": "headache", "ipa_uk": "/ˈhedeɪk/", "ipa_us": "/ˈhedeɪk/", "part_of_speech": "noun", "meaning": "đau đầu", "example": "I have a terrible headache." },
-    { "id": 8, "word": "toothache", "ipa_uk": "/ˈtuːθeɪk/", "ipa_us": "/ˈtuːθeɪk/", "part_of_speech": "noun", "meaning": "đau răng", "example": "My toothache is getting worse." },
-    { "id": 9, "word": "stomachache", "ipa_uk": "/ˈstʌməkeɪk/", "ipa_us": "/ˈstʌməkeɪk/", "part_of_speech": "noun", "meaning": "đau bụng", "example": "I have a stomachache." },
-    { "id": 10, "word": "sore throat", "ipa_uk": "/ˌsɔː ˈθrəʊt/", "ipa_us": "/ˌsɔːr ˈθroʊt/", "part_of_speech": "noun", "meaning": "đau họng", "example": "She has a sore throat." },
-    { "id": 11, "word": "runny nose", "ipa_uk": "/ˌrʌni ˈnəʊz/", "ipa_us": "/ˌrʌni ˈnoʊz/", "part_of_speech": "noun", "meaning": "sổ mũi", "example": "My runny nose won't stop." },
-    { "id": 12, "word": "sneeze", "ipa_uk": "/sniːz/", "ipa_us": "/sniːz/", "part_of_speech": "verb", "meaning": "hắt hơi", "example": "He keeps sneezing." },
-    { "id": 13, "word": "vomit", "ipa_uk": "/ˈvɒmɪt/", "ipa_us": "/ˈvɑːmɪt/", "part_of_speech": "verb / noun", "meaning": "nôn", "example": "The child vomited after dinner." },
-    { "id": 14, "word": "dizzy", "ipa_uk": "/ˈdɪzi/", "ipa_us": "/ˈdɪzi/", "part_of_speech": "adjective", "meaning": "chóng mặt", "example": "I feel dizzy." },
-    { "id": 15, "word": "weak", "ipa_uk": "/wiːk/", "ipa_us": "/wiːk/", "part_of_speech": "adjective", "meaning": "yếu", "example": "I feel weak after being sick." },
-    { "id": 16, "word": "pain", "ipa_uk": "/peɪn/", "ipa_us": "/peɪn/", "part_of_speech": "noun", "meaning": "cơn đau", "example": "I have pain in my back." },
-    { "id": 17, "word": "medicine", "ipa_uk": "/ˈmedsn/", "ipa_us": "/ˈmedɪsn/", "part_of_speech": "noun", "meaning": "thuốc", "example": "Take your medicine twice a day." },
-    { "id": 18, "word": "pill", "ipa_uk": "/pɪl/", "ipa_us": "/pɪl/", "part_of_speech": "noun", "meaning": "viên thuốc", "example": "Take two pills after meals." },
-    { "id": 19, "word": "recover", "ipa_uk": "/rɪˈkʌvə(r)/", "ipa_us": "/rɪˈkʌvər/", "part_of_speech": "verb", "meaning": "hồi phục", "example": "She recovered quickly." },
-    { "id": 20, "word": "allergy", "ipa_uk": "/ˈælədʒi/", "ipa_us": "/ˈælərdʒi/", "part_of_speech": "noun", "meaning": "dị ứng", "example": "He has a peanut allergy." },
-    { "id": 21, "word": "infection", "ipa_uk": "/ɪnˈfekʃn/", "ipa_us": "/ɪnˈfekʃn/", "part_of_speech": "noun", "meaning": "nhiễm trùng", "example": "The doctor treated the infection." },
-    { "id": 22, "word": "injury", "ipa_uk": "/ˈɪndʒəri/", "ipa_us": "/ˈɪndʒəri/", "part_of_speech": "noun", "meaning": "chấn thương", "example": "He suffered a leg injury." },
-    { "id": 23, "word": "bandage", "ipa_uk": "/ˈbændɪdʒ/", "ipa_us": "/ˈbændɪdʒ/", "part_of_speech": "noun", "meaning": "băng gạc", "example": "The nurse put a bandage on my arm." },
-    { "id": 24, "word": "rest", "ipa_uk": "/rest/", "ipa_us": "/rest/", "part_of_speech": "verb", "meaning": "nghỉ ngơi", "example": "You should rest at home." },
-    { "id": 25, "word": "healthy", "ipa_uk": "/ˈhelθi/", "ipa_us": "/ˈhelθi/", "part_of_speech": "adjective", "meaning": "khỏe mạnh", "example": "Exercise helps you stay healthy." },
-    { "id": 26, "word": "unhealthy", "ipa_uk": "/ʌnˈhelθi/", "ipa_us": "/ʌnˈhelθi/", "part_of_speech": "adjective", "meaning": "không khỏe mạnh", "example": "Eating too much fast food is unhealthy." },
-    { "id": 27, "word": "symptom", "ipa_uk": "/ˈsɪmptəm/", "ipa_us": "/ˈsɪmptəm/", "part_of_speech": "noun", "meaning": "triệu chứng", "example": "A fever is a common symptom." },
-    { "id": 28, "word": "virus", "ipa_uk": "/ˈvaɪərəs/", "ipa_us": "/ˈvaɪrəs/", "part_of_speech": "noun", "meaning": "vi-rút", "example": "The virus spreads quickly." },
-    { "id": 29, "word": "bacteria", "ipa_uk": "/bækˈtɪəriə/", "ipa_us": "/bækˈtɪriə/", "part_of_speech": "noun", "meaning": "vi khuẩn", "example": "Some bacteria are harmful." },
-    { "id": 30, "word": "emergency", "ipa_uk": "/ɪˈmɜːdʒənsi/", "ipa_us": "/ɪˈmɜːrdʒənsi/", "part_of_speech": "noun", "meaning": "tình huống khẩn cấp", "example": "Call an ambulance in an emergency." }
+    {
+      "id": 1,
+      "word": "sick",
+      "ipa_uk": "/sɪk/",
+      "ipa_us": "/sɪk/",
+      "part_of_speech": "adjective",
+      "meaning": "ốm, bị bệnh",
+      "example": "I'm feeling sick today."
+    },
+    {
+      "id": 2,
+      "word": "ill",
+      "ipa_uk": "/ɪl/",
+      "ipa_us": "/ɪl/",
+      "part_of_speech": "adjective",
+      "meaning": "bị bệnh",
+      "example": "She has been ill for two days."
+    },
+    {
+      "id": 3,
+      "word": "fever",
+      "ipa_uk": "/ˈfiːvə(r)/",
+      "ipa_us": "/ˈfiːvər/",
+      "part_of_speech": "noun",
+      "meaning": "sốt",
+      "example": "He has a high fever."
+    },
+    {
+      "id": 4,
+      "word": "cough",
+      "ipa_uk": "/kɒf/",
+      "ipa_us": "/kɔːf/",
+      "part_of_speech": "noun / verb",
+      "meaning": "ho",
+      "example": "She has a bad cough."
+    },
+    {
+      "id": 5,
+      "word": "cold",
+      "ipa_uk": "/kəʊld/",
+      "ipa_us": "/koʊld/",
+      "part_of_speech": "noun",
+      "meaning": "cảm lạnh",
+      "example": "I caught a cold."
+    },
+    {
+      "id": 6,
+      "word": "flu",
+      "ipa_uk": "/fluː/",
+      "ipa_us": "/fluː/",
+      "part_of_speech": "noun",
+      "meaning": "cúm",
+      "example": "Many people get the flu in winter."
+    },
+    {
+      "id": 7,
+      "word": "headache",
+      "ipa_uk": "/ˈhedeɪk/",
+      "ipa_us": "/ˈhedeɪk/",
+      "part_of_speech": "noun",
+      "meaning": "đau đầu",
+      "example": "I have a terrible headache."
+    },
+    {
+      "id": 8,
+      "word": "toothache",
+      "ipa_uk": "/ˈtuːθeɪk/",
+      "ipa_us": "/ˈtuːθeɪk/",
+      "part_of_speech": "noun",
+      "meaning": "đau răng",
+      "example": "My toothache is getting worse."
+    },
+    {
+      "id": 9,
+      "word": "stomachache",
+      "ipa_uk": "/ˈstʌməkeɪk/",
+      "ipa_us": "/ˈstʌməkeɪk/",
+      "part_of_speech": "noun",
+      "meaning": "đau bụng",
+      "example": "I have a stomachache."
+    },
+    {
+      "id": 10,
+      "word": "sore throat",
+      "ipa_uk": "/ˌsɔː ˈθrəʊt/",
+      "ipa_us": "/ˌsɔːr ˈθroʊt/",
+      "part_of_speech": "noun",
+      "meaning": "đau họng",
+      "example": "She has a sore throat."
+    },
+    {
+      "id": 11,
+      "word": "runny nose",
+      "ipa_uk": "/ˌrʌni ˈnəʊz/",
+      "ipa_us": "/ˌrʌni ˈnoʊz/",
+      "part_of_speech": "noun",
+      "meaning": "sổ mũi",
+      "example": "My runny nose won't stop."
+    },
+    {
+      "id": 12,
+      "word": "sneeze",
+      "ipa_uk": "/sniːz/",
+      "ipa_us": "/sniːz/",
+      "part_of_speech": "verb",
+      "meaning": "hắt hơi",
+      "example": "He keeps sneezing."
+    },
+    {
+      "id": 13,
+      "word": "vomit",
+      "ipa_uk": "/ˈvɒmɪt/",
+      "ipa_us": "/ˈvɑːmɪt/",
+      "part_of_speech": "verb / noun",
+      "meaning": "nôn",
+      "example": "The child vomited after dinner."
+    },
+    {
+      "id": 14,
+      "word": "dizzy",
+      "ipa_uk": "/ˈdɪzi/",
+      "ipa_us": "/ˈdɪzi/",
+      "part_of_speech": "adjective",
+      "meaning": "chóng mặt",
+      "example": "I feel dizzy."
+    },
+    {
+      "id": 15,
+      "word": "weak",
+      "ipa_uk": "/wiːk/",
+      "ipa_us": "/wiːk/",
+      "part_of_speech": "adjective",
+      "meaning": "yếu",
+      "example": "I feel weak after being sick."
+    },
+    {
+      "id": 16,
+      "word": "pain",
+      "ipa_uk": "/peɪn/",
+      "ipa_us": "/peɪn/",
+      "part_of_speech": "noun",
+      "meaning": "cơn đau",
+      "example": "I have pain in my back."
+    },
+    {
+      "id": 17,
+      "word": "medicine",
+      "ipa_uk": "/ˈmedsn/",
+      "ipa_us": "/ˈmedɪsn/",
+      "part_of_speech": "noun",
+      "meaning": "thuốc",
+      "example": "Take your medicine twice a day."
+    },
+    {
+      "id": 18,
+      "word": "pill",
+      "ipa_uk": "/pɪl/",
+      "ipa_us": "/pɪl/",
+      "part_of_speech": "noun",
+      "meaning": "viên thuốc",
+      "example": "Take two pills after meals."
+    },
+    {
+      "id": 19,
+      "word": "recover",
+      "ipa_uk": "/rɪˈkʌvə(r)/",
+      "ipa_us": "/rɪˈkʌvər/",
+      "part_of_speech": "verb",
+      "meaning": "hồi phục",
+      "example": "She recovered quickly."
+    },
+    {
+      "id": 20,
+      "word": "allergy",
+      "ipa_uk": "/ˈælədʒi/",
+      "ipa_us": "/ˈælərdʒi/",
+      "part_of_speech": "noun",
+      "meaning": "dị ứng",
+      "example": "He has a peanut allergy."
+    },
+    {
+      "id": 21,
+      "word": "infection",
+      "ipa_uk": "/ɪnˈfekʃn/",
+      "ipa_us": "/ɪnˈfekʃn/",
+      "part_of_speech": "noun",
+      "meaning": "nhiễm trùng",
+      "example": "The doctor treated the infection."
+    },
+    {
+      "id": 22,
+      "word": "injury",
+      "ipa_uk": "/ˈɪndʒəri/",
+      "ipa_us": "/ˈɪndʒəri/",
+      "part_of_speech": "noun",
+      "meaning": "chấn thương",
+      "example": "He suffered a leg injury."
+    },
+    {
+      "id": 23,
+      "word": "bandage",
+      "ipa_uk": "/ˈbændɪdʒ/",
+      "ipa_us": "/ˈbændɪdʒ/",
+      "part_of_speech": "noun",
+      "meaning": "băng gạc",
+      "example": "The nurse put a bandage on my arm."
+    },
+    {
+      "id": 24,
+      "word": "rest",
+      "ipa_uk": "/rest/",
+      "ipa_us": "/rest/",
+      "part_of_speech": "verb",
+      "meaning": "nghỉ ngơi",
+      "example": "You should rest at home."
+    },
+    {
+      "id": 25,
+      "word": "healthy",
+      "ipa_uk": "/ˈhelθi/",
+      "ipa_us": "/ˈhelθi/",
+      "part_of_speech": "adjective",
+      "meaning": "khỏe mạnh",
+      "example": "Exercise helps you stay healthy."
+    },
+    {
+      "id": 26,
+      "word": "unhealthy",
+      "ipa_uk": "/ʌnˈhelθi/",
+      "ipa_us": "/ʌnˈhelθi/",
+      "part_of_speech": "adjective",
+      "meaning": "không khỏe mạnh",
+      "example": "Eating too much fast food is unhealthy."
+    },
+    {
+      "id": 27,
+      "word": "symptom",
+      "ipa_uk": "/ˈsɪmptəm/",
+      "ipa_us": "/ˈsɪmptəm/",
+      "part_of_speech": "noun",
+      "meaning": "triệu chứng",
+      "example": "A fever is a common symptom."
+    },
+    {
+      "id": 28,
+      "word": "virus",
+      "ipa_uk": "/ˈvaɪərəs/",
+      "ipa_us": "/ˈvaɪrəs/",
+      "part_of_speech": "noun",
+      "meaning": "vi-rút",
+      "example": "The virus spreads quickly."
+    },
+    {
+      "id": 29,
+      "word": "bacteria",
+      "ipa_uk": "/bækˈtɪəriə/",
+      "ipa_us": "/bækˈtɪriə/",
+      "part_of_speech": "noun",
+      "meaning": "vi khuẩn",
+      "example": "Some bacteria are harmful."
+    },
+    {
+      "id": 30,
+      "word": "emergency",
+      "ipa_uk": "/ɪˈmɜːdʒənsi/",
+      "ipa_us": "/ɪˈmɜːrdʒənsi/",
+      "part_of_speech": "noun",
+      "meaning": "tình huống khẩn cấp",
+      "example": "Call an ambulance in an emergency."
+    }
   ],
   "collocations": [
-    { "phrase": "catch a cold", "meaning": "bị cảm lạnh" },
-    { "phrase": "have a fever", "meaning": "bị sốt" },
-    { "phrase": "have a headache", "meaning": "bị đau đầu" },
-    { "phrase": "have a sore throat", "meaning": "bị đau họng" },
-    { "phrase": "take medicine", "meaning": "uống thuốc" },
-    { "phrase": "take a pill", "meaning": "uống một viên thuốc" },
-    { "phrase": "see a doctor", "meaning": "đi khám bác sĩ" },
-    { "phrase": "stay in bed", "meaning": "nằm nghỉ trên giường" },
-    { "phrase": "make a recovery", "meaning": "hồi phục" },
-    { "phrase": "feel better", "meaning": "cảm thấy khỏe hơn" }
+    {
+      "phrase": "catch a cold",
+      "meaning": "bị cảm lạnh"
+    },
+    {
+      "phrase": "have a fever",
+      "meaning": "bị sốt"
+    },
+    {
+      "phrase": "have a headache",
+      "meaning": "bị đau đầu"
+    },
+    {
+      "phrase": "have a sore throat",
+      "meaning": "bị đau họng"
+    },
+    {
+      "phrase": "take medicine",
+      "meaning": "uống thuốc"
+    },
+    {
+      "phrase": "take a pill",
+      "meaning": "uống một viên thuốc"
+    },
+    {
+      "phrase": "see a doctor",
+      "meaning": "đi khám bác sĩ"
+    },
+    {
+      "phrase": "stay in bed",
+      "meaning": "nằm nghỉ trên giường"
+    },
+    {
+      "phrase": "make a recovery",
+      "meaning": "hồi phục"
+    },
+    {
+      "phrase": "feel better",
+      "meaning": "cảm thấy khỏe hơn"
+    }
   ],
   "exerciseSets": [
     {
@@ -49,21 +319,126 @@
       "title": "Điền từ vào chỗ trống",
       "description": "Chọn từ vựng phù hợp để hoàn thành câu về bệnh tật và sức khỏe.",
       "exercises": [
-        { "id": "sf1", "kind": "fill", "question": "My temperature is 39°C. I have a high ___.", "answer": "fever", "acceptable": [], "explanation": "fever = sốt" },
-        { "id": "sf2", "kind": "fill", "question": "I can't stop coughing and my throat hurts. I have a bad ___.", "answer": "cough", "acceptable": [], "explanation": "cough = ho" },
-        { "id": "sf3", "kind": "fill", "question": "I sat in the rain yesterday and now I've caught a ___.", "answer": "cold", "acceptable": [], "explanation": "cold = cảm lạnh" },
-        { "id": "sf4", "kind": "fill", "question": "My head is pounding. I have a terrible ___.", "answer": "headache", "acceptable": [], "explanation": "headache = đau đầu" },
-        { "id": "sf5", "kind": "fill", "question": "It hurts when I swallow. I have a ___.", "answer": "sore throat", "acceptable": [], "explanation": "sore throat = đau họng" },
-        { "id": "sf6", "kind": "fill", "question": "My nose keeps running because of my cold. I have a ___.", "answer": "runny nose", "acceptable": [], "explanation": "runny nose = sổ mũi" },
-        { "id": "sf7", "kind": "fill", "question": "The room is spinning and I feel ___.", "answer": "dizzy", "acceptable": [], "explanation": "dizzy = chóng mặt" },
-        { "id": "sf8", "kind": "fill", "question": "The doctor told me to take this ___ twice a day.", "answer": "medicine", "acceptable": [], "explanation": "medicine = thuốc" },
-        { "id": "sf9", "kind": "fill", "question": "You look tired. You should ___ at home today.", "answer": "rest", "acceptable": [], "explanation": "rest = nghỉ ngơi" },
-        { "id": "sf10", "kind": "fill", "question": "After a week in bed, she finally started to ___.", "answer": "recover", "acceptable": [], "explanation": "recover = hồi phục" },
-        { "id": "sf11", "kind": "fill", "question": "He can't eat peanuts because he has a peanut ___.", "answer": "allergy", "acceptable": [], "explanation": "allergy = dị ứng" },
-        { "id": "sf12", "kind": "fill", "question": "A fever is a common ___ of the flu.", "answer": "symptom", "acceptable": [], "explanation": "symptom = triệu chứng" },
-        { "id": "sf13", "kind": "fill", "question": "The nurse put a ___ on the cut to stop the bleeding.", "answer": "bandage", "acceptable": [], "explanation": "bandage = băng gạc" },
-        { "id": "sf14", "kind": "fill", "question": "Eating vegetables and exercising keeps you ___.", "answer": "healthy", "acceptable": [], "explanation": "healthy = khỏe mạnh" },
-        { "id": "sf15", "kind": "fill", "question": "Call an ambulance! This is an ___!", "answer": "emergency", "acceptable": [], "explanation": "emergency = tình huống khẩn cấp" }
+        {
+          "id": "sf1",
+          "kind": "fill",
+          "question": "My temperature is 39°C. I have a high ___.",
+          "answer": "fever",
+          "acceptable": [],
+          "explanation": "fever = sốt"
+        },
+        {
+          "id": "sf2",
+          "kind": "fill",
+          "question": "I can't stop coughing and my throat hurts. I have a bad ___.",
+          "answer": "cough",
+          "acceptable": [],
+          "explanation": "cough = ho"
+        },
+        {
+          "id": "sf3",
+          "kind": "fill",
+          "question": "I sat in the rain yesterday and now I've caught a ___.",
+          "answer": "cold",
+          "acceptable": [],
+          "explanation": "cold = cảm lạnh"
+        },
+        {
+          "id": "sf4",
+          "kind": "fill",
+          "question": "My head is pounding. I have a terrible ___.",
+          "answer": "headache",
+          "acceptable": [],
+          "explanation": "headache = đau đầu"
+        },
+        {
+          "id": "sf5",
+          "kind": "fill",
+          "question": "It hurts when I swallow. I have a ___.",
+          "answer": "sore throat",
+          "acceptable": [],
+          "explanation": "sore throat = đau họng"
+        },
+        {
+          "id": "sf6",
+          "kind": "fill",
+          "question": "My nose keeps running because of my cold. I have a ___.",
+          "answer": "runny nose",
+          "acceptable": [],
+          "explanation": "runny nose = sổ mũi"
+        },
+        {
+          "id": "sf7",
+          "kind": "fill",
+          "question": "The room is spinning and I feel ___.",
+          "answer": "dizzy",
+          "acceptable": [],
+          "explanation": "dizzy = chóng mặt"
+        },
+        {
+          "id": "sf8",
+          "kind": "fill",
+          "question": "The doctor told me to take this ___ twice a day.",
+          "answer": "medicine",
+          "acceptable": [],
+          "explanation": "medicine = thuốc"
+        },
+        {
+          "id": "sf9",
+          "kind": "fill",
+          "question": "You look tired. You should ___ at home today.",
+          "answer": "rest",
+          "acceptable": [],
+          "explanation": "rest = nghỉ ngơi"
+        },
+        {
+          "id": "sf10",
+          "kind": "fill",
+          "question": "After a week in bed, she finally started to ___.",
+          "answer": "recover",
+          "acceptable": [],
+          "explanation": "recover = hồi phục"
+        },
+        {
+          "id": "sf11",
+          "kind": "fill",
+          "question": "He can't eat peanuts because he has a peanut ___.",
+          "answer": "allergy",
+          "acceptable": [],
+          "explanation": "allergy = dị ứng"
+        },
+        {
+          "id": "sf12",
+          "kind": "fill",
+          "question": "A fever is a common ___ of the flu.",
+          "answer": "symptom",
+          "acceptable": [],
+          "explanation": "symptom = triệu chứng"
+        },
+        {
+          "id": "sf13",
+          "kind": "fill",
+          "question": "The nurse put a ___ on the cut to stop the bleeding.",
+          "answer": "bandage",
+          "acceptable": [],
+          "explanation": "bandage = băng gạc"
+        },
+        {
+          "id": "sf14",
+          "kind": "fill",
+          "question": "Eating vegetables and exercising keeps you ___.",
+          "answer": "healthy",
+          "acceptable": [],
+          "explanation": "healthy = khỏe mạnh"
+        },
+        {
+          "id": "sf15",
+          "kind": "fill",
+          "question": "Call an ambulance! This is an ___!",
+          "answer": "emergency",
+          "acceptable": [],
+          "explanation": "emergency = tình huống khẩn cấp"
+        }
       ]
     },
     {
@@ -71,26 +446,532 @@
       "title": "Viết từ tiếng Anh",
       "description": "Dựa vào nghĩa tiếng Việt, viết từ tiếng Anh tương ứng.",
       "exercises": [
-        { "id": "se1", "kind": "fill", "question": "ốm, bị bệnh → ___", "answer": "sick", "acceptable": ["ill"], "explanation": "sick /sɪk/" },
-        { "id": "se2", "kind": "fill", "question": "sốt → ___", "answer": "fever", "acceptable": [], "explanation": "fever /ˈfiːvər/" },
-        { "id": "se3", "kind": "fill", "question": "ho → ___", "answer": "cough", "acceptable": [], "explanation": "cough /kɔːf/" },
-        { "id": "se4", "kind": "fill", "question": "cảm lạnh → ___", "answer": "cold", "acceptable": [], "explanation": "cold /koʊld/" },
-        { "id": "se5", "kind": "fill", "question": "cúm → ___", "answer": "flu", "acceptable": [], "explanation": "flu /fluː/" },
-        { "id": "se6", "kind": "fill", "question": "đau đầu → ___", "answer": "headache", "acceptable": [], "explanation": "headache /ˈhedeɪk/" },
-        { "id": "se7", "kind": "fill", "question": "đau răng → ___", "answer": "toothache", "acceptable": [], "explanation": "toothache /ˈtuːθeɪk/" },
-        { "id": "se8", "kind": "fill", "question": "đau bụng → ___", "answer": "stomachache", "acceptable": [], "explanation": "stomachache /ˈstʌməkeɪk/" },
-        { "id": "se9", "kind": "fill", "question": "đau họng → ___", "answer": "sore throat", "acceptable": [], "explanation": "sore throat /ˌsɔːr ˈθroʊt/" },
-        { "id": "se10", "kind": "fill", "question": "sổ mũi → ___", "answer": "runny nose", "acceptable": [], "explanation": "runny nose /ˌrʌni ˈnoʊz/" },
-        { "id": "se11", "kind": "fill", "question": "hắt hơi → ___", "answer": "sneeze", "acceptable": [], "explanation": "sneeze /sniːz/" },
-        { "id": "se12", "kind": "fill", "question": "nôn → ___", "answer": "vomit", "acceptable": [], "explanation": "vomit /ˈvɑːmɪt/" },
-        { "id": "se13", "kind": "fill", "question": "chóng mặt → ___", "answer": "dizzy", "acceptable": [], "explanation": "dizzy /ˈdɪzi/" },
-        { "id": "se14", "kind": "fill", "question": "thuốc → ___", "answer": "medicine", "acceptable": [], "explanation": "medicine /ˈmedɪsn/" },
-        { "id": "se15", "kind": "fill", "question": "hồi phục → ___", "answer": "recover", "acceptable": [], "explanation": "recover /rɪˈkʌvər/" },
-        { "id": "se16", "kind": "fill", "question": "dị ứng → ___", "answer": "allergy", "acceptable": [], "explanation": "allergy /ˈælərdʒi/" },
-        { "id": "se17", "kind": "fill", "question": "nhiễm trùng → ___", "answer": "infection", "acceptable": [], "explanation": "infection /ɪnˈfekʃn/" },
-        { "id": "se18", "kind": "fill", "question": "triệu chứng → ___", "answer": "symptom", "acceptable": [], "explanation": "symptom /ˈsɪmptəm/" },
-        { "id": "se19", "kind": "fill", "question": "khỏe mạnh → ___", "answer": "healthy", "acceptable": [], "explanation": "healthy /ˈhelθi/" },
-        { "id": "se20", "kind": "fill", "question": "tình huống khẩn cấp → ___", "answer": "emergency", "acceptable": [], "explanation": "emergency /ɪˈmɜːrdʒənsi/" }
+        {
+          "id": "se1",
+          "kind": "fill",
+          "question": "ốm, bị bệnh → ___",
+          "answer": "sick",
+          "acceptable": [
+            "ill"
+          ],
+          "explanation": "sick /sɪk/"
+        },
+        {
+          "id": "se2",
+          "kind": "fill",
+          "question": "sốt → ___",
+          "answer": "fever",
+          "acceptable": [],
+          "explanation": "fever /ˈfiːvər/"
+        },
+        {
+          "id": "se3",
+          "kind": "fill",
+          "question": "ho → ___",
+          "answer": "cough",
+          "acceptable": [],
+          "explanation": "cough /kɔːf/"
+        },
+        {
+          "id": "se4",
+          "kind": "fill",
+          "question": "cảm lạnh → ___",
+          "answer": "cold",
+          "acceptable": [],
+          "explanation": "cold /koʊld/"
+        },
+        {
+          "id": "se5",
+          "kind": "fill",
+          "question": "cúm → ___",
+          "answer": "flu",
+          "acceptable": [],
+          "explanation": "flu /fluː/"
+        },
+        {
+          "id": "se6",
+          "kind": "fill",
+          "question": "đau đầu → ___",
+          "answer": "headache",
+          "acceptable": [],
+          "explanation": "headache /ˈhedeɪk/"
+        },
+        {
+          "id": "se7",
+          "kind": "fill",
+          "question": "đau răng → ___",
+          "answer": "toothache",
+          "acceptable": [],
+          "explanation": "toothache /ˈtuːθeɪk/"
+        },
+        {
+          "id": "se8",
+          "kind": "fill",
+          "question": "đau bụng → ___",
+          "answer": "stomachache",
+          "acceptable": [],
+          "explanation": "stomachache /ˈstʌməkeɪk/"
+        },
+        {
+          "id": "se9",
+          "kind": "fill",
+          "question": "đau họng → ___",
+          "answer": "sore throat",
+          "acceptable": [],
+          "explanation": "sore throat /ˌsɔːr ˈθroʊt/"
+        },
+        {
+          "id": "se10",
+          "kind": "fill",
+          "question": "sổ mũi → ___",
+          "answer": "runny nose",
+          "acceptable": [],
+          "explanation": "runny nose /ˌrʌni ˈnoʊz/"
+        },
+        {
+          "id": "se11",
+          "kind": "fill",
+          "question": "hắt hơi → ___",
+          "answer": "sneeze",
+          "acceptable": [],
+          "explanation": "sneeze /sniːz/"
+        },
+        {
+          "id": "se12",
+          "kind": "fill",
+          "question": "nôn → ___",
+          "answer": "vomit",
+          "acceptable": [],
+          "explanation": "vomit /ˈvɑːmɪt/"
+        },
+        {
+          "id": "se13",
+          "kind": "fill",
+          "question": "chóng mặt → ___",
+          "answer": "dizzy",
+          "acceptable": [],
+          "explanation": "dizzy /ˈdɪzi/"
+        },
+        {
+          "id": "se14",
+          "kind": "fill",
+          "question": "thuốc → ___",
+          "answer": "medicine",
+          "acceptable": [],
+          "explanation": "medicine /ˈmedɪsn/"
+        },
+        {
+          "id": "se15",
+          "kind": "fill",
+          "question": "hồi phục → ___",
+          "answer": "recover",
+          "acceptable": [],
+          "explanation": "recover /rɪˈkʌvər/"
+        },
+        {
+          "id": "se16",
+          "kind": "fill",
+          "question": "dị ứng → ___",
+          "answer": "allergy",
+          "acceptable": [],
+          "explanation": "allergy /ˈælərdʒi/"
+        },
+        {
+          "id": "se17",
+          "kind": "fill",
+          "question": "nhiễm trùng → ___",
+          "answer": "infection",
+          "acceptable": [],
+          "explanation": "infection /ɪnˈfekʃn/"
+        },
+        {
+          "id": "se18",
+          "kind": "fill",
+          "question": "triệu chứng → ___",
+          "answer": "symptom",
+          "acceptable": [],
+          "explanation": "symptom /ˈsɪmptəm/"
+        },
+        {
+          "id": "se19",
+          "kind": "fill",
+          "question": "khỏe mạnh → ___",
+          "answer": "healthy",
+          "acceptable": [],
+          "explanation": "healthy /ˈhelθi/"
+        },
+        {
+          "id": "se20",
+          "kind": "fill",
+          "question": "tình huống khẩn cấp → ___",
+          "answer": "emergency",
+          "acceptable": [],
+          "explanation": "emergency /ɪˈmɜːrdʒənsi/"
+        }
+      ]
+    },
+    {
+      "id": "sickness-match-col",
+      "title": "Nối collocation — Bệnh tật",
+      "description": "Chọn từ đi kèm đúng để tạo thành cụm từ về sức khỏe.",
+      "exercises": [
+        {
+          "id": "skmc1",
+          "kind": "mcq",
+          "question": "___ a cold (bị cảm lạnh)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Get"
+            },
+            {
+              "key": "B",
+              "text": "Catch"
+            },
+            {
+              "key": "C",
+              "text": "Take"
+            },
+            {
+              "key": "D",
+              "text": "Have"
+            }
+          ],
+          "answer": "B",
+          "explanation": "catch a cold = bị cảm lạnh"
+        },
+        {
+          "id": "skmc2",
+          "kind": "mcq",
+          "question": "___ a fever (bị sốt)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Get"
+            },
+            {
+              "key": "B",
+              "text": "Take"
+            },
+            {
+              "key": "C",
+              "text": "Have"
+            },
+            {
+              "key": "D",
+              "text": "Catch"
+            }
+          ],
+          "answer": "C",
+          "explanation": "have a fever = bị sốt"
+        },
+        {
+          "id": "skmc3",
+          "kind": "mcq",
+          "question": "___ medicine (uống thuốc)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Eat"
+            },
+            {
+              "key": "B",
+              "text": "Drink"
+            },
+            {
+              "key": "C",
+              "text": "Have"
+            },
+            {
+              "key": "D",
+              "text": "Take"
+            }
+          ],
+          "answer": "D",
+          "explanation": "take medicine = uống thuốc"
+        },
+        {
+          "id": "skmc4",
+          "kind": "mcq",
+          "question": "___ a doctor (đi khám bác sĩ)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Visit"
+            },
+            {
+              "key": "B",
+              "text": "Meet"
+            },
+            {
+              "key": "C",
+              "text": "See"
+            },
+            {
+              "key": "D",
+              "text": "Watch"
+            }
+          ],
+          "answer": "C",
+          "explanation": "see a doctor = đi khám bác sĩ"
+        },
+        {
+          "id": "skmc5",
+          "kind": "mcq",
+          "question": "___ in bed (nằm nghỉ trên giường)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Keep"
+            },
+            {
+              "key": "B",
+              "text": "Stay"
+            },
+            {
+              "key": "C",
+              "text": "Lie"
+            },
+            {
+              "key": "D",
+              "text": "Rest"
+            }
+          ],
+          "answer": "B",
+          "explanation": "stay in bed = nằm nghỉ trên giường"
+        },
+        {
+          "id": "skmc6",
+          "kind": "mcq",
+          "question": "___ better (cảm thấy khỏe hơn)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Get"
+            },
+            {
+              "key": "B",
+              "text": "Be"
+            },
+            {
+              "key": "C",
+              "text": "Feel"
+            },
+            {
+              "key": "D",
+              "text": "Become"
+            }
+          ],
+          "answer": "C",
+          "explanation": "feel better = cảm thấy khỏe hơn"
+        },
+        {
+          "id": "skmc7",
+          "kind": "mcq",
+          "question": "___ a recovery (hồi phục)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Have"
+            },
+            {
+              "key": "C",
+              "text": "Take"
+            },
+            {
+              "key": "D",
+              "text": "Make"
+            }
+          ],
+          "answer": "D",
+          "explanation": "make a recovery = hồi phục"
+        },
+        {
+          "id": "skmc8",
+          "kind": "mcq",
+          "question": "___ a headache (bị đau đầu)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Get"
+            },
+            {
+              "key": "B",
+              "text": "Have"
+            },
+            {
+              "key": "C",
+              "text": "Feel"
+            },
+            {
+              "key": "D",
+              "text": "Catch"
+            }
+          ],
+          "answer": "B",
+          "explanation": "have a headache = bị đau đầu"
+        }
+      ]
+    },
+    {
+      "id": "sickness-choose-col",
+      "title": "Chọn collocation tự nhiên — Bệnh tật",
+      "description": "Chọn cụm từ tự nhiên nhất mà người bản ngữ thường dùng.",
+      "exercises": [
+        {
+          "id": "skcc1",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'uống thuốc'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "eat medicine"
+            },
+            {
+              "key": "B",
+              "text": "drink medicine"
+            },
+            {
+              "key": "C",
+              "text": "take medicine"
+            },
+            {
+              "key": "D",
+              "text": "have medicine"
+            }
+          ],
+          "answer": "C",
+          "explanation": "take medicine = uống thuốc"
+        },
+        {
+          "id": "skcc2",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'đi khám bác sĩ'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "visit a doctor"
+            },
+            {
+              "key": "B",
+              "text": "see a doctor"
+            },
+            {
+              "key": "C",
+              "text": "meet a doctor"
+            },
+            {
+              "key": "D",
+              "text": "go a doctor"
+            }
+          ],
+          "answer": "B",
+          "explanation": "see a doctor = đi khám bác sĩ"
+        },
+        {
+          "id": "skcc3",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "catch a cold"
+            },
+            {
+              "key": "B",
+              "text": "get a cold"
+            },
+            {
+              "key": "C",
+              "text": "take a cold"
+            },
+            {
+              "key": "D",
+              "text": "have a cold"
+            }
+          ],
+          "answer": "A",
+          "explanation": "catch a cold = bị cảm lạnh (tự nhiên nhất)"
+        },
+        {
+          "id": "skcc4",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "have a sore throat"
+            },
+            {
+              "key": "B",
+              "text": "get a sore throat"
+            },
+            {
+              "key": "C",
+              "text": "feel a sore throat"
+            },
+            {
+              "key": "D",
+              "text": "catch a sore throat"
+            }
+          ],
+          "answer": "A",
+          "explanation": "have a sore throat = bị đau họng"
+        },
+        {
+          "id": "skcc5",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "take a pill"
+            },
+            {
+              "key": "B",
+              "text": "eat a pill"
+            },
+            {
+              "key": "C",
+              "text": "drink a pill"
+            },
+            {
+              "key": "D",
+              "text": "have a pill"
+            }
+          ],
+          "answer": "A",
+          "explanation": "take a pill = uống một viên thuốc"
+        },
+        {
+          "id": "skcc6",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "do a recovery"
+            },
+            {
+              "key": "B",
+              "text": "make a recovery"
+            },
+            {
+              "key": "C",
+              "text": "have a recovery"
+            },
+            {
+              "key": "D",
+              "text": "get a recovery"
+            }
+          ],
+          "answer": "B",
+          "explanation": "make a recovery = hồi phục"
+        }
       ]
     }
   ]

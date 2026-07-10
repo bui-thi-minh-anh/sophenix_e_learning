@@ -1,0 +1,1860 @@
+{
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "car",
+      "ipa_uk": "/kɑː(r)/",
+      "ipa_us": "/kɑːr/",
+      "part_of_speech": "noun",
+      "meaning": "ô tô",
+      "example": "I go to work by car."
+    },
+    {
+      "id": 2,
+      "word": "bus",
+      "ipa_uk": "/bʌs/",
+      "ipa_us": "/bʌs/",
+      "part_of_speech": "noun",
+      "meaning": "xe buýt",
+      "example": "The bus leaves at 7 AM."
+    },
+    {
+      "id": 3,
+      "word": "train",
+      "ipa_uk": "/treɪn/",
+      "ipa_us": "/treɪn/",
+      "part_of_speech": "noun",
+      "meaning": "tàu hỏa",
+      "example": "We took the train to Hanoi."
+    },
+    {
+      "id": 4,
+      "word": "subway",
+      "ipa_uk": "/ˈsʌbweɪ/",
+      "ipa_us": "/ˈsʌbweɪ/",
+      "part_of_speech": "noun",
+      "meaning": "tàu điện ngầm",
+      "example": "The subway is fast and cheap."
+    },
+    {
+      "id": 5,
+      "word": "tram",
+      "ipa_uk": "/træm/",
+      "ipa_us": "/træm/",
+      "part_of_speech": "noun",
+      "meaning": "tàu điện",
+      "example": "Many European cities have trams."
+    },
+    {
+      "id": 6,
+      "word": "motorcycle",
+      "ipa_uk": "/ˈməʊtəsaɪkl/",
+      "ipa_us": "/ˈmoʊtərsaɪkl/",
+      "part_of_speech": "noun",
+      "meaning": "xe máy",
+      "example": "He rides a motorcycle to school."
+    },
+    {
+      "id": 7,
+      "word": "bicycle",
+      "ipa_uk": "/ˈbaɪsɪkl/",
+      "ipa_us": "/ˈbaɪsɪkl/",
+      "part_of_speech": "noun",
+      "meaning": "xe đạp",
+      "example": "She rides her bicycle every morning."
+    },
+    {
+      "id": 8,
+      "word": "scooter",
+      "ipa_uk": "/ˈskuːtə(r)/",
+      "ipa_us": "/ˈskuːtər/",
+      "part_of_speech": "noun",
+      "meaning": "xe tay ga",
+      "example": "A scooter is popular in Vietnam."
+    },
+    {
+      "id": 9,
+      "word": "taxi",
+      "ipa_uk": "/ˈtæksi/",
+      "ipa_us": "/ˈtæksi/",
+      "part_of_speech": "noun",
+      "meaning": "taxi",
+      "example": "Let's take a taxi to the hotel."
+    },
+    {
+      "id": 10,
+      "word": "truck",
+      "ipa_uk": "/trʌk/",
+      "ipa_us": "/trʌk/",
+      "part_of_speech": "noun",
+      "meaning": "xe tải",
+      "example": "A large truck blocked the road."
+    },
+    {
+      "id": 11,
+      "word": "van",
+      "ipa_uk": "/væn/",
+      "ipa_us": "/væn/",
+      "part_of_speech": "noun",
+      "meaning": "xe tải nhỏ",
+      "example": "The delivery van arrived this morning."
+    },
+    {
+      "id": 12,
+      "word": "ferry",
+      "ipa_uk": "/ˈferi/",
+      "ipa_us": "/ˈferi/",
+      "part_of_speech": "noun",
+      "meaning": "phà",
+      "example": "We crossed the river by ferry."
+    },
+    {
+      "id": 13,
+      "word": "airport",
+      "ipa_uk": "/ˈeəpɔːt/",
+      "ipa_us": "/ˈerpɔːrt/",
+      "part_of_speech": "noun",
+      "meaning": "sân bay",
+      "example": "The airport is 30 minutes away."
+    },
+    {
+      "id": 14,
+      "word": "station",
+      "ipa_uk": "/ˈsteɪʃn/",
+      "ipa_us": "/ˈsteɪʃn/",
+      "part_of_speech": "noun",
+      "meaning": "ga, nhà ga",
+      "example": "I'll meet you at the station."
+    },
+    {
+      "id": 15,
+      "word": "bus stop",
+      "ipa_uk": "/ˈbʌs stɒp/",
+      "ipa_us": "/ˈbʌs stɑːp/",
+      "part_of_speech": "noun",
+      "meaning": "trạm xe buýt",
+      "example": "Wait for me at the bus stop."
+    },
+    {
+      "id": 16,
+      "word": "intersection",
+      "ipa_uk": "/ˌɪntəˈsekʃn/",
+      "ipa_us": "/ˌɪntərˈsekʃn/",
+      "part_of_speech": "noun",
+      "meaning": "ngã tư",
+      "example": "Turn left at the intersection."
+    },
+    {
+      "id": 17,
+      "word": "crosswalk",
+      "ipa_uk": "/ˈkrɒswɔːk/",
+      "ipa_us": "/ˈkrɔːswɔːk/",
+      "part_of_speech": "noun",
+      "meaning": "vạch qua đường",
+      "example": "Always use the crosswalk to cross the street."
+    },
+    {
+      "id": 18,
+      "word": "traffic light",
+      "ipa_uk": "/ˈtræfɪk laɪt/",
+      "ipa_us": "/ˈtræfɪk laɪt/",
+      "part_of_speech": "noun",
+      "meaning": "đèn giao thông",
+      "example": "Stop when the traffic light is red."
+    },
+    {
+      "id": 19,
+      "word": "highway",
+      "ipa_uk": "/ˈhaɪweɪ/",
+      "ipa_us": "/ˈhaɪweɪ/",
+      "part_of_speech": "noun",
+      "meaning": "đường cao tốc",
+      "example": "The highway connects the two cities."
+    },
+    {
+      "id": 20,
+      "word": "bridge",
+      "ipa_uk": "/brɪdʒ/",
+      "ipa_us": "/brɪdʒ/",
+      "part_of_speech": "noun",
+      "meaning": "cầu",
+      "example": "We drove across the bridge."
+    },
+    {
+      "id": 21,
+      "word": "tunnel",
+      "ipa_uk": "/ˈtʌnl/",
+      "ipa_us": "/ˈtʌnl/",
+      "part_of_speech": "noun",
+      "meaning": "đường hầm",
+      "example": "The tunnel goes under the mountain."
+    },
+    {
+      "id": 22,
+      "word": "driver",
+      "ipa_uk": "/ˈdraɪvə(r)/",
+      "ipa_us": "/ˈdraɪvər/",
+      "part_of_speech": "noun",
+      "meaning": "tài xế",
+      "example": "The driver stopped at the red light."
+    },
+    {
+      "id": 23,
+      "word": "passenger",
+      "ipa_uk": "/ˈpæsɪndʒə(r)/",
+      "ipa_us": "/ˈpæsɪndʒər/",
+      "part_of_speech": "noun",
+      "meaning": "hành khách",
+      "example": "The bus can carry 50 passengers."
+    },
+    {
+      "id": 24,
+      "word": "pedestrian",
+      "ipa_uk": "/pəˈdestriən/",
+      "ipa_us": "/pəˈdestriən/",
+      "part_of_speech": "noun",
+      "meaning": "người đi bộ",
+      "example": "Pedestrians must use the crosswalk."
+    },
+    {
+      "id": 25,
+      "word": "cyclist",
+      "ipa_uk": "/ˈsaɪklɪst/",
+      "ipa_us": "/ˈsaɪklɪst/",
+      "part_of_speech": "noun",
+      "meaning": "người đi xe đạp",
+      "example": "Cyclists should wear a helmet."
+    },
+    {
+      "id": 26,
+      "word": "drive",
+      "ipa_uk": "/draɪv/",
+      "ipa_us": "/draɪv/",
+      "part_of_speech": "verb",
+      "meaning": "lái xe",
+      "example": "She drives to work every day."
+    },
+    {
+      "id": 27,
+      "word": "ride",
+      "ipa_uk": "/raɪd/",
+      "ipa_us": "/raɪd/",
+      "part_of_speech": "verb",
+      "meaning": "đi, cưỡi (xe 2 bánh)",
+      "example": "He rides his bike to school."
+    },
+    {
+      "id": 28,
+      "word": "park",
+      "ipa_uk": "/pɑːk/",
+      "ipa_us": "/pɑːrk/",
+      "part_of_speech": "verb",
+      "meaning": "đỗ xe",
+      "example": "You can park your car here."
+    },
+    {
+      "id": 29,
+      "word": "brake",
+      "ipa_uk": "/breɪk/",
+      "ipa_us": "/breɪk/",
+      "part_of_speech": "verb",
+      "meaning": "phanh, thắng",
+      "example": "He braked suddenly to avoid the dog."
+    },
+    {
+      "id": 30,
+      "word": "accelerate",
+      "ipa_uk": "/əkˈseləreɪt/",
+      "ipa_us": "/əkˈseləreɪt/",
+      "part_of_speech": "verb",
+      "meaning": "tăng tốc",
+      "example": "Don't accelerate near the school."
+    },
+    {
+      "id": 31,
+      "word": "overtake",
+      "ipa_uk": "/ˌəʊvəˈteɪk/",
+      "ipa_us": "/ˌoʊvərˈteɪk/",
+      "part_of_speech": "verb",
+      "meaning": "vượt xe",
+      "example": "It's dangerous to overtake on a curve."
+    },
+    {
+      "id": 32,
+      "word": "commute",
+      "ipa_uk": "/kəˈmjuːt/",
+      "ipa_us": "/kəˈmjuːt/",
+      "part_of_speech": "verb",
+      "meaning": "đi làm hằng ngày",
+      "example": "I commute by train every day."
+    },
+    {
+      "id": 33,
+      "word": "traffic jam",
+      "ipa_uk": "/ˈtræfɪk dʒæm/",
+      "ipa_us": "/ˈtræfɪk dʒæm/",
+      "part_of_speech": "noun",
+      "meaning": "kẹt xe",
+      "example": "There is a traffic jam on the highway."
+    },
+    {
+      "id": 34,
+      "word": "congestion",
+      "ipa_uk": "/kənˈdʒestʃən/",
+      "ipa_us": "/kənˈdʒestʃən/",
+      "part_of_speech": "noun",
+      "meaning": "ùn tắc giao thông",
+      "example": "Traffic congestion is a big problem in cities."
+    },
+    {
+      "id": 35,
+      "word": "accident",
+      "ipa_uk": "/ˈæksɪdənt/",
+      "ipa_us": "/ˈæksɪdənt/",
+      "part_of_speech": "noun",
+      "meaning": "tai nạn",
+      "example": "There was an accident on the bridge."
+    },
+    {
+      "id": 36,
+      "word": "delay",
+      "ipa_uk": "/dɪˈleɪ/",
+      "ipa_us": "/dɪˈleɪ/",
+      "part_of_speech": "noun",
+      "meaning": "sự trì hoãn, chậm trễ",
+      "example": "The flight had a two-hour delay."
+    },
+    {
+      "id": 37,
+      "word": "speed limit",
+      "ipa_uk": "/ˈspiːd lɪmɪt/",
+      "ipa_us": "/ˈspiːd lɪmɪt/",
+      "part_of_speech": "noun",
+      "meaning": "giới hạn tốc độ",
+      "example": "The speed limit here is 60 km/h."
+    },
+    {
+      "id": 38,
+      "word": "seat belt",
+      "ipa_uk": "/ˈsiːt belt/",
+      "ipa_us": "/ˈsiːt belt/",
+      "part_of_speech": "noun",
+      "meaning": "dây an toàn",
+      "example": "Please fasten your seat belt."
+    },
+    {
+      "id": 39,
+      "word": "driver's license",
+      "ipa_uk": "/ˈdraɪvəz ˈlaɪsns/",
+      "ipa_us": "/ˈdraɪvərz ˈlaɪsns/",
+      "part_of_speech": "noun",
+      "meaning": "bằng lái xe",
+      "example": "You need a driver's license to drive."
+    },
+    {
+      "id": 40,
+      "word": "fuel",
+      "ipa_uk": "/fjuːəl/",
+      "ipa_us": "/fjuːəl/",
+      "part_of_speech": "noun",
+      "meaning": "nhiên liệu",
+      "example": "The car is running low on fuel."
+    },
+    {
+      "id": 41,
+      "word": "gas station",
+      "ipa_uk": "/ˈɡæs steɪʃn/",
+      "ipa_us": "/ˈɡæs steɪʃn/",
+      "part_of_speech": "noun",
+      "meaning": "trạm xăng",
+      "example": "There is a gas station nearby."
+    },
+    {
+      "id": 42,
+      "word": "platform",
+      "ipa_uk": "/ˈplætfɔːm/",
+      "ipa_us": "/ˈplætfɔːrm/",
+      "part_of_speech": "noun",
+      "meaning": "sân ga, ke ga",
+      "example": "The train arrives at platform 3."
+    },
+    {
+      "id": 43,
+      "word": "departure",
+      "ipa_uk": "/dɪˈpɑːtʃə(r)/",
+      "ipa_us": "/dɪˈpɑːrtʃər/",
+      "part_of_speech": "noun",
+      "meaning": "sự khởi hành",
+      "example": "The departure time is 9 AM."
+    },
+    {
+      "id": 44,
+      "word": "arrival",
+      "ipa_uk": "/əˈraɪvl/",
+      "ipa_us": "/əˈraɪvl/",
+      "part_of_speech": "noun",
+      "meaning": "sự đến nơi",
+      "example": "The arrival gate is on the left."
+    },
+    {
+      "id": 45,
+      "word": "route",
+      "ipa_uk": "/ruːt/",
+      "ipa_us": "/ruːt/",
+      "part_of_speech": "noun",
+      "meaning": "tuyến đường",
+      "example": "What is the fastest route to the airport?"
+    },
+    {
+      "id": 46,
+      "word": "lane",
+      "ipa_uk": "/leɪn/",
+      "ipa_us": "/leɪn/",
+      "part_of_speech": "noun",
+      "meaning": "làn đường",
+      "example": "Stay in the left lane."
+    },
+    {
+      "id": 47,
+      "word": "roundabout",
+      "ipa_uk": "/ˈraʊndəbaʊt/",
+      "ipa_us": "/ˈraʊndəbaʊt/",
+      "part_of_speech": "noun",
+      "meaning": "vòng xuyến",
+      "example": "Take the second exit at the roundabout."
+    },
+    {
+      "id": 48,
+      "word": "navigation",
+      "ipa_uk": "/ˌnævɪˈɡeɪʃn/",
+      "ipa_us": "/ˌnævɪˈɡeɪʃn/",
+      "part_of_speech": "noun",
+      "meaning": "định vị, dẫn đường",
+      "example": "Use GPS navigation to find the way."
+    },
+    {
+      "id": 49,
+      "word": "map",
+      "ipa_uk": "/mæp/",
+      "ipa_us": "/mæp/",
+      "part_of_speech": "noun",
+      "meaning": "bản đồ",
+      "example": "Can you show me on the map?"
+    },
+    {
+      "id": 50,
+      "word": "destination",
+      "ipa_uk": "/ˌdestɪˈneɪʃn/",
+      "ipa_us": "/ˌdestɪˈneɪʃn/",
+      "part_of_speech": "noun",
+      "meaning": "điểm đến",
+      "example": "We arrived at our destination safely."
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "drive a car",
+      "meaning": "lái ô tô"
+    },
+    {
+      "phrase": "catch a bus",
+      "meaning": "bắt xe buýt"
+    },
+    {
+      "phrase": "miss the bus",
+      "meaning": "lỡ xe buýt"
+    },
+    {
+      "phrase": "take the subway",
+      "meaning": "đi tàu điện ngầm"
+    },
+    {
+      "phrase": "ride a bicycle",
+      "meaning": "đi xe đạp"
+    },
+    {
+      "phrase": "ride a motorcycle",
+      "meaning": "đi xe máy"
+    },
+    {
+      "phrase": "board a train",
+      "meaning": "lên tàu"
+    },
+    {
+      "phrase": "get off the bus",
+      "meaning": "xuống xe buýt"
+    },
+    {
+      "phrase": "get on the bus",
+      "meaning": "lên xe buýt"
+    },
+    {
+      "phrase": "fasten a seat belt",
+      "meaning": "thắt dây an toàn"
+    },
+    {
+      "phrase": "buckle your seat belt",
+      "meaning": "cài dây an toàn"
+    },
+    {
+      "phrase": "unbuckle your seat belt",
+      "meaning": "mở dây an toàn"
+    },
+    {
+      "phrase": "obey traffic rules",
+      "meaning": "tuân thủ luật giao thông"
+    },
+    {
+      "phrase": "break the speed limit",
+      "meaning": "vượt quá tốc độ cho phép"
+    },
+    {
+      "phrase": "get stuck in traffic",
+      "meaning": "bị kẹt xe"
+    },
+    {
+      "phrase": "cross the road",
+      "meaning": "sang đường"
+    },
+    {
+      "phrase": "park the car",
+      "meaning": "đỗ xe"
+    },
+    {
+      "phrase": "fill up the tank",
+      "meaning": "đổ đầy bình xăng"
+    },
+    {
+      "phrase": "renew a driver's license",
+      "meaning": "gia hạn bằng lái"
+    },
+    {
+      "phrase": "book a ticket",
+      "meaning": "đặt vé"
+    },
+    {
+      "phrase": "check the timetable",
+      "meaning": "kiểm tra lịch trình"
+    },
+    {
+      "phrase": "hail a taxi",
+      "meaning": "vẫy taxi"
+    },
+    {
+      "phrase": "take a taxi",
+      "meaning": "đi taxi"
+    },
+    {
+      "phrase": "miss the train",
+      "meaning": "lỡ tàu"
+    },
+    {
+      "phrase": "arrive on time",
+      "meaning": "đến đúng giờ"
+    },
+    {
+      "phrase": "depart on time",
+      "meaning": "khởi hành đúng giờ"
+    },
+    {
+      "phrase": "follow the route",
+      "meaning": "đi theo tuyến đường"
+    },
+    {
+      "phrase": "use GPS navigation",
+      "meaning": "dùng định vị GPS"
+    },
+    {
+      "phrase": "change lanes",
+      "meaning": "chuyển làn đường"
+    },
+    {
+      "phrase": "stop at the traffic light",
+      "meaning": "dừng ở đèn giao thông"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "transport-fill-1",
+      "title": "Điền từ — Phương tiện & Địa điểm",
+      "description": "Điền từ vựng phù hợp về các phương tiện giao thông và địa điểm liên quan.",
+      "exercises": [
+        {
+          "id": "tf1",
+          "kind": "fill",
+          "question": "I take the ___ to work because it's faster than driving.",
+          "answer": "subway",
+          "acceptable": [
+            "train"
+          ],
+          "explanation": "subway = tàu điện ngầm"
+        },
+        {
+          "id": "tf2",
+          "kind": "fill",
+          "question": "The ___ is the most popular vehicle in Vietnam.",
+          "answer": "motorcycle",
+          "acceptable": [
+            "scooter"
+          ],
+          "explanation": "motorcycle = xe máy"
+        },
+        {
+          "id": "tf3",
+          "kind": "fill",
+          "question": "We crossed the river by ___.",
+          "answer": "ferry",
+          "acceptable": [],
+          "explanation": "ferry = phà"
+        },
+        {
+          "id": "tf4",
+          "kind": "fill",
+          "question": "Our flight departs from the ___ at 6 PM.",
+          "answer": "airport",
+          "acceptable": [],
+          "explanation": "airport = sân bay"
+        },
+        {
+          "id": "tf5",
+          "kind": "fill",
+          "question": "Wait for me at the ___. The bus comes in 5 minutes.",
+          "answer": "bus stop",
+          "acceptable": [],
+          "explanation": "bus stop = trạm xe buýt"
+        },
+        {
+          "id": "tf6",
+          "kind": "fill",
+          "question": "Turn left at the ___. The hospital is on the right.",
+          "answer": "intersection",
+          "acceptable": [
+            "roundabout"
+          ],
+          "explanation": "intersection = ngã tư"
+        },
+        {
+          "id": "tf7",
+          "kind": "fill",
+          "question": "The car went through a long ___ under the mountain.",
+          "answer": "tunnel",
+          "acceptable": [],
+          "explanation": "tunnel = đường hầm"
+        },
+        {
+          "id": "tf8",
+          "kind": "fill",
+          "question": "The train arrives at ___ 5. Please go there now.",
+          "answer": "platform",
+          "acceptable": [],
+          "explanation": "platform = sân ga, ke ga"
+        },
+        {
+          "id": "tf9",
+          "kind": "fill",
+          "question": "We drove across the ___ over the river.",
+          "answer": "bridge",
+          "acceptable": [],
+          "explanation": "bridge = cầu"
+        },
+        {
+          "id": "tf10",
+          "kind": "fill",
+          "question": "The ___ connects the two cities. You can drive at 120 km/h.",
+          "answer": "highway",
+          "acceptable": [],
+          "explanation": "highway = đường cao tốc"
+        },
+        {
+          "id": "tf11",
+          "kind": "fill",
+          "question": "A large ___ was delivering goods to the supermarket.",
+          "answer": "truck",
+          "acceptable": [
+            "van"
+          ],
+          "explanation": "truck = xe tải"
+        },
+        {
+          "id": "tf12",
+          "kind": "fill",
+          "question": "We need to stop at the ___ to get more fuel.",
+          "answer": "gas station",
+          "acceptable": [],
+          "explanation": "gas station = trạm xăng"
+        }
+      ]
+    },
+    {
+      "id": "transport-fill-2",
+      "title": "Điền từ — Hành động & An toàn",
+      "description": "Điền động từ hoặc danh từ phù hợp về hành động giao thông và quy tắc an toàn.",
+      "exercises": [
+        {
+          "id": "tf13",
+          "kind": "fill",
+          "question": "She ___ to work by train every morning.",
+          "answer": "commutes",
+          "acceptable": [],
+          "explanation": "commute = đi làm hằng ngày"
+        },
+        {
+          "id": "tf14",
+          "kind": "fill",
+          "question": "You must ___ your seat belt before the car moves.",
+          "answer": "fasten",
+          "acceptable": [
+            "buckle"
+          ],
+          "explanation": "fasten/buckle seat belt = thắt dây an toàn"
+        },
+        {
+          "id": "tf15",
+          "kind": "fill",
+          "question": "Don't ___ on a narrow road. It's very dangerous.",
+          "answer": "overtake",
+          "acceptable": [],
+          "explanation": "overtake = vượt xe"
+        },
+        {
+          "id": "tf16",
+          "kind": "fill",
+          "question": "He ___ suddenly when a child ran across the road.",
+          "answer": "braked",
+          "acceptable": [],
+          "explanation": "brake = phanh"
+        },
+        {
+          "id": "tf17",
+          "kind": "fill",
+          "question": "The ___ here is 60 km/h. Don't go faster.",
+          "answer": "speed limit",
+          "acceptable": [],
+          "explanation": "speed limit = giới hạn tốc độ"
+        },
+        {
+          "id": "tf18",
+          "kind": "fill",
+          "question": "___ should always use the crosswalk to cross the street.",
+          "answer": "Pedestrians",
+          "acceptable": [
+            "pedestrians"
+          ],
+          "explanation": "pedestrian = người đi bộ"
+        },
+        {
+          "id": "tf19",
+          "kind": "fill",
+          "question": "There was a terrible ___ on the highway this morning.",
+          "answer": "accident",
+          "acceptable": [],
+          "explanation": "accident = tai nạn"
+        },
+        {
+          "id": "tf20",
+          "kind": "fill",
+          "question": "I was late because of the ___ during rush hour.",
+          "answer": "traffic jam",
+          "acceptable": [
+            "congestion"
+          ],
+          "explanation": "traffic jam = kẹt xe"
+        },
+        {
+          "id": "tf21",
+          "kind": "fill",
+          "question": "The flight had a long ___ due to bad weather.",
+          "answer": "delay",
+          "acceptable": [],
+          "explanation": "delay = sự trì hoãn"
+        },
+        {
+          "id": "tf22",
+          "kind": "fill",
+          "question": "You need a ___ to drive a car legally.",
+          "answer": "driver's license",
+          "acceptable": [],
+          "explanation": "driver's license = bằng lái xe"
+        },
+        {
+          "id": "tf23",
+          "kind": "fill",
+          "question": "Our final ___ is Da Nang. We'll arrive by noon.",
+          "answer": "destination",
+          "acceptable": [],
+          "explanation": "destination = điểm đến"
+        },
+        {
+          "id": "tf24",
+          "kind": "fill",
+          "question": "Use the ___ to find the shortest way to the hotel.",
+          "answer": "map",
+          "acceptable": [
+            "navigation"
+          ],
+          "explanation": "map = bản đồ"
+        }
+      ]
+    },
+    {
+      "id": "transport-en-word",
+      "title": "Viết từ tiếng Anh",
+      "description": "Dựa vào nghĩa tiếng Việt, viết từ tiếng Anh tương ứng.",
+      "exercises": [
+        {
+          "id": "te1",
+          "kind": "fill",
+          "question": "ô tô → ___",
+          "answer": "car",
+          "acceptable": [],
+          "explanation": "car /kɑːr/"
+        },
+        {
+          "id": "te2",
+          "kind": "fill",
+          "question": "xe buýt → ___",
+          "answer": "bus",
+          "acceptable": [],
+          "explanation": "bus /bʌs/"
+        },
+        {
+          "id": "te3",
+          "kind": "fill",
+          "question": "tàu hỏa → ___",
+          "answer": "train",
+          "acceptable": [],
+          "explanation": "train /treɪn/"
+        },
+        {
+          "id": "te4",
+          "kind": "fill",
+          "question": "tàu điện ngầm → ___",
+          "answer": "subway",
+          "acceptable": [
+            "metro"
+          ],
+          "explanation": "subway /ˈsʌbweɪ/"
+        },
+        {
+          "id": "te5",
+          "kind": "fill",
+          "question": "xe máy → ___",
+          "answer": "motorcycle",
+          "acceptable": [
+            "motorbike"
+          ],
+          "explanation": "motorcycle /ˈmoʊtərsaɪkl/"
+        },
+        {
+          "id": "te6",
+          "kind": "fill",
+          "question": "xe đạp → ___",
+          "answer": "bicycle",
+          "acceptable": [
+            "bike"
+          ],
+          "explanation": "bicycle /ˈbaɪsɪkl/"
+        },
+        {
+          "id": "te7",
+          "kind": "fill",
+          "question": "sân bay → ___",
+          "answer": "airport",
+          "acceptable": [],
+          "explanation": "airport /ˈerpɔːrt/"
+        },
+        {
+          "id": "te8",
+          "kind": "fill",
+          "question": "hành khách → ___",
+          "answer": "passenger",
+          "acceptable": [],
+          "explanation": "passenger /ˈpæsɪndʒər/"
+        },
+        {
+          "id": "te9",
+          "kind": "fill",
+          "question": "người đi bộ → ___",
+          "answer": "pedestrian",
+          "acceptable": [],
+          "explanation": "pedestrian /pəˈdestriən/"
+        },
+        {
+          "id": "te10",
+          "kind": "fill",
+          "question": "đèn giao thông → ___",
+          "answer": "traffic light",
+          "acceptable": [],
+          "explanation": "traffic light /ˈtræfɪk laɪt/"
+        },
+        {
+          "id": "te11",
+          "kind": "fill",
+          "question": "kẹt xe → ___",
+          "answer": "traffic jam",
+          "acceptable": [
+            "congestion"
+          ],
+          "explanation": "traffic jam /ˈtræfɪk dʒæm/"
+        },
+        {
+          "id": "te12",
+          "kind": "fill",
+          "question": "tai nạn → ___",
+          "answer": "accident",
+          "acceptable": [],
+          "explanation": "accident /ˈæksɪdənt/"
+        },
+        {
+          "id": "te13",
+          "kind": "fill",
+          "question": "dây an toàn → ___",
+          "answer": "seat belt",
+          "acceptable": [
+            "seatbelt"
+          ],
+          "explanation": "seat belt /ˈsiːt belt/"
+        },
+        {
+          "id": "te14",
+          "kind": "fill",
+          "question": "giới hạn tốc độ → ___",
+          "answer": "speed limit",
+          "acceptable": [],
+          "explanation": "speed limit /ˈspiːd lɪmɪt/"
+        },
+        {
+          "id": "te15",
+          "kind": "fill",
+          "question": "bằng lái xe → ___",
+          "answer": "driver's license",
+          "acceptable": [
+            "driving license"
+          ],
+          "explanation": "driver's license /ˈdraɪvərz ˈlaɪsns/"
+        },
+        {
+          "id": "te16",
+          "kind": "fill",
+          "question": "nhiên liệu → ___",
+          "answer": "fuel",
+          "acceptable": [
+            "gas",
+            "petrol"
+          ],
+          "explanation": "fuel /fjuːəl/"
+        },
+        {
+          "id": "te17",
+          "kind": "fill",
+          "question": "điểm đến → ___",
+          "answer": "destination",
+          "acceptable": [],
+          "explanation": "destination /ˌdestɪˈneɪʃn/"
+        },
+        {
+          "id": "te18",
+          "kind": "fill",
+          "question": "sự khởi hành → ___",
+          "answer": "departure",
+          "acceptable": [],
+          "explanation": "departure /dɪˈpɑːrtʃər/"
+        },
+        {
+          "id": "te19",
+          "kind": "fill",
+          "question": "vòng xuyến → ___",
+          "answer": "roundabout",
+          "acceptable": [],
+          "explanation": "roundabout /ˈraʊndəbaʊt/"
+        },
+        {
+          "id": "te20",
+          "kind": "fill",
+          "question": "đi làm hằng ngày → ___",
+          "answer": "commute",
+          "acceptable": [],
+          "explanation": "commute /kəˈmjuːt/"
+        }
+      ]
+    },
+    {
+      "id": "transport-mcq-meaning",
+      "title": "Chọn nghĩa đúng",
+      "description": "Chọn nghĩa tiếng Việt đúng nhất cho từ tiếng Anh.",
+      "exercises": [
+        {
+          "id": "tm1",
+          "kind": "mcq",
+          "question": "**Commute** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Vượt xe"
+            },
+            {
+              "key": "B",
+              "text": "Đi làm hằng ngày"
+            },
+            {
+              "key": "C",
+              "text": "Tăng tốc"
+            },
+            {
+              "key": "D",
+              "text": "Đỗ xe"
+            }
+          ],
+          "answer": "B",
+          "explanation": "commute = di chuyển đi làm hằng ngày (thường là khoảng cách xa)"
+        },
+        {
+          "id": "tm2",
+          "kind": "mcq",
+          "question": "**Congestion** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tai nạn"
+            },
+            {
+              "key": "B",
+              "text": "Trì hoãn"
+            },
+            {
+              "key": "C",
+              "text": "Ùn tắc giao thông"
+            },
+            {
+              "key": "D",
+              "text": "Giới hạn tốc độ"
+            }
+          ],
+          "answer": "C",
+          "explanation": "congestion = ùn tắc, tắc nghẽn giao thông"
+        },
+        {
+          "id": "tm3",
+          "kind": "mcq",
+          "question": "**Pedestrian** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hành khách"
+            },
+            {
+              "key": "B",
+              "text": "Tài xế"
+            },
+            {
+              "key": "C",
+              "text": "Người đi xe đạp"
+            },
+            {
+              "key": "D",
+              "text": "Người đi bộ"
+            }
+          ],
+          "answer": "D",
+          "explanation": "pedestrian = người đi bộ trên đường"
+        },
+        {
+          "id": "tm4",
+          "kind": "mcq",
+          "question": "**Overtake** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Phanh"
+            },
+            {
+              "key": "B",
+              "text": "Tăng tốc"
+            },
+            {
+              "key": "C",
+              "text": "Vượt xe"
+            },
+            {
+              "key": "D",
+              "text": "Đỗ xe"
+            }
+          ],
+          "answer": "C",
+          "explanation": "overtake = vượt qua xe phía trước"
+        },
+        {
+          "id": "tm5",
+          "kind": "mcq",
+          "question": "**Platform** (trong ngữ cảnh giao thông) nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trạm xe buýt"
+            },
+            {
+              "key": "B",
+              "text": "Sân ga, ke ga"
+            },
+            {
+              "key": "C",
+              "text": "Đường cao tốc"
+            },
+            {
+              "key": "D",
+              "text": "Vòng xuyến"
+            }
+          ],
+          "answer": "B",
+          "explanation": "platform = sân ga, nơi hành khách đợi lên tàu"
+        },
+        {
+          "id": "tm6",
+          "kind": "mcq",
+          "question": "**Departure** khác **arrival** như thế nào?",
+          "options": [
+            {
+              "key": "A",
+              "text": "departure = khởi hành, arrival = đến nơi"
+            },
+            {
+              "key": "B",
+              "text": "Hai từ giống nhau"
+            },
+            {
+              "key": "C",
+              "text": "departure = đến nơi, arrival = khởi hành"
+            },
+            {
+              "key": "D",
+              "text": "departure = trì hoãn, arrival = đúng giờ"
+            }
+          ],
+          "answer": "A",
+          "explanation": "departure = sự khởi hành; arrival = sự đến nơi"
+        },
+        {
+          "id": "tm7",
+          "kind": "mcq",
+          "question": "**Roundabout** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cầu vượt"
+            },
+            {
+              "key": "B",
+              "text": "Đường hầm"
+            },
+            {
+              "key": "C",
+              "text": "Vòng xuyến"
+            },
+            {
+              "key": "D",
+              "text": "Ngã tư"
+            }
+          ],
+          "answer": "C",
+          "explanation": "roundabout = vòng xuyến, nơi các xe đi vòng tròn"
+        },
+        {
+          "id": "tm8",
+          "kind": "mcq",
+          "question": "**Ferry** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tàu hỏa"
+            },
+            {
+              "key": "B",
+              "text": "Phà"
+            },
+            {
+              "key": "C",
+              "text": "Xe buýt"
+            },
+            {
+              "key": "D",
+              "text": "Máy bay"
+            }
+          ],
+          "answer": "B",
+          "explanation": "ferry = phà, phương tiện chở người/xe qua sông/biển"
+        },
+        {
+          "id": "tm9",
+          "kind": "mcq",
+          "question": "**Lane** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Làn đường"
+            },
+            {
+              "key": "B",
+              "text": "Tuyến đường"
+            },
+            {
+              "key": "C",
+              "text": "Đường cao tốc"
+            },
+            {
+              "key": "D",
+              "text": "Vạch qua đường"
+            }
+          ],
+          "answer": "A",
+          "explanation": "lane = làn đường (chia trên mặt đường cho xe đi)"
+        },
+        {
+          "id": "tm10",
+          "kind": "mcq",
+          "question": "**Cyclist** nghĩa là gì?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tài xế taxi"
+            },
+            {
+              "key": "B",
+              "text": "Hành khách"
+            },
+            {
+              "key": "C",
+              "text": "Người đi xe đạp"
+            },
+            {
+              "key": "D",
+              "text": "Người đi bộ"
+            }
+          ],
+          "answer": "C",
+          "explanation": "cyclist = người đi xe đạp"
+        }
+      ]
+    },
+    {
+      "id": "transport-collocation-mcq",
+      "title": "Chọn collocation đúng",
+      "description": "Chọn từ đi kèm đúng để tạo thành cụm từ giao thông thông dụng.",
+      "exercises": [
+        {
+          "id": "tc1",
+          "kind": "mcq",
+          "question": "___ a bus (bắt xe buýt)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Take"
+            },
+            {
+              "key": "B",
+              "text": "Catch"
+            },
+            {
+              "key": "C",
+              "text": "Get"
+            },
+            {
+              "key": "D",
+              "text": "Hold"
+            }
+          ],
+          "answer": "B",
+          "explanation": "catch a bus = bắt kịp xe buýt"
+        },
+        {
+          "id": "tc2",
+          "kind": "mcq",
+          "question": "___ a bicycle (đi xe đạp)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Drive"
+            },
+            {
+              "key": "B",
+              "text": "Take"
+            },
+            {
+              "key": "C",
+              "text": "Ride"
+            },
+            {
+              "key": "D",
+              "text": "Catch"
+            }
+          ],
+          "answer": "C",
+          "explanation": "ride a bicycle = đi/cưỡi xe đạp"
+        },
+        {
+          "id": "tc3",
+          "kind": "mcq",
+          "question": "___ a train (lên tàu)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ride"
+            },
+            {
+              "key": "B",
+              "text": "Board"
+            },
+            {
+              "key": "C",
+              "text": "Drive"
+            },
+            {
+              "key": "D",
+              "text": "Catch"
+            }
+          ],
+          "answer": "B",
+          "explanation": "board a train = lên tàu"
+        },
+        {
+          "id": "tc4",
+          "kind": "mcq",
+          "question": "___ the speed limit (vượt quá tốc độ)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pass"
+            },
+            {
+              "key": "B",
+              "text": "Miss"
+            },
+            {
+              "key": "C",
+              "text": "Break"
+            },
+            {
+              "key": "D",
+              "text": "Cross"
+            }
+          ],
+          "answer": "C",
+          "explanation": "break the speed limit = vượt quá giới hạn tốc độ"
+        },
+        {
+          "id": "tc5",
+          "kind": "mcq",
+          "question": "___ stuck in traffic (bị kẹt xe)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Be"
+            },
+            {
+              "key": "B",
+              "text": "Get"
+            },
+            {
+              "key": "C",
+              "text": "Have"
+            },
+            {
+              "key": "D",
+              "text": "Make"
+            }
+          ],
+          "answer": "B",
+          "explanation": "get stuck in traffic = bị kẹt xe"
+        },
+        {
+          "id": "tc6",
+          "kind": "mcq",
+          "question": "___ up the tank (đổ đầy bình xăng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fill"
+            },
+            {
+              "key": "B",
+              "text": "Put"
+            },
+            {
+              "key": "C",
+              "text": "Get"
+            },
+            {
+              "key": "D",
+              "text": "Top"
+            }
+          ],
+          "answer": "A",
+          "explanation": "fill up the tank = đổ đầy bình xăng"
+        },
+        {
+          "id": "tc7",
+          "kind": "mcq",
+          "question": "___ a taxi (vẫy taxi)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Call"
+            },
+            {
+              "key": "B",
+              "text": "Wave"
+            },
+            {
+              "key": "C",
+              "text": "Hail"
+            },
+            {
+              "key": "D",
+              "text": "Stop"
+            }
+          ],
+          "answer": "C",
+          "explanation": "hail a taxi = vẫy/gọi taxi ngoài đường"
+        },
+        {
+          "id": "tc8",
+          "kind": "mcq",
+          "question": "___ traffic rules (tuân thủ luật giao thông)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Follow"
+            },
+            {
+              "key": "B",
+              "text": "Obey"
+            },
+            {
+              "key": "C",
+              "text": "Do"
+            },
+            {
+              "key": "D",
+              "text": "Keep"
+            }
+          ],
+          "answer": "B",
+          "explanation": "obey traffic rules = tuân thủ luật giao thông"
+        },
+        {
+          "id": "tc9",
+          "kind": "mcq",
+          "question": "___ lanes (chuyển làn đường)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Move"
+            },
+            {
+              "key": "B",
+              "text": "Switch"
+            },
+            {
+              "key": "C",
+              "text": "Change"
+            },
+            {
+              "key": "D",
+              "text": "Turn"
+            }
+          ],
+          "answer": "C",
+          "explanation": "change lanes = chuyển làn đường"
+        },
+        {
+          "id": "tc10",
+          "kind": "mcq",
+          "question": "___ the road (sang đường)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pass"
+            },
+            {
+              "key": "B",
+              "text": "Walk"
+            },
+            {
+              "key": "C",
+              "text": "Go"
+            },
+            {
+              "key": "D",
+              "text": "Cross"
+            }
+          ],
+          "answer": "D",
+          "explanation": "cross the road = sang đường, băng qua đường"
+        }
+      ]
+    },
+    {
+      "id": "transport-match-col",
+      "title": "Nối collocation — Giao thông",
+      "description": "Chọn từ đi kèm đúng để tạo thành cụm từ giao thông.",
+      "exercises": [
+        {
+          "id": "trmc1",
+          "kind": "mcq",
+          "question": "___ a bus (bắt xe buýt)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Take"
+            },
+            {
+              "key": "B",
+              "text": "Get"
+            },
+            {
+              "key": "C",
+              "text": "Catch"
+            },
+            {
+              "key": "D",
+              "text": "Hold"
+            }
+          ],
+          "answer": "C",
+          "explanation": "catch a bus = bắt kịp xe buýt"
+        },
+        {
+          "id": "trmc2",
+          "kind": "mcq",
+          "question": "___ a train (lên tàu)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Get"
+            },
+            {
+              "key": "B",
+              "text": "Board"
+            },
+            {
+              "key": "C",
+              "text": "Enter"
+            },
+            {
+              "key": "D",
+              "text": "Ride"
+            }
+          ],
+          "answer": "B",
+          "explanation": "board a train = lên tàu"
+        },
+        {
+          "id": "trmc3",
+          "kind": "mcq",
+          "question": "___ stuck in traffic (bị kẹt xe)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Be"
+            },
+            {
+              "key": "B",
+              "text": "Have"
+            },
+            {
+              "key": "C",
+              "text": "Get"
+            },
+            {
+              "key": "D",
+              "text": "Stay"
+            }
+          ],
+          "answer": "C",
+          "explanation": "get stuck in traffic = bị kẹt xe"
+        },
+        {
+          "id": "trmc4",
+          "kind": "mcq",
+          "question": "___ up the tank (đổ đầy bình xăng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fill"
+            },
+            {
+              "key": "B",
+              "text": "Top"
+            },
+            {
+              "key": "C",
+              "text": "Put"
+            },
+            {
+              "key": "D",
+              "text": "Get"
+            }
+          ],
+          "answer": "A",
+          "explanation": "fill up the tank = đổ đầy bình xăng"
+        },
+        {
+          "id": "trmc5",
+          "kind": "mcq",
+          "question": "___ a taxi (vẫy taxi)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Call"
+            },
+            {
+              "key": "B",
+              "text": "Wave"
+            },
+            {
+              "key": "C",
+              "text": "Hail"
+            },
+            {
+              "key": "D",
+              "text": "Stop"
+            }
+          ],
+          "answer": "C",
+          "explanation": "hail a taxi = vẫy taxi ngoài đường"
+        },
+        {
+          "id": "trmc6",
+          "kind": "mcq",
+          "question": "___ traffic rules (tuân thủ luật giao thông)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Follow"
+            },
+            {
+              "key": "B",
+              "text": "Obey"
+            },
+            {
+              "key": "C",
+              "text": "Keep"
+            },
+            {
+              "key": "D",
+              "text": "Do"
+            }
+          ],
+          "answer": "B",
+          "explanation": "obey traffic rules = tuân thủ luật giao thông"
+        },
+        {
+          "id": "trmc7",
+          "kind": "mcq",
+          "question": "___ a ticket (đặt vé)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buy"
+            },
+            {
+              "key": "B",
+              "text": "Get"
+            },
+            {
+              "key": "C",
+              "text": "Book"
+            },
+            {
+              "key": "D",
+              "text": "Order"
+            }
+          ],
+          "answer": "C",
+          "explanation": "book a ticket = đặt vé trước"
+        },
+        {
+          "id": "trmc8",
+          "kind": "mcq",
+          "question": "___ the timetable (kiểm tra lịch trình)",
+          "options": [
+            {
+              "key": "A",
+              "text": "See"
+            },
+            {
+              "key": "B",
+              "text": "Look"
+            },
+            {
+              "key": "C",
+              "text": "Check"
+            },
+            {
+              "key": "D",
+              "text": "Read"
+            }
+          ],
+          "answer": "C",
+          "explanation": "check the timetable = kiểm tra lịch trình"
+        }
+      ]
+    },
+    {
+      "id": "transport-choose-col",
+      "title": "Chọn collocation tự nhiên — Giao thông",
+      "description": "Chọn cụm từ tự nhiên nhất mà người bản ngữ thường dùng.",
+      "exercises": [
+        {
+          "id": "trcc1",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'lỡ xe buýt'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "lose the bus"
+            },
+            {
+              "key": "B",
+              "text": "miss the bus"
+            },
+            {
+              "key": "C",
+              "text": "drop the bus"
+            },
+            {
+              "key": "D",
+              "text": "fail the bus"
+            }
+          ],
+          "answer": "B",
+          "explanation": "miss the bus = lỡ xe buýt"
+        },
+        {
+          "id": "trcc2",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "drive a bicycle"
+            },
+            {
+              "key": "B",
+              "text": "ride a bicycle"
+            },
+            {
+              "key": "C",
+              "text": "take a bicycle"
+            },
+            {
+              "key": "D",
+              "text": "go a bicycle"
+            }
+          ],
+          "answer": "B",
+          "explanation": "ride a bicycle = đi xe đạp"
+        },
+        {
+          "id": "trcc3",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "get on the bus"
+            },
+            {
+              "key": "B",
+              "text": "go on the bus"
+            },
+            {
+              "key": "C",
+              "text": "enter the bus"
+            },
+            {
+              "key": "D",
+              "text": "come on the bus"
+            }
+          ],
+          "answer": "A",
+          "explanation": "get on the bus = lên xe buýt"
+        },
+        {
+          "id": "trcc4",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "fasten your seat belt"
+            },
+            {
+              "key": "B",
+              "text": "close your seat belt"
+            },
+            {
+              "key": "C",
+              "text": "tie your seat belt"
+            },
+            {
+              "key": "D",
+              "text": "lock your seat belt"
+            }
+          ],
+          "answer": "A",
+          "explanation": "fasten your seat belt = thắt dây an toàn"
+        },
+        {
+          "id": "trcc5",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất?",
+          "options": [
+            {
+              "key": "A",
+              "text": "arrive on time"
+            },
+            {
+              "key": "B",
+              "text": "arrive in time"
+            },
+            {
+              "key": "C",
+              "text": "arrive at time"
+            },
+            {
+              "key": "D",
+              "text": "arrive by time"
+            }
+          ],
+          "answer": "A",
+          "explanation": "arrive on time = đến đúng giờ"
+        },
+        {
+          "id": "trcc6",
+          "kind": "mcq",
+          "question": "Cụm từ nào tự nhiên nhất để nói 'sang đường'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "pass the road"
+            },
+            {
+              "key": "B",
+              "text": "walk the road"
+            },
+            {
+              "key": "C",
+              "text": "cross the road"
+            },
+            {
+              "key": "D",
+              "text": "go the road"
+            }
+          ],
+          "answer": "C",
+          "explanation": "cross the road = sang đường, băng qua đường"
+        }
+      ]
+    }
+  ]
+}
