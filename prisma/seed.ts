@@ -21,6 +21,44 @@ function readDirSafe(dir: string): fs.Dirent[] {
   return fs.readdirSync(dir, { withFileTypes: true });
 }
 
+// Tạo slug ASCII từ chuỗi tiếng Việt (bỏ dấu, đ→d).
+function slugify(s: string): string {
+  return s
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/đ/g, "d")
+    .replace(/Đ/g, "D")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+// Tách tiêu đề dạng "Home & Furniture — Nhà cửa & Nội thất" thành EN / VI.
+function splitTitle(title: string): { en: string; vi: string } {
+  const parts = title.split("—");
+  if (parts.length >= 2) return { en: parts[0].trim(), vi: parts.slice(1).join("—").trim() };
+  return { en: title.trim(), vi: "" };
+}
+
+// ─── SHARED TOPIC TAXONOMY ───────────────────────────────
+// Bảng Topic dùng chung: upsert theo slug và cache lại id trong 1 lần seed.
+// Nhờ cache theo slug, nội dung khác loại (vocab/listening/lesson) có cùng slug
+// sẽ trỏ về CÙNG một Topic → match được với nhau.
+const topicCache = new Map<string, string>();
+let topicCounter = 0;
+
+async function upsertTopic(slug: string, nameEn: string, nameVi: string): Promise<string> {
+  const cached = topicCache.get(slug);
+  if (cached) return cached;
+  const topic = await prisma.topic.upsert({
+    where: { slug },
+    update: { nameEn: nameEn || undefined, nameVi: nameVi || undefined },
+    create: { slug, nameEn, nameVi, order: topicCounter++ },
+  });
+  topicCache.set(slug, topic.id);
+  return topic.id;
+}
+
 // ─── SEED LESSONS ────────────────────────────────────────
 
 async function seedLessons() {
@@ -45,10 +83,11 @@ async function seedLessons() {
 
   for (let i = 0; i < allLessons.length; i++) {
     const l = allLessons[i];
+    const subjectTopicId = l.topic ? await upsertTopic(slugify(l.topic), "", l.topic) : null;
     const lesson = await prisma.lesson.upsert({
       where: { slug: l.slug },
-      update: { title: l.title, level: l.level, topic: l.topic, series: l.series ?? null, summary: l.summary ?? null, order: i },
-      create: { slug: l.slug, title: l.title, level: l.level, topic: l.topic, series: l.series ?? null, summary: l.summary ?? null, order: i },
+      update: { title: l.title, level: l.level, topic: l.topic, series: l.series ?? null, summary: l.summary ?? null, order: i, subjectTopicId },
+      create: { slug: l.slug, title: l.title, level: l.level, topic: l.topic, series: l.series ?? null, summary: l.summary ?? null, order: i, subjectTopicId },
     });
 
     // Delete old children and recreate
@@ -126,6 +165,13 @@ async function seedVocabulary() {
     { slug: "personality-2", title: "Advanced Personality — Tính cách nâng cao", level: "B1-C1", category: "Chủ đề (Topics)", summary: "40 tính từ nâng cao mô tả tính cách: tinh tế, thao túng, kiên cường, lập dị..." },
     { slug: "workplace", title: "Workplace — Nơi làm việc", level: "A1-B2", category: "Chủ đề (Topics)", summary: "40 từ vựng về văn phòng, chức danh, hành động công việc và 20 collocations thường gặp." },
     { slug: "transportation", title: "Transportation — Giao thông", level: "A1-B2", category: "Chủ đề (Topics)", summary: "50 từ vựng về phương tiện, hạ tầng giao thông, an toàn đường bộ và 30 collocations." },
+    { slug: "home-furniture", title: "Home & Furniture — Nhà cửa & Nội thất", level: "A1-B2", category: "Chủ đề (Topics)", summary: "100 từ vựng về các phòng, đồ nội thất, thiết bị gia dụng, đồ trang trí và tính từ mô tả không gian sống, kèm bài tập phong phú." },
+    { slug: "clothes-fashion", title: "Clothes & Fashion — Quần áo & Thời trang", level: "A1-B2", category: "Chủ đề (Topics)", summary: "128 từ vựng về quần áo, giày dép, phụ kiện, chất liệu, họa tiết, màu sắc và động/tính từ mô tả trang phục, kèm bài tập phong phú." },
+    { slug: "family-relationships", title: "Family & Relationships — Gia đình & Các mối quan hệ", level: "A1-B2", category: "Chủ đề (Topics)", summary: "107 từ vựng về gia đình, họ hàng, tình trạng quan hệ, sự kiện đời sống và tính từ/động từ mô tả quan hệ, kèm bài tập phong phú." },
+    { slug: "jobs-occupations", title: "Jobs & Occupations — Nghề nghiệp", level: "A1-B2", category: "Chủ đề (Topics)", summary: "50 nghề nghiệp phổ biến (y tế, kỹ thuật, dịch vụ, văn phòng, IT...) và 17 collocations về công việc, kèm bài tập phong phú." },
+    { slug: "shopping", title: "Shopping — Mua sắm", level: "A1-B2", category: "Chủ đề (Topics)", summary: "77 từ vựng về nơi mua sắm, sản phẩm, thanh toán, mua sắm trực tuyến và động/tính từ liên quan, kèm bài tập phong phú." },
+    { slug: "travel", title: "Travel — Du lịch", level: "A1-B2", category: "Chủ đề (Topics)", summary: "144 từ vựng về địa điểm, phương tiện, sân bay, giấy tờ, hành lý, chỗ ở, hoạt động và động/tính từ du lịch, kèm bài tập phong phú." },
+    { slug: "food-drinks", title: "Food & Drinks — Đồ ăn & Thức uống", level: "A1-B2", category: "Chủ đề (Topics)", summary: "120 từ vựng về đồ ăn & thức uống (chủ đề nhiều phần): trái cây, rau củ, thịt, hải sản và trứng–sữa, kèm bài tập phong phú." },
   ];
 
   for (let i = 0; i < topicMeta.length; i++) {
@@ -140,6 +186,10 @@ async function seedVocabulary() {
       create: { slug: meta.slug, title: meta.title, level: meta.level, category: meta.category, summary: meta.summary, order: i },
     });
 
+    // Topic dùng chung (cùng slug với chủ đề từ vựng) để match word ↔ chủ đề.
+    const { en, vi } = splitTitle(meta.title);
+    const sharedTopicId = await upsertTopic(meta.slug, en, vi);
+
     // Clean old children
     await prisma.vocabWord.deleteMany({ where: { vocabTopicId: topic.id } });
     await prisma.vocabCollocation.deleteMany({ where: { vocabTopicId: topic.id } });
@@ -152,6 +202,7 @@ async function seedVocabulary() {
       await prisma.vocabWord.create({
         data: {
           vocabTopicId: topic.id,
+          topicId: sharedTopicId,
           word: v.word,
           ipaUk: v.ipa_uk ?? "",
           ipaUs: v.ipa_us ?? "",
@@ -292,6 +343,13 @@ async function seedListening() {
       },
     });
 
+    // Topic dùng chung (cùng slug với topic nghe) để match bài nghe ↔ chủ đề.
+    const sharedTopicId = await upsertTopic(
+      topicSlug,
+      String(topicData.title_en ?? topicSlug),
+      String(topicData.title_vi ?? ""),
+    );
+
     // Lesson files
     const lessonFiles = readDirSafe(topicDir)
       .filter((e) => e.isFile() && /\.md$/i.test(e.name) && e.name.toLowerCase() !== "readme.md")
@@ -338,9 +396,11 @@ async function seedListening() {
           tags: Array.isArray(data.tags) ? data.tags.map(String) : [],
           grammarFocus: String(data.grammar_focus ?? ""),
           transcript,
+          subjectTopicId: sharedTopicId,
         },
         create: {
           topicId: topic.id,
+          subjectTopicId: sharedTopicId,
           lessonSlug,
           titleEn: String(data.title ?? data.title_en ?? lessonSlug),
           titleVi: String(data.title_vi ?? ""),

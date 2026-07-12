@@ -1,0 +1,1120 @@
+{
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "house",
+      "ipa_uk": "/haʊs/",
+      "ipa_us": "/haʊs/",
+      "part_of_speech": "noun",
+      "meaning": "ngôi nhà",
+      "example": "Their house is very large."
+    },
+    {
+      "id": 2,
+      "word": "home",
+      "ipa_uk": "/həʊm/",
+      "ipa_us": "/hoʊm/",
+      "part_of_speech": "noun",
+      "meaning": "nhà, tổ ấm",
+      "example": "I can't wait to go home."
+    },
+    {
+      "id": 3,
+      "word": "living room",
+      "ipa_uk": "/ˈlɪvɪŋ ruːm/",
+      "ipa_us": "/ˈlɪvɪŋ ruːm/",
+      "part_of_speech": "noun",
+      "meaning": "phòng khách",
+      "example": "We watch TV in the living room."
+    },
+    {
+      "id": 4,
+      "word": "bedroom",
+      "ipa_uk": "/ˈbedruːm/",
+      "ipa_us": "/ˈbedruːm/",
+      "part_of_speech": "noun",
+      "meaning": "phòng ngủ",
+      "example": "My bedroom is upstairs."
+    },
+    {
+      "id": 5,
+      "word": "bathroom",
+      "ipa_uk": "/ˈbɑːθruːm/",
+      "ipa_us": "/ˈbæθruːm/",
+      "part_of_speech": "noun",
+      "meaning": "phòng tắm",
+      "example": "The bathroom is clean."
+    },
+    {
+      "id": 6,
+      "word": "kitchen",
+      "ipa_uk": "/ˈkɪtʃɪn/",
+      "ipa_us": "/ˈkɪtʃɪn/",
+      "part_of_speech": "noun",
+      "meaning": "nhà bếp",
+      "example": "My mother is cooking in the kitchen."
+    },
+    {
+      "id": 7,
+      "word": "dining room",
+      "ipa_uk": "/ˈdaɪnɪŋ ruːm/",
+      "ipa_us": "/ˈdaɪnɪŋ ruːm/",
+      "part_of_speech": "noun",
+      "meaning": "phòng ăn",
+      "example": "Dinner is ready in the dining room."
+    },
+    {
+      "id": 8,
+      "word": "study",
+      "ipa_uk": "/ˈstʌdi/",
+      "ipa_us": "/ˈstʌdi/",
+      "part_of_speech": "noun",
+      "meaning": "phòng làm việc",
+      "example": "My father works in the study."
+    },
+    {
+      "id": 9,
+      "word": "balcony",
+      "ipa_uk": "/ˈbælkəni/",
+      "ipa_us": "/ˈbælkəni/",
+      "part_of_speech": "noun",
+      "meaning": "ban công",
+      "example": "There are flowers on the balcony."
+    },
+    {
+      "id": 10,
+      "word": "garage",
+      "ipa_uk": "/ˈɡærɑːʒ/",
+      "ipa_us": "/ɡəˈrɑːʒ/",
+      "part_of_speech": "noun",
+      "meaning": "gara",
+      "example": "The car is in the garage."
+    },
+    {
+      "id": 11,
+      "word": "bed",
+      "ipa_uk": "/bed/",
+      "ipa_us": "/bed/",
+      "part_of_speech": "noun",
+      "meaning": "giường",
+      "example": "I make my bed every morning."
+    },
+    {
+      "id": 12,
+      "word": "mattress",
+      "ipa_uk": "/ˈmætrəs/",
+      "ipa_us": "/ˈmætrəs/",
+      "part_of_speech": "noun",
+      "meaning": "nệm",
+      "example": "This mattress is very soft and comfortable."
+    },
+    {
+      "id": 13,
+      "word": "pillow",
+      "ipa_uk": "/ˈpɪləʊ/",
+      "ipa_us": "/ˈpɪloʊ/",
+      "part_of_speech": "noun",
+      "meaning": "gối",
+      "example": "She rested her head on the pillow."
+    },
+    {
+      "id": 14,
+      "word": "blanket",
+      "ipa_uk": "/ˈblæŋkɪt/",
+      "ipa_us": "/ˈblæŋkɪt/",
+      "part_of_speech": "noun",
+      "meaning": "chăn",
+      "example": "He pulled the blanket over his shoulders."
+    },
+    {
+      "id": 15,
+      "word": "wardrobe",
+      "ipa_uk": "/ˈwɔːdrəʊb/",
+      "ipa_us": "/ˈwɔːrdroʊb/",
+      "part_of_speech": "noun",
+      "meaning": "tủ quần áo",
+      "example": "All her clothes are in the wardrobe."
+    },
+    {
+      "id": 16,
+      "word": "desk",
+      "ipa_uk": "/desk/",
+      "ipa_us": "/desk/",
+      "part_of_speech": "noun",
+      "meaning": "bàn học",
+      "example": "I do my homework at my desk."
+    },
+    {
+      "id": 17,
+      "word": "chair",
+      "ipa_uk": "/tʃeə(r)/",
+      "ipa_us": "/tʃer/",
+      "part_of_speech": "noun",
+      "meaning": "ghế",
+      "example": "Please sit on this chair."
+    },
+    {
+      "id": 18,
+      "word": "sofa",
+      "ipa_uk": "/ˈsəʊfə/",
+      "ipa_us": "/ˈsoʊfə/",
+      "part_of_speech": "noun",
+      "meaning": "ghế sofa",
+      "example": "They sat on the sofa to watch a film."
+    },
+    {
+      "id": 19,
+      "word": "table",
+      "ipa_uk": "/ˈteɪbl/",
+      "ipa_us": "/ˈteɪbl/",
+      "part_of_speech": "noun",
+      "meaning": "bàn",
+      "example": "Put the plates on the table."
+    },
+    {
+      "id": 20,
+      "word": "bookshelf",
+      "ipa_uk": "/ˈbʊkʃelf/",
+      "ipa_us": "/ˈbʊkʃelf/",
+      "part_of_speech": "noun",
+      "meaning": "giá sách",
+      "example": "The bookshelf is full of novels."
+    },
+    {
+      "id": 21,
+      "word": "cabinet",
+      "ipa_uk": "/ˈkæbɪnət/",
+      "ipa_us": "/ˈkæbɪnət/",
+      "part_of_speech": "noun",
+      "meaning": "tủ",
+      "example": "The plates are in the kitchen cabinet."
+    },
+    {
+      "id": 22,
+      "word": "drawer",
+      "ipa_uk": "/drɔː(r)/",
+      "ipa_us": "/drɔːr/",
+      "part_of_speech": "noun",
+      "meaning": "ngăn kéo",
+      "example": "She keeps her socks in the top drawer."
+    },
+    {
+      "id": 23,
+      "word": "mirror",
+      "ipa_uk": "/ˈmɪrə(r)/",
+      "ipa_us": "/ˈmɪrər/",
+      "part_of_speech": "noun",
+      "meaning": "gương",
+      "example": "He looked at himself in the mirror."
+    },
+    {
+      "id": 24,
+      "word": "lamp",
+      "ipa_uk": "/læmp/",
+      "ipa_us": "/læmp/",
+      "part_of_speech": "noun",
+      "meaning": "đèn bàn",
+      "example": "I turned on the lamp to read a book."
+    },
+    {
+      "id": 25,
+      "word": "curtain",
+      "ipa_uk": "/ˈkɜːtn/",
+      "ipa_us": "/ˈkɜːrtn/",
+      "part_of_speech": "noun",
+      "meaning": "rèm cửa",
+      "example": "Please close the curtains at night."
+    },
+    {
+      "id": 26,
+      "word": "carpet",
+      "ipa_uk": "/ˈkɑːpɪt/",
+      "ipa_us": "/ˈkɑːrpɪt/",
+      "part_of_speech": "noun",
+      "meaning": "thảm",
+      "example": "There is a soft carpet in the living room."
+    },
+    {
+      "id": 27,
+      "word": "shelf",
+      "ipa_uk": "/ʃelf/",
+      "ipa_us": "/ʃelf/",
+      "part_of_speech": "noun",
+      "meaning": "kệ",
+      "example": "Put the books on the shelf, please."
+    },
+    {
+      "id": 28,
+      "word": "hanger",
+      "ipa_uk": "/ˈhæŋə(r)/",
+      "ipa_us": "/ˈhæŋər/",
+      "part_of_speech": "noun",
+      "meaning": "móc treo quần áo",
+      "example": "Hang your coat on the hanger."
+    },
+    {
+      "id": 29,
+      "word": "television",
+      "ipa_uk": "/ˈtelɪvɪʒn/",
+      "ipa_us": "/ˈtelɪvɪʒn/",
+      "part_of_speech": "noun",
+      "meaning": "tivi",
+      "example": "We bought a new television for the living room."
+    },
+    {
+      "id": 30,
+      "word": "refrigerator",
+      "ipa_uk": "/rɪˈfrɪdʒəreɪtə(r)/",
+      "ipa_us": "/rɪˈfrɪdʒəreɪtər/",
+      "part_of_speech": "noun",
+      "meaning": "tủ lạnh",
+      "example": "Keep the milk in the refrigerator."
+    },
+    {
+      "id": 31,
+      "word": "microwave",
+      "ipa_uk": "/ˈmaɪkrəweɪv/",
+      "ipa_us": "/ˈmaɪkrəweɪv/",
+      "part_of_speech": "noun",
+      "meaning": "lò vi sóng",
+      "example": "Heat the soup in the microwave."
+    },
+    {
+      "id": 32,
+      "word": "oven",
+      "ipa_uk": "/ˈʌvn/",
+      "ipa_us": "/ˈʌvn/",
+      "part_of_speech": "noun",
+      "meaning": "lò nướng",
+      "example": "She baked a cake in the oven."
+    },
+    {
+      "id": 33,
+      "word": "washing machine",
+      "ipa_uk": "/ˈwɒʃɪŋ məˌʃiːn/",
+      "ipa_us": "/ˈwɑːʃɪŋ məˌʃiːn/",
+      "part_of_speech": "noun",
+      "meaning": "máy giặt",
+      "example": "I put my dirty clothes in the washing machine."
+    },
+    {
+      "id": 34,
+      "word": "dishwasher",
+      "ipa_uk": "/ˈdɪʃwɒʃə(r)/",
+      "ipa_us": "/ˈdɪʃwɑːʃər/",
+      "part_of_speech": "noun",
+      "meaning": "máy rửa bát",
+      "example": "Load the dirty plates into the dishwasher."
+    },
+    {
+      "id": 35,
+      "word": "vacuum cleaner",
+      "ipa_uk": "/ˈvækjuəm kliːnə(r)/",
+      "ipa_us": "/ˈvækjuəm kliːnər/",
+      "part_of_speech": "noun",
+      "meaning": "máy hút bụi",
+      "example": "He used the vacuum cleaner to clean the carpet."
+    },
+    {
+      "id": 36,
+      "word": "air conditioner",
+      "ipa_uk": "/ˈeə kənˌdɪʃənə(r)/",
+      "ipa_us": "/ˈer kənˌdɪʃənər/",
+      "part_of_speech": "noun",
+      "meaning": "máy điều hòa",
+      "example": "Turn on the air conditioner; it's very hot today."
+    },
+    {
+      "id": 37,
+      "word": "fan",
+      "ipa_uk": "/fæn/",
+      "ipa_us": "/fæn/",
+      "part_of_speech": "noun",
+      "meaning": "quạt",
+      "example": "The fan keeps the room cool."
+    },
+    {
+      "id": 38,
+      "word": "heater",
+      "ipa_uk": "/ˈhiːtə(r)/",
+      "ipa_us": "/ˈhiːtər/",
+      "part_of_speech": "noun",
+      "meaning": "máy sưởi",
+      "example": "We use a heater to keep warm in winter."
+    },
+    {
+      "id": 39,
+      "word": "door",
+      "ipa_uk": "/dɔː(r)/",
+      "ipa_us": "/dɔːr/",
+      "part_of_speech": "noun",
+      "meaning": "cửa",
+      "example": "Please close the door behind you."
+    },
+    {
+      "id": 40,
+      "word": "window",
+      "ipa_uk": "/ˈwɪndəʊ/",
+      "ipa_us": "/ˈwɪndoʊ/",
+      "part_of_speech": "noun",
+      "meaning": "cửa sổ",
+      "example": "Open the window to let in fresh air."
+    },
+    {
+      "id": 41,
+      "word": "wall",
+      "ipa_uk": "/wɔːl/",
+      "ipa_us": "/wɔːl/",
+      "part_of_speech": "noun",
+      "meaning": "bức tường",
+      "example": "There is a painting on the wall."
+    },
+    {
+      "id": 42,
+      "word": "floor",
+      "ipa_uk": "/flɔː(r)/",
+      "ipa_us": "/flɔːr/",
+      "part_of_speech": "noun",
+      "meaning": "sàn nhà",
+      "example": "The floor is wet, so be careful."
+    },
+    {
+      "id": 43,
+      "word": "ceiling",
+      "ipa_uk": "/ˈsiːlɪŋ/",
+      "ipa_us": "/ˈsiːlɪŋ/",
+      "part_of_speech": "noun",
+      "meaning": "trần nhà",
+      "example": "The lamp hangs from the ceiling."
+    },
+    {
+      "id": 44,
+      "word": "stairs",
+      "ipa_uk": "/steəz/",
+      "ipa_us": "/sterz/",
+      "part_of_speech": "noun",
+      "meaning": "cầu thang",
+      "example": "She walked up the stairs to her room."
+    },
+    {
+      "id": 45,
+      "word": "key",
+      "ipa_uk": "/kiː/",
+      "ipa_us": "/kiː/",
+      "part_of_speech": "noun",
+      "meaning": "chìa khóa",
+      "example": "I can't find the key to the front door."
+    },
+    {
+      "id": 46,
+      "word": "lock",
+      "ipa_uk": "/lɒk/",
+      "ipa_us": "/lɑːk/",
+      "part_of_speech": "noun",
+      "meaning": "ổ khóa",
+      "example": "The lock on the door is broken."
+    },
+    {
+      "id": 47,
+      "word": "light switch",
+      "ipa_uk": "/laɪt swɪtʃ/",
+      "ipa_us": "/laɪt swɪtʃ/",
+      "part_of_speech": "noun",
+      "meaning": "công tắc đèn",
+      "example": "The light switch is next to the door."
+    },
+    {
+      "id": 48,
+      "word": "power outlet",
+      "ipa_uk": "/ˈpaʊə ˌaʊtlet/",
+      "ipa_us": "/ˈpaʊər ˌaʊtlet/",
+      "part_of_speech": "noun",
+      "meaning": "ổ cắm điện",
+      "example": "Plug the charger into the power outlet."
+    },
+    {
+      "id": 49,
+      "word": "trash bin",
+      "ipa_uk": "/træʃ bɪn/",
+      "ipa_us": "/træʃ bɪn/",
+      "part_of_speech": "noun",
+      "meaning": "thùng rác",
+      "example": "Throw the wrapper in the trash bin."
+    },
+    {
+      "id": 50,
+      "word": "plant",
+      "ipa_uk": "/plɑːnt/",
+      "ipa_us": "/plænt/",
+      "part_of_speech": "noun",
+      "meaning": "cây cảnh",
+      "example": "There is a green plant by the window."
+    },
+    {
+      "id": 51,
+      "word": "clean",
+      "ipa_uk": "/kliːn/",
+      "ipa_us": "/kliːn/",
+      "part_of_speech": "verb",
+      "meaning": "dọn dẹp",
+      "example": "I clean my room every weekend."
+    },
+    {
+      "id": 52,
+      "word": "decorate",
+      "ipa_uk": "/ˈdekəreɪt/",
+      "ipa_us": "/ˈdekəreɪt/",
+      "part_of_speech": "verb",
+      "meaning": "trang trí",
+      "example": "They decorate the house for the holidays."
+    },
+    {
+      "id": 53,
+      "word": "comfortable",
+      "ipa_uk": "/ˈkʌmftəbl/",
+      "ipa_us": "/ˈkʌmftəbl/",
+      "part_of_speech": "adjective",
+      "meaning": "thoải mái",
+      "example": "This sofa is very comfortable."
+    },
+    {
+      "id": 54,
+      "word": "cozy",
+      "ipa_uk": "/ˈkəʊzi/",
+      "ipa_us": "/ˈkoʊzi/",
+      "part_of_speech": "adjective",
+      "meaning": "ấm cúng",
+      "example": "The small room felt warm and cozy."
+    },
+    {
+      "id": 55,
+      "word": "spacious",
+      "ipa_uk": "/ˈspeɪʃəs/",
+      "ipa_us": "/ˈspeɪʃəs/",
+      "part_of_speech": "adjective",
+      "meaning": "rộng rãi",
+      "example": "Their new apartment is bright and spacious."
+    },
+    {
+      "id": 56,
+      "word": "messy",
+      "ipa_uk": "/ˈmesi/",
+      "ipa_us": "/ˈmesi/",
+      "part_of_speech": "adjective",
+      "meaning": "bừa bộn",
+      "example": "His desk is always messy."
+    },
+    {
+      "id": 57,
+      "word": "tidy",
+      "ipa_uk": "/ˈtaɪdi/",
+      "ipa_us": "/ˈtaɪdi/",
+      "part_of_speech": "adjective",
+      "meaning": "gọn gàng",
+      "example": "She keeps her bedroom neat and tidy."
+    },
+    {
+      "id": 58,
+      "word": "modern",
+      "ipa_uk": "/ˈmɒdn/",
+      "ipa_us": "/ˈmɑːdərn/",
+      "part_of_speech": "adjective",
+      "meaning": "hiện đại",
+      "example": "They live in a modern apartment."
+    },
+    {
+      "id": 59,
+      "word": "traditional",
+      "ipa_uk": "/trəˈdɪʃənl/",
+      "ipa_us": "/trəˈdɪʃənl/",
+      "part_of_speech": "adjective",
+      "meaning": "truyền thống",
+      "example": "The house has a traditional wooden design."
+    },
+    {
+      "id": 60,
+      "word": "quiet",
+      "ipa_uk": "/ˈkwaɪət/",
+      "ipa_us": "/ˈkwaɪət/",
+      "part_of_speech": "adjective",
+      "meaning": "yên tĩnh",
+      "example": "The neighbourhood is very quiet at night."
+    },
+    {
+      "id": 61,
+      "word": "bookcase",
+      "ipa_uk": "/ˈbʊkkeɪs/",
+      "ipa_us": "/ˈbʊkkeɪs/",
+      "part_of_speech": "noun",
+      "meaning": "tủ sách",
+      "example": "The bookcase in the corner holds all my novels."
+    },
+    {
+      "id": 62,
+      "word": "nightstand",
+      "ipa_uk": "/ˈnaɪtstænd/",
+      "ipa_us": "/ˈnaɪtstænd/",
+      "part_of_speech": "noun",
+      "meaning": "tủ đầu giường",
+      "example": "There is a lamp on the nightstand beside my bed."
+    },
+    {
+      "id": 63,
+      "word": "dresser",
+      "ipa_uk": "/ˈdresə(r)/",
+      "ipa_us": "/ˈdresər/",
+      "part_of_speech": "noun",
+      "meaning": "tủ ngăn kéo",
+      "example": "She keeps her clothes folded in the dresser."
+    },
+    {
+      "id": 64,
+      "word": "cupboard",
+      "ipa_uk": "/ˈkʌbəd/",
+      "ipa_us": "/ˈkʌbərd/",
+      "part_of_speech": "noun",
+      "meaning": "tủ đựng đồ",
+      "example": "The plates are in the kitchen cupboard."
+    },
+    {
+      "id": 65,
+      "word": "storage box",
+      "ipa_uk": "/ˈstɔːrɪdʒ bɒks/",
+      "ipa_us": "/ˈstɔːrɪdʒ bɑːks/",
+      "part_of_speech": "noun",
+      "meaning": "hộp đựng đồ",
+      "example": "I put my winter clothes in a storage box."
+    },
+    {
+      "id": 66,
+      "word": "vase",
+      "ipa_uk": "/vɑːz/",
+      "ipa_us": "/veɪs/",
+      "part_of_speech": "noun",
+      "meaning": "bình hoa",
+      "example": "She put fresh roses in a glass vase."
+    },
+    {
+      "id": 67,
+      "word": "flower pot",
+      "ipa_uk": "/ˈflaʊə pɒt/",
+      "ipa_us": "/ˈflaʊər pɑːt/",
+      "part_of_speech": "noun",
+      "meaning": "chậu hoa",
+      "example": "There is a small flower pot on the windowsill."
+    },
+    {
+      "id": 68,
+      "word": "plant pot",
+      "ipa_uk": "/plɑːnt pɒt/",
+      "ipa_us": "/plænt pɑːt/",
+      "part_of_speech": "noun",
+      "meaning": "chậu cây",
+      "example": "He waters the plant pot every morning."
+    },
+    {
+      "id": 69,
+      "word": "picture frame",
+      "ipa_uk": "/ˈpɪktʃə freɪm/",
+      "ipa_us": "/ˈpɪktʃər freɪm/",
+      "part_of_speech": "noun",
+      "meaning": "khung ảnh",
+      "example": "A silver picture frame sat on the desk."
+    },
+    {
+      "id": 70,
+      "word": "painting",
+      "ipa_uk": "/ˈpeɪntɪŋ/",
+      "ipa_us": "/ˈpeɪntɪŋ/",
+      "part_of_speech": "noun",
+      "meaning": "bức tranh",
+      "example": "A large painting hangs above the sofa."
+    },
+    {
+      "id": 71,
+      "word": "cushion",
+      "ipa_uk": "/ˈkʊʃn/",
+      "ipa_us": "/ˈkʊʃn/",
+      "part_of_speech": "noun",
+      "meaning": "gối tựa",
+      "example": "She leaned back against a soft cushion."
+    },
+    {
+      "id": 72,
+      "word": "throw pillow",
+      "ipa_uk": "/θrəʊ ˈpɪləʊ/",
+      "ipa_us": "/θroʊ ˈpɪloʊ/",
+      "part_of_speech": "noun",
+      "meaning": "gối trang trí",
+      "example": "The bed was covered with colourful throw pillows."
+    },
+    {
+      "id": 73,
+      "word": "bedsheet",
+      "ipa_uk": "/ˈbedʃiːt/",
+      "ipa_us": "/ˈbedʃiːt/",
+      "part_of_speech": "noun",
+      "meaning": "ga trải giường",
+      "example": "I changed the bedsheet this morning."
+    },
+    {
+      "id": 74,
+      "word": "duvet",
+      "ipa_uk": "/ˈduːveɪ/",
+      "ipa_us": "/duːˈveɪ/",
+      "part_of_speech": "noun",
+      "meaning": "chăn bông",
+      "example": "In winter I sleep under a warm duvet."
+    },
+    {
+      "id": 75,
+      "word": "doormat",
+      "ipa_uk": "/ˈdɔːmæt/",
+      "ipa_us": "/ˈdɔːrmæt/",
+      "part_of_speech": "noun",
+      "meaning": "thảm chùi chân",
+      "example": "Please wipe your feet on the doormat."
+    },
+    {
+      "id": 76,
+      "word": "clock",
+      "ipa_uk": "/klɒk/",
+      "ipa_us": "/klɑːk/",
+      "part_of_speech": "noun",
+      "meaning": "đồng hồ",
+      "example": "The clock on the wall says it's noon."
+    },
+    {
+      "id": 77,
+      "word": "wall clock",
+      "ipa_uk": "/wɔːl klɒk/",
+      "ipa_us": "/wɔːl klɑːk/",
+      "part_of_speech": "noun",
+      "meaning": "đồng hồ treo tường",
+      "example": "A round wall clock hangs in the kitchen."
+    },
+    {
+      "id": 78,
+      "word": "alarm clock",
+      "ipa_uk": "/əˈlɑːm klɒk/",
+      "ipa_us": "/əˈlɑːrm klɑːk/",
+      "part_of_speech": "noun",
+      "meaning": "đồng hồ báo thức",
+      "example": "My alarm clock wakes me at six every day."
+    },
+    {
+      "id": 79,
+      "word": "remote control",
+      "ipa_uk": "/rɪˌməʊt kənˈtrəʊl/",
+      "ipa_us": "/rɪˌmoʊt kənˈtroʊl/",
+      "part_of_speech": "noun",
+      "meaning": "điều khiển từ xa",
+      "example": "I can't find the remote control for the TV."
+    },
+    {
+      "id": 80,
+      "word": "doorbell",
+      "ipa_uk": "/ˈdɔːbel/",
+      "ipa_us": "/ˈdɔːrbel/",
+      "part_of_speech": "noun",
+      "meaning": "chuông cửa",
+      "example": "Someone rang the doorbell during dinner."
+    },
+    {
+      "id": 81,
+      "word": "umbrella stand",
+      "ipa_uk": "/ʌmˈbrelə stænd/",
+      "ipa_us": "/ʌmˈbrelə stænd/",
+      "part_of_speech": "noun",
+      "meaning": "giá để ô",
+      "example": "There is an umbrella stand near the front door."
+    },
+    {
+      "id": 82,
+      "word": "coat rack",
+      "ipa_uk": "/kəʊt ræk/",
+      "ipa_us": "/koʊt ræk/",
+      "part_of_speech": "noun",
+      "meaning": "giá treo áo khoác",
+      "example": "Hang your jacket on the coat rack."
+    },
+    {
+      "id": 83,
+      "word": "shoe rack",
+      "ipa_uk": "/ʃuː ræk/",
+      "ipa_us": "/ʃuː ræk/",
+      "part_of_speech": "noun",
+      "meaning": "kệ giày",
+      "example": "We keep our shoes on the shoe rack by the door."
+    },
+    {
+      "id": 84,
+      "word": "laundry basket",
+      "ipa_uk": "/ˈlɔːndri ˌbɑːskɪt/",
+      "ipa_us": "/ˈlɔːndri ˌbæskɪt/",
+      "part_of_speech": "noun",
+      "meaning": "giỏ đựng quần áo",
+      "example": "Put your dirty socks in the laundry basket."
+    },
+    {
+      "id": 85,
+      "word": "laundry hamper",
+      "ipa_uk": "/ˈlɔːndri ˈhæmpə(r)/",
+      "ipa_us": "/ˈlɔːndri ˈhæmpər/",
+      "part_of_speech": "noun",
+      "meaning": "sọt quần áo",
+      "example": "The laundry hamper is full of clothes."
+    },
+    {
+      "id": 86,
+      "word": "tissue box",
+      "ipa_uk": "/ˈtɪʃuː bɒks/",
+      "ipa_us": "/ˈtɪʃuː bɑːks/",
+      "part_of_speech": "noun",
+      "meaning": "hộp khăn giấy",
+      "example": "There is a tissue box on the coffee table."
+    },
+    {
+      "id": 87,
+      "word": "trash bag",
+      "ipa_uk": "/træʃ bæɡ/",
+      "ipa_us": "/træʃ bæɡ/",
+      "part_of_speech": "noun",
+      "meaning": "túi rác",
+      "example": "He tied up the trash bag and took it outside."
+    },
+    {
+      "id": 88,
+      "word": "air freshener",
+      "ipa_uk": "/eə ˈfreʃənə(r)/",
+      "ipa_us": "/er ˈfreʃənər/",
+      "part_of_speech": "noun",
+      "meaning": "xịt thơm phòng",
+      "example": "She sprayed some air freshener in the bathroom."
+    },
+    {
+      "id": 89,
+      "word": "candle",
+      "ipa_uk": "/ˈkændl/",
+      "ipa_us": "/ˈkændl/",
+      "part_of_speech": "noun",
+      "meaning": "nến",
+      "example": "We lit a candle during the power cut."
+    },
+    {
+      "id": 90,
+      "word": "books",
+      "ipa_uk": "/bʊks/",
+      "ipa_us": "/bʊks/",
+      "part_of_speech": "noun",
+      "meaning": "sách",
+      "example": "The shelf is full of old books."
+    },
+    {
+      "id": 91,
+      "word": "magazine",
+      "ipa_uk": "/ˌmæɡəˈziːn/",
+      "ipa_us": "/ˌmæɡəˈziːn/",
+      "part_of_speech": "noun",
+      "meaning": "tạp chí",
+      "example": "She read a fashion magazine on the sofa."
+    },
+    {
+      "id": 92,
+      "word": "photo album",
+      "ipa_uk": "/ˈfəʊtəʊ ˌælbəm/",
+      "ipa_us": "/ˈfoʊtoʊ ˌælbəm/",
+      "part_of_speech": "noun",
+      "meaning": "album ảnh",
+      "example": "We looked through the old photo album together."
+    },
+    {
+      "id": 93,
+      "word": "blanket basket",
+      "ipa_uk": "/ˈblæŋkɪt ˌbɑːskɪt/",
+      "ipa_us": "/ˈblæŋkɪt ˌbæskɪt/",
+      "part_of_speech": "noun",
+      "meaning": "giỏ đựng chăn",
+      "example": "The blankets are kept in a blanket basket by the sofa."
+    },
+    {
+      "id": 94,
+      "word": "storage shelf",
+      "ipa_uk": "/ˈstɔːrɪdʒ ʃelf/",
+      "ipa_us": "/ˈstɔːrɪdʒ ʃelf/",
+      "part_of_speech": "noun",
+      "meaning": "kệ chứa đồ",
+      "example": "He built a storage shelf in the garage."
+    },
+    {
+      "id": 95,
+      "word": "bean bag",
+      "ipa_uk": "/ˈbiːn bæɡ/",
+      "ipa_us": "/ˈbiːn bæɡ/",
+      "part_of_speech": "noun",
+      "meaning": "ghế lười",
+      "example": "The kids love sitting on the bean bag."
+    },
+    {
+      "id": 96,
+      "word": "stool",
+      "ipa_uk": "/stuːl/",
+      "ipa_us": "/stuːl/",
+      "part_of_speech": "noun",
+      "meaning": "ghế đẩu",
+      "example": "She sat on a wooden stool in the kitchen."
+    },
+    {
+      "id": 97,
+      "word": "bench",
+      "ipa_uk": "/bentʃ/",
+      "ipa_us": "/bentʃ/",
+      "part_of_speech": "noun",
+      "meaning": "ghế dài",
+      "example": "There is a long bench in the hallway."
+    },
+    {
+      "id": 98,
+      "word": "armchair",
+      "ipa_uk": "/ˈɑːmtʃeə(r)/",
+      "ipa_us": "/ˈɑːrmtʃer/",
+      "part_of_speech": "noun",
+      "meaning": "ghế bành",
+      "example": "Grandpa reads the newspaper in his favourite armchair."
+    },
+    {
+      "id": 99,
+      "word": "coffee table",
+      "ipa_uk": "/ˈkɒfi ˌteɪbl/",
+      "ipa_us": "/ˈkɔːfi ˌteɪbl/",
+      "part_of_speech": "noun",
+      "meaning": "bàn trà",
+      "example": "Put the cups on the coffee table."
+    },
+    {
+      "id": 100,
+      "word": "side table",
+      "ipa_uk": "/ˈsaɪd ˌteɪbl/",
+      "ipa_us": "/ˈsaɪd ˌteɪbl/",
+      "part_of_speech": "noun",
+      "meaning": "bàn phụ",
+      "example": "There is a small side table next to the bed."
+    }
+  ],
+  "collocations": [
+    { "phrase": "make the bed", "meaning": "dọn giường" },
+    { "phrase": "do the housework", "meaning": "làm việc nhà" },
+    { "phrase": "clean the house", "meaning": "dọn dẹp nhà cửa" },
+    { "phrase": "turn on the light", "meaning": "bật đèn" },
+    { "phrase": "turn off the light", "meaning": "tắt đèn" },
+    { "phrase": "close the curtains", "meaning": "kéo rèm lại" },
+    { "phrase": "lock the door", "meaning": "khóa cửa" },
+    { "phrase": "set the table", "meaning": "dọn bàn ăn" },
+    { "phrase": "do the laundry", "meaning": "giặt giũ" },
+    { "phrase": "take out the trash", "meaning": "đổ rác" },
+    { "phrase": "tidy up the room", "meaning": "dọn dẹp phòng" },
+    { "phrase": "hang a picture", "meaning": "treo tranh" },
+    { "phrase": "a cozy bedroom", "meaning": "một phòng ngủ ấm cúng" },
+    { "phrase": "a spacious living room", "meaning": "một phòng khách rộng rãi" },
+    { "phrase": "light a candle", "meaning": "thắp nến" },
+    { "phrase": "set an alarm", "meaning": "đặt báo thức" },
+    { "phrase": "ring the doorbell", "meaning": "bấm chuông cửa" }
+  ],
+  "exerciseSets": [
+    {
+      "id": "home-fill-context",
+      "title": "Điền từ vào chỗ trống",
+      "description": "Chọn từ vựng phù hợp để hoàn thành câu về nhà cửa, nội thất và thiết bị gia dụng.",
+      "exercises": [
+        { "id": "hf1", "kind": "fill", "question": "Keep the milk cold in the ___.", "answer": "refrigerator", "acceptable": ["fridge"], "explanation": "refrigerator = tủ lạnh" },
+        { "id": "hf2", "kind": "fill", "question": "Heat the soup quickly in the ___.", "answer": "microwave", "acceptable": [], "explanation": "microwave = lò vi sóng" },
+        { "id": "hf3", "kind": "fill", "question": "She baked a cake in the ___.", "answer": "oven", "acceptable": [], "explanation": "oven = lò nướng" },
+        { "id": "hf4", "kind": "fill", "question": "Put your dirty clothes in the ___ to wash them.", "answer": "washing machine", "acceptable": [], "explanation": "washing machine = máy giặt" },
+        { "id": "hf5", "kind": "fill", "question": "It's very hot; please turn on the ___.", "answer": "air conditioner", "acceptable": [], "explanation": "air conditioner = máy điều hòa" },
+        { "id": "hf6", "kind": "fill", "question": "Please close the ___ so no one can come in.", "answer": "door", "acceptable": [], "explanation": "door = cửa" },
+        { "id": "hf7", "kind": "fill", "question": "Open the ___ to let in some fresh air.", "answer": "window", "acceptable": [], "explanation": "window = cửa sổ" },
+        { "id": "hf8", "kind": "fill", "question": "There is a beautiful painting on the ___.", "answer": "wall", "acceptable": [], "explanation": "wall = bức tường" },
+        { "id": "hf9", "kind": "fill", "question": "Be careful, the ___ is wet and slippery.", "answer": "floor", "acceptable": [], "explanation": "floor = sàn nhà" },
+        { "id": "hf10", "kind": "fill", "question": "The lamp hangs from the ___.", "answer": "ceiling", "acceptable": [], "explanation": "ceiling = trần nhà" },
+        { "id": "hf11", "kind": "fill", "question": "She walked up the ___ to her bedroom.", "answer": "stairs", "acceptable": [], "explanation": "stairs = cầu thang" },
+        { "id": "hf12", "kind": "fill", "question": "I can't find the ___ to open the front door.", "answer": "key", "acceptable": [], "explanation": "key = chìa khóa" },
+        { "id": "hf13", "kind": "fill", "question": "He looked at himself in the ___ before going out.", "answer": "mirror", "acceptable": [], "explanation": "mirror = gương" },
+        { "id": "hf14", "kind": "fill", "question": "Please close the ___ at night so people can't see in.", "answer": "curtains", "acceptable": ["curtain"], "explanation": "curtains = rèm cửa" },
+        { "id": "hf15", "kind": "fill", "question": "There is a soft ___ on the living room floor.", "answer": "carpet", "acceptable": [], "explanation": "carpet = thảm" },
+        { "id": "hf16", "kind": "fill", "question": "Hang your coat on the ___.", "answer": "hanger", "acceptable": [], "explanation": "hanger = móc treo quần áo" },
+        { "id": "hf17", "kind": "fill", "question": "Throw the empty wrapper in the ___.", "answer": "trash bin", "acceptable": ["bin"], "explanation": "trash bin = thùng rác" },
+        { "id": "hf18", "kind": "fill", "question": "Plug the charger into the ___.", "answer": "power outlet", "acceptable": ["outlet"], "explanation": "power outlet = ổ cắm điện" },
+        { "id": "hf19", "kind": "fill", "question": "Press the ___ next to the door to turn on the light.", "answer": "light switch", "acceptable": ["switch"], "explanation": "light switch = công tắc đèn" },
+        { "id": "hf20", "kind": "fill", "question": "He used the ___ to clean the dusty carpet.", "answer": "vacuum cleaner", "acceptable": [], "explanation": "vacuum cleaner = máy hút bụi" }
+      ]
+    },
+    {
+      "id": "home-mcq-meaning",
+      "title": "Chọn nghĩa đúng",
+      "description": "Chọn đáp án đúng về nghĩa của từ vựng nhà cửa và nội thất.",
+      "exercises": [
+        { "id": "hm1", "kind": "mcq", "question": "Từ nào có nghĩa là 'tủ lạnh'?", "options": [{ "key": "A", "text": "oven" }, { "key": "B", "text": "refrigerator" }, { "key": "C", "text": "microwave" }, { "key": "D", "text": "cabinet" }], "answer": "B", "explanation": "refrigerator = tủ lạnh" },
+        { "id": "hm2", "kind": "mcq", "question": "Từ nào có nghĩa là 'rèm cửa'?", "options": [{ "key": "A", "text": "carpet" }, { "key": "B", "text": "curtain" }, { "key": "C", "text": "ceiling" }, { "key": "D", "text": "hanger" }], "answer": "B", "explanation": "curtain = rèm cửa" },
+        { "id": "hm3", "kind": "mcq", "question": "'ceiling' nghĩa là gì?", "options": [{ "key": "A", "text": "sàn nhà" }, { "key": "B", "text": "bức tường" }, { "key": "C", "text": "trần nhà" }, { "key": "D", "text": "cầu thang" }], "answer": "C", "explanation": "ceiling = trần nhà" },
+        { "id": "hm4", "kind": "mcq", "question": "'drawer' nghĩa là gì?", "options": [{ "key": "A", "text": "ngăn kéo" }, { "key": "B", "text": "tủ" }, { "key": "C", "text": "kệ" }, { "key": "D", "text": "gương" }], "answer": "A", "explanation": "drawer = ngăn kéo" },
+        { "id": "hm5", "kind": "mcq", "question": "Từ nào có nghĩa là 'máy hút bụi'?", "options": [{ "key": "A", "text": "washing machine" }, { "key": "B", "text": "dishwasher" }, { "key": "C", "text": "vacuum cleaner" }, { "key": "D", "text": "heater" }], "answer": "C", "explanation": "vacuum cleaner = máy hút bụi" },
+        { "id": "hm6", "kind": "mcq", "question": "'cozy' nghĩa là gì?", "options": [{ "key": "A", "text": "rộng rãi" }, { "key": "B", "text": "ấm cúng" }, { "key": "C", "text": "bừa bộn" }, { "key": "D", "text": "yên tĩnh" }], "answer": "B", "explanation": "cozy = ấm cúng" },
+        { "id": "hm7", "kind": "mcq", "question": "Từ nào có nghĩa là 'gọn gàng'?", "options": [{ "key": "A", "text": "messy" }, { "key": "B", "text": "tidy" }, { "key": "C", "text": "modern" }, { "key": "D", "text": "spacious" }], "answer": "B", "explanation": "tidy = gọn gàng" },
+        { "id": "hm8", "kind": "mcq", "question": "'spacious' nghĩa là gì?", "options": [{ "key": "A", "text": "chật hẹp" }, { "key": "B", "text": "rộng rãi" }, { "key": "C", "text": "hiện đại" }, { "key": "D", "text": "truyền thống" }], "answer": "B", "explanation": "spacious = rộng rãi" },
+        { "id": "hm9", "kind": "mcq", "question": "Từ nào trái nghĩa với 'messy' (bừa bộn)?", "options": [{ "key": "A", "text": "tidy" }, { "key": "B", "text": "dirty" }, { "key": "C", "text": "dark" }, { "key": "D", "text": "old" }], "answer": "A", "explanation": "tidy (gọn gàng) trái nghĩa với messy (bừa bộn)" },
+        { "id": "hm10", "kind": "mcq", "question": "'decorate' nghĩa là gì?", "options": [{ "key": "A", "text": "dọn dẹp" }, { "key": "B", "text": "trang trí" }, { "key": "C", "text": "sửa chữa" }, { "key": "D", "text": "xây dựng" }], "answer": "B", "explanation": "decorate = trang trí" },
+        { "id": "hm11", "kind": "mcq", "question": "Từ nào có nghĩa là 'lò vi sóng'?", "options": [{ "key": "A", "text": "oven" }, { "key": "B", "text": "microwave" }, { "key": "C", "text": "heater" }, { "key": "D", "text": "fan" }], "answer": "B", "explanation": "microwave = lò vi sóng" },
+        { "id": "hm12", "kind": "mcq", "question": "'stairs' nghĩa là gì?", "options": [{ "key": "A", "text": "cầu thang" }, { "key": "B", "text": "ban công" }, { "key": "C", "text": "hành lang" }, { "key": "D", "text": "cửa sổ" }], "answer": "A", "explanation": "stairs = cầu thang" },
+        { "id": "hm13", "kind": "mcq", "question": "Từ nào có nghĩa là 'máy sưởi'?", "options": [{ "key": "A", "text": "fan" }, { "key": "B", "text": "air conditioner" }, { "key": "C", "text": "heater" }, { "key": "D", "text": "lamp" }], "answer": "C", "explanation": "heater = máy sưởi" },
+        { "id": "hm14", "kind": "mcq", "question": "'quiet' nghĩa là gì?", "options": [{ "key": "A", "text": "ồn ào" }, { "key": "B", "text": "yên tĩnh" }, { "key": "C", "text": "sáng sủa" }, { "key": "D", "text": "tối tăm" }], "answer": "B", "explanation": "quiet = yên tĩnh" },
+        { "id": "hm15", "kind": "mcq", "question": "Từ nào có nghĩa là 'công tắc đèn'?", "options": [{ "key": "A", "text": "power outlet" }, { "key": "B", "text": "light switch" }, { "key": "C", "text": "lock" }, { "key": "D", "text": "key" }], "answer": "B", "explanation": "light switch = công tắc đèn" }
+      ]
+    },
+    {
+      "id": "home-en-word",
+      "title": "Viết từ tiếng Anh",
+      "description": "Dựa vào nghĩa tiếng Việt, viết từ tiếng Anh tương ứng.",
+      "exercises": [
+        { "id": "he1", "kind": "fill", "question": "tủ lạnh → ___", "answer": "refrigerator", "acceptable": ["fridge"], "explanation": "refrigerator /rɪˈfrɪdʒəreɪtər/" },
+        { "id": "he2", "kind": "fill", "question": "lò vi sóng → ___", "answer": "microwave", "acceptable": [], "explanation": "microwave /ˈmaɪkrəweɪv/" },
+        { "id": "he3", "kind": "fill", "question": "lò nướng → ___", "answer": "oven", "acceptable": [], "explanation": "oven /ˈʌvn/" },
+        { "id": "he4", "kind": "fill", "question": "máy giặt → ___", "answer": "washing machine", "acceptable": [], "explanation": "washing machine /ˈwɑːʃɪŋ məˌʃiːn/" },
+        { "id": "he5", "kind": "fill", "question": "máy rửa bát → ___", "answer": "dishwasher", "acceptable": [], "explanation": "dishwasher /ˈdɪʃwɑːʃər/" },
+        { "id": "he6", "kind": "fill", "question": "máy hút bụi → ___", "answer": "vacuum cleaner", "acceptable": [], "explanation": "vacuum cleaner /ˈvækjuəm kliːnər/" },
+        { "id": "he7", "kind": "fill", "question": "máy điều hòa → ___", "answer": "air conditioner", "acceptable": [], "explanation": "air conditioner /ˈer kənˌdɪʃənər/" },
+        { "id": "he8", "kind": "fill", "question": "quạt → ___", "answer": "fan", "acceptable": [], "explanation": "fan /fæn/" },
+        { "id": "he9", "kind": "fill", "question": "máy sưởi → ___", "answer": "heater", "acceptable": [], "explanation": "heater /ˈhiːtər/" },
+        { "id": "he10", "kind": "fill", "question": "gương → ___", "answer": "mirror", "acceptable": [], "explanation": "mirror /ˈmɪrər/" },
+        { "id": "he11", "kind": "fill", "question": "đèn bàn → ___", "answer": "lamp", "acceptable": [], "explanation": "lamp /læmp/" },
+        { "id": "he12", "kind": "fill", "question": "rèm cửa → ___", "answer": "curtain", "acceptable": ["curtains"], "explanation": "curtain /ˈkɜːrtn/" },
+        { "id": "he13", "kind": "fill", "question": "thảm → ___", "answer": "carpet", "acceptable": [], "explanation": "carpet /ˈkɑːrpɪt/" },
+        { "id": "he14", "kind": "fill", "question": "kệ → ___", "answer": "shelf", "acceptable": [], "explanation": "shelf /ʃelf/" },
+        { "id": "he15", "kind": "fill", "question": "ngăn kéo → ___", "answer": "drawer", "acceptable": [], "explanation": "drawer /drɔːr/" },
+        { "id": "he16", "kind": "fill", "question": "tủ → ___", "answer": "cabinet", "acceptable": [], "explanation": "cabinet /ˈkæbɪnət/" },
+        { "id": "he17", "kind": "fill", "question": "cửa → ___", "answer": "door", "acceptable": [], "explanation": "door /dɔːr/" },
+        { "id": "he18", "kind": "fill", "question": "cửa sổ → ___", "answer": "window", "acceptable": [], "explanation": "window /ˈwɪndoʊ/" },
+        { "id": "he19", "kind": "fill", "question": "bức tường → ___", "answer": "wall", "acceptable": [], "explanation": "wall /wɔːl/" },
+        { "id": "he20", "kind": "fill", "question": "sàn nhà → ___", "answer": "floor", "acceptable": [], "explanation": "floor /flɔːr/" },
+        { "id": "he21", "kind": "fill", "question": "trần nhà → ___", "answer": "ceiling", "acceptable": [], "explanation": "ceiling /ˈsiːlɪŋ/" },
+        { "id": "he22", "kind": "fill", "question": "cầu thang → ___", "answer": "stairs", "acceptable": [], "explanation": "stairs /sterz/" },
+        { "id": "he23", "kind": "fill", "question": "chìa khóa → ___", "answer": "key", "acceptable": [], "explanation": "key /kiː/" },
+        { "id": "he24", "kind": "fill", "question": "ổ khóa → ___", "answer": "lock", "acceptable": [], "explanation": "lock /lɑːk/" },
+        { "id": "he25", "kind": "fill", "question": "thùng rác → ___", "answer": "trash bin", "acceptable": ["bin"], "explanation": "trash bin /træʃ bɪn/" },
+        { "id": "he26", "kind": "fill", "question": "cây cảnh → ___", "answer": "plant", "acceptable": [], "explanation": "plant /plænt/" },
+        { "id": "he27", "kind": "fill", "question": "thoải mái → ___", "answer": "comfortable", "acceptable": [], "explanation": "comfortable /ˈkʌmftəbl/" },
+        { "id": "he28", "kind": "fill", "question": "ấm cúng → ___", "answer": "cozy", "acceptable": ["cosy"], "explanation": "cozy /ˈkoʊzi/" },
+        { "id": "he29", "kind": "fill", "question": "rộng rãi → ___", "answer": "spacious", "acceptable": [], "explanation": "spacious /ˈspeɪʃəs/" },
+        { "id": "he30", "kind": "fill", "question": "gọn gàng → ___", "answer": "tidy", "acceptable": [], "explanation": "tidy /ˈtaɪdi/" }
+      ]
+    },
+    {
+      "id": "home-collocations",
+      "title": "Chọn collocation đúng",
+      "description": "Chọn từ đi kèm đúng để tạo thành cụm từ tự nhiên về việc nhà.",
+      "exercises": [
+        { "id": "hc1", "kind": "mcq", "question": "___ the bed (dọn giường)", "options": [{ "key": "A", "text": "do" }, { "key": "B", "text": "make" }, { "key": "C", "text": "set" }, { "key": "D", "text": "clean" }], "answer": "B", "explanation": "make the bed = dọn giường" },
+        { "id": "hc2", "kind": "mcq", "question": "___ the housework (làm việc nhà)", "options": [{ "key": "A", "text": "make" }, { "key": "B", "text": "do" }, { "key": "C", "text": "take" }, { "key": "D", "text": "have" }], "answer": "B", "explanation": "do the housework = làm việc nhà" },
+        { "id": "hc3", "kind": "mcq", "question": "___ on the light (bật đèn)", "options": [{ "key": "A", "text": "open" }, { "key": "B", "text": "turn" }, { "key": "C", "text": "close" }, { "key": "D", "text": "give" }], "answer": "B", "explanation": "turn on the light = bật đèn" },
+        { "id": "hc4", "kind": "mcq", "question": "___ off the light (tắt đèn)", "options": [{ "key": "A", "text": "close" }, { "key": "B", "text": "stop" }, { "key": "C", "text": "turn" }, { "key": "D", "text": "shut" }], "answer": "C", "explanation": "turn off the light = tắt đèn" },
+        { "id": "hc5", "kind": "mcq", "question": "___ the door (khóa cửa)", "options": [{ "key": "A", "text": "close" }, { "key": "B", "text": "lock" }, { "key": "C", "text": "shut" }, { "key": "D", "text": "open" }], "answer": "B", "explanation": "lock the door = khóa cửa" },
+        { "id": "hc6", "kind": "mcq", "question": "___ the table (dọn bàn ăn, bày bát đĩa)", "options": [{ "key": "A", "text": "put" }, { "key": "B", "text": "set" }, { "key": "C", "text": "make" }, { "key": "D", "text": "do" }], "answer": "B", "explanation": "set the table = dọn/bày bàn ăn" },
+        { "id": "hc7", "kind": "mcq", "question": "do the ___ (giặt giũ)", "options": [{ "key": "A", "text": "laundry" }, { "key": "B", "text": "cooking" }, { "key": "C", "text": "dishes" }, { "key": "D", "text": "bed" }], "answer": "A", "explanation": "do the laundry = giặt giũ" },
+        { "id": "hc8", "kind": "mcq", "question": "take out the ___ (đổ rác)", "options": [{ "key": "A", "text": "trash" }, { "key": "B", "text": "water" }, { "key": "C", "text": "plant" }, { "key": "D", "text": "key" }], "answer": "A", "explanation": "take out the trash = đổ rác" },
+        { "id": "hc9", "kind": "mcq", "question": "___ the curtains (kéo rèm lại)", "options": [{ "key": "A", "text": "open" }, { "key": "B", "text": "close" }, { "key": "C", "text": "lock" }, { "key": "D", "text": "turn" }], "answer": "B", "explanation": "close the curtains = kéo rèm lại" },
+        { "id": "hc10", "kind": "mcq", "question": "tidy ___ the room (dọn dẹp phòng)", "options": [{ "key": "A", "text": "up" }, { "key": "B", "text": "on" }, { "key": "C", "text": "off" }, { "key": "D", "text": "in" }], "answer": "A", "explanation": "tidy up the room = dọn dẹp phòng" },
+        { "id": "hc11", "kind": "mcq", "question": "___ a picture (treo tranh)", "options": [{ "key": "A", "text": "put" }, { "key": "B", "text": "hang" }, { "key": "C", "text": "set" }, { "key": "D", "text": "take" }], "answer": "B", "explanation": "hang a picture = treo tranh" },
+        { "id": "hc12", "kind": "mcq", "question": "___ the house (dọn dẹp nhà cửa)", "options": [{ "key": "A", "text": "clean" }, { "key": "B", "text": "wash" }, { "key": "C", "text": "do" }, { "key": "D", "text": "make" }], "answer": "A", "explanation": "clean the house = dọn dẹp nhà cửa" }
+      ]
+    },
+    {
+      "id": "home-rooms-usage",
+      "title": "Phòng nào & Đồ dùng nào?",
+      "description": "Chọn phòng hoặc thiết bị phù hợp với hoạt động được mô tả.",
+      "exercises": [
+        { "id": "hr1", "kind": "mcq", "question": "Bạn thường nấu ăn ở phòng nào?", "options": [{ "key": "A", "text": "bedroom" }, { "key": "B", "text": "kitchen" }, { "key": "C", "text": "bathroom" }, { "key": "D", "text": "balcony" }], "answer": "B", "explanation": "kitchen = nhà bếp, nơi nấu ăn" },
+        { "id": "hr2", "kind": "mcq", "question": "Bạn thường ngủ ở phòng nào?", "options": [{ "key": "A", "text": "bedroom" }, { "key": "B", "text": "kitchen" }, { "key": "C", "text": "study" }, { "key": "D", "text": "garage" }], "answer": "A", "explanation": "bedroom = phòng ngủ" },
+        { "id": "hr3", "kind": "mcq", "question": "Bạn tắm rửa ở phòng nào?", "options": [{ "key": "A", "text": "dining room" }, { "key": "B", "text": "bathroom" }, { "key": "C", "text": "living room" }, { "key": "D", "text": "balcony" }], "answer": "B", "explanation": "bathroom = phòng tắm" },
+        { "id": "hr4", "kind": "mcq", "question": "Gia đình thường ngồi xem TV ở phòng nào?", "options": [{ "key": "A", "text": "living room" }, { "key": "B", "text": "kitchen" }, { "key": "C", "text": "bathroom" }, { "key": "D", "text": "garage" }], "answer": "A", "explanation": "living room = phòng khách" },
+        { "id": "hr5", "kind": "mcq", "question": "Bạn thường để xe ô tô ở đâu?", "options": [{ "key": "A", "text": "study" }, { "key": "B", "text": "garage" }, { "key": "C", "text": "balcony" }, { "key": "D", "text": "kitchen" }], "answer": "B", "explanation": "garage = gara để xe" },
+        { "id": "hr6", "kind": "mcq", "question": "'refrigerator' thường được đặt ở phòng nào?", "options": [{ "key": "A", "text": "bedroom" }, { "key": "B", "text": "kitchen" }, { "key": "C", "text": "bathroom" }, { "key": "D", "text": "study" }], "answer": "B", "explanation": "Tủ lạnh thường đặt ở nhà bếp." },
+        { "id": "hr7", "kind": "mcq", "question": "'wardrobe' (tủ quần áo) thường ở phòng nào?", "options": [{ "key": "A", "text": "kitchen" }, { "key": "B", "text": "bedroom" }, { "key": "C", "text": "garage" }, { "key": "D", "text": "dining room" }], "answer": "B", "explanation": "Tủ quần áo thường đặt trong phòng ngủ." },
+        { "id": "hr8", "kind": "mcq", "question": "Bạn ăn tối cùng gia đình ở phòng nào?", "options": [{ "key": "A", "text": "dining room" }, { "key": "B", "text": "bathroom" }, { "key": "C", "text": "garage" }, { "key": "D", "text": "balcony" }], "answer": "A", "explanation": "dining room = phòng ăn" },
+        { "id": "hr9", "kind": "mcq", "question": "Bạn ngồi làm việc hoặc học bài ở phòng nào?", "options": [{ "key": "A", "text": "study" }, { "key": "B", "text": "bathroom" }, { "key": "C", "text": "garage" }, { "key": "D", "text": "kitchen" }], "answer": "A", "explanation": "study = phòng làm việc" },
+        { "id": "hr10", "kind": "mcq", "question": "Đồ vật nào dùng để giữ thức ăn lạnh?", "options": [{ "key": "A", "text": "oven" }, { "key": "B", "text": "microwave" }, { "key": "C", "text": "refrigerator" }, { "key": "D", "text": "heater" }], "answer": "C", "explanation": "refrigerator = tủ lạnh, giữ thức ăn lạnh" },
+        { "id": "hr11", "kind": "mcq", "question": "Đồ vật nào dùng để làm mát phòng khi trời nóng?", "options": [{ "key": "A", "text": "heater" }, { "key": "B", "text": "fan" }, { "key": "C", "text": "oven" }, { "key": "D", "text": "lamp" }], "answer": "B", "explanation": "fan = quạt, dùng làm mát" },
+        { "id": "hr12", "kind": "mcq", "question": "Đồ vật nào dùng để sưởi ấm phòng khi trời lạnh?", "options": [{ "key": "A", "text": "fan" }, { "key": "B", "text": "air conditioner" }, { "key": "C", "text": "heater" }, { "key": "D", "text": "dishwasher" }], "answer": "C", "explanation": "heater = máy sưởi, dùng sưởi ấm" }
+      ]
+    },
+    {
+      "id": "home-extra-context",
+      "title": "Điền từ vào chỗ trống — Đồ vật trong nhà",
+      "description": "Chọn từ vựng phù hợp để hoàn thành câu về các món đồ trang trí và tiện ích trong nhà.",
+      "exercises": [
+        { "id": "hx1", "kind": "fill", "question": "In winter I sleep under a warm ___ to stay cozy.", "answer": "duvet", "acceptable": [], "explanation": "duvet = chăn bông" },
+        { "id": "hx2", "kind": "fill", "question": "My ___ wakes me up at six o'clock every morning.", "answer": "alarm clock", "acceptable": [], "explanation": "alarm clock = đồng hồ báo thức" },
+        { "id": "hx3", "kind": "fill", "question": "I can't change the TV channel without the ___.", "answer": "remote control", "acceptable": ["remote"], "explanation": "remote control = điều khiển từ xa" },
+        { "id": "hx4", "kind": "fill", "question": "Someone is at the door; I just heard the ___ ring.", "answer": "doorbell", "acceptable": [], "explanation": "doorbell = chuông cửa" },
+        { "id": "hx5", "kind": "fill", "question": "Please wipe your feet on the ___ before coming in.", "answer": "doormat", "acceptable": [], "explanation": "doormat = thảm chùi chân" },
+        { "id": "hx6", "kind": "fill", "question": "She put fresh roses in a glass ___.", "answer": "vase", "acceptable": [], "explanation": "vase = bình hoa" },
+        { "id": "hx7", "kind": "fill", "question": "Hang your coat on the ___ by the door.", "answer": "coat rack", "acceptable": [], "explanation": "coat rack = giá treo áo khoác" },
+        { "id": "hx8", "kind": "fill", "question": "We keep all our shoes on the ___ near the entrance.", "answer": "shoe rack", "acceptable": [], "explanation": "shoe rack = kệ giày" },
+        { "id": "hx9", "kind": "fill", "question": "Put your dirty clothes in the ___.", "answer": "laundry basket", "acceptable": ["laundry hamper"], "explanation": "laundry basket = giỏ đựng quần áo" },
+        { "id": "hx10", "kind": "fill", "question": "A large ___ of a mountain hangs above the sofa.", "answer": "painting", "acceptable": [], "explanation": "painting = bức tranh" },
+        { "id": "hx11", "kind": "fill", "question": "There is a ___ on the table if you need to blow your nose.", "answer": "tissue box", "acceptable": [], "explanation": "tissue box = hộp khăn giấy" },
+        { "id": "hx12", "kind": "fill", "question": "Grandpa likes to read the newspaper in his comfortable ___.", "answer": "armchair", "acceptable": [], "explanation": "armchair = ghế bành" },
+        { "id": "hx13", "kind": "fill", "question": "Put the coffee cups on the ___ in front of the sofa.", "answer": "coffee table", "acceptable": [], "explanation": "coffee table = bàn trà" },
+        { "id": "hx14", "kind": "fill", "question": "The books are arranged neatly in the ___.", "answer": "bookcase", "acceptable": [], "explanation": "bookcase = tủ sách" },
+        { "id": "hx15", "kind": "fill", "question": "She lit a scented ___ to make the room smell nice.", "answer": "candle", "acceptable": [], "explanation": "candle = nến" }
+      ]
+    },
+    {
+      "id": "home-extra-en-word",
+      "title": "Viết từ tiếng Anh — Đồ vật trong nhà",
+      "description": "Dựa vào nghĩa tiếng Việt, viết từ tiếng Anh tương ứng cho các món đồ trong nhà.",
+      "exercises": [
+        { "id": "hex1", "kind": "fill", "question": "tủ sách → ___", "answer": "bookcase", "acceptable": [], "explanation": "bookcase /ˈbʊkkeɪs/" },
+        { "id": "hex2", "kind": "fill", "question": "tủ đầu giường → ___", "answer": "nightstand", "acceptable": [], "explanation": "nightstand /ˈnaɪtstænd/" },
+        { "id": "hex3", "kind": "fill", "question": "tủ ngăn kéo → ___", "answer": "dresser", "acceptable": [], "explanation": "dresser /ˈdresər/" },
+        { "id": "hex4", "kind": "fill", "question": "tủ đựng đồ → ___", "answer": "cupboard", "acceptable": [], "explanation": "cupboard /ˈkʌbərd/" },
+        { "id": "hex5", "kind": "fill", "question": "bình hoa → ___", "answer": "vase", "acceptable": [], "explanation": "vase /veɪs/" },
+        { "id": "hex6", "kind": "fill", "question": "khung ảnh → ___", "answer": "picture frame", "acceptable": [], "explanation": "picture frame /ˈpɪktʃər freɪm/" },
+        { "id": "hex7", "kind": "fill", "question": "bức tranh → ___", "answer": "painting", "acceptable": [], "explanation": "painting /ˈpeɪntɪŋ/" },
+        { "id": "hex8", "kind": "fill", "question": "gối tựa → ___", "answer": "cushion", "acceptable": [], "explanation": "cushion /ˈkʊʃn/" },
+        { "id": "hex9", "kind": "fill", "question": "ga trải giường → ___", "answer": "bedsheet", "acceptable": [], "explanation": "bedsheet /ˈbedʃiːt/" },
+        { "id": "hex10", "kind": "fill", "question": "chăn bông → ___", "answer": "duvet", "acceptable": [], "explanation": "duvet /duːˈveɪ/" },
+        { "id": "hex11", "kind": "fill", "question": "thảm chùi chân → ___", "answer": "doormat", "acceptable": [], "explanation": "doormat /ˈdɔːrmæt/" },
+        { "id": "hex12", "kind": "fill", "question": "đồng hồ báo thức → ___", "answer": "alarm clock", "acceptable": [], "explanation": "alarm clock /əˈlɑːrm klɑːk/" },
+        { "id": "hex13", "kind": "fill", "question": "đồng hồ treo tường → ___", "answer": "wall clock", "acceptable": [], "explanation": "wall clock /wɔːl klɑːk/" },
+        { "id": "hex14", "kind": "fill", "question": "điều khiển từ xa → ___", "answer": "remote control", "acceptable": ["remote"], "explanation": "remote control /rɪˌmoʊt kənˈtroʊl/" },
+        { "id": "hex15", "kind": "fill", "question": "chuông cửa → ___", "answer": "doorbell", "acceptable": [], "explanation": "doorbell /ˈdɔːrbel/" },
+        { "id": "hex16", "kind": "fill", "question": "giá treo áo khoác → ___", "answer": "coat rack", "acceptable": [], "explanation": "coat rack /koʊt ræk/" },
+        { "id": "hex17", "kind": "fill", "question": "kệ giày → ___", "answer": "shoe rack", "acceptable": [], "explanation": "shoe rack /ʃuː ræk/" },
+        { "id": "hex18", "kind": "fill", "question": "giỏ đựng quần áo → ___", "answer": "laundry basket", "acceptable": [], "explanation": "laundry basket /ˈlɔːndri ˌbæskɪt/" },
+        { "id": "hex19", "kind": "fill", "question": "hộp khăn giấy → ___", "answer": "tissue box", "acceptable": [], "explanation": "tissue box /ˈtɪʃuː bɑːks/" },
+        { "id": "hex20", "kind": "fill", "question": "túi rác → ___", "answer": "trash bag", "acceptable": [], "explanation": "trash bag /træʃ bæɡ/" },
+        { "id": "hex21", "kind": "fill", "question": "nến → ___", "answer": "candle", "acceptable": [], "explanation": "candle /ˈkændl/" },
+        { "id": "hex22", "kind": "fill", "question": "tạp chí → ___", "answer": "magazine", "acceptable": [], "explanation": "magazine /ˌmæɡəˈziːn/" },
+        { "id": "hex23", "kind": "fill", "question": "ghế bành → ___", "answer": "armchair", "acceptable": [], "explanation": "armchair /ˈɑːrmtʃer/" },
+        { "id": "hex24", "kind": "fill", "question": "bàn trà → ___", "answer": "coffee table", "acceptable": [], "explanation": "coffee table /ˈkɔːfi ˌteɪbl/" },
+        { "id": "hex25", "kind": "fill", "question": "ghế đẩu → ___", "answer": "stool", "acceptable": [], "explanation": "stool /stuːl/" }
+      ]
+    },
+    {
+      "id": "home-extra-mcq",
+      "title": "Chọn nghĩa đúng — Đồ vật trong nhà",
+      "description": "Chọn đáp án đúng về nghĩa của các món đồ nội thất và tiện ích trong nhà.",
+      "exercises": [
+        { "id": "hxm1", "kind": "mcq", "question": "'nightstand' nghĩa là gì?", "options": [{ "key": "A", "text": "tủ sách" }, { "key": "B", "text": "tủ đầu giường" }, { "key": "C", "text": "tủ đựng đồ" }, { "key": "D", "text": "tủ ngăn kéo" }], "answer": "B", "explanation": "nightstand = tủ đầu giường" },
+        { "id": "hxm2", "kind": "mcq", "question": "Từ nào có nghĩa là 'đồng hồ báo thức'?", "options": [{ "key": "A", "text": "wall clock" }, { "key": "B", "text": "alarm clock" }, { "key": "C", "text": "clock" }, { "key": "D", "text": "doorbell" }], "answer": "B", "explanation": "alarm clock = đồng hồ báo thức" },
+        { "id": "hxm3", "kind": "mcq", "question": "'cushion' nghĩa là gì?", "options": [{ "key": "A", "text": "gối tựa" }, { "key": "B", "text": "chăn bông" }, { "key": "C", "text": "ga trải giường" }, { "key": "D", "text": "thảm" }], "answer": "A", "explanation": "cushion = gối tựa" },
+        { "id": "hxm4", "kind": "mcq", "question": "Từ nào có nghĩa là 'ghế bành'?", "options": [{ "key": "A", "text": "stool" }, { "key": "B", "text": "bench" }, { "key": "C", "text": "armchair" }, { "key": "D", "text": "bean bag" }], "answer": "C", "explanation": "armchair = ghế bành" },
+        { "id": "hxm5", "kind": "mcq", "question": "'duvet' nghĩa là gì?", "options": [{ "key": "A", "text": "ga trải giường" }, { "key": "B", "text": "chăn bông" }, { "key": "C", "text": "gối trang trí" }, { "key": "D", "text": "rèm cửa" }], "answer": "B", "explanation": "duvet = chăn bông" },
+        { "id": "hxm6", "kind": "mcq", "question": "Từ nào có nghĩa là 'điều khiển từ xa'?", "options": [{ "key": "A", "text": "doorbell" }, { "key": "B", "text": "remote control" }, { "key": "C", "text": "alarm clock" }, { "key": "D", "text": "light switch" }], "answer": "B", "explanation": "remote control = điều khiển từ xa" },
+        { "id": "hxm7", "kind": "mcq", "question": "'stool' nghĩa là gì?", "options": [{ "key": "A", "text": "ghế đẩu" }, { "key": "B", "text": "ghế dài" }, { "key": "C", "text": "ghế bành" }, { "key": "D", "text": "ghế lười" }], "answer": "A", "explanation": "stool = ghế đẩu" },
+        { "id": "hxm8", "kind": "mcq", "question": "Từ nào có nghĩa là 'chuông cửa'?", "options": [{ "key": "A", "text": "doormat" }, { "key": "B", "text": "doorbell" }, { "key": "C", "text": "door" }, { "key": "D", "text": "lock" }], "answer": "B", "explanation": "doorbell = chuông cửa" },
+        { "id": "hxm9", "kind": "mcq", "question": "'coffee table' nghĩa là gì?", "options": [{ "key": "A", "text": "bàn phụ" }, { "key": "B", "text": "bàn trà" }, { "key": "C", "text": "bàn ăn" }, { "key": "D", "text": "bàn học" }], "answer": "B", "explanation": "coffee table = bàn trà (bàn thấp trước sofa)" },
+        { "id": "hxm10", "kind": "mcq", "question": "Từ nào có nghĩa là 'nến'?", "options": [{ "key": "A", "text": "candle" }, { "key": "B", "text": "vase" }, { "key": "C", "text": "lamp" }, { "key": "D", "text": "air freshener" }], "answer": "A", "explanation": "candle = nến" }
+      ]
+    }
+  ]
+}

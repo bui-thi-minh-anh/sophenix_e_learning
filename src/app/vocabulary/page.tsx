@@ -20,10 +20,19 @@ import {
   Brain,
   Briefcase,
   Bus,
+  Sofa,
+  Shirt,
+  Users,
+  HardHat,
+  ShoppingBag,
+  Plane,
+  Apple,
   type LucideIcon,
 } from "lucide-react";
 import { getAllVocabTopics } from "@/content/vocabulary";
 import type { VocabLevel, VocabTopic } from "@/content/vocabulary/types";
+import { SearchBar } from "@/components/ui/search-bar";
+import { matchesQuery } from "@/lib/search";
 
 const levelFilters = [
   { label: "Tất cả", value: "all" },
@@ -46,6 +55,13 @@ const topicVisualMap: Record<string, { icon: LucideIcon; bg: string; icon_color:
   "personality-2": { icon: Brain, bg: "from-fuchsia-500/20 to-fuchsia-600/10", icon_color: "text-fuchsia-400" },
   workplace: { icon: Briefcase, bg: "from-teal-500/20 to-teal-600/10", icon_color: "text-teal-400" },
   transportation: { icon: Bus, bg: "from-cyan-500/20 to-cyan-600/10", icon_color: "text-cyan-400" },
+  "home-furniture": { icon: Sofa, bg: "from-lime-500/20 to-lime-600/10", icon_color: "text-lime-400" },
+  "clothes-fashion": { icon: Shirt, bg: "from-purple-500/20 to-purple-600/10", icon_color: "text-purple-400" },
+  "family-relationships": { icon: Users, bg: "from-red-500/20 to-red-600/10", icon_color: "text-red-400" },
+  "jobs-occupations": { icon: HardHat, bg: "from-yellow-500/20 to-yellow-600/10", icon_color: "text-yellow-400" },
+  shopping: { icon: ShoppingBag, bg: "from-green-500/20 to-green-600/10", icon_color: "text-green-400" },
+  travel: { icon: Plane, bg: "from-violet-500/20 to-violet-600/10", icon_color: "text-violet-400" },
+  "food-drinks": { icon: Apple, bg: "from-stone-500/20 to-stone-600/10", icon_color: "text-stone-300" },
 };
 
 // Fallback theo nhóm từ loại khi chủ đề chưa có logo riêng.
@@ -101,8 +117,11 @@ function matchesFilter(level: VocabLevel, filter: string): boolean {
 export default function VocabularyPage() {
   const topics = getAllVocabTopics();
   const [filter, setFilter] = useState("all");
+  const [query, setQuery] = useState("");
 
-  const filtered = topics.filter((t) => matchesFilter(t.level, filter));
+  const filtered = topics.filter(
+    (t) => matchesFilter(t.level, filter) && matchesQuery(query, t.title, t.summary)
+  );
 
   return (
     <div className="space-y-6 pb-8">
@@ -112,6 +131,9 @@ export default function VocabularyPage() {
           Chọn một chủ đề từ vựng để tra cứu và luyện tập.
         </p>
       </div>
+
+      {/* Search */}
+      <SearchBar value={query} onChange={setQuery} placeholder="Tìm chủ đề (tiếng Anh hoặc tiếng Việt)..." />
 
       {/* Filter tabs */}
       <div className="flex gap-2 overflow-x-auto pb-1">
@@ -181,7 +203,9 @@ export default function VocabularyPage() {
 
       {filtered.length === 0 && (
         <p className="py-12 text-center text-sm text-muted-foreground">
-          Chưa có chủ đề từ vựng nào cho cấp độ này.
+          {query
+            ? `Không tìm thấy chủ đề nào khớp với "${query}".`
+            : "Chưa có chủ đề từ vựng nào cho cấp độ này."}
         </p>
       )}
     </div>

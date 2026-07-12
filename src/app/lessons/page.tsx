@@ -16,6 +16,8 @@ import {
 } from "lucide-react";
 import { getAllLessons } from "@/content/lessons";
 import type { Level } from "@/content/lessons/types";
+import { SearchBar } from "@/components/ui/search-bar";
+import { matchesQuery } from "@/lib/search";
 
 const levelFilters = [
   { label: "Tất cả", value: "all" },
@@ -79,8 +81,11 @@ function matchesFilter(level: Level, filter: string): boolean {
 export default function LessonsPage() {
   const lessons = getAllLessons();
   const [filter, setFilter] = useState("all");
+  const [query, setQuery] = useState("");
 
-  const filtered = lessons.filter((l) => matchesFilter(l.level, filter));
+  const filtered = lessons.filter(
+    (l) => matchesFilter(l.level, filter) && matchesQuery(query, l.title, l.topic, l.summary)
+  );
 
   return (
     <div className="space-y-6 pb-8">
@@ -91,6 +96,9 @@ export default function LessonsPage() {
           Chọn một bài để học lý thuyết và làm bài tập.
         </p>
       </div>
+
+      {/* Search */}
+      <SearchBar value={query} onChange={setQuery} placeholder="Tìm bài giảng (tiếng Anh hoặc tiếng Việt)..." />
 
       {/* Filter tabs */}
       <div className="flex gap-2 overflow-x-auto pb-1">
@@ -167,7 +175,9 @@ export default function LessonsPage() {
 
       {filtered.length === 0 && (
         <p className="py-12 text-center text-sm text-muted-foreground">
-          Chưa có bài giảng nào cho cấp độ này.
+          {query
+            ? `Không tìm thấy bài giảng nào khớp với "${query}".`
+            : "Chưa có bài giảng nào cho cấp độ này."}
         </p>
       )}
     </div>

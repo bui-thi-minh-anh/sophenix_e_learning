@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e8a0f74-9b58-4a7d-af89-9dcdc2415658" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app/vocabulary/[slug]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/vocabulary/[slug]/page.tsx" afterDir="false" />
+    <list default="true" id="2e8a0f74-9b58-4a7d-af89-9dcdc2415658" name="Changes" comment="tonight - Jul 9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/seed.ts" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/seed.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/lessons/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/lessons/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/vocabulary/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/vocabulary/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/vocabulary/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/vocabulary/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/vocabulary/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/vocabulary/types.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,23 +26,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4778665219149822" />
-      <entry key="MS500" value="3.347124832062502" />
-      <entry key="S2" value="5.564170304464262" />
-      <entry key="S5" value="6.361044038621871" />
-      <entry key="S10" value="6.668592067853822" />
-      <entry key="S30" value="7.109290768130248" />
-      <entry key="S60" value="8.697378096352148" />
-      <entry key="M2" value="11.919627414696988" />
-      <entry key="M5" value="16.220491864432873" />
-      <entry key="M10" value="18.36225426665945" />
-      <entry key="M15" value="19.181181617775753" />
-      <entry key="M30" value="20.05901042398254" />
-      <entry key="H1" value="20.52133209633324" />
-      <entry key="H2" value="20.758587713274853" />
-      <entry key="H4" value="20.882040845897325" />
-      <entry key="D1" value="32.04840679324963" />
-      <entry key="W1" value="85.32880741251718" />
+      <entry key="MS100" value="1.0063154945745731" />
+      <entry key="MS500" value="1.9152576999581612" />
+      <entry key="S2" value="4.465274256308167" />
+      <entry key="S5" value="6.574488409786637" />
+      <entry key="S10" value="8.728236214620294" />
+      <entry key="S30" value="11.662746103776266" />
+      <entry key="S60" value="12.736133659857392" />
+      <entry key="M2" value="13.342106939623468" />
+      <entry key="M5" value="13.730314505711405" />
+      <entry key="M10" value="13.864043371974827" />
+      <entry key="M15" value="13.909112767849768" />
+      <entry key="M30" value="13.95443115245118" />
+      <entry key="H1" value="13.977186827810941" />
+      <entry key="H2" value="13.99672630406007" />
+      <entry key="H4" value="14.445512537989277" />
+      <entry key="D1" value="32.47625780678048" />
+      <entry key="W1" value="95.19447537242675" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -51,34 +53,34 @@
       <entry key="S30" value="0.0" />
       <entry key="S60" value="0.0" />
       <entry key="M2" value="0.0" />
-      <entry key="M5" value="8.515472383553754E-294" />
-      <entry key="M10" value="2.9181282328838397E-147" />
-      <entry key="M15" value="2.0420650931801134E-98" />
-      <entry key="M30" value="1.42900843005915E-49" />
-      <entry key="H1" value="3.7802227845183265E-25" />
-      <entry key="H2" value="6.148351636429332E-13" />
-      <entry key="H4" value="7.841142542021109E-7" />
-      <entry key="D1" value="0.09602770688187923" />
-      <entry key="W1" value="0.7155303832381639" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="4.666610100019074E-189" />
+      <entry key="M15" value="2.7925503427267107E-126" />
+      <entry key="M30" value="1.6710925595928893E-63" />
+      <entry key="H1" value="4.087899900429177E-32" />
+      <entry key="H2" value="2.0218555587452753E-16" />
+      <entry key="H4" value="1.421919673802031E-8" />
+      <entry key="D1" value="0.04922047991181281" />
+      <entry key="W1" value="0.6503747799759937" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.4102423350175626" />
-      <entry key="MS500" value="3.3050218207655586" />
-      <entry key="S2" value="5.545455174864754" />
-      <entry key="S5" value="6.352467798300266" />
-      <entry key="S10" value="6.664097917489554" />
-      <entry key="S30" value="7.107566629049063" />
-      <entry key="S60" value="8.695929756826294" />
-      <entry key="M2" value="11.918315377079905" />
-      <entry key="M5" value="16.219657913833768" />
-      <entry key="M10" value="18.36176096492009" />
-      <entry key="M15" value="19.18083335276473" />
-      <entry key="M30" value="20.058825911613273" />
-      <entry key="H1" value="20.52123711000407" />
-      <entry key="H2" value="20.7585395199918" />
-      <entry key="H4" value="20.88201734891551" />
-      <entry key="D1" value="32.14442685998445" />
-      <entry key="W1" value="86.04433422955097" />
+      <entry key="MS100" value="0.07987187415379284" />
+      <entry key="MS500" value="1.4981522834004537" />
+      <entry key="S2" value="4.3323907245396285" />
+      <entry key="S5" value="6.515525560077598" />
+      <entry key="S10" value="8.695726695630798" />
+      <entry key="S30" value="11.650492295570636" />
+      <entry key="S60" value="12.72974410513743" />
+      <entry key="M2" value="13.338837735688145" />
+      <entry key="M5" value="13.728987713588861" />
+      <entry key="M10" value="13.863376681076092" />
+      <entry key="M15" value="13.908667566721997" />
+      <entry key="M30" value="13.954208179516431" />
+      <entry key="H1" value="13.977075247840348" />
+      <entry key="H2" value="13.996670469840522" />
+      <entry key="H4" value="14.44548406228227" />
+      <entry key="D1" value="32.525469072109196" />
+      <entry key="W1" value="95.8448460826633" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -112,6 +114,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -151,8 +154,18 @@
       <workItem from="1783307559055" duration="222000" />
       <workItem from="1783307812685" duration="233000" />
       <workItem from="1783308067521" duration="3960000" />
-      <workItem from="1783603746306" duration="3260000" />
+      <workItem from="1783603746306" duration="8705000" />
+      <workItem from="1783741421119" duration="12786000" />
     </task>
+    <task id="LOCAL-00001" summary="tonight - Jul 9">
+      <option name="closed" value="true" />
+      <created>1783608459660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783608459660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,5 +175,20 @@
         <option value="$PROJECT_DIR$/node_modules/tailwindcss/stubs/tailwind.config.cjs" />
       </list>
     </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tonight - Jul 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="tonight - Jul 9" />
   </component>
 </project>

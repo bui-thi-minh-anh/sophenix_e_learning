@@ -147,11 +147,17 @@ model Lesson {
   summary String?
   order   Int     @default(0)
 
+  // Chủ đề dùng chung (khác với cột `topic` là nhãn chủ đề ngữ pháp dạng text).
+  subjectTopicId String?
+  subjectTopic   Topic?  @relation(fields: [subjectTopicId], references: [id], onDelete: SetNull)
+
   sections     LessonSection[]
   exerciseSets ExerciseSet[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+
+  @@index([subjectTopicId])
 }
 
 model LessonSection {
@@ -239,19 +245,22 @@ model VocabTopic {
 }
 
 model VocabWord {
-  id           String @id @default(cuid())
+  id           String  @id @default(cuid())
   vocabTopicId String
   word         String
-  ipaUk        String @default("")
-  ipaUs        String @default("")
-  partOfSpeech String @default("")
+  ipaUk        String  @default("")
+  ipaUs        String  @default("")
+  partOfSpeech String  @default("")
   meaning      String
-  example      String @default("")
-  order        Int    @default(0)
+  example      String  @default("")
+  order        Int     @default(0)
+  topicId      String?
 
   vocabTopic VocabTopic @relation(fields: [vocabTopicId], references: [id], onDelete: Cascade)
+  topic      Topic?     @relation(fields: [topicId], references: [id], onDelete: SetNull)
 
   @@index([vocabTopicId])
+  @@index([topicId])
 }
 
 model VocabCollocation {
@@ -287,6 +296,25 @@ model IrregularVerb {
   meaning String
 }
 
+// Danh mục chủ đề dùng chung (tag xuyên nội dung): 1 Topic có thể gắn với
+// nhiều VocabWord, ListeningLesson và Lesson thuộc cùng chủ đề. Nhờ đó khi
+// thêm nội dung mới ta match được các word/bài học cùng chủ đề với nhau.
+model Topic {
+  id     String @id @default(cuid())
+  slug   String @unique
+  nameEn String
+  nameVi String @default("")
+  icon   String @default("")
+  order  Int    @default(0)
+
+  words            VocabWord[]
+  listeningLessons ListeningLesson[]
+  lessons          Lesson[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
 // ═══════════════════════════════════════════════════════════
 // CONTENT: LISTENING (luyện nghe)
 // ═══════════════════════════════════════════════════════════
@@ -311,23 +339,27 @@ model ListeningTopic {
 }
 
 model ListeningLesson {
-  id           String @id @default(cuid())
+  id           String   @id @default(cuid())
   topicId      String
   lessonSlug   String
   titleEn      String
-  titleVi      String @default("")
-  level        String @default("")
-  audioType    String @default("")
-  duration     Int    @default(0)
-  accent       String @default("")
-  audio        String @default("")
-  image        String @default("")
-  difficulty   String @default("")
+  titleVi      String   @default("")
+  level        String   @default("")
+  audioType    String   @default("")
+  duration     Int      @default(0)
+  accent       String   @default("")
+  audio        String   @default("")
+  image        String   @default("")
+  difficulty   String   @default("")
   tags         String[]
-  grammarFocus String @default("")
-  transcript   String @default("")
+  grammarFocus String   @default("")
+  transcript   String   @default("")
 
-  topic           ListeningTopic              @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  // Chủ đề dùng chung (khác với `topic` là ListeningTopic chứa bài học này).
+  subjectTopicId String?
+
+  topic           ListeningTopic            @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  subjectTopic    Topic?                    @relation(fields: [subjectTopicId], references: [id], onDelete: SetNull)
   speakers        ListeningSpeaker[]
   vocabulary      ListeningVocab[]
   fillBlanks      ListeningFillBlank[]
@@ -339,6 +371,7 @@ model ListeningLesson {
 
   @@unique([topicId, lessonSlug])
   @@index([topicId])
+  @@index([subjectTopicId])
 }
 
 model ListeningSpeaker {
