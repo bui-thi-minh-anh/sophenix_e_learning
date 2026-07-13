@@ -1,5 +1,5 @@
-import { PagePlaceholder } from "@/components/page-placeholder";
+import { WritingBrowser } from "@/components/writing/writing-browser";
 
 export default function WritingPage() {
-  return <PagePlaceholder title="Viết" description="Bài tập luyện viết sẽ hiển thị ở đây." />;
+  return <WritingBrowser />;
 }

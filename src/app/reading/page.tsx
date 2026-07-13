@@ -1,5 +1,9 @@
-import { PagePlaceholder } from "@/components/page-placeholder";
+import { ReadingBrowser } from "@/components/reading/reading-browser";
 
 export default function ReadingPage() {
-  return <PagePlaceholder title="Đọc" description="Bài tập luyện đọc sẽ hiển thị ở đây." />;
+  return (
+    <div className="container max-w-4xl py-8">
+      <ReadingBrowser />
+    </div>
+  );
 }

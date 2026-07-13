@@ -19,7 +19,7 @@ export default function LessonDetailPage({ params }: { params: { slug: string } 
   if (!lesson) notFound();
 
   return (
-    <div className="space-y-6">
+    <div className="mx-auto max-w-3xl space-y-6">
       <Link
         href="/lessons"
         className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-primary"

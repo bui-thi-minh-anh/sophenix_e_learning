@@ -6,7 +6,7 @@ import { getListeningTopics } from "@/lib/listening";
 export default function ListeningPage() {
   const topics = getListeningTopics();
   return (
-    <div className="space-y-6">
+    <div className="mx-auto max-w-3xl space-y-6">
       <PageTitle description="Practice IELTS Listening with real-world topics and interactive exercises.">
         Nghe
       </PageTitle>

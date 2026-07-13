@@ -38,7 +38,7 @@ export default function VocabDetailPage() {
   const wordListData = getWordListData(slug);
 
   return (
-    <div className="space-y-6 pb-8">
+    <div className="mx-auto max-w-3xl space-y-6 pb-8">
       <Link
         href="/vocabulary"
         className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-primary"

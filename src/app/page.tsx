@@ -91,7 +91,7 @@ const progressStats = [
 
 export default function HomePage() {
   return (
-    <div className="space-y-8 pb-8">
+    <div className="mx-auto max-w-3xl space-y-8 pb-8">
       {/* Hero Banner */}
       <section className="relative -mx-4 -mt-6 overflow-hidden sm:-mx-6 lg:-mx-8 lg:rounded-2xl">
         <div className="relative">

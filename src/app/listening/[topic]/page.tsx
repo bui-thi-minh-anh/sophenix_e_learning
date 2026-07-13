@@ -16,7 +16,7 @@ export default function TopicPage({ params }: { params: { topic: string } }) {
   if (!topic) notFound();
 
   return (
-    <div className="space-y-6">
+    <div className="mx-auto max-w-3xl space-y-6">
       <Link
         href="/listening"
         className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-primary"

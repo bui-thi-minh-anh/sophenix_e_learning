@@ -88,7 +88,7 @@ export default function LessonsPage() {
   );
 
   return (
-    <div className="space-y-6 pb-8">
+    <div className="mx-auto max-w-3xl space-y-6 pb-8">
       {/* Header */}
       <div>
         <h1 className="text-2xl font-bold text-foreground">Bài giảng</h1>

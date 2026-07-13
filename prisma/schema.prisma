@@ -25,6 +25,9 @@ model User {
   listeningProgress ListeningProgress[]
   favoriteWords     FavoriteWord[]
   quizResults       QuizResult[]
+  speakingResults   SpeakingResult[]
+  writingResults    WritingResult[]
+  readingResults    ReadingResult[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -437,4 +440,155 @@ model ListeningTranscriptTurn {
   lesson ListeningLesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
 
   @@index([lessonId])
+}
+
+// ═══════════════════════════════════════════════════════════
+// CONTENT: SPEAKING (luyện nói — AI chấm qua Gemini)
+// ═══════════════════════════════════════════════════════════
+
+model SpeakingPrompt {
+  id          String @id @default(cuid())
+  slug        String @unique
+  title       String
+  titleVi     String @default("")
+  level       String
+  category    String
+  instruction String
+  hints       String[]
+  durationSec Int    @default(60)
+  order       Int    @default(0)
+
+  results SpeakingResult[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model SpeakingResult {
+  id        String @id @default(cuid())
+  userId    String
+  promptId  String
+  transcript String
+
+  scoreGrammar      Int @default(0)
+  scoreVocabulary   Int @default(0)
+  scoreFluency      Int @default(0)
+  scoreTask         Int @default(0)
+  scoreOverall      Int @default(0)
+
+  feedback          String @default("")
+  corrections       String @default("")
+  suggestedResponse String @default("")
+
+  user   User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  prompt SpeakingPrompt @relation(fields: [promptId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+  @@index([promptId])
+  @@index([userId, createdAt])
+}
+
+// ═══════════════════════════════════════════════════════════
+// CONTENT: WRITING (luyện viết — AI chấm qua Gemini)
+// ═══════════════════════════════════════════════════════════
+
+model WritingPrompt {
+  id          String @id @default(cuid())
+  slug        String @unique
+  title       String
+  titleVi     String @default("")
+  level       String
+  category    String
+  instruction String
+  hints       String[]
+  minWords    Int    @default(50)
+  maxWords    Int    @default(300)
+  order       Int    @default(0)
+
+  results WritingResult[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model WritingResult {
+  id       String @id @default(cuid())
+  userId   String
+  promptId String
+  essay    String
+
+  scoreGrammar    Int @default(0)
+  scoreVocabulary Int @default(0)
+  scoreCoherence  Int @default(0)
+  scoreTask       Int @default(0)
+  scoreOverall    Int @default(0)
+
+  feedback    String @default("")
+  corrections String @default("")
+  improved    String @default("")
+
+  user   User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  prompt WritingPrompt @relation(fields: [promptId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+  @@index([promptId])
+  @@index([userId, createdAt])
+}
+
+// ═══════════════════════════════════════════════════════════
+// CONTENT: READING (luyện đọc hiểu)
+// ═══════════════════════════════════════════════════════════
+
+model ReadingPassage {
+  id        String @id @default(cuid())
+  slug      String @unique
+  title     String
+  titleVi   String @default("")
+  level     String
+  category  String
+  passage   String
+  wordCount Int    @default(0)
+  order     Int    @default(0)
+
+  questions ReadingQuestion[]
+  results   ReadingResult[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model ReadingQuestion {
+  id          String   @id @default(cuid())
+  passageId   String
+  kind        String   @default("mcq")
+  question    String
+  options     String[]
+  answer      String
+  explanation String?
+  order       Int      @default(0)
+
+  passage ReadingPassage @relation(fields: [passageId], references: [id], onDelete: Cascade)
+
+  @@index([passageId])
+}
+
+model ReadingResult {
+  id        String @id @default(cuid())
+  userId    String
+  passageId String
+  score     Int
+  total     Int
+  accuracy  Int
+
+  user    User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  passage ReadingPassage @relation(fields: [passageId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+  @@index([passageId])
 }

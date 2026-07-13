@@ -26,7 +26,7 @@ export default function LessonPage({
   const nextHref = next ? `/listening/${params.topic}/${next.lessonId}` : undefined;
 
   return (
-    <div className="space-y-6">
+    <div className="mx-auto max-w-3xl space-y-6">
       <Link
         href={`/listening/${params.topic}`}
         className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-primary"

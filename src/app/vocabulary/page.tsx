@@ -124,7 +124,7 @@ export default function VocabularyPage() {
   );
 
   return (
-    <div className="space-y-6 pb-8">
+    <div className="mx-auto max-w-3xl space-y-6 pb-8">
       <div>
         <h1 className="text-2xl font-bold text-foreground">Từ vựng</h1>
         <p className="mt-1 text-sm text-muted-foreground">

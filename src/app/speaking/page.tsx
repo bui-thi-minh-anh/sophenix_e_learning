@@ -1,5 +1,5 @@
-import { PagePlaceholder } from "@/components/page-placeholder";
+import { SpeakingPage as SpeakingPageView } from "@/components/speaking/speaking-page";
 
 export default function SpeakingPage() {
-  return <PagePlaceholder title="Nói" description="Bài tập luyện nói sẽ hiển thị ở đây." />;
+  return <SpeakingPageView />;
 }
