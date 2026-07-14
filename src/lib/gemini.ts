@@ -1,6 +1,35 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
+import { GoogleGenerativeAI, type Content } from "@google/generative-ai";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY ?? "");
+
+const FREE_MODELS = [
+  "gemini-3.5-flash",
+  "gemini-3.1-flash-lite",
+  "gemini-2.5-flash-lite",
+  "gemini-2.0-flash-lite",
+  "gemini-2.0-flash",
+];
+
+function isQuotaError(err: unknown): boolean {
+  const msg = err instanceof Error ? err.message : String(err);
+  return msg.includes("429") || msg.includes("quota") || msg.includes("Too Many Requests") || msg.includes("RESOURCE_EXHAUSTED");
+}
+
+async function generateWithFallback(contents: Content[]): Promise<string> {
+  let lastError: unknown;
+  for (const modelName of FREE_MODELS) {
+    try {
+      const model = genAI.getGenerativeModel({ model: modelName });
+      const result = await model.generateContent({ contents });
+      return result.response.text().trim();
+    } catch (err) {
+      lastError = err;
+      if (isQuotaError(err)) continue;
+      throw err;
+    }
+  }
+  throw lastError;
+}
 
 const SYSTEM_PROMPT = `You are an English speaking coach for Vietnamese learners. You evaluate spoken English transcripts.
 
@@ -85,8 +114,6 @@ export async function evaluateWriting(
   level: string,
   essay: string,
 ): Promise<WritingEvaluation> {
-  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
-
   const userMessage = `Level: ${level}
 Prompt: ${prompt}
 Student's essay:
@@ -94,15 +121,12 @@ Student's essay:
 
 Evaluate this writing attempt. Respond ONLY with the JSON object, no markdown.`;
 
-  const result = await model.generateContent({
-    contents: [
-      { role: "user", parts: [{ text: WRITING_SYSTEM }] },
-      { role: "model", parts: [{ text: "Understood. I will evaluate writing and respond only with valid JSON." }] },
-      { role: "user", parts: [{ text: userMessage }] },
-    ],
-  });
+  const text = await generateWithFallback([
+    { role: "user", parts: [{ text: WRITING_SYSTEM }] },
+    { role: "model", parts: [{ text: "Understood. I will evaluate writing and respond only with valid JSON." }] },
+    { role: "user", parts: [{ text: userMessage }] },
+  ]);
 
-  const text = result.response.text().trim();
   const jsonMatch = text.match(/\{[\s\S]*\}/);
   if (!jsonMatch) throw new Error("Gemini did not return valid JSON");
 
@@ -128,31 +152,24 @@ export async function evaluateSpeaking(
   level: string,
   transcript: string,
 ): Promise<SpeakingEvaluation> {
-  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
-
   const userMessage = `Level: ${level}
 Prompt: ${prompt}
 Student's spoken transcript: "${transcript}"
 
 Evaluate this speaking attempt. Respond ONLY with the JSON object, no markdown.`;
 
-  const result = await model.generateContent({
-    contents: [
-      { role: "user", parts: [{ text: SYSTEM_PROMPT }] },
-      { role: "model", parts: [{ text: "Understood. I will evaluate speaking transcripts and respond only with valid JSON." }] },
-      { role: "user", parts: [{ text: userMessage }] },
-    ],
-  });
+  const text = await generateWithFallback([
+    { role: "user", parts: [{ text: SYSTEM_PROMPT }] },
+    { role: "model", parts: [{ text: "Understood. I will evaluate speaking transcripts and respond only with valid JSON." }] },
+    { role: "user", parts: [{ text: userMessage }] },
+  ]);
 
-  const text = result.response.text().trim();
   const jsonMatch = text.match(/\{[\s\S]*\}/);
-  if (!jsonMatch) {
-    throw new Error("Gemini did not return valid JSON");
-  }
+  if (!jsonMatch) throw new Error("Gemini did not return valid JSON");
 
   const parsed = JSON.parse(jsonMatch[0]) as SpeakingEvaluation;
-
   const clamp = (n: unknown) => Math.max(0, Math.min(100, Number(n) || 0));
+
   return {
     scoreGrammar: clamp(parsed.scoreGrammar),
     scoreVocabulary: clamp(parsed.scoreVocabulary),

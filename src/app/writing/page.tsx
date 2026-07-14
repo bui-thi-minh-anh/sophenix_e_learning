@@ -1,5 +1,5 @@
-import { WritingBrowser } from "@/components/writing/writing-browser";
+import { WritingPage as WritingPageView } from "@/components/writing/writing-page";
 
 export default function WritingPage() {
-  return <WritingBrowser />;
+  return <WritingPageView />;
 }

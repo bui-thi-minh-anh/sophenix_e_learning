@@ -1,0 +1,1931 @@
+{
+  "slug": "dong-tu-2",
+  "title": "Động từ (2) — Cách dùng Be, Have, Do",
+  "level": "A2",
+  "topic": "Động từ (Verb)",
+  "series": "Comprehensive English Grammar",
+  "summary": "Cách dùng động từ TO BE, HAVE, DO — làm trợ động từ và động từ chính, câu hỏi đuôi, đồng tình.",
+  "sections": [
+    {
+      "heading": "IV. Cách Dùng Động Từ TO BE",
+      "body": "### 1. Hình thức (Form)\n\n| Thì | Hình thức |\n|---|---|\n| Quá khứ | was, were |\n| Hiện tại | am, is, are |\n| Tương lai | will be |\n\n### 2. Các cách sử dụng thông thường\n\n- 2.1. Be + Complement (Danh từ): chỉ nghề nghiệp, chức danh... Ex: I am a teacher.\n- 2.2. Be + Adjective: mô tả tính chất trạng thái. Ex: I am thin.\n- 2.3. Be + Adverb of place: chỉ vị trí nơi chốn. Ex: The cat is on the table.\n- 2.4. Hỏi tuổi tác. Ex: How old are you? - I'm 26 years old.\n- 2.5. Chỉ kích thước và trọng lượng. Ex: How high is the building? / What is your height? / I am 65 kilos.\n- 2.6. Chỉ giá cả. Ex: How much are these oranges? / They are $6.\n\n### 3. Các cấu trúc đặc biệt với TO BE\n\n- 3.1. Be + To V: Diễn tả nghĩa vụ phải làm gì. Ex: No one is to leave this building without permission.\n- 3.2. Be about to do st (chuẩn bị, sắp sửa làm gì): = be ready to do st = be going to do st = be on the point of doing st. Ex: They're just about to leave.\n- 3.3. There is/are/was/were/will be + (S): Có cái gì đó... Ex: There is a cat on the table."
+    },
+    {
+      "heading": "V. Cách Dùng Động Từ HAVE",
+      "body": "### 1. 'Have' làm trợ động từ\nĐóng vai trò là trợ động từ trong các thì hoàn thành (Hiện tại hoàn thành, Quá khứ hoàn thành, Tương lai hoàn thành).\n\n| Thì | Hình thức |\n|---|---|\n| Quá khứ | Had + P2 |\n| Hiện tại | Have/Has + P2 |\n| Tương lai | Will have + P2 |\n\n### 2. 'Have' làm động từ chính\n\n- 2.1. Mang nghĩa sở hữu ('có'): Ex: I have (got) a dog.\n- 2.2. Đi với bữa ăn: Have breakfast/lunch/dinner. Ex: What time do you usually have dinner?\n- 2.3. Diễn đạt sự tham gia hoạt động: Have a party, have a holiday, have a trip/vacation.\n- 2.4. Have a good time = enjoy (có khoảng thời gian vui vẻ). Ex: Did you have a good time?\n- 2.5. Cấu trúc gặp khó khăn: Have difficulty (in) doing smth. Ex: Did you have any difficulty finding this place?\n- 2.6. Đi với thức uống: Have a drink, have some coffee/tea.\n- 2.7. Tắm rửa: Have a bath, have a shower.\n- 2.8. Nhờ vả (chủ động): Have sb do st (Nhờ, sai ai làm gì). Ex: I have my brother clean the floor.\n- 2.9. Bị động truyền khiến: Have st P2/done. Ex: I had my hair cut yesterday."
+    },
+    {
+      "heading": "VI. Cách Dùng Động Từ DO",
+      "body": "### 1. 'Do' làm động từ chính\n\n- 1.1. Do homework: Làm bài tập.\n- 1.2. Do the dishes/washing up: Rửa bát.\n- 1.3. Do me a favor = help sb: Giúp đỡ ai đó.\n\n### 2. 'Do' làm trợ động từ\n\n- 2.1. Hình thành thể phủ định và nghi vấn ở thì Hiện tại đơn và Quá khứ đơn.\n- 2.2. Do/does/did + V-inf: Dùng để nhấn mạnh hành động. Ex: I do think that Hanoi is badly polluted.\n- 2.3. Diễn tả sự đồng tình hoặc phản đối trong hội thoại ngắn. Ex: Tom talks too much. - No, he doesn't.\n- 2.4. Sử dụng trong câu hỏi đuôi (Tag questions). Ex: He lives here, doesn't he?\n- 2.5. Dùng trong cấu trúc So/Too/Neither/Either. Ex: He learns well -> So do I / I do, too.\n- 2.6. Dùng trong câu mệnh lệnh khẳng định để tăng tính thuyết phục hoặc mệnh lệnh phủ định. Ex: Don't talk in class! / Do come with us!\n- 2.7. Giản lược trong cấu trúc so sánh. Ex: He drives better than I do."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "VP4",
+      "title": "Luyện Tập Trợ Động Từ Be-Have-Do (ID: ET1064)",
+      "description": "50 câu trắc nghiệm: Be, Have, Do, câu hỏi đuôi, đồng tình.",
+      "exercises": [
+        {
+          "id": "209542",
+          "kind": "mcq",
+          "question": "If a child is picked up in the clinic, they _______________ to wait in the hallway by the side exit until their name is called.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "am"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc 'be + to V' chỉ sự sắp xếp bắt buộc, chủ ngữ 'they' đi với 'are'."
+        },
+        {
+          "id": "209543",
+          "kind": "mcq",
+          "question": "____________________ yet?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Have the letters been typed"
+            },
+            {
+              "key": "B",
+              "text": "Have been the letters typed"
+            },
+            {
+              "key": "C",
+              "text": "Have the letters typed"
+            },
+            {
+              "key": "D",
+              "text": "Had the letters typed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Câu hỏi bị động thì Hiện tại hoàn thành với trạng từ 'yet': 'Have + S + been + PII?'."
+        },
+        {
+          "id": "209544",
+          "kind": "mcq",
+          "question": "Michael and Susan ____________________ both from England.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Chủ ngữ số nhiều kết nối bằng 'and' đi với 'are'."
+        },
+        {
+          "id": "209545",
+          "kind": "mcq",
+          "question": "I _______________ very tired after 6 lessons at school.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "am"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Chủ ngữ 'I' đi với 'am'."
+        },
+        {
+          "id": "209546",
+          "kind": "mcq",
+          "question": "Would you please ______ me a favor and take this letter to the post office?",
+          "options": [
+            {
+              "key": "A",
+              "text": "done"
+            },
+            {
+              "key": "B",
+              "text": "to do"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cụm từ cố định 'do sb a favor' (giúp ai một tay)."
+        },
+        {
+          "id": "209548",
+          "kind": "mcq",
+          "question": "They had a boy _______ that yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "done"
+            },
+            {
+              "key": "B",
+              "text": "to do"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc chủ động nhờ vả: 'have sb do st'."
+        },
+        {
+          "id": "209549",
+          "kind": "mcq",
+          "question": "My mother and I _______________ going shopping today.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "am"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Chủ ngữ số nhiều 'My mother and I' dùng 'are'."
+        },
+        {
+          "id": "209550",
+          "kind": "mcq",
+          "question": "We _____________ not sure what to buy for lunch.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "209551",
+          "kind": "mcq",
+          "question": "She ______________ not sure she wants to visit him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "209552",
+          "kind": "mcq",
+          "question": "The cat ______________ four kittens",
+          "options": [
+            {
+              "key": "A",
+              "text": "does"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Sở hữu 'có', chủ ngữ số ít 'the cat' dùng 'has'."
+        },
+        {
+          "id": "209553",
+          "kind": "mcq",
+          "question": "The two dogs ____________________ five puppies altogether.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Chủ ngữ số nhiều 'the two dogs' dùng 'have'."
+        },
+        {
+          "id": "209554",
+          "kind": "mcq",
+          "question": "I _______________ bought a new bike.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "209555",
+          "kind": "mcq",
+          "question": "How many bikes _______________ you got?",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc 'have got' đi với 'you'."
+        },
+        {
+          "id": "209556",
+          "kind": "mcq",
+          "question": "Mom ___________ baked cupcakes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "209557",
+          "kind": "mcq",
+          "question": "We ____________ only ten cakes left.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "209558",
+          "kind": "mcq",
+          "question": "My neighbor ___________ three houses in this city!",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "209559",
+          "kind": "mcq",
+          "question": "I _____________ gymnastics every day.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cụm từ 'do gymnastics' (tập thể dục dụng cụ)."
+        },
+        {
+          "id": "209560",
+          "kind": "mcq",
+          "question": "My sister _____________ like gymnastics.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Dùng 'does' bổ trợ nhấn mạnh ý thích khẳng định: 'Chị tôi thực sự thích thể dục dụng cụ'."
+        },
+        {
+          "id": "209561",
+          "kind": "mcq",
+          "question": "Stephen ____________n’t like swimming.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "209562",
+          "kind": "mcq",
+          "question": "What about you? _____________ you like swimming?",
+          "options": [
+            {
+              "key": "A",
+              "text": "does"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "209563",
+          "kind": "mcq",
+          "question": "Food, air and clothes _______ necessary for life.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "209564",
+          "kind": "mcq",
+          "question": "I ______ a vegetarian since 1998.",
+          "options": [
+            {
+              "key": "A",
+              "text": "am"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "have been"
+            },
+            {
+              "key": "D",
+              "text": "had been"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Dấu hiệu 'since 1998' dùng thì Hiện tại hoàn thành."
+        },
+        {
+          "id": "209565",
+          "kind": "mcq",
+          "question": "She’ll be a millionaire by the time she _____ forty.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "will be"
+            },
+            {
+              "key": "D",
+              "text": "is going to be"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề trạng ngữ chỉ thời gian dùng thì Hiện tại đơn thay cho tương lai."
+        },
+        {
+          "id": "209566",
+          "kind": "mcq",
+          "question": "He said everything _____ all right.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "will be"
+            },
+            {
+              "key": "C",
+              "text": "can be"
+            },
+            {
+              "key": "D",
+              "text": "would be"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Lùi thì trong câu gián tiếp, 'will' lùi thành 'would'."
+        },
+        {
+          "id": "209567",
+          "kind": "mcq",
+          "question": "Where is your brother? He __________a bath.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "had"
+            },
+            {
+              "key": "C",
+              "text": "is having"
+            },
+            {
+              "key": "D",
+              "text": "will have"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đang tắm tại thời điểm nói, dùng thì Hiện tại tiếp diễn 'is having'."
+        },
+        {
+          "id": "209569",
+          "kind": "mcq",
+          "question": "After she __________some sandwiches, she had a drink.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had"
+            },
+            {
+              "key": "B",
+              "text": "will have"
+            },
+            {
+              "key": "C",
+              "text": "had had"
+            },
+            {
+              "key": "D",
+              "text": "would have."
+            }
+          ],
+          "answer": "C",
+          "explanation": "Hành động ăn xảy ra và kết thúc hoàn toàn trước hành động uống nước trong quá khứ, dùng thì Quá khứ hoàn thành 'had had'."
+        },
+        {
+          "id": "209570",
+          "kind": "mcq",
+          "question": "If she __________the minister, she would have reformed the management board.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "had been"
+            },
+            {
+              "key": "D",
+              "text": "would be"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Câu điều kiện loại 3 với mệnh đề chính chứa 'would have reformed' nên mệnh đề điều kiện dùng 'had been'."
+        },
+        {
+          "id": "209571",
+          "kind": "mcq",
+          "question": "Where _____ your sister born?",
+          "options": [
+            {
+              "key": "A",
+              "text": "were"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "is"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Hỏi về nơi sinh ra, dùng bị động ở quá khứ 'was born' (chủ ngữ số ít)."
+        },
+        {
+          "id": "209572",
+          "kind": "mcq",
+          "question": "We _____ have white wine, but we _____ red wine",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn’t/had"
+            },
+            {
+              "key": "B",
+              "text": "don’t/had"
+            },
+            {
+              "key": "C",
+              "text": "did/didn’t"
+            },
+            {
+              "key": "D",
+              "text": "didn’t/have"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Diễn đạt một việc không có nhưng việc khác lại có trong quá khứ, dùng 'didn't have... but we had red wine'."
+        },
+        {
+          "id": "209573",
+          "kind": "mcq",
+          "question": "She’s finished the course, _________?",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t she"
+            },
+            {
+              "key": "B",
+              "text": "doesn’t she"
+            },
+            {
+              "key": "C",
+              "text": "didn’t she"
+            },
+            {
+              "key": "D",
+              "text": "hasn’t she"
+            }
+          ],
+          "answer": "D",
+          "explanation": "She's finished = She has finished (thì HTHT), câu hỏi đuôi tương ứng là 'hasn't she'."
+        },
+        {
+          "id": "209574",
+          "kind": "mcq",
+          "question": "You’ve never had a girlfriend before, _________ you?",
+          "options": [
+            {
+              "key": "A",
+              "text": "haven’t"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "had"
+            },
+            {
+              "key": "D",
+              "text": "hadn’t"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề chính chứa từ phủ định 'never' nên câu hỏi đuôi dùng thể khẳng định 'have you'."
+        },
+        {
+          "id": "209575",
+          "kind": "mcq",
+          "question": "You have tea for breakfast, _________ you?",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn’t"
+            },
+            {
+              "key": "B",
+              "text": "haven’t"
+            },
+            {
+              "key": "C",
+              "text": "don’t"
+            },
+            {
+              "key": "D",
+              "text": "won’t"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Động từ 'have' ở đây làm động từ chính, câu hỏi đuôi mượn trợ động từ 'don't'."
+        },
+        {
+          "id": "209576",
+          "kind": "mcq",
+          "question": "You stopped at the traffic lights, _________ you?",
+          "options": [
+            {
+              "key": "A",
+              "text": "don’t"
+            },
+            {
+              "key": "B",
+              "text": "do"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "didn’t"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "209577",
+          "kind": "mcq",
+          "question": "Many young people want to work for a humanitarian organization, _____?",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t it"
+            },
+            {
+              "key": "B",
+              "text": "does it"
+            },
+            {
+              "key": "C",
+              "text": "didn’t they"
+            },
+            {
+              "key": "D",
+              "text": "don’t they"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "209578",
+          "kind": "mcq",
+          "question": "John gave you the book yesterday, _________?",
+          "options": [
+            {
+              "key": "A",
+              "text": "did he"
+            },
+            {
+              "key": "B",
+              "text": "didn’t he"
+            },
+            {
+              "key": "C",
+              "text": "did John"
+            },
+            {
+              "key": "D",
+              "text": "didn’t it"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "209579",
+          "kind": "mcq",
+          "question": "You don’t know where she is, _________?",
+          "options": [
+            {
+              "key": "A",
+              "text": "don’t you"
+            },
+            {
+              "key": "B",
+              "text": "do you"
+            },
+            {
+              "key": "C",
+              "text": "isn’t she"
+            },
+            {
+              "key": "D",
+              "text": "is she"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "209580",
+          "kind": "mcq",
+          "question": "John went to the mountains on his vacation, and_________",
+          "options": [
+            {
+              "key": "A",
+              "text": "so we did"
+            },
+            {
+              "key": "B",
+              "text": "We didn't either"
+            },
+            {
+              "key": "C",
+              "text": "we did too"
+            },
+            {
+              "key": "D",
+              "text": "neither did we"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đồng tình khẳng định với động từ quá khứ 'went' dùng 'we did too' hoặc 'so did we'."
+        },
+        {
+          "id": "209581",
+          "kind": "mcq",
+          "question": "Picaso was a famous painter, and_________",
+          "options": [
+            {
+              "key": "A",
+              "text": "so was Rubens"
+            },
+            {
+              "key": "B",
+              "text": "Rubens wasn’t either"
+            },
+            {
+              "key": "C",
+              "text": "so Rubens was"
+            },
+            {
+              "key": "D",
+              "text": "neither did Rubens"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đồng tình khẳng định dùng trợ động từ to be 'was'."
+        },
+        {
+          "id": "209584",
+          "kind": "mcq",
+          "question": "I didn't see Mary this morning, and _________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so did John"
+            },
+            {
+              "key": "B",
+              "text": "neither John did"
+            },
+            {
+              "key": "C",
+              "text": "neither didn’t John"
+            },
+            {
+              "key": "D",
+              "text": "John didn't either"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đồng tình phủ định ở quá khứ đơn, chọn 'John didn't either' hoặc 'neither did John'."
+        },
+        {
+          "id": "209586",
+          "kind": "mcq",
+          "question": "Jane goes to that school, and _________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so does my sister."
+            },
+            {
+              "key": "B",
+              "text": "so my sister does"
+            },
+            {
+              "key": "C",
+              "text": "my sister does either"
+            },
+            {
+              "key": "D",
+              "text": "my sister does neither."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "209587",
+          "kind": "mcq",
+          "question": "I don’t like playing football, and _________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so does my sister."
+            },
+            {
+              "key": "B",
+              "text": "my sister does too"
+            },
+            {
+              "key": "C",
+              "text": "my sister doesn’t either"
+            },
+            {
+              "key": "D",
+              "text": "my sister does neither."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "209588",
+          "kind": "mcq",
+          "question": "I don’t like horror films, and _________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "neither do my friends"
+            },
+            {
+              "key": "B",
+              "text": "either my friends don’t."
+            },
+            {
+              "key": "C",
+              "text": "my friends do too"
+            },
+            {
+              "key": "D",
+              "text": "neither don’t my friends"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "209589",
+          "kind": "mcq",
+          "question": "I _________difficulty finding a place to live.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc 'have difficulty (in) doing st'."
+        },
+        {
+          "id": "209590",
+          "kind": "mcq",
+          "question": "They _________about to finish building this park.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'be about to do st'."
+        },
+        {
+          "id": "209591",
+          "kind": "mcq",
+          "question": "Why don't you ______ yourself a favor and take a vacation this summer?",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cụm từ 'do yourself a favor' (hãy tự giúp mình/làm một điều có lợi cho bản thân)."
+        },
+        {
+          "id": "294431",
+          "kind": "mcq",
+          "question": "If I ______ enough money, I would have bought a new car.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "had have"
+            },
+            {
+              "key": "C",
+              "text": "had had"
+            },
+            {
+              "key": "D",
+              "text": "had"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "294432",
+          "kind": "mcq",
+          "question": "Maroon ______ his homework at the moment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was doing"
+            },
+            {
+              "key": "B",
+              "text": "were doing"
+            },
+            {
+              "key": "C",
+              "text": "are doing"
+            },
+            {
+              "key": "D",
+              "text": "is doing"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "294433",
+          "kind": "mcq",
+          "question": "I am going to ______ a vacation next week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "do"
+            },
+            {
+              "key": "C",
+              "text": "be"
+            },
+            {
+              "key": "D",
+              "text": "having"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "294434",
+          "kind": "mcq",
+          "question": "Reading ______ my hobby",
+          "options": [
+            {
+              "key": "A",
+              "text": "am"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "will"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "209547",
+          "kind": "mcq",
+          "question": "Both Tom and Marry ________________ 12 years old.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "VP5",
+      "title": "Thi Online: Cách Dùng Be-Have-Do 1",
+      "description": "30 câu trắc nghiệm: phân biệt Be/Have/Do làm trợ động từ và động từ chính.",
+      "exercises": [
+        {
+          "id": "579880",
+          "kind": "mcq",
+          "question": "Laura is a famous singer. She not only ______ talented but also has an extremely beautiful face that attracts all people.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "does"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "579881",
+          "kind": "mcq",
+          "question": "My daughter really loves her cat because it _______ beautiful light blue eyes and soft fur.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "does"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "579882",
+          "kind": "mcq",
+          "question": "_________ she charming? I see a lot of people send her flowers and gifts on her birthday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Is"
+            },
+            {
+              "key": "B",
+              "text": "Has"
+            },
+            {
+              "key": "C",
+              "text": "Does"
+            },
+            {
+              "key": "D",
+              "text": "Have"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "579883",
+          "kind": "mcq",
+          "question": "Kathy's parents have brown eyes and she _______ brown eyes like them.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "does"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "579884",
+          "kind": "mcq",
+          "question": "These students ______ clever and creative. I think they are qualified for this scholarship.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "579885",
+          "kind": "mcq",
+          "question": "The tiger ______ large padded feet that let it silently stalk prey in the jungles.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "does"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "579886",
+          "kind": "mcq",
+          "question": "Rabbits _______ sharp paws but they have strong legs to run away from the predators.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "579887",
+          "kind": "mcq",
+          "question": "That woman __________ not patient and skillful. She fails to negotiate with lots of clients.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "579888",
+          "kind": "mcq",
+          "question": "A: Do you have a ruler? \nB: Yes, I do. I …………………a green ruler.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "579889",
+          "kind": "mcq",
+          "question": "A: Do they ………………….pencils? \nB: Yes, they do. They.. .……………….beautiful pencils.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have/ has"
+            },
+            {
+              "key": "B",
+              "text": "have/ have"
+            },
+            {
+              "key": "C",
+              "text": "do/ do"
+            },
+            {
+              "key": "D",
+              "text": "do/ have"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "579890",
+          "kind": "mcq",
+          "question": "A: Does she …………………….a dog? \nB: No, she doesn’t but she ……………………..a bird.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have/ has"
+            },
+            {
+              "key": "B",
+              "text": "have/ have"
+            },
+            {
+              "key": "C",
+              "text": "do/ do"
+            },
+            {
+              "key": "D",
+              "text": "do/ have"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "579891",
+          "kind": "mcq",
+          "question": "A: What pets does he ………………….? \nB: He………………..four birds.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have/ has"
+            },
+            {
+              "key": "B",
+              "text": "have/ have"
+            },
+            {
+              "key": "C",
+              "text": "do/ do"
+            },
+            {
+              "key": "D",
+              "text": "do/ have"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "579892",
+          "kind": "mcq",
+          "question": "A: How many brothers does she ………………..? \nB: She………………three brothers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have/ has"
+            },
+            {
+              "key": "B",
+              "text": "have/ have"
+            },
+            {
+              "key": "C",
+              "text": "do/ do"
+            },
+            {
+              "key": "D",
+              "text": "do/ have"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "579893",
+          "kind": "mcq",
+          "question": "I ____________a book.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "579894",
+          "kind": "mcq",
+          "question": "She ____________a yellow pencil case.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "579895",
+          "kind": "mcq",
+          "question": "Do you ____________a ruler?",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ex17",
+          "kind": "mcq",
+          "question": "How many dogs ___________ you have?",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ex18",
+          "kind": "mcq",
+          "question": "They ____________an interesting book.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "does"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ex19",
+          "kind": "mcq",
+          "question": "He ____________ have a red book.",
+          "options": [
+            {
+              "key": "A",
+              "text": "haven’t"
+            },
+            {
+              "key": "B",
+              "text": "hasn’t"
+            },
+            {
+              "key": "C",
+              "text": "don’t"
+            },
+            {
+              "key": "D",
+              "text": "doesn’t"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ex20",
+          "kind": "mcq",
+          "question": "________ you drink milk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Do"
+            },
+            {
+              "key": "B",
+              "text": "Does"
+            },
+            {
+              "key": "C",
+              "text": "Have"
+            },
+            {
+              "key": "D",
+              "text": "Are"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ex21",
+          "kind": "mcq",
+          "question": "The London train _______ not arrived.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "did"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "is"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ex22",
+          "kind": "mcq",
+          "question": "We ______ bought a blue bicycle.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "did"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ex23",
+          "kind": "mcq",
+          "question": "Xác định vai trò của động từ in đậm: They **are** building a new house.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trợ động từ (auxiliary)"
+            },
+            {
+              "key": "B",
+              "text": "Động từ chính (full verb)"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ex24",
+          "kind": "mcq",
+          "question": "Xác định vai trò của động từ in đậm: She **has** a white dog.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trợ động từ (auxiliary)"
+            },
+            {
+              "key": "B",
+              "text": "Động từ chính (full verb)"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ex25",
+          "kind": "mcq",
+          "question": "Xác định vai trò của động từ in đậm: She **is** my teacher of math.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trợ động từ (auxiliary)"
+            },
+            {
+              "key": "B",
+              "text": "Động từ chính (full verb)"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ex26",
+          "kind": "mcq",
+          "question": "Xác định vai trò của hai động từ 'had': He **had** (1) **had** (2) breakfast before he came to my house yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trợ động từ - Trợ động từ"
+            },
+            {
+              "key": "B",
+              "text": "Động từ chính - Trợ động từ"
+            },
+            {
+              "key": "C",
+              "text": "Trợ động từ - Động từ chính"
+            },
+            {
+              "key": "D",
+              "text": "Động từ chính - Động từ chính"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ex27",
+          "kind": "mcq",
+          "question": "Xác định vai trò của động từ 'have': I didn't **have** any reason to go there.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trợ động từ"
+            },
+            {
+              "key": "B",
+              "text": "Động từ chính"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ex28",
+          "kind": "mcq",
+          "question": "Xác định vai trò của động từ in đậm: **Have** we practiced English dialogues about this song enough?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trợ động từ"
+            },
+            {
+              "key": "B",
+              "text": "Động từ chính"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ex29",
+          "kind": "mcq",
+          "question": "Xác định vai trò của động từ in đậm: Three seats **have been** reserved for us.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trợ động từ"
+            },
+            {
+              "key": "B",
+              "text": "Động từ chính"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ex30",
+          "kind": "mcq",
+          "question": "Xác định vai trò của động từ in đậm: I **am** a professor in the economics department.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trợ động từ"
+            },
+            {
+              "key": "B",
+              "text": "Động từ chính"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}

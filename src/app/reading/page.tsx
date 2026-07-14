@@ -1,9 +1,9 @@
-import { ReadingBrowser } from "@/components/reading/reading-browser";
+import { ReadingPage } from "@/components/reading/reading-page";
 
-export default function ReadingPage() {
+export default function Page() {
   return (
-    <div className="container max-w-4xl py-8">
-      <ReadingBrowser />
+    <div className="container max-w-6xl py-8">
+      <ReadingPage />
     </div>
   );
 }

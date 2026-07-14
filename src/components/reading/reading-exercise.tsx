@@ -1,8 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { ArrowLeft, CheckCircle2, XCircle, Loader2 } from "lucide-react";
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
+import { ArrowLeft, CheckCircle2, XCircle, Loader2, Clock, HelpCircle, RotateCcw } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 
@@ -47,6 +46,7 @@ export function ReadingExercise({ passage, onBack }: { passage: Passage; onBack:
   const [answers, setAnswers] = React.useState<Record<string, string>>({});
   const [result, setResult] = React.useState<SubmitResult | null>(null);
   const [loading, setLoading] = React.useState(false);
+  const [activeQ, setActiveQ] = React.useState(0);
 
   const allAnswered = passage.questions.every((q) => answers[q.id]);
 
@@ -75,67 +75,104 @@ export function ReadingExercise({ passage, onBack }: { passage: Passage; onBack:
   const handleRetry = () => {
     setAnswers({});
     setResult(null);
+    setActiveQ(0);
   };
 
-  const getQuestionResult = (qId: string) =>
-    result?.results.find((r) => r.questionId === qId);
+  const getQuestionResult = (qId: string) => result?.results.find((r) => r.questionId === qId);
 
   return (
-    <div className="space-y-6">
-      <Button onClick={onBack} variant="ghost" size="sm" className="gap-1.5 -ml-2">
-        <ArrowLeft className="h-4 w-4" />
-        Quay lại
-      </Button>
+    <div className="space-y-4">
+      {/* Header */}
+      <div className="flex items-center justify-between">
+        <Button onClick={onBack} variant="ghost" size="sm" className="gap-1.5 -ml-2 text-slate-300 hover:text-white">
+          <ArrowLeft className="h-4 w-4" />
+          Back
+        </Button>
+        <div className="flex items-center gap-3 text-xs text-slate-400">
+          <Badge variant="outline" className="border-white/10">{passage.level}</Badge>
+          <span className="flex items-center gap-1"><Clock className="h-3 w-3" />{passage.wordCount} words</span>
+          <span className="flex items-center gap-1"><HelpCircle className="h-3 w-3" />{passage.questions.length}q</span>
+        </div>
+      </div>
 
-      {/* Passage */}
-      <Card>
-        <CardHeader>
-          <div className="flex items-center gap-2 mb-1">
-            <Badge variant="outline">{passage.level}</Badge>
-            <span className="text-xs text-muted-foreground">{passage.wordCount} từ</span>
-          </div>
-          <CardTitle>{passage.title}</CardTitle>
-          <CardDescription>{passage.titleVi}</CardDescription>
-        </CardHeader>
-        <CardContent>
-          <div className="rounded-lg bg-muted/50 p-4 text-sm leading-relaxed whitespace-pre-line">
-            {passage.passage}
-          </div>
-        </CardContent>
-      </Card>
-
-      {/* Result summary */}
+      {/* Result banner */}
       {result && (
-        <Card>
-          <CardContent className="pt-6">
-            <div className="flex items-center justify-between">
-              <div>
-                <p className="text-lg font-semibold">
-                  Kết quả: {result.score}/{result.total}
-                </p>
-                <p className="text-sm text-muted-foreground">Độ chính xác: {result.accuracy}%</p>
-              </div>
-              <Badge
-                variant={result.accuracy >= 80 ? "success" : result.accuracy >= 60 ? "warning" : "destructive"}
-                className="text-base px-3 py-1"
-              >
-                {result.accuracy}%
-              </Badge>
-            </div>
-          </CardContent>
-        </Card>
+        <div className={`rounded-2xl p-4 flex items-center justify-between ${
+          result.accuracy >= 80 ? "bg-emerald-500/10 border border-emerald-500/30" :
+          result.accuracy >= 60 ? "bg-amber-500/10 border border-amber-500/30" :
+          "bg-red-500/10 border border-red-500/30"
+        }`}>
+          <div>
+            <p className="font-semibold text-white">
+              Score: {result.score}/{result.total}
+            </p>
+            <p className="text-xs text-slate-400">Accuracy: {result.accuracy}%</p>
+          </div>
+          <div className="flex items-center gap-3">
+            <span className={`text-2xl font-bold ${
+              result.accuracy >= 80 ? "text-emerald-400" : result.accuracy >= 60 ? "text-amber-400" : "text-red-400"
+            }`}>
+              {result.accuracy}%
+            </span>
+            <Button onClick={handleRetry} variant="outline" size="sm" className="gap-1.5 border-white/15 text-white">
+              <RotateCcw className="h-3.5 w-3.5" />
+              Retry
+            </Button>
+          </div>
+        </div>
       )}
 
-      {/* Questions */}
-      <div className="space-y-4">
-        <h2 className="text-lg font-semibold">Câu hỏi</h2>
-        {passage.questions.map((q, qi) => {
-          const qResult = getQuestionResult(q.id);
-          return (
-            <Card key={q.id}>
-              <CardContent className="pt-6 space-y-3">
-                <p className="text-sm font-medium">
-                  {qi + 1}. {q.question}
+      {/* Split layout */}
+      <div className="grid gap-4 lg:grid-cols-[1fr,420px]">
+        {/* Left: Passage */}
+        <div className="rounded-2xl border border-white/[0.08] bg-[#131F36] p-6 lg:p-8 max-h-[calc(100vh-200px)] overflow-y-auto">
+          <h1 className="text-xl font-bold text-white mb-1">{passage.title}</h1>
+          <p className="text-xs text-slate-400 mb-6">{passage.titleVi}</p>
+          <div className="text-sm text-slate-200/90 leading-[1.9] whitespace-pre-line selection:bg-blue-500/30">
+            {passage.passage}
+          </div>
+        </div>
+
+        {/* Right: Questions */}
+        <div className="rounded-2xl border border-white/[0.08] bg-[#131F36] p-5 max-h-[calc(100vh-200px)] overflow-y-auto space-y-4">
+          {/* Question navigation */}
+          <div className="flex flex-wrap gap-1.5 pb-3 border-b border-white/[0.08]">
+            {passage.questions.map((q, i) => {
+              const qResult = getQuestionResult(q.id);
+              const answered = !!answers[q.id];
+              return (
+                <button
+                  key={q.id}
+                  onClick={() => setActiveQ(i)}
+                  className={`h-8 w-8 rounded-lg text-xs font-medium transition-all ${
+                    qResult
+                      ? qResult.correct
+                        ? "bg-emerald-500/20 text-emerald-400 border border-emerald-500/30"
+                        : "bg-red-500/20 text-red-400 border border-red-500/30"
+                      : activeQ === i
+                        ? "bg-blue-600 text-white"
+                        : answered
+                          ? "bg-blue-500/20 text-blue-400 border border-blue-500/30"
+                          : "bg-white/5 text-slate-400 border border-white/[0.08] hover:border-white/20"
+                  }`}
+                >
+                  {i + 1}
+                </button>
+              );
+            })}
+          </div>
+
+          {/* Questions */}
+          {passage.questions.map((q, qi) => {
+            const qResult = getQuestionResult(q.id);
+            if (qi !== activeQ && !result) return null;
+            if (result && qi !== activeQ) return null;
+
+            return (
+              <div key={q.id} className="space-y-3">
+                <p className="text-sm font-medium text-white">
+                  <span className="text-blue-400 mr-1.5">Q{qi + 1}.</span>
+                  {q.question}
                 </p>
                 <div className="space-y-2">
                   {q.options.map((opt, oi) => {
@@ -144,56 +181,76 @@ export function ReadingExercise({ passage, onBack }: { passage: Passage; onBack:
                     const isCorrect = qResult && qResult.correctAnswer === letter;
                     const isWrong = qResult && selected && !qResult.correct;
 
-                    let optClass = "border rounded-lg px-3 py-2 text-sm cursor-pointer transition-colors flex items-center gap-2";
+                    let cls = "w-full flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm transition-all text-left ";
                     if (result) {
-                      if (isCorrect) optClass += " border-green-500 bg-green-50 dark:bg-green-950/30";
-                      else if (isWrong) optClass += " border-red-500 bg-red-50 dark:bg-red-950/30";
-                      else optClass += " opacity-60";
+                      if (isCorrect) cls += "border border-emerald-500/40 bg-emerald-500/10 text-emerald-300";
+                      else if (isWrong) cls += "border border-red-500/40 bg-red-500/10 text-red-300";
+                      else cls += "border border-white/[0.06] text-slate-500";
                     } else {
-                      optClass += selected
-                        ? " border-primary bg-primary/10"
-                        : " hover:bg-muted/50";
+                      cls += selected
+                        ? "border border-blue-500/50 bg-blue-500/15 text-blue-300"
+                        : "border border-white/[0.08] text-slate-300 hover:border-white/20 hover:bg-white/[0.03]";
                     }
 
                     return (
-                      <button
-                        key={letter}
-                        className={optClass}
-                        onClick={() => handleSelect(q.id, letter)}
-                        disabled={!!result}
-                      >
-                        <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-xs font-medium">
+                      <button key={letter} className={cls} onClick={() => handleSelect(q.id, letter)} disabled={!!result}>
+                        <span className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[11px] font-semibold ${
+                          selected && !result ? "border-blue-400 bg-blue-500/20" :
+                          isCorrect ? "border-emerald-400 bg-emerald-500/20" :
+                          isWrong ? "border-red-400 bg-red-500/20" :
+                          "border-white/20"
+                        }`}>
                           {letter}
                         </span>
-                        <span className="flex-1 text-left">{opt}</span>
-                        {result && isCorrect && <CheckCircle2 className="h-4 w-4 text-green-600 shrink-0" />}
-                        {result && isWrong && <XCircle className="h-4 w-4 text-red-600 shrink-0" />}
+                        <span className="flex-1">{opt}</span>
+                        {result && isCorrect && <CheckCircle2 className="h-4 w-4 text-emerald-400 shrink-0" />}
+                        {result && isWrong && <XCircle className="h-4 w-4 text-red-400 shrink-0" />}
                       </button>
                     );
                   })}
                 </div>
                 {qResult?.explanation && (
-                  <p className="text-xs text-muted-foreground mt-2 pl-1">
-                    {qResult.correct ? "✓" : "✗"} {qResult.explanation}
-                  </p>
+                  <p className="text-xs text-slate-400 pl-1 pt-1">{qResult.correct ? "✓" : "✗"} {qResult.explanation}</p>
                 )}
-              </CardContent>
-            </Card>
-          );
-        })}
-      </div>
+              </div>
+            );
+          })}
 
-      {!result ? (
-        <Button onClick={handleSubmit} disabled={!allAnswered || loading} className="w-full gap-2">
-          {loading ? (
-            <><Loader2 className="h-4 w-4 animate-spin" /> Đang chấm...</>
-          ) : (
-            `Nộp bài (${Object.keys(answers).length}/${passage.questions.length})`
+          {/* Navigation + Submit */}
+          {!result && (
+            <div className="flex items-center gap-2 pt-2 border-t border-white/[0.08]">
+              <Button
+                variant="outline"
+                size="sm"
+                disabled={activeQ === 0}
+                onClick={() => setActiveQ((p) => p - 1)}
+                className="border-white/15 text-white"
+              >
+                Prev
+              </Button>
+              {activeQ < passage.questions.length - 1 ? (
+                <Button
+                  size="sm"
+                  onClick={() => setActiveQ((p) => p + 1)}
+                  className="flex-1 bg-blue-600 hover:bg-blue-500 text-white"
+                >
+                  Next
+                </Button>
+              ) : (
+                <Button
+                  size="sm"
+                  onClick={handleSubmit}
+                  disabled={!allAnswered || loading}
+                  className="flex-1 bg-emerald-600 hover:bg-emerald-500 text-white gap-2"
+                >
+                  {loading ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
+                  Submit ({Object.keys(answers).length}/{passage.questions.length})
+                </Button>
+              )}
+            </div>
           )}
-        </Button>
-      ) : (
-        <Button onClick={handleRetry} variant="outline" className="w-full">Làm lại</Button>
-      )}
+        </div>
+      </div>
     </div>
   );
 }

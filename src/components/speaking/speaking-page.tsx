@@ -349,18 +349,14 @@ function DailyGoalCard() {
 
 function MotivationalCard() {
   return (
-    <div className="relative overflow-hidden rounded-2xl border border-border/40 bg-card">
+    <div className="overflow-hidden rounded-2xl border border-border/40 bg-[#1a1a4a]">
       <Image
         src="/images/speaking/mascot-motivational.png"
-        alt="Phoenix mascot giving thumbs up"
+        alt="Phoenix mascot giving thumbs up — You can do it!"
         width={320}
-        height={200}
-        className="h-40 w-full object-cover"
+        height={320}
+        className="mx-auto h-44 w-auto object-contain"
       />
-      <div className="absolute inset-0 bg-gradient-to-t from-card via-transparent to-transparent" />
-      <div className="absolute bottom-3 left-4">
-        <p className="text-sm font-semibold text-orange-400">You can do it!</p>
-      </div>
     </div>
   );
 }

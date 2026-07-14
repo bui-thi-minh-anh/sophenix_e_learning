@@ -40,7 +40,16 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: "Đề bài không tồn tại." }, { status: 404 });
   }
 
-  const evaluation = await evaluateSpeaking(prompt.instruction, prompt.level, transcript);
+  let evaluation;
+  try {
+    evaluation = await evaluateSpeaking(prompt.instruction, prompt.level, transcript);
+  } catch (err: unknown) {
+    const msg = err instanceof Error ? err.message : String(err);
+    if (msg.includes("429") || msg.includes("quota")) {
+      return NextResponse.json({ error: "AI đang quá tải hoặc hết lượt miễn phí. Vui lòng thử lại sau." }, { status: 429 });
+    }
+    return NextResponse.json({ error: "Lỗi khi gọi AI chấm bài. Vui lòng thử lại." }, { status: 502 });
+  }
 
   const result = await prisma.speakingResult.create({
     data: {

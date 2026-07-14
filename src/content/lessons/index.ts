@@ -21,6 +21,15 @@ import tenseAgreement from "./tense-agreement.json";
 import presentTensesReview from "./present-tenses-review.json";
 import pastTensesReview from "./past-tenses-review.json";
 import futureTensesReview from "./future-tenses-review.json";
+import dongTu1 from "./dong-tu-1.json";
+import dongTu2 from "./dong-tu-2.json";
+import gerundInfinitive1 from "./gerund-infinitive-1.json";
+import gerundInfinitive2 from "./gerund-infinitive-2.json";
+import suHoaHopChuVi1 from "./su-hoa-hop-chu-vi-1.json";
+import suHoaHopChuVi2 from "./su-hoa-hop-chu-vi-2.json";
+import gioiTu1 from "./gioi-tu-1.json";
+import gioiTu2 from "./gioi-tu-2.json";
+import gioiTu3 from "./gioi-tu-3.json";
 
 const jsonLessons = [
   daiTu1,
@@ -38,6 +47,15 @@ const jsonLessons = [
   presentTensesReview,
   pastTensesReview,
   futureTensesReview,
+  dongTu1,
+  dongTu2,
+  gerundInfinitive1,
+  gerundInfinitive2,
+  suHoaHopChuVi1,
+  suHoaHopChuVi2,
+  gioiTu1,
+  gioiTu2,
+  gioiTu3,
 ] as unknown as Lesson[];
 
 // Danh sách bài giảng (thứ tự hiển thị). Thêm bài mới = import rồi thêm vào mảng này.

@@ -121,7 +121,7 @@ function HeroBanner({ onStart }: { onStart: () => void }) {
         alt="Phoenix mascot writing with a feather pen under a starry night sky"
         width={2752}
         height={1536}
-        className="h-[280px] w-full object-cover object-[center_60%] sm:h-[320px]"
+        className="h-[320px] w-full object-cover object-top sm:h-[360px] md:h-[400px]"
         priority
       />
       <div className="absolute inset-0 bg-gradient-to-t from-[#0B1220]/60 via-transparent to-transparent" />
