@@ -169,9 +169,10 @@ async function seedVocabulary() {
     { slug: "clothes-fashion", title: "Clothes & Fashion — Quần áo & Thời trang", level: "A1-B2", category: "Chủ đề (Topics)", summary: "128 từ vựng về quần áo, giày dép, phụ kiện, chất liệu, họa tiết, màu sắc và động/tính từ mô tả trang phục, kèm bài tập phong phú." },
     { slug: "family-relationships", title: "Family & Relationships — Gia đình & Các mối quan hệ", level: "A1-B2", category: "Chủ đề (Topics)", summary: "107 từ vựng về gia đình, họ hàng, tình trạng quan hệ, sự kiện đời sống và tính từ/động từ mô tả quan hệ, kèm bài tập phong phú." },
     { slug: "jobs-occupations", title: "Jobs & Occupations — Nghề nghiệp", level: "A1-B2", category: "Chủ đề (Topics)", summary: "50 nghề nghiệp phổ biến (y tế, kỹ thuật, dịch vụ, văn phòng, IT...) và 17 collocations về công việc, kèm bài tập phong phú." },
-    { slug: "shopping", title: "Shopping — Mua sắm", level: "A1-B2", category: "Chủ đề (Topics)", summary: "77 từ vựng về nơi mua sắm, sản phẩm, thanh toán, mua sắm trực tuyến và động/tính từ liên quan, kèm bài tập phong phú." },
+    { slug: "shopping", title: "Shopping — Mua sắm", level: "A1-B2", category: "Chủ đề (Topics)", summary: "100 từ vựng về nơi mua sắm, sản phẩm, quần áo & phụ kiện, thanh toán, mua sắm trực tuyến và động/tính từ liên quan, kèm bài tập phong phú." },
     { slug: "travel", title: "Travel — Du lịch", level: "A1-B2", category: "Chủ đề (Topics)", summary: "144 từ vựng về địa điểm, phương tiện, sân bay, giấy tờ, hành lý, chỗ ở, hoạt động và động/tính từ du lịch, kèm bài tập phong phú." },
     { slug: "food-drinks", title: "Food & Drinks — Đồ ăn & Thức uống", level: "A1-B2", category: "Chủ đề (Topics)", summary: "120 từ vựng về đồ ăn & thức uống (chủ đề nhiều phần): trái cây, rau củ, thịt, hải sản và trứng–sữa, kèm bài tập phong phú." },
+    { slug: "body-parts", title: "Body Parts — Bộ phận cơ thể", level: "A1-B2", category: "Chủ đề (Topics)", summary: "45 từ vựng về các bộ phận cơ thể (chủ đề nhiều phần): đầu–mặt và thân trên (tay, vai, ngực, lưng), kèm bài tập phong phú." },
   ];
 
   for (let i = 0; i < topicMeta.length; i++) {

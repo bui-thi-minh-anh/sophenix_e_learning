@@ -18,6 +18,7 @@ import jobsOccupationsData from "./jobs-occupations.json";
 import shoppingData from "./shopping.json";
 import travelData from "./travel.json";
 import foodDrinksData from "./food-drinks.json";
+import bodyPartsData from "./body-parts.json";
 
 const wordListMap: Record<string, WordListData> = {
   school: schoolData as WordListData,
@@ -37,6 +38,7 @@ const wordListMap: Record<string, WordListData> = {
   shopping: shoppingData as unknown as WordListData,
   travel: travelData as unknown as WordListData,
   "food-drinks": foodDrinksData as unknown as WordListData,
+  "body-parts": bodyPartsData as unknown as WordListData,
 };
 
 const topics: VocabTopic[] = [
@@ -180,7 +182,7 @@ const topics: VocabTopic[] = [
     title: "Shopping — Mua sắm",
     level: "A1-B2",
     category: "Chủ đề (Topics)",
-    summary: "77 từ vựng về nơi mua sắm, sản phẩm, thanh toán, mua sắm trực tuyến và động/tính từ liên quan, kèm bài tập phong phú.",
+    summary: "100 từ vựng về nơi mua sắm, sản phẩm, quần áo & phụ kiện, thanh toán, mua sắm trực tuyến và động/tính từ liên quan, kèm bài tập phong phú.",
     itemCount: shoppingData.vocabulary.length,
     exerciseSets: shoppingData.exerciseSets as unknown as ExerciseSet[],
   },
@@ -201,6 +203,15 @@ const topics: VocabTopic[] = [
     summary: "120 từ vựng về đồ ăn & thức uống (chủ đề nhiều phần): trái cây, rau củ, thịt, hải sản và trứng–sữa, kèm bài tập phong phú.",
     itemCount: foodDrinksData.vocabulary.length,
     exerciseSets: foodDrinksData.exerciseSets as unknown as ExerciseSet[],
+  },
+  {
+    slug: "body-parts",
+    title: "Body Parts — Bộ phận cơ thể",
+    level: "A1-B2",
+    category: "Chủ đề (Topics)",
+    summary: "45 từ vựng về các bộ phận cơ thể (chủ đề nhiều phần): đầu–mặt và thân trên (tay, vai, ngực, lưng), kèm bài tập phong phú.",
+    itemCount: bodyPartsData.vocabulary.length,
+    exerciseSets: bodyPartsData.exerciseSets as unknown as ExerciseSet[],
   },
 ];
 

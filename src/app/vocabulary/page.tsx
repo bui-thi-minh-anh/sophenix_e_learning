@@ -27,6 +27,7 @@ import {
   ShoppingBag,
   Plane,
   Apple,
+  PersonStanding,
   type LucideIcon,
 } from "lucide-react";
 import { getAllVocabTopics } from "@/content/vocabulary";
@@ -62,6 +63,7 @@ const topicVisualMap: Record<string, { icon: LucideIcon; bg: string; icon_color:
   shopping: { icon: ShoppingBag, bg: "from-green-500/20 to-green-600/10", icon_color: "text-green-400" },
   travel: { icon: Plane, bg: "from-violet-500/20 to-violet-600/10", icon_color: "text-violet-400" },
   "food-drinks": { icon: Apple, bg: "from-stone-500/20 to-stone-600/10", icon_color: "text-stone-300" },
+  "body-parts": { icon: PersonStanding, bg: "from-rose-500/20 to-pink-600/10", icon_color: "text-rose-300" },
 };
 
 // Fallback theo nhóm từ loại khi chủ đề chưa có logo riêng.

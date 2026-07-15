@@ -76,7 +76,30 @@
     { "id": 74, "word": "rating", "ipa_uk": "/ˈreɪtɪŋ/", "ipa_us": "/ˈreɪtɪŋ/", "part_of_speech": "noun", "meaning": "xếp hạng, điểm đánh giá", "example": "This product has a five-star rating." },
     { "id": 75, "word": "customer", "ipa_uk": "/ˈkʌstəmə(r)/", "ipa_us": "/ˈkʌstəmər/", "part_of_speech": "noun", "meaning": "khách hàng", "example": "The customer asked for a discount." },
     { "id": 76, "word": "seller", "ipa_uk": "/ˈselə(r)/", "ipa_us": "/ˈselər/", "part_of_speech": "noun", "meaning": "người bán", "example": "The seller replied to my message quickly." },
-    { "id": 77, "word": "checkout", "ipa_uk": "/ˈtʃekaʊt/", "ipa_us": "/ˈtʃekaʊt/", "part_of_speech": "noun", "meaning": "thanh toán (bước cuối khi mua)", "example": "Enter your address at checkout." }
+    { "id": 77, "word": "checkout", "ipa_uk": "/ˈtʃekaʊt/", "ipa_us": "/ˈtʃekaʊt/", "part_of_speech": "noun", "meaning": "thanh toán (bước cuối khi mua)", "example": "Enter your address at checkout." },
+    { "id": 78, "word": "grocery store", "ipa_uk": "/ˈɡrəʊsəri stɔː(r)/", "ipa_us": "/ˈɡroʊsəri stɔːr/", "part_of_speech": "noun", "meaning": "cửa hàng tạp hóa", "example": "We buy milk and bread at the grocery store." },
+    { "id": 79, "word": "boutique", "ipa_uk": "/buːˈtiːk/", "ipa_us": "/buːˈtiːk/", "part_of_speech": "noun", "meaning": "cửa hàng thời trang (nhỏ, cao cấp)", "example": "She bought a designer dress at a small boutique." },
+    { "id": 80, "word": "invoice", "ipa_uk": "/ˈɪnvɔɪs/", "ipa_us": "/ˈɪnvɔɪs/", "part_of_speech": "noun", "meaning": "hóa đơn (VAT, thanh toán)", "example": "The company sent an invoice for the order." },
+    { "id": 81, "word": "voucher", "ipa_uk": "/ˈvaʊtʃə(r)/", "ipa_us": "/ˈvaʊtʃər/", "part_of_speech": "noun", "meaning": "phiếu mua hàng", "example": "I got a $10 voucher for my next purchase." },
+    { "id": 82, "word": "clothes", "ipa_uk": "/kləʊðz/", "ipa_us": "/kloʊðz/", "part_of_speech": "noun", "meaning": "quần áo", "example": "I need to buy some new clothes for winter." },
+    { "id": 83, "word": "T-shirt", "ipa_uk": "/ˈtiːʃɜːt/", "ipa_us": "/ˈtiːʃɜːrt/", "part_of_speech": "noun", "meaning": "áo phông", "example": "He wears a plain white T-shirt." },
+    { "id": 84, "word": "shirt", "ipa_uk": "/ʃɜːt/", "ipa_us": "/ʃɜːrt/", "part_of_speech": "noun", "meaning": "áo sơ mi", "example": "This shirt goes well with dark trousers." },
+    { "id": 85, "word": "jeans", "ipa_uk": "/dʒiːnz/", "ipa_us": "/dʒiːnz/", "part_of_speech": "noun", "meaning": "quần jean", "example": "She wears blue jeans almost every day." },
+    { "id": 86, "word": "trousers", "ipa_uk": "/ˈtraʊzəz/", "ipa_us": "/ˈtraʊzərz/", "part_of_speech": "noun", "meaning": "quần dài", "example": "These trousers are too long for me." },
+    { "id": 87, "word": "dress", "ipa_uk": "/dres/", "ipa_us": "/dres/", "part_of_speech": "noun", "meaning": "váy liền", "example": "She wore a beautiful red dress to the party." },
+    { "id": 88, "word": "skirt", "ipa_uk": "/skɜːt/", "ipa_us": "/skɜːrt/", "part_of_speech": "noun", "meaning": "chân váy", "example": "The skirt comes in three different lengths." },
+    { "id": 89, "word": "jacket", "ipa_uk": "/ˈdʒækɪt/", "ipa_us": "/ˈdʒækɪt/", "part_of_speech": "noun", "meaning": "áo khoác", "example": "Take a jacket; it's cold outside." },
+    { "id": 90, "word": "shoes", "ipa_uk": "/ʃuːz/", "ipa_us": "/ʃuːz/", "part_of_speech": "noun", "meaning": "giày", "example": "These shoes are very comfortable." },
+    { "id": 91, "word": "sneakers", "ipa_uk": "/ˈsniːkəz/", "ipa_us": "/ˈsniːkərz/", "part_of_speech": "noun", "meaning": "giày thể thao", "example": "He bought a new pair of sneakers for running." },
+    { "id": 92, "word": "boots", "ipa_uk": "/buːts/", "ipa_us": "/buːts/", "part_of_speech": "noun", "meaning": "bốt, ủng", "example": "I wear boots when it rains." },
+    { "id": 93, "word": "handbag", "ipa_uk": "/ˈhændbæɡ/", "ipa_us": "/ˈhændbæɡ/", "part_of_speech": "noun", "meaning": "túi xách", "example": "She keeps her keys in her handbag." },
+    { "id": 94, "word": "backpack", "ipa_uk": "/ˈbækpæk/", "ipa_us": "/ˈbækpæk/", "part_of_speech": "noun", "meaning": "ba lô", "example": "He carries his laptop in a backpack." },
+    { "id": 95, "word": "watch", "ipa_uk": "/wɒtʃ/", "ipa_us": "/wɑːtʃ/", "part_of_speech": "noun", "meaning": "đồng hồ đeo tay", "example": "This watch was a gift from my father." },
+    { "id": 96, "word": "cosmetics", "ipa_uk": "/kɒzˈmetɪks/", "ipa_us": "/kɑːzˈmetɪks/", "part_of_speech": "noun", "meaning": "mỹ phẩm", "example": "The store sells cosmetics and perfume." },
+    { "id": 97, "word": "perfume", "ipa_uk": "/ˈpɜːfjuːm/", "ipa_us": "/pərˈfjuːm/", "part_of_speech": "noun", "meaning": "nước hoa", "example": "This perfume smells like flowers." },
+    { "id": 98, "word": "jewelry", "ipa_uk": "/ˈdʒuːəlri/", "ipa_us": "/ˈdʒuːəlri/", "part_of_speech": "noun", "meaning": "trang sức", "example": "She wore expensive jewelry to the wedding." },
+    { "id": 99, "word": "toy", "ipa_uk": "/tɔɪ/", "ipa_us": "/tɔɪ/", "part_of_speech": "noun", "meaning": "đồ chơi", "example": "The children played with a new toy." },
+    { "id": 100, "word": "electronics", "ipa_uk": "/ɪˌlekˈtrɒnɪks/", "ipa_us": "/ɪˌlekˈtrɑːnɪks/", "part_of_speech": "noun", "meaning": "đồ điện tử", "example": "You can buy electronics at this store." }
   ],
   "collocations": [
     { "phrase": "go shopping", "meaning": "đi mua sắm" },
@@ -98,7 +121,13 @@
     { "phrase": "check the price", "meaning": "kiểm tra giá" },
     { "phrase": "browse products", "meaning": "xem lướt sản phẩm" },
     { "phrase": "shop online", "meaning": "mua sắm trực tuyến" },
-    { "phrase": "save money", "meaning": "tiết kiệm tiền" }
+    { "phrase": "save money", "meaning": "tiết kiệm tiền" },
+    { "phrase": "a pair of jeans", "meaning": "một cái quần jean" },
+    { "phrase": "a pair of shoes", "meaning": "một đôi giày" },
+    { "phrase": "try on a dress", "meaning": "mặc thử một cái váy" },
+    { "phrase": "designer clothes", "meaning": "quần áo hàng hiệu" },
+    { "phrase": "a bottle of perfume", "meaning": "một chai nước hoa" },
+    { "phrase": "wear jewelry", "meaning": "đeo trang sức" }
   ],
   "exerciseSets": [
     {
@@ -242,6 +271,33 @@
         { "id": "shx10", "kind": "fill", "question": "Hoàn thành: 'Can I pay ___ card?' (bằng thẻ)", "answer": "by", "acceptable": [], "explanation": "pay by card = trả bằng thẻ" },
         { "id": "shx11", "kind": "fill", "question": "Hoàn thành: 'Sorry, this item is out of ___.' (hết hàng)", "answer": "stock", "acceptable": [], "explanation": "out of stock = hết hàng" },
         { "id": "shx12", "kind": "fill", "question": "Hoàn thành: 'The product is broken. I'd like a ___, please.' (hoàn tiền)", "answer": "refund", "acceptable": [], "explanation": "refund = hoàn tiền" }
+      ]
+    },
+    {
+      "id": "shop-products",
+      "title": "Sản phẩm & Quần áo",
+      "description": "Luyện tập nhóm từ về quần áo, phụ kiện, sản phẩm và nơi mua sắm mới.",
+      "exercises": [
+        { "id": "shp1", "kind": "fill", "question": "It's cold, so take a ___ with you.", "answer": "jacket", "acceptable": [], "explanation": "jacket = áo khoác" },
+        { "id": "shp2", "kind": "fill", "question": "She wore a beautiful red ___ to the party.", "answer": "dress", "acceptable": [], "explanation": "dress = váy liền" },
+        { "id": "shp3", "kind": "fill", "question": "He bought a new pair of ___ for running.", "answer": "sneakers", "acceptable": [], "explanation": "sneakers = giày thể thao" },
+        { "id": "shp4", "kind": "fill", "question": "This ___ smells like flowers.", "answer": "perfume", "acceptable": [], "explanation": "perfume = nước hoa" },
+        { "id": "shp5", "kind": "fill", "question": "We buy milk and bread at the ___.", "answer": "grocery store", "acceptable": [], "explanation": "grocery store = cửa hàng tạp hóa" },
+        { "id": "shp6", "kind": "fill", "question": "I got a $10 ___ to use on my next purchase.", "answer": "voucher", "acceptable": [], "explanation": "voucher = phiếu mua hàng" },
+        { "id": "shp7", "kind": "fill", "question": "She keeps her keys and phone in her ___.", "answer": "handbag", "acceptable": [], "explanation": "handbag = túi xách" },
+        { "id": "shp8", "kind": "fill", "question": "These ___ are too long; I need a shorter pair.", "answer": "trousers", "acceptable": [], "explanation": "trousers = quần dài" },
+        { "id": "shp9", "kind": "fill", "question": "The company sent an ___ for the order.", "answer": "invoice", "acceptable": [], "explanation": "invoice = hóa đơn (VAT)" },
+        { "id": "shp10", "kind": "fill", "question": "You can buy phones and laptops in the ___ section.", "answer": "electronics", "acceptable": [], "explanation": "electronics = đồ điện tử" },
+        { "id": "shp11", "kind": "mcq", "question": "'boutique' nghĩa là gì?", "options": [{ "key": "A", "text": "cửa hàng thời trang nhỏ, cao cấp" }, { "key": "B", "text": "siêu thị" }, { "key": "C", "text": "hiệu thuốc" }, { "key": "D", "text": "chợ" }], "answer": "A", "explanation": "boutique = cửa hàng thời trang (nhỏ, cao cấp)" },
+        { "id": "shp12", "kind": "mcq", "question": "Từ nào có nghĩa là 'trang sức'?", "options": [{ "key": "A", "text": "cosmetics" }, { "key": "B", "text": "jewelry" }, { "key": "C", "text": "perfume" }, { "key": "D", "text": "wallet" }], "answer": "B", "explanation": "jewelry = trang sức" },
+        { "id": "shp13", "kind": "mcq", "question": "'cosmetics' nghĩa là gì?", "options": [{ "key": "A", "text": "mỹ phẩm" }, { "key": "B", "text": "nước hoa" }, { "key": "C", "text": "đồ chơi" }, { "key": "D", "text": "trang sức" }], "answer": "A", "explanation": "cosmetics = mỹ phẩm" },
+        { "id": "shp14", "kind": "mcq", "question": "Từ nào KHÔNG phải quần áo?", "options": [{ "key": "A", "text": "skirt" }, { "key": "B", "text": "shirt" }, { "key": "C", "text": "watch" }, { "key": "D", "text": "jeans" }], "answer": "C", "explanation": "watch = đồng hồ (phụ kiện), không phải quần áo." },
+        { "id": "shp15", "kind": "mcq", "question": "Đi mưa nên mang gì cho khô chân?", "options": [{ "key": "A", "text": "boots" }, { "key": "B", "text": "sneakers" }, { "key": "C", "text": "sandals" }, { "key": "D", "text": "socks" }], "answer": "A", "explanation": "boots = bốt, ủng (đi mưa)." },
+        { "id": "shp16", "kind": "fill", "question": "áo phông → ___", "answer": "T-shirt", "acceptable": ["t-shirt", "tshirt"], "explanation": "T-shirt /ˈtiːʃɜːrt/" },
+        { "id": "shp17", "kind": "fill", "question": "ba lô → ___", "answer": "backpack", "acceptable": [], "explanation": "backpack /ˈbækpæk/" },
+        { "id": "shp18", "kind": "fill", "question": "chân váy → ___", "answer": "skirt", "acceptable": [], "explanation": "skirt /skɜːrt/" },
+        { "id": "shp19", "kind": "fill", "question": "đồ điện tử → ___", "answer": "electronics", "acceptable": [], "explanation": "electronics /ɪˌlekˈtrɑːnɪks/" },
+        { "id": "shp20", "kind": "fill", "question": "đồ chơi → ___", "answer": "toy", "acceptable": [], "explanation": "toy /tɔɪ/" }
       ]
     }
   ]
