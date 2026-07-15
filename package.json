@@ -54,6 +54,7 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@napi-rs/canvas": "^1.0.2",
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^20.16.11",
     "@types/pg": "^8.20.0",
