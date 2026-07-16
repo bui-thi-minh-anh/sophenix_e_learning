@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Be_Vietnam_Pro } from "next/font/google";
+import localFont from "next/font/local";
 
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
@@ -8,11 +9,16 @@ import { MainLayout } from "@/components/layout/main-layout";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { Toaster } from "@/components/ui/sonner";
 
-// Be Vietnam Pro: font hỗ trợ dấu tiếng Việt tốt (xem docs/03_DESIGN/TYPOGRAPHY.md).
 const beVietnamPro = Be_Vietnam_Pro({
   subsets: ["latin", "vietnamese"],
   weight: ["400", "500", "700"],
   variable: "--font-sans",
+  display: "swap",
+});
+
+const geomini = localFont({
+  src: "../../public/fonts/Geomini-VariableFont_wght.ttf",
+  variable: "--font-display",
   display: "swap",
 });
 
@@ -24,7 +30,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="vi" suppressHydrationWarning>
-      <body className={`${beVietnamPro.variable} font-sans antialiased`}>
+      <body className={`${beVietnamPro.variable} ${geomini.variable} font-sans antialiased`}>
         <SessionProvider>
           <ThemeProvider
             attribute="class"

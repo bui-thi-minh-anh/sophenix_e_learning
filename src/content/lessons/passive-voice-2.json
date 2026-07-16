@@ -1,0 +1,6040 @@
+{
+  "slug": "passive-voice-2",
+  "title": "Câu Chủ Động & Bị Động (2) — Luyện tập",
+  "level": "B1",
+  "topic": "passive-voice",
+  "series": "Passive Voice",
+  "summary": "260 câu trắc nghiệm luyện tập câu bị động: chuyển đổi cơ bản, trường hợp đặc biệt, tường thuật, truyền khiến.",
+  "sections": [
+    {
+      "heading": "Hướng dẫn làm bài",
+      "body": "## Cấu trúc bài luyện tập\n\nBài luyện tập gồm **6 bộ** bài tập trắc nghiệm:\n\n1. **Luyện Tập Câu Chủ Động, Bị Động 1 (50 câu)** (50 câu)\n2. **Luyện Tập Câu Chủ Động, Bị Động 2 (50 câu)** (50 câu)\n3. **Luyện Tập Câu Chủ Động, Bị Động 3 (50 câu)** (50 câu)\n4. **Luyện Tập Câu Chủ Động, Bị Động 4 (50 câu)** (50 câu)\n5. **Thi Online: Câu Chủ Động, Bị Động 1 (30 câu)** (30 câu)\n6. **Thi Online: Câu Chủ Động, Bị Động 2 (30 câu)** (30 câu)\n\n**Mẹo:** Xác định thì của câu chủ động trước, sau đó áp dụng công thức bị động tương ứng. Chú ý các trường hợp đặc biệt: động từ 2 tân ngữ, make/let, động từ tri giác, câu tường thuật."
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "PV-P1",
+      "title": "Luyện Tập Câu Chủ Động, Bị Động 1 (50 câu)",
+      "exercises": [
+        {
+          "id": "213478",
+          "question": "My wedding ring ………… of yellow and white gold.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is made"
+            },
+            {
+              "key": "B",
+              "text": "is making"
+            },
+            {
+              "key": "C",
+              "text": "made"
+            },
+            {
+              "key": "D",
+              "text": "maked"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213479",
+          "question": "If your brother ………………., he would come.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was invited"
+            },
+            {
+              "key": "B",
+              "text": "were invited"
+            },
+            {
+              "key": "C",
+              "text": "were inviting"
+            },
+            {
+              "key": "D",
+              "text": "invite"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213480",
+          "question": "References …………. in the examination room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "not are used"
+            },
+            {
+              "key": "B",
+              "text": "is not used"
+            },
+            {
+              "key": "C",
+              "text": "didn’t used"
+            },
+            {
+              "key": "D",
+              "text": "are not used"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213481",
+          "question": "Mary ………….. in Boston.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are born"
+            },
+            {
+              "key": "B",
+              "text": "were born"
+            },
+            {
+              "key": "C",
+              "text": "was born"
+            },
+            {
+              "key": "D",
+              "text": "born"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213482",
+          "question": "My mother is going …………… this house.",
+          "options": [
+            {
+              "key": "A",
+              "text": "sold"
+            },
+            {
+              "key": "B",
+              "text": "to be sold"
+            },
+            {
+              "key": "C",
+              "text": "to sold"
+            },
+            {
+              "key": "D",
+              "text": "to sell"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213483",
+          "question": "There’s somebody behind us. I think we are ……………….",
+          "options": [
+            {
+              "key": "A",
+              "text": "being followed"
+            },
+            {
+              "key": "B",
+              "text": "are followed"
+            },
+            {
+              "key": "C",
+              "text": "follow"
+            },
+            {
+              "key": "D",
+              "text": "following"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213484",
+          "question": "Have you …………….. by a dog?",
+          "options": [
+            {
+              "key": "A",
+              "text": "bite"
+            },
+            {
+              "key": "B",
+              "text": "ever been bit"
+            },
+            {
+              "key": "C",
+              "text": "ever been bitten"
+            },
+            {
+              "key": "D",
+              "text": "bit"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213485",
+          "question": "The room is being ………….. at the moment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was cleaned"
+            },
+            {
+              "key": "B",
+              "text": "cleaned"
+            },
+            {
+              "key": "C",
+              "text": "cleaning"
+            },
+            {
+              "key": "D",
+              "text": "clean"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213486",
+          "question": "The road to our village …………. widened next year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "will"
+            },
+            {
+              "key": "C",
+              "text": "can"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213487",
+          "question": "Most forests in other climatic areas.......................by human beings.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have already been affected"
+            },
+            {
+              "key": "B",
+              "text": "have already affected"
+            },
+            {
+              "key": "C",
+              "text": "have already been affecting"
+            },
+            {
+              "key": "D",
+              "text": "had already been affected"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213488",
+          "question": "The old man is said…….all his money to an old people’s home when he died.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to leave"
+            },
+            {
+              "key": "B",
+              "text": "to leaving"
+            },
+            {
+              "key": "C",
+              "text": "have left"
+            },
+            {
+              "key": "D",
+              "text": "to have left"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213489",
+          "question": "Nobody was injured in the accident , …………?",
+          "options": [
+            {
+              "key": "A",
+              "text": "was there"
+            },
+            {
+              "key": "B",
+              "text": "was he"
+            },
+            {
+              "key": "C",
+              "text": "were they"
+            },
+            {
+              "key": "D",
+              "text": "weren’t they"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213490",
+          "question": "Renoir’s paintings ……….. masterpieces all over the world.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had considered"
+            },
+            {
+              "key": "B",
+              "text": "are considered"
+            },
+            {
+              "key": "C",
+              "text": "are considering"
+            },
+            {
+              "key": "D",
+              "text": "consider"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213491",
+          "question": "He was advised…………singing lessons.li",
+          "options": [
+            {
+              "key": "A",
+              "text": "take"
+            },
+            {
+              "key": "B",
+              "text": "taken"
+            },
+            {
+              "key": "C",
+              "text": "taking"
+            },
+            {
+              "key": "D",
+              "text": "to take"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213492",
+          "question": "Mr. Wilson is . . . . . . . . as Wilie to his friend.",
+          "options": [
+            {
+              "key": "A",
+              "text": "knowed"
+            },
+            {
+              "key": "B",
+              "text": "knew"
+            },
+            {
+              "key": "C",
+              "text": "known"
+            },
+            {
+              "key": "D",
+              "text": "is known"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213493",
+          "question": "When…………..? In 1928.",
+          "options": [
+            {
+              "key": "A",
+              "text": "penicillin was discovered"
+            },
+            {
+              "key": "B",
+              "text": "did pencillin discoved"
+            },
+            {
+              "key": "C",
+              "text": "was penicillin discoverd"
+            },
+            {
+              "key": "D",
+              "text": "did pencillin discover"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213494",
+          "question": "I don’t remember…..of the decision to change the company policy on vacations.",
+          "options": [
+            {
+              "key": "A",
+              "text": "telling"
+            },
+            {
+              "key": "B",
+              "text": "being told"
+            },
+            {
+              "key": "C",
+              "text": "to tell"
+            },
+            {
+              "key": "D",
+              "text": "to be told"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213495",
+          "question": "The children ……………to the zoo.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were enjoyed taken"
+            },
+            {
+              "key": "B",
+              "text": "enjoyed being taken"
+            },
+            {
+              "key": "C",
+              "text": "were enjoyed taking"
+            },
+            {
+              "key": "D",
+              "text": "enjoyed taking"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213496",
+          "question": "(Chọn đáp án đúng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "for"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "on"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213497",
+          "question": "His car needs ……………….",
+          "options": [
+            {
+              "key": "A",
+              "text": "be fixed"
+            },
+            {
+              "key": "B",
+              "text": "fixing"
+            },
+            {
+              "key": "C",
+              "text": "to be fixing"
+            },
+            {
+              "key": "D",
+              "text": "fixed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213498",
+          "question": "Her watch needs…………….",
+          "options": [
+            {
+              "key": "A",
+              "text": "reparing"
+            },
+            {
+              "key": "B",
+              "text": "to be repaired"
+            },
+            {
+              "key": "C",
+              "text": "repaired"
+            },
+            {
+              "key": "D",
+              "text": "a&b"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213499",
+          "question": "He was said……………….this building.",
+          "options": [
+            {
+              "key": "A",
+              "text": "designing"
+            },
+            {
+              "key": "B",
+              "text": "to have designed"
+            },
+            {
+              "key": "C",
+              "text": "to designs"
+            },
+            {
+              "key": "D",
+              "text": "designed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213500",
+          "question": "Ted………….by a bee while he was sitting in the garden.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was sting"
+            },
+            {
+              "key": "B",
+              "text": "was stung"
+            },
+            {
+              "key": "C",
+              "text": "get stung"
+            },
+            {
+              "key": "D",
+              "text": "gets stung"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213501",
+          "question": "Let the children…………..taken to the cinema.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to"
+            },
+            {
+              "key": "B",
+              "text": "be"
+            },
+            {
+              "key": "C",
+              "text": "to be"
+            },
+            {
+              "key": "D",
+              "text": "being"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213502",
+          "question": "That book ........................... by a famous author.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wrote"
+            },
+            {
+              "key": "B",
+              "text": "was written"
+            },
+            {
+              "key": "C",
+              "text": "is writing"
+            },
+            {
+              "key": "D",
+              "text": "has written"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213503",
+          "question": "Food______________ direct to the market by trucks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "delivered"
+            },
+            {
+              "key": "B",
+              "text": "deliver"
+            },
+            {
+              "key": "C",
+              "text": "can be delivered"
+            },
+            {
+              "key": "D",
+              "text": "delivers"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213504",
+          "question": "The house has_______________ after the fire.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to rebuild"
+            },
+            {
+              "key": "B",
+              "text": "to be rebuilt"
+            },
+            {
+              "key": "C",
+              "text": "to be rebuild"
+            },
+            {
+              "key": "D",
+              "text": "rebuilt"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213505",
+          "question": "All the homework_____________ at home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "should do"
+            },
+            {
+              "key": "B",
+              "text": "should done"
+            },
+            {
+              "key": "C",
+              "text": "should be done"
+            },
+            {
+              "key": "D",
+              "text": "should be doing"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213506",
+          "question": "The application form______________ to the university before May 31st.",
+          "options": [
+            {
+              "key": "A",
+              "text": "must send"
+            },
+            {
+              "key": "B",
+              "text": "sent"
+            },
+            {
+              "key": "C",
+              "text": "must be send"
+            },
+            {
+              "key": "D",
+              "text": "must be sent"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213507",
+          "question": "Traffic rules____________ strictly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "followed"
+            },
+            {
+              "key": "B",
+              "text": "must followed"
+            },
+            {
+              "key": "C",
+              "text": "must be followed"
+            },
+            {
+              "key": "D",
+              "text": "must follow"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213508",
+          "question": "Choose a sentence that is closest in meaning to the given sentence. Somebody cleans that room everyday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The room every day is cleaned"
+            },
+            {
+              "key": "B",
+              "text": "The room is everyday cleaned"
+            },
+            {
+              "key": "C",
+              "text": "The room is cleaned every day"
+            },
+            {
+              "key": "D",
+              "text": "The room is cleaned by somebody everyday"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213509",
+          "question": "They cancelled all flights because of fog.",
+          "options": [
+            {
+              "key": "A",
+              "text": "All flights because of fog were cancelled"
+            },
+            {
+              "key": "B",
+              "text": "All flights were cancelled because of fog"
+            },
+            {
+              "key": "C",
+              "text": "All flights were cancelled by them because of fog"
+            },
+            {
+              "key": "D",
+              "text": "All flights were because of fog cancelled"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213510",
+          "question": "They are building a new highway around the city.",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new highway is being built around the city"
+            },
+            {
+              "key": "B",
+              "text": "A new highway is being built around the city by them"
+            },
+            {
+              "key": "C",
+              "text": "A new highway around the city is being built"
+            },
+            {
+              "key": "D",
+              "text": "Around the city a new highway is being built"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213511",
+          "question": "They have built a new hospital near the airport.",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new hospital has been built near the airport by them"
+            },
+            {
+              "key": "B",
+              "text": "A new hospital near the airport have been built"
+            },
+            {
+              "key": "C",
+              "text": "A new hospital has been built near the airport"
+            },
+            {
+              "key": "D",
+              "text": "Near the airport a new hospital has been built by them"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213512",
+          "question": "They will ask you a lot of questions at the interview.",
+          "options": [
+            {
+              "key": "A",
+              "text": "You will be asked a lot of questions at the interview"
+            },
+            {
+              "key": "B",
+              "text": "You will be asked a lot of questions at the interview by them"
+            },
+            {
+              "key": "C",
+              "text": "A lot of questions will be asked you at the interview"
+            },
+            {
+              "key": "D",
+              "text": "A lot of questions will be asked at the interview"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213513",
+          "question": "People don’t use this road very often.",
+          "options": [
+            {
+              "key": "A",
+              "text": "This road is not used very often"
+            },
+            {
+              "key": "B",
+              "text": "Not very often this road is not used"
+            },
+            {
+              "key": "C",
+              "text": "This road very often is not used"
+            },
+            {
+              "key": "D",
+              "text": "This road not very often is used"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213514",
+          "question": "Somebody accused me of stealing money.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I was accused by somebody of stealing money"
+            },
+            {
+              "key": "B",
+              "text": "I was accused of stealing money"
+            },
+            {
+              "key": "C",
+              "text": "I was accused of stealing money by somebody"
+            },
+            {
+              "key": "D",
+              "text": "I was accused stealing money"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213515",
+          "question": "Somebody is using the computer at the moment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The computer is being used at the moment"
+            },
+            {
+              "key": "B",
+              "text": "The computer at the moment is being used"
+            },
+            {
+              "key": "C",
+              "text": "The computer is being used by somebody at the moment"
+            },
+            {
+              "key": "D",
+              "text": "The computer is used at the moment"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213516",
+          "question": "The bill includes service.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Service is included by the bill"
+            },
+            {
+              "key": "B",
+              "text": "Service included in the bill"
+            },
+            {
+              "key": "C",
+              "text": "Service is included in the bill"
+            },
+            {
+              "key": "D",
+              "text": "Service is in the bill"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213517",
+          "question": "They have changed the date of the meeting.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The date of the meeting has been changed"
+            },
+            {
+              "key": "B",
+              "text": "The date of the meeting has been changed by them"
+            },
+            {
+              "key": "C",
+              "text": "The meeting has been changed the date"
+            },
+            {
+              "key": "D",
+              "text": "The date of the meeting has changed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213518",
+          "question": "The robbers attacked the police from behind.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The police was attacked from behind"
+            },
+            {
+              "key": "B",
+              "text": "The police were attacked from behind"
+            },
+            {
+              "key": "C",
+              "text": "The robbers were attacked from behind"
+            },
+            {
+              "key": "D",
+              "text": "The robbers are attacked from behind"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213520",
+          "question": "They have to hold the meeting in this narrow room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The meeting had to be hold in this narrow room"
+            },
+            {
+              "key": "B",
+              "text": "The meeting has to be hold in this narrow room"
+            },
+            {
+              "key": "C",
+              "text": "The meeting has to be holded in this narrow room"
+            },
+            {
+              "key": "D",
+              "text": "The meeting has to be held in this narrow room"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213521",
+          "question": "They showed his photograph on television.",
+          "options": [
+            {
+              "key": "A",
+              "text": "On television they had his photograph shown"
+            },
+            {
+              "key": "B",
+              "text": "His photograph was shown on television"
+            },
+            {
+              "key": "C",
+              "text": "His photograph is being shown on television"
+            },
+            {
+              "key": "D",
+              "text": "The television was shown his photograph"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213522",
+          "question": "They began to build the bridge two months ago.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The bridge was begun to build two months ago"
+            },
+            {
+              "key": "B",
+              "text": "The bridge was begun to be built two months ago"
+            },
+            {
+              "key": "C",
+              "text": "The bridge began to build two months ago"
+            },
+            {
+              "key": "D",
+              "text": "The bridge began to be built two months ago"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213523",
+          "question": "They saw him searching the truck.",
+          "options": [
+            {
+              "key": "A",
+              "text": "He is seen searching the truck"
+            },
+            {
+              "key": "B",
+              "text": "He is seen to search the truck"
+            },
+            {
+              "key": "C",
+              "text": "He was seen searching the truck"
+            },
+            {
+              "key": "D",
+              "text": "He was being seen searching the truck"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213525",
+          "question": "His parents made him do it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "He was made do it"
+            },
+            {
+              "key": "B",
+              "text": "He was made to do it"
+            },
+            {
+              "key": "C",
+              "text": "He made his parents to do it"
+            },
+            {
+              "key": "D",
+              "text": "His parents were made do it"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213526",
+          "question": "The barber has cut my hair.",
+          "options": [
+            {
+              "key": "A",
+              "text": "My hair has already been cut now"
+            },
+            {
+              "key": "B",
+              "text": "I’ve got to have the barber cut my hair"
+            },
+            {
+              "key": "C",
+              "text": "My hair has become shorter and shorter"
+            },
+            {
+              "key": "D",
+              "text": "I’ve had my hair cut"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213527",
+          "question": "People say that the American women are used to living independently means",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is said that the American women are used to living independently"
+            },
+            {
+              "key": "B",
+              "text": "The American women are said to be used to living independently"
+            },
+            {
+              "key": "C",
+              "text": "The American women are said they be used to live independently"
+            },
+            {
+              "key": "D",
+              "text": "A & B are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213528",
+          "question": "People think that he was born in a rich family.",
+          "options": [
+            {
+              "key": "A",
+              "text": "That is thought he was born in a rich family"
+            },
+            {
+              "key": "B",
+              "text": "He was thought to be born in a rich family"
+            },
+            {
+              "key": "C",
+              "text": "That he was born in a rich family is thought"
+            },
+            {
+              "key": "D",
+              "text": "He is thought to have been born in a rich family"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213529",
+          "question": "It is impossible to do this work right now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is impossible for this work to be done right now"
+            },
+            {
+              "key": "B",
+              "text": "It is impossible for to be done this work right now"
+            },
+            {
+              "key": "C",
+              "text": "This work is impossible to do right now"
+            },
+            {
+              "key": "D",
+              "text": "This work is impossible to be done"
+            }
+          ],
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "id": "PV-P2",
+      "title": "Luyện Tập Câu Chủ Động, Bị Động 2 (50 câu)",
+      "exercises": [
+        {
+          "id": "213530",
+          "question": "''What a beautiful shirt you're wearing!” \"Thank you. It .. especially for me by my mother.\"",
+          "options": [
+            {
+              "key": "A",
+              "text": "is made"
+            },
+            {
+              "key": "B",
+              "text": "has made"
+            },
+            {
+              "key": "C",
+              "text": "made"
+            },
+            {
+              "key": "D",
+              "text": "was made"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213531",
+          "question": "I don't understand why the students didn't keep silent while the speech …......",
+          "options": [
+            {
+              "key": "A",
+              "text": "has been made"
+            },
+            {
+              "key": "B",
+              "text": "was made"
+            },
+            {
+              "key": "C",
+              "text": "would be made"
+            },
+            {
+              "key": "D",
+              "text": "was being made"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213532",
+          "question": "This is the first time I have seen this car. Where ….......?",
+          "options": [
+            {
+              "key": "A",
+              "text": "did it make"
+            },
+            {
+              "key": "B",
+              "text": "did it made"
+            },
+            {
+              "key": "C",
+              "text": "was it make"
+            },
+            {
+              "key": "D",
+              "text": "was it made"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213533",
+          "question": "Today, many serious childhood diseases …....... by early immunization.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are preventing"
+            },
+            {
+              "key": "B",
+              "text": "can prevent"
+            },
+            {
+              "key": "C",
+              "text": "prevent"
+            },
+            {
+              "key": "D",
+              "text": "can be prevented"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213534",
+          "question": "Whole-gain food products …........ in most large supermarkets across the United States and Canada.",
+          "options": [
+            {
+              "key": "A",
+              "text": "now can purchase"
+            },
+            {
+              "key": "B",
+              "text": "can now be purchased"
+            },
+            {
+              "key": "C",
+              "text": "now to purchase"
+            },
+            {
+              "key": "D",
+              "text": "the purchase of which"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213535",
+          "question": "All that rubbish will have to be ............. at once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "get rid of"
+            },
+            {
+              "key": "B",
+              "text": "got rid of"
+            },
+            {
+              "key": "C",
+              "text": "getting rid of"
+            },
+            {
+              "key": "D",
+              "text": "no answer is correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213536",
+          "question": "\"What happened to the postman?\" \"He ...................... to a new town to work.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has sent"
+            },
+            {
+              "key": "B",
+              "text": "was send"
+            },
+            {
+              "key": "C",
+              "text": "was sent"
+            },
+            {
+              "key": "D",
+              "text": "sent"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213537",
+          "question": "Excuse me. Is this seat .................. ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "taking"
+            },
+            {
+              "key": "B",
+              "text": "took"
+            },
+            {
+              "key": "C",
+              "text": "occupy"
+            },
+            {
+              "key": "D",
+              "text": "taken"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213538",
+          "question": "He was advised…………singing lessons.li",
+          "options": [
+            {
+              "key": "A",
+              "text": "take"
+            },
+            {
+              "key": "B",
+              "text": "taken"
+            },
+            {
+              "key": "C",
+              "text": "taking"
+            },
+            {
+              "key": "D",
+              "text": "to take"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213539",
+          "question": "We're late. The film …...... by the time we get to the cinema.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will already start"
+            },
+            {
+              "key": "B",
+              "text": "will be already started"
+            },
+            {
+              "key": "C",
+              "text": "will already have started"
+            },
+            {
+              "key": "D",
+              "text": "will be starting"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213540",
+          "question": "I still can not believe it. My bicycle …..... some minutes ago.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was stolen"
+            },
+            {
+              "key": "B",
+              "text": "was stealing"
+            },
+            {
+              "key": "C",
+              "text": "stolen"
+            },
+            {
+              "key": "D",
+              "text": "stole"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213541",
+          "question": "Some funny things ….......... in class yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "happened"
+            },
+            {
+              "key": "B",
+              "text": "were happened"
+            },
+            {
+              "key": "C",
+              "text": "happens"
+            },
+            {
+              "key": "D",
+              "text": "is happened"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213542",
+          "question": "The children's arm was swollen because he .................. by a bee.",
+          "options": [
+            {
+              "key": "A",
+              "text": "stung"
+            },
+            {
+              "key": "B",
+              "text": "had stung"
+            },
+            {
+              "key": "C",
+              "text": "had been stung"
+            },
+            {
+              "key": "D",
+              "text": "had being stung"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213543",
+          "question": "I .................. with you on that subject.",
+          "options": [
+            {
+              "key": "A",
+              "text": "am agree"
+            },
+            {
+              "key": "B",
+              "text": "am agreed"
+            },
+            {
+              "key": "C",
+              "text": "agreeing"
+            },
+            {
+              "key": "D",
+              "text": "agree"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213544",
+          "question": "Many U.S automobiles .................. in Detroit, Michigan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "manufacture"
+            },
+            {
+              "key": "B",
+              "text": "have manufactured"
+            },
+            {
+              "key": "C",
+              "text": "are manufactured"
+            },
+            {
+              "key": "D",
+              "text": "are manufacturing"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213545",
+          "question": "When I came, an experiment ….................. in the lab.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was being holding"
+            },
+            {
+              "key": "B",
+              "text": "has been held"
+            },
+            {
+              "key": "C",
+              "text": "was being held"
+            },
+            {
+              "key": "D",
+              "text": "has held"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213546",
+          "question": "George is ….......... Lisa.",
+          "options": [
+            {
+              "key": "A",
+              "text": "marry with"
+            },
+            {
+              "key": "B",
+              "text": "marry to"
+            },
+            {
+              "key": "C",
+              "text": "married with"
+            },
+            {
+              "key": "D",
+              "text": "married to"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213547",
+          "question": "Last night a tornado swept through Rockvill. It …........ everything in its path.",
+          "options": [
+            {
+              "key": "A",
+              "text": "destroyed"
+            },
+            {
+              "key": "B",
+              "text": "was destroyed"
+            },
+            {
+              "key": "C",
+              "text": "was being destroyed"
+            },
+            {
+              "key": "D",
+              "text": "had been destroyed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213548",
+          "question": "Dynamite …..... by Alfred Bernard Nobel.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have been invented"
+            },
+            {
+              "key": "B",
+              "text": "invented"
+            },
+            {
+              "key": "C",
+              "text": "was invented"
+            },
+            {
+              "key": "D",
+              "text": "was being invented"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213549",
+          "question": "…........ this work.......... before you went to Moscow?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Will/ have been done"
+            },
+            {
+              "key": "B",
+              "text": "Has/ been done"
+            },
+            {
+              "key": "C",
+              "text": "Will/ be done"
+            },
+            {
+              "key": "D",
+              "text": "Had/ been done"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213550",
+          "question": "If you …....... about it, will you be able to answer?",
+          "options": [
+            {
+              "key": "A",
+              "text": "are asked"
+            },
+            {
+              "key": "B",
+              "text": "ask"
+            },
+            {
+              "key": "C",
+              "text": "will be asked"
+            },
+            {
+              "key": "D",
+              "text": "asked"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213551",
+          "question": "Do you believe that such a problem can …...............",
+          "options": [
+            {
+              "key": "A",
+              "text": "solve"
+            },
+            {
+              "key": "B",
+              "text": "be solving"
+            },
+            {
+              "key": "C",
+              "text": "is solved"
+            },
+            {
+              "key": "D",
+              "text": "be solved"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213552",
+          "question": "\" Can't we do something about the situation?\"- \" Something …......... right now.\"",
+          "options": [
+            {
+              "key": "A",
+              "text": "is doing"
+            },
+            {
+              "key": "B",
+              "text": "is do"
+            },
+            {
+              "key": "C",
+              "text": "is being done"
+            },
+            {
+              "key": "D",
+              "text": "has been doing"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213553",
+          "question": "Vitamin C ______ by the human body. It gets into the blood stream quickly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "absorbs easily"
+            },
+            {
+              "key": "B",
+              "text": "is easily absorbing"
+            },
+            {
+              "key": "C",
+              "text": "is easily absorbed"
+            },
+            {
+              "key": "D",
+              "text": "absorbed easily"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213554",
+          "question": "\"When can I have my car back?\" \"I think it'll ______ late this afternoon.\"",
+          "options": [
+            {
+              "key": "A",
+              "text": "finish"
+            },
+            {
+              "key": "B",
+              "text": "be finished"
+            },
+            {
+              "key": "C",
+              "text": "have finished"
+            },
+            {
+              "key": "D",
+              "text": "be finish"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213555",
+          "question": "My country ______ the pursuit of world peace.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is dedicating to"
+            },
+            {
+              "key": "B",
+              "text": "is dedicated to"
+            },
+            {
+              "key": "C",
+              "text": "is dedicating by"
+            },
+            {
+              "key": "D",
+              "text": "is dedicated by"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213556",
+          "question": "I didn't think my interview went very well, but I guess it must have. Despite all my anxiety, I ______ for the job I wanted. I'm really going to work hard to justify their confidence.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was hiring"
+            },
+            {
+              "key": "B",
+              "text": "hired"
+            },
+            {
+              "key": "C",
+              "text": "got hiring"
+            },
+            {
+              "key": "D",
+              "text": "got hired"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213557",
+          "question": "Edward was new on the job, but he quickly fit himself into the ______ routine of the office.",
+          "options": [
+            {
+              "key": "A",
+              "text": "established"
+            },
+            {
+              "key": "B",
+              "text": "establishing"
+            },
+            {
+              "key": "C",
+              "text": "establishes"
+            },
+            {
+              "key": "D",
+              "text": "establish"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213558",
+          "question": "The Mayan Indians ______ an accurate and sophisticated calendar more than seven centuries ago.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were developed"
+            },
+            {
+              "key": "B",
+              "text": "developed"
+            },
+            {
+              "key": "C",
+              "text": "are developed"
+            },
+            {
+              "key": "D",
+              "text": "have been developed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213559",
+          "question": "If you ----------- by the police for speeding , what would you do ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "stopped"
+            },
+            {
+              "key": "B",
+              "text": "are stopped"
+            },
+            {
+              "key": "C",
+              "text": "was stopped"
+            },
+            {
+              "key": "D",
+              "text": "were stopped"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213560",
+          "question": "It ------------ that the strike will end soon.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is expected"
+            },
+            {
+              "key": "B",
+              "text": "expected"
+            },
+            {
+              "key": "C",
+              "text": "are expected"
+            },
+            {
+              "key": "D",
+              "text": "was expected"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213561",
+          "question": "These tennis courts don’t ----------- very often . Not many people want to play.",
+          "options": [
+            {
+              "key": "A",
+              "text": "got used"
+            },
+            {
+              "key": "B",
+              "text": "used"
+            },
+            {
+              "key": "C",
+              "text": "get used"
+            },
+            {
+              "key": "D",
+              "text": "get use"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213562",
+          "question": "Each word in our mental dictionaries ---------- with its unique sound and meaning.",
+          "options": [
+            {
+              "key": "A",
+              "text": "must store"
+            },
+            {
+              "key": "B",
+              "text": "must be stored"
+            },
+            {
+              "key": "C",
+              "text": "must is stored"
+            },
+            {
+              "key": "D",
+              "text": "must to be stored"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213563",
+          "question": "These instructions ----------- precisely.",
+          "options": [
+            {
+              "key": "A",
+              "text": "must follow"
+            },
+            {
+              "key": "B",
+              "text": "must followed"
+            },
+            {
+              "key": "C",
+              "text": "must to be followed"
+            },
+            {
+              "key": "D",
+              "text": "must be followed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213564",
+          "question": "Tuition and fees --------- if a student withdraws after the fifteenth day of the team.",
+          "options": [
+            {
+              "key": "A",
+              "text": "not refunded"
+            },
+            {
+              "key": "B",
+              "text": "will not be refunded"
+            },
+            {
+              "key": "C",
+              "text": "will be not refunded"
+            },
+            {
+              "key": "D",
+              "text": "will not refund"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213565",
+          "question": "When I was a child , I ------------ by my parents.",
+          "options": [
+            {
+              "key": "A",
+              "text": "used to punished"
+            },
+            {
+              "key": "B",
+              "text": "use to be punished"
+            },
+            {
+              "key": "C",
+              "text": "use to punish"
+            },
+            {
+              "key": "D",
+              "text": "used to be punished"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213566",
+          "question": "An international conference --------------- in Hanoi next week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will held"
+            },
+            {
+              "key": "B",
+              "text": "will be hold"
+            },
+            {
+              "key": "C",
+              "text": "is going to hold"
+            },
+            {
+              "key": "D",
+              "text": "will be held"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213567",
+          "question": "The day of the meeting ------------------ again.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will change"
+            },
+            {
+              "key": "B",
+              "text": "will be changed"
+            },
+            {
+              "key": "C",
+              "text": "will has to be changed"
+            },
+            {
+              "key": "D",
+              "text": "will have to change"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213568",
+          "question": "Mary ----------- about our change in plans.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has told"
+            },
+            {
+              "key": "B",
+              "text": "has just been told"
+            },
+            {
+              "key": "C",
+              "text": "has been just told"
+            },
+            {
+              "key": "D",
+              "text": "had been just told"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213569",
+          "question": "These books ------------------------ back to the library.",
+          "options": [
+            {
+              "key": "A",
+              "text": "should have given"
+            },
+            {
+              "key": "B",
+              "text": "should give"
+            },
+            {
+              "key": "C",
+              "text": "should have been given"
+            },
+            {
+              "key": "D",
+              "text": "must have given"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213570",
+          "question": "The earth----------- to be flat.",
+          "options": [
+            {
+              "key": "A",
+              "text": "believed"
+            },
+            {
+              "key": "B",
+              "text": "is believed"
+            },
+            {
+              "key": "C",
+              "text": "was believed"
+            },
+            {
+              "key": "D",
+              "text": "is Considered"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213571",
+          "question": "He is rumoured to --------------- on the way home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have attacked"
+            },
+            {
+              "key": "B",
+              "text": "be attacked"
+            },
+            {
+              "key": "C",
+              "text": "attacked"
+            },
+            {
+              "key": "D",
+              "text": "have been attacked"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213572",
+          "question": "The flight to Hanoi-------------- because of the bad weather.",
+          "options": [
+            {
+              "key": "A",
+              "text": "can postpone"
+            },
+            {
+              "key": "B",
+              "text": "will postpone"
+            },
+            {
+              "key": "C",
+              "text": "can be postponed"
+            },
+            {
+              "key": "D",
+              "text": "can be postpone"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213573",
+          "question": "Had there been your presence, everything ----------------- carefully.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would have arranged"
+            },
+            {
+              "key": "B",
+              "text": "would have been arranged"
+            },
+            {
+              "key": "C",
+              "text": "would be arranged"
+            },
+            {
+              "key": "D",
+              "text": "will be arranged"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213574",
+          "question": "(Chọn đáp án đúng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "is going to build"
+            },
+            {
+              "key": "B",
+              "text": "is going to be build"
+            },
+            {
+              "key": "C",
+              "text": "is going to be built"
+            },
+            {
+              "key": "D",
+              "text": "will build"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213575",
+          "question": "Many species of rare animals --------------- seriously.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is endangered"
+            },
+            {
+              "key": "B",
+              "text": "are in danger"
+            },
+            {
+              "key": "C",
+              "text": "are threaten"
+            },
+            {
+              "key": "D",
+              "text": "are threatened"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213576",
+          "question": "The money .................. to him 2 months ago, but it .................. back yet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was lent/ had not been given"
+            },
+            {
+              "key": "B",
+              "text": "has been lent/ was not given"
+            },
+            {
+              "key": "C",
+              "text": "was lent/ has not given"
+            },
+            {
+              "key": "D",
+              "text": "was lent/ has not been given"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213577",
+          "question": "She could easily .................. for a top model.",
+          "options": [
+            {
+              "key": "A",
+              "text": "be mistaken"
+            },
+            {
+              "key": "B",
+              "text": "have mistaken"
+            },
+            {
+              "key": "C",
+              "text": "been mistaken"
+            },
+            {
+              "key": "D",
+              "text": "to be mistaken"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213578",
+          "question": "My shirt .................. by my sister on my last birthday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "gave"
+            },
+            {
+              "key": "B",
+              "text": "was given"
+            },
+            {
+              "key": "C",
+              "text": "had been given"
+            },
+            {
+              "key": "D",
+              "text": "was being given"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213579",
+          "question": "“Did Shakespeare write this play?”",
+          "options": [
+            {
+              "key": "A",
+              "text": "Did this play be written by Shakespeare?"
+            },
+            {
+              "key": "B",
+              "text": "Was this play written by Shakespeare?"
+            },
+            {
+              "key": "C",
+              "text": "This play was written by Shakespeare"
+            },
+            {
+              "key": "D",
+              "text": "Did this play Shakespeare write?"
+            }
+          ],
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "id": "PV-P3",
+      "title": "Luyện Tập Câu Chủ Động, Bị Động 3 (50 câu)",
+      "exercises": [
+        {
+          "id": "213580",
+          "question": "They spent a lot of money on food and clothes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "A lot of money on food were spent"
+            },
+            {
+              "key": "B",
+              "text": "A lot of money was spent on food and clothes"
+            },
+            {
+              "key": "C",
+              "text": "A lot of money were spent on food and clothes"
+            },
+            {
+              "key": "D",
+              "text": "Money was spent a lot on food and clothes"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213581",
+          "question": "The restaurant serves seafood every Monday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Seafood is served every Monday"
+            },
+            {
+              "key": "B",
+              "text": "Seafood was served every Monday"
+            },
+            {
+              "key": "C",
+              "text": "Seafood are served every Monday"
+            },
+            {
+              "key": "D",
+              "text": "Seafood were served every Monday"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213582",
+          "question": "Mary informed the police of the news",
+          "options": [
+            {
+              "key": "A",
+              "text": "The police was informed of the news"
+            },
+            {
+              "key": "B",
+              "text": "The news was informed of the police"
+            },
+            {
+              "key": "C",
+              "text": "The police were informed of the news"
+            },
+            {
+              "key": "D",
+              "text": "The police of the news was informed by Mary"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213583",
+          "question": "The ambulance is taking the boy to hospital.",
+          "options": [
+            {
+              "key": "A",
+              "text": "To the hospital is the boy being taken"
+            },
+            {
+              "key": "B",
+              "text": "The boy is being taking to hospital"
+            },
+            {
+              "key": "C",
+              "text": "The boy is being taken to hospital"
+            },
+            {
+              "key": "D",
+              "text": "The boy is taken to hospital"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213584",
+          "question": "The engineers will construct a bridge over this house.",
+          "options": [
+            {
+              "key": "A",
+              "text": "This house will be constructed over a bridge"
+            },
+            {
+              "key": "B",
+              "text": "A bridge will be constructed over this house"
+            },
+            {
+              "key": "C",
+              "text": "This house will be being constructed over a bridge"
+            },
+            {
+              "key": "D",
+              "text": "A bridge will be be ing constructed over this house"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213585",
+          "question": "Someone has stolen his gun.",
+          "options": [
+            {
+              "key": "A",
+              "text": "His gun has been stolen"
+            },
+            {
+              "key": "B",
+              "text": "His gun has stolen"
+            },
+            {
+              "key": "C",
+              "text": "He has been stolen the gun"
+            },
+            {
+              "key": "D",
+              "text": "The gun has been stolen him"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213586",
+          "question": "We have to tell Mary about our change in plans.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mary has to be told about our change in plans"
+            },
+            {
+              "key": "B",
+              "text": "Our change in plans should be told for Mary"
+            },
+            {
+              "key": "C",
+              "text": "Mary is told about our change in plans"
+            },
+            {
+              "key": "D",
+              "text": "Our change in plans is told to Mary"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213587",
+          "question": "Which book do the students love?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Which book are done love by the students?"
+            },
+            {
+              "key": "B",
+              "text": "Which book is the students loved?"
+            },
+            {
+              "key": "C",
+              "text": "Which book are loved by the students?"
+            },
+            {
+              "key": "D",
+              "text": "Which book is loved by the students?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213588",
+          "question": "The directors have fired those lazy clerks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Those lazy clerks have been fired"
+            },
+            {
+              "key": "B",
+              "text": "Those lazy clerks has been fired"
+            },
+            {
+              "key": "C",
+              "text": "Those lazy clerks had been fired"
+            },
+            {
+              "key": "D",
+              "text": "Those lazy clerks were fired"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213589",
+          "question": "They didn’t explain anything about that.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nothing was explained about that"
+            },
+            {
+              "key": "B",
+              "text": "That wasn’t explained anything by them"
+            },
+            {
+              "key": "C",
+              "text": "Anything wasn’t explained about that"
+            },
+            {
+              "key": "D",
+              "text": "Something wasn’t explained about that"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213590",
+          "question": "They showed his photograph on television.",
+          "options": [
+            {
+              "key": "A",
+              "text": "On television they have his photograph shown"
+            },
+            {
+              "key": "B",
+              "text": "His photograph was shown on television"
+            },
+            {
+              "key": "C",
+              "text": "His photograph is being shown on television"
+            },
+            {
+              "key": "D",
+              "text": "The television was shown his photograph"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213591",
+          "question": "We must find this killer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "This killer we must find"
+            },
+            {
+              "key": "B",
+              "text": "This killer is found"
+            },
+            {
+              "key": "C",
+              "text": "This killer be found"
+            },
+            {
+              "key": "D",
+              "text": "This killer must be found"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213592",
+          "question": "They signed the contract at lunchtime.",
+          "options": [
+            {
+              "key": "A",
+              "text": "They were signed the contract at lunchtime"
+            },
+            {
+              "key": "B",
+              "text": "At lunchtime the contract were signed"
+            },
+            {
+              "key": "C",
+              "text": "The contract at lunchtime was signed"
+            },
+            {
+              "key": "D",
+              "text": "The contract was signed at lunchtime"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213593",
+          "question": "Someone ought to do something about it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Something about it ought to be done"
+            },
+            {
+              "key": "B",
+              "text": "Someone ought to be done about it"
+            },
+            {
+              "key": "C",
+              "text": "Something ought to be done about it"
+            },
+            {
+              "key": "D",
+              "text": "It ought to be done something by someone"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213594",
+          "question": "People should send their complaints to the head office.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their complaints were sent to the head office"
+            },
+            {
+              "key": "B",
+              "text": "The head office was sent their complaints"
+            },
+            {
+              "key": "C",
+              "text": "Their complaints should be sent to the head office"
+            },
+            {
+              "key": "D",
+              "text": "The head office should be sent complaints"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213595",
+          "question": "People don’t use this road very often.",
+          "options": [
+            {
+              "key": "A",
+              "text": "This road don’t be used very often"
+            },
+            {
+              "key": "B",
+              "text": "This road is not used very often"
+            },
+            {
+              "key": "C",
+              "text": "This road is used not very often"
+            },
+            {
+              "key": "D",
+              "text": "This road is not often used"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213596",
+          "question": "Miller has taken a lot of photographs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Photographs have been taken by Miller"
+            },
+            {
+              "key": "B",
+              "text": "Photographs have been taken a lot of by Miller"
+            },
+            {
+              "key": "C",
+              "text": "A lot of photographs were taken by Miller"
+            },
+            {
+              "key": "D",
+              "text": "A lot of photographs have been taken by Miller"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213597",
+          "question": "The teacher gave us two very difficult exercises.",
+          "options": [
+            {
+              "key": "A",
+              "text": "We were given two very difficult exercises"
+            },
+            {
+              "key": "B",
+              "text": "Two very difficult exercises were given to the teacher"
+            },
+            {
+              "key": "C",
+              "text": "Two very difficult exercises were given to us"
+            },
+            {
+              "key": "D",
+              "text": "Both ("
+            },
+            {
+              "key": "A",
+              "text": "and ("
+            },
+            {
+              "key": "C",
+              "text": "are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213598",
+          "question": "They said that he was all right .",
+          "options": [
+            {
+              "key": "A",
+              "text": "He said he was all right"
+            },
+            {
+              "key": "B",
+              "text": "They were said him was all right"
+            },
+            {
+              "key": "C",
+              "text": "He was said he was all right"
+            },
+            {
+              "key": "D",
+              "text": "He was said to be all right"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213599",
+          "question": "The lawyer is interviewing the witness.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The witness is interviewed"
+            },
+            {
+              "key": "B",
+              "text": "The witness is being interviewed"
+            },
+            {
+              "key": "C",
+              "text": "The lawyer is interviewed"
+            },
+            {
+              "key": "D",
+              "text": "The lawyer is being interviewed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213600",
+          "question": "They are taking photographs of the event.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The event was taken photographs"
+            },
+            {
+              "key": "B",
+              "text": "The event is taken photographs"
+            },
+            {
+              "key": "C",
+              "text": "Photographs are taken of the event"
+            },
+            {
+              "key": "D",
+              "text": "Photographs of the event are being taken"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213601",
+          "question": "How do people learn languages?",
+          "options": [
+            {
+              "key": "A",
+              "text": "How are languages learned?"
+            },
+            {
+              "key": "B",
+              "text": "How are languages learned by people?"
+            },
+            {
+              "key": "C",
+              "text": "How languages are learned?"
+            },
+            {
+              "key": "D",
+              "text": "Languages are learned how?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213602",
+          "question": "Nobody told me that George was ill.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I was told that George wasn't ill"
+            },
+            {
+              "key": "B",
+              "text": "I wasn't told that George was ill"
+            },
+            {
+              "key": "C",
+              "text": "George wasn't told to be ill"
+            },
+            {
+              "key": "D",
+              "text": "George was told not to be ill"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213603",
+          "question": "His colleagues gave him a present when he retired.",
+          "options": [
+            {
+              "key": "A",
+              "text": "He was given a present when he retired"
+            },
+            {
+              "key": "B",
+              "text": "A present was given by his colleagues when he retired"
+            },
+            {
+              "key": "C",
+              "text": "He was given a present by his colleagues when he retired"
+            },
+            {
+              "key": "D",
+              "text": "A present was given him w hen he retired"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213604",
+          "question": "We will send you the results as soon as they are ready.",
+          "options": [
+            {
+              "key": "A",
+              "text": "You will be sent the results as soon as they are ready"
+            },
+            {
+              "key": "B",
+              "text": "You will be sent the results as soon as they are ready by us"
+            },
+            {
+              "key": "C",
+              "text": "The results will be sent you by us as soon as they are ready"
+            },
+            {
+              "key": "D",
+              "text": "The results will be sent you as soon as they are ready by us"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213605",
+          "question": "Brian told me that somebody had attacked him in the street.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I was told by Brian that somebody was attacked in the street"
+            },
+            {
+              "key": "B",
+              "text": "I told Brian that he had been attacked in the street"
+            },
+            {
+              "key": "C",
+              "text": "Brian told me that have been attacked in the street"
+            },
+            {
+              "key": "D",
+              "text": "Brian told me that he had been attacked in the street"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213606",
+          "question": "They say that many people are homeless after the earthquake.",
+          "options": [
+            {
+              "key": "A",
+              "text": "They say many people to have been homeless after the tsunami"
+            },
+            {
+              "key": "B",
+              "text": "They say many people to be homeless after the tsunami"
+            },
+            {
+              "key": "C",
+              "text": "Many people are said to have been homeless after the tsunami"
+            },
+            {
+              "key": "D",
+              "text": "Many people are said to be homeless after the tsunami"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213607",
+          "question": "We cannot do it that way.",
+          "options": [
+            {
+              "key": "A",
+              "text": "It cannot do that way"
+            },
+            {
+              "key": "B",
+              "text": "It cannot be done that way"
+            },
+            {
+              "key": "C",
+              "text": "That way it can’t be done"
+            },
+            {
+              "key": "D",
+              "text": "That way can’t be done"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213608",
+          "question": "We cannot do it that way.",
+          "options": [
+            {
+              "key": "A",
+              "text": "It cannot do that way"
+            },
+            {
+              "key": "B",
+              "text": "It cannot be done that way"
+            },
+            {
+              "key": "C",
+              "text": "That way it can’t be done"
+            },
+            {
+              "key": "D",
+              "text": "That way can’t be done"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213609",
+          "question": "They think that the prisoner escaped by climbing over the wall.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The prisoner is thought to escape by climbing over the wall"
+            },
+            {
+              "key": "B",
+              "text": "The prisoner is thought escaped by climbing over the wall"
+            },
+            {
+              "key": "C",
+              "text": "The prisoner is thought having escaped by climbing over the wall"
+            },
+            {
+              "key": "D",
+              "text": "The prisoner is thought to have escaped by climbing over the wall"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213610",
+          "question": "They believe that the thieves got in through the kitchen window.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The thieves are believed to have got in through the kitchen window"
+            },
+            {
+              "key": "B",
+              "text": "The thieves are believed to get in through the kitchen window"
+            },
+            {
+              "key": "C",
+              "text": "They believe the thieves got in through the kitchen window"
+            },
+            {
+              "key": "D",
+              "text": "They believe the thieves have go t in through the kitchen window"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213611",
+          "question": "They report that over 200,000 people were killed in the tsunami.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Over 200,000 people are reported to have been killed in the tsunami"
+            },
+            {
+              "key": "B",
+              "text": "Over 200,000 people are reported to be killed in the tsunami"
+            },
+            {
+              "key": "C",
+              "text": "Over 200,000 people are reported to have killed in the tsunami"
+            },
+            {
+              "key": "D",
+              "text": "Over 200,000 people are reported to kill in the tsunami"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213612",
+          "question": "We found that they had cancelled the game.",
+          "options": [
+            {
+              "key": "A",
+              "text": "We found that the game had been cancelled"
+            },
+            {
+              "key": "B",
+              "text": "The game had been cancelled"
+            },
+            {
+              "key": "C",
+              "text": "we found that the game had been cancelled by them"
+            },
+            {
+              "key": "D",
+              "text": "The game were found to be cancelled"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213613",
+          "question": "Where did they make your shoes?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Where were they made your shoes?"
+            },
+            {
+              "key": "B",
+              "text": "Where did your shoes made?"
+            },
+            {
+              "key": "C",
+              "text": "Where were your shoes made?"
+            },
+            {
+              "key": "D",
+              "text": "Where were your shoes make?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213614",
+          "question": "Keep the machine always clean.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The machine is always kept clean"
+            },
+            {
+              "key": "B",
+              "text": "The machine should be kept clean always"
+            },
+            {
+              "key": "C",
+              "text": "Let the machine always be kept cleaned"
+            },
+            {
+              "key": "D",
+              "text": "Let the machine be always kept clean"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213615",
+          "question": "We found that they had cancelled the soccer match.",
+          "options": [
+            {
+              "key": "A",
+              "text": "We found that the soccer match had been cancelled"
+            },
+            {
+              "key": "B",
+              "text": "The soccer match had been cancelled"
+            },
+            {
+              "key": "C",
+              "text": "The soccer match was found that had been cancelled"
+            },
+            {
+              "key": "D",
+              "text": "The soccer match was found to have been cancelled by us"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213616",
+          "question": "How many slums are they going to clear?",
+          "options": [
+            {
+              "key": "A",
+              "text": "How many slums are being gone to clear?"
+            },
+            {
+              "key": "B",
+              "text": "How many slums are being cleared?"
+            },
+            {
+              "key": "C",
+              "text": "How many slums are going to clear?"
+            },
+            {
+              "key": "D",
+              "text": "How many slums are going to be cleared?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213617",
+          "question": "Who wrote the report on the air pollution?",
+          "options": [
+            {
+              "key": "A",
+              "text": "By whom was the report on the air pollution written?"
+            },
+            {
+              "key": "B",
+              "text": "Whom was the report written on the air pollution by?"
+            },
+            {
+              "key": "C",
+              "text": "By whom was the report written on the air pollution?"
+            },
+            {
+              "key": "D",
+              "text": "No answer is correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213618",
+          "question": "He sent me a nice gift on my birthday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I was sent a nice gift on my birthday by him"
+            },
+            {
+              "key": "B",
+              "text": "A nice gift was sent me on my birthday by him"
+            },
+            {
+              "key": "C",
+              "text": "A nice gift was sent to me on my birthday by him"
+            },
+            {
+              "key": "D",
+              "text": "Both A & C are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213619",
+          "question": "His relatives say that he is an adopted child. He is said ___an adopted child",
+          "options": [
+            {
+              "key": "A",
+              "text": "to be"
+            },
+            {
+              "key": "B",
+              "text": "to being"
+            },
+            {
+              "key": "C",
+              "text": "to been"
+            },
+            {
+              "key": "D",
+              "text": "to have been"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213620",
+          "question": "I found that what he said was incorrect .What he said ___ incorrect",
+          "options": [
+            {
+              "key": "A",
+              "text": "was found"
+            },
+            {
+              "key": "B",
+              "text": "was found to be"
+            },
+            {
+              "key": "C",
+              "text": "was founded"
+            },
+            {
+              "key": "D",
+              "text": "has been found"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213621",
+          "question": "We consider him the best speaker of the debate. He__ the best speaker of the debate",
+          "options": [
+            {
+              "key": "A",
+              "text": "is considered to be"
+            },
+            {
+              "key": "B",
+              "text": "is considering"
+            },
+            {
+              "key": "C",
+              "text": "was considered"
+            },
+            {
+              "key": "D",
+              "text": "was considering"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213622",
+          "question": "We thought you were serious when you said you were leaving. You were thought ___________when you said you were leaving",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have been serious"
+            },
+            {
+              "key": "B",
+              "text": "to being serious"
+            },
+            {
+              "key": "C",
+              "text": "to be serious"
+            },
+            {
+              "key": "D",
+              "text": "to have been seriously"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213623",
+          "question": "The castle ………………… in the 16th century.",
+          "options": [
+            {
+              "key": "A",
+              "text": "built"
+            },
+            {
+              "key": "B",
+              "text": "has built"
+            },
+            {
+              "key": "C",
+              "text": "was built"
+            },
+            {
+              "key": "D",
+              "text": "had built"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213624",
+          "question": "French …………………… in many parts of Europe.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is being spoken"
+            },
+            {
+              "key": "B",
+              "text": "is spoken"
+            },
+            {
+              "key": "C",
+              "text": "has been spoken"
+            },
+            {
+              "key": "D",
+              "text": "has spoken"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213625",
+          "question": "The car …………………… by the mechanic.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is repairing"
+            },
+            {
+              "key": "B",
+              "text": "is being repaired"
+            },
+            {
+              "key": "C",
+              "text": "has repaired"
+            },
+            {
+              "key": "D",
+              "text": "has repaired"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213626",
+          "question": "I ……………………… but I went anyway.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wasn’t invited"
+            },
+            {
+              "key": "B",
+              "text": "haven’t invited"
+            },
+            {
+              "key": "C",
+              "text": "wasn’t being invited"
+            },
+            {
+              "key": "D",
+              "text": "hadn’t invited"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213627",
+          "question": "Young babies need to ……………………",
+          "options": [
+            {
+              "key": "A",
+              "text": "take care of"
+            },
+            {
+              "key": "B",
+              "text": "be taken care of"
+            },
+            {
+              "key": "C",
+              "text": "have taken care of"
+            },
+            {
+              "key": "D",
+              "text": "are taken care of"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213628",
+          "question": "I didn’t know why I …………………",
+          "options": [
+            {
+              "key": "A",
+              "text": "have been chosen"
+            },
+            {
+              "key": "B",
+              "text": "had been chosen"
+            },
+            {
+              "key": "C",
+              "text": "had chosen"
+            },
+            {
+              "key": "D",
+              "text": "had chosen"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213629",
+          "question": "I …………………… about her reaction.",
+          "options": [
+            {
+              "key": "A",
+              "text": "am worried"
+            },
+            {
+              "key": "B",
+              "text": "am being worried"
+            },
+            {
+              "key": "C",
+              "text": "have worried"
+            },
+            {
+              "key": "D",
+              "text": "worried"
+            }
+          ],
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "id": "PV-P4",
+      "title": "Luyện Tập Câu Chủ Động, Bị Động 4 (50 câu)",
+      "exercises": [
+        {
+          "id": "213682",
+          "question": "My watch was broken.",
+          "options": [
+            {
+              "key": "A",
+              "text": "He broke my watch"
+            },
+            {
+              "key": "B",
+              "text": "My watch were broken"
+            },
+            {
+              "key": "C",
+              "text": "My watch be broken"
+            },
+            {
+              "key": "D",
+              "text": "My watch is broken"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213683",
+          "question": "The teacher explained the rule to the student.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The rule was explained to the student"
+            },
+            {
+              "key": "B",
+              "text": "The students were explained the rule"
+            },
+            {
+              "key": "C",
+              "text": "The students were explained the rules"
+            },
+            {
+              "key": "D",
+              "text": "A and B are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213684",
+          "question": "He often asks me to help him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "He is often asked to help them"
+            },
+            {
+              "key": "B",
+              "text": "They are often asked to help me"
+            },
+            {
+              "key": "C",
+              "text": "I am often asked to help him"
+            },
+            {
+              "key": "D",
+              "text": "I am often asked him to help me"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213685",
+          "question": "His friends never forgave his betrayal.",
+          "options": [
+            {
+              "key": "A",
+              "text": "His betrayal were never forgiven by his friends"
+            },
+            {
+              "key": "B",
+              "text": "His betrayal was never forgiven by his friends"
+            },
+            {
+              "key": "C",
+              "text": "His betrayal was never forgave by his friends"
+            },
+            {
+              "key": "D",
+              "text": "His betrayal never forgave by his friends"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213686",
+          "question": "I am sure we’ll settle the matter easily.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I’m sure the matter will settle easily"
+            },
+            {
+              "key": "B",
+              "text": "I’m sure the matter will be settled easily"
+            },
+            {
+              "key": "C",
+              "text": "I’m sure the matter will settled easily"
+            },
+            {
+              "key": "D",
+              "text": "I’m sure the matter won’t be settled easily"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213687",
+          "question": "We sent for the police.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The police was sent for"
+            },
+            {
+              "key": "B",
+              "text": "The police were sent for"
+            },
+            {
+              "key": "C",
+              "text": "The police was sent"
+            },
+            {
+              "key": "D",
+              "text": "The police was sent for us"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213688",
+          "question": "They speak much about this book.",
+          "options": [
+            {
+              "key": "A",
+              "text": "This book is much spoken about"
+            },
+            {
+              "key": "B",
+              "text": "This book is much spoken"
+            },
+            {
+              "key": "C",
+              "text": "This book is much about spoken"
+            },
+            {
+              "key": "D",
+              "text": "This book are much spoken about"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213689",
+          "question": "Have they tested all the machines?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Have all the machines be tested?"
+            },
+            {
+              "key": "B",
+              "text": "Have all the machines been testing?"
+            },
+            {
+              "key": "C",
+              "text": "Have all the machines been tested?"
+            },
+            {
+              "key": "D",
+              "text": "Have all the machines been being testing?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213690",
+          "question": "Does he realize that they are laughing at him?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Is he realized that he is laughing at?"
+            },
+            {
+              "key": "B",
+              "text": "Is he realized that he is being laughed at?"
+            },
+            {
+              "key": "C",
+              "text": "Does he realize that he is laughing at?"
+            },
+            {
+              "key": "D",
+              "text": "Does he realize that he is being laughed at?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213691",
+          "question": "The manager offers me several jobs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I was offers several jobs"
+            },
+            {
+              "key": "B",
+              "text": "I am offered several jobs"
+            },
+            {
+              "key": "C",
+              "text": "Several jobs are offered to me"
+            },
+            {
+              "key": "D",
+              "text": "B and C are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213692",
+          "question": "“Did Shakespeare write this play?”",
+          "options": [
+            {
+              "key": "A",
+              "text": "Did this play be written by Shakespeare?"
+            },
+            {
+              "key": "B",
+              "text": "Was this play written by Shakespeare?"
+            },
+            {
+              "key": "C",
+              "text": "This play was written by Shakespeare"
+            },
+            {
+              "key": "D",
+              "text": "Did this play Shakespeare write?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213693",
+          "question": "Esther gave Sue a nice present.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Esther was given a nice present by Sue"
+            },
+            {
+              "key": "B",
+              "text": "Sue was given a nice present by Esther"
+            },
+            {
+              "key": "C",
+              "text": "A nice present was given to Esther by Sue"
+            },
+            {
+              "key": "D",
+              "text": "A nice present was given to Sue from Esther"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213694",
+          "question": "(Chọn đáp án đúng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "The dog was hit by a small red car"
+            },
+            {
+              "key": "B",
+              "text": "The dog is hit by a small red car"
+            },
+            {
+              "key": "C",
+              "text": "A dog was hitted by the small red car"
+            },
+            {
+              "key": "D",
+              "text": "The dog has hit by a small red car"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213695",
+          "question": "(Chọn đáp án đúng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bob's painting has stole by a thief"
+            },
+            {
+              "key": "B",
+              "text": "Bob's painting was stolen by a thief"
+            },
+            {
+              "key": "C",
+              "text": "Bob's painting was stole by a thief"
+            },
+            {
+              "key": "D",
+              "text": "Bob's painting was stealed by a thief"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213696",
+          "question": "The news surprised us all.",
+          "options": [
+            {
+              "key": "A",
+              "text": "We all surprising by the news"
+            },
+            {
+              "key": "B",
+              "text": "We all surprised by the news"
+            },
+            {
+              "key": "C",
+              "text": "We all are surprised from the news"
+            },
+            {
+              "key": "D",
+              "text": "We all were surprised by the news"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213697",
+          "question": "Where did they find the book?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Where is the book found?"
+            },
+            {
+              "key": "B",
+              "text": "Where has been found the book?"
+            },
+            {
+              "key": "C",
+              "text": "Where was the book found?"
+            },
+            {
+              "key": "D",
+              "text": "Where was found the book?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213698",
+          "question": "He cut the bread with a big knife.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The bread was cutted with a big knife"
+            },
+            {
+              "key": "B",
+              "text": "The bread is cut with a big knife"
+            },
+            {
+              "key": "C",
+              "text": "The bread was cut with a big knife"
+            },
+            {
+              "key": "D",
+              "text": "The bread has cut with a big knife by him"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213699",
+          "question": "Joan spread the newspaper out on the floor.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The newspaper was spreaded out on the floor by Joan"
+            },
+            {
+              "key": "B",
+              "text": "The newspaper has spreaded out on the floor"
+            },
+            {
+              "key": "C",
+              "text": "The newspaper is spreaded out on the floor"
+            },
+            {
+              "key": "D",
+              "text": "The newspaper was spread out on the floor by Joan"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213700",
+          "question": "Where did he put the suitcase?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Where did the suitcase put by him?"
+            },
+            {
+              "key": "B",
+              "text": "Where was the suitcase put?"
+            },
+            {
+              "key": "C",
+              "text": "Where has the suitcase been put by him?"
+            },
+            {
+              "key": "D",
+              "text": "Where was the suitcase putted?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213701",
+          "question": "Their father's stories amused them.",
+          "options": [
+            {
+              "key": "A",
+              "text": "They were amused by their father's stories"
+            },
+            {
+              "key": "B",
+              "text": "They were amusing by their father's stories"
+            },
+            {
+              "key": "C",
+              "text": "They amused by their father's stories"
+            },
+            {
+              "key": "D",
+              "text": "They had amusing by their father's stories"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213702",
+          "question": "Ben drove me to the airport.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I was drove to the airport by Ben"
+            },
+            {
+              "key": "B",
+              "text": "I was driven to the airport by Ben"
+            },
+            {
+              "key": "C",
+              "text": "I was drived to the airport by Ben"
+            },
+            {
+              "key": "D",
+              "text": "I been drive to the airport by Ben"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213703",
+          "question": "People said that he is a good doctor.",
+          "options": [
+            {
+              "key": "A",
+              "text": "He was said to have been a good doctor"
+            },
+            {
+              "key": "B",
+              "text": "It was said that he is a good doctor"
+            },
+            {
+              "key": "C",
+              "text": "It is said that he is a good doctor"
+            },
+            {
+              "key": "D",
+              "text": "A & B are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213704",
+          "question": "People thought he stole my car.",
+          "options": [
+            {
+              "key": "A",
+              "text": "He was thought to have stolen my car"
+            },
+            {
+              "key": "B",
+              "text": "It was thought that he stole my car"
+            },
+            {
+              "key": "C",
+              "text": "It was thought that he has stolen my car"
+            },
+            {
+              "key": "D",
+              "text": "A & B are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213705",
+          "question": "Everything that _____ remained a secret.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had be overheard"
+            },
+            {
+              "key": "B",
+              "text": "had been overheard"
+            },
+            {
+              "key": "C",
+              "text": "had been overheared"
+            },
+            {
+              "key": "D",
+              "text": "would had been overheard"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213706",
+          "question": "I _____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have not given the money"
+            },
+            {
+              "key": "B",
+              "text": "have not been given the money"
+            },
+            {
+              "key": "C",
+              "text": "have not been give the money"
+            },
+            {
+              "key": "D",
+              "text": "have not be given the money"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213707",
+          "question": "It _____ for years.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has not been known"
+            },
+            {
+              "key": "B",
+              "text": "had not been known"
+            },
+            {
+              "key": "C",
+              "text": "had not be known"
+            },
+            {
+              "key": "D",
+              "text": "have not been known"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213708",
+          "question": "It _____ that learning English is easy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are said"
+            },
+            {
+              "key": "B",
+              "text": "said"
+            },
+            {
+              "key": "C",
+              "text": "is said"
+            },
+            {
+              "key": "D",
+              "text": "is sayed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213709",
+          "question": "John and Ann _____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were not misleed"
+            },
+            {
+              "key": "B",
+              "text": "were not misleded"
+            },
+            {
+              "key": "C",
+              "text": "was not misled"
+            },
+            {
+              "key": "D",
+              "text": "were not misled"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213710",
+          "question": "Our horses _____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are well feeded"
+            },
+            {
+              "key": "B",
+              "text": "are well fed"
+            },
+            {
+              "key": "C",
+              "text": "is well fed"
+            },
+            {
+              "key": "D",
+              "text": "is well feeded"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213711",
+          "question": "Peter and Tom _____ in an accident yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is hurt"
+            },
+            {
+              "key": "B",
+              "text": "is hurted"
+            },
+            {
+              "key": "C",
+              "text": "were hurt"
+            },
+            {
+              "key": "D",
+              "text": "were hurted"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213712",
+          "question": "The positive hydrogen atoms ………………… to the negative hydrogen atoms.",
+          "options": [
+            {
+              "key": "A",
+              "text": "attracted"
+            },
+            {
+              "key": "B",
+              "text": "are attracted"
+            },
+            {
+              "key": "C",
+              "text": "have attracted"
+            },
+            {
+              "key": "D",
+              "text": "have been attracting"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213713",
+          "question": "Medicines …………………………………… among the poor.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were distributing"
+            },
+            {
+              "key": "B",
+              "text": "distributed"
+            },
+            {
+              "key": "C",
+              "text": "were distributed"
+            },
+            {
+              "key": "D",
+              "text": "no answer is correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213714",
+          "question": "Three bullets ……………………………………….. from his body.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had removed"
+            },
+            {
+              "key": "B",
+              "text": "had been removed"
+            },
+            {
+              "key": "C",
+              "text": "removed"
+            },
+            {
+              "key": "D",
+              "text": "no answer is correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213715",
+          "question": "Seats ……………………………………. for the visitors.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were reserving"
+            },
+            {
+              "key": "B",
+              "text": "had reserved"
+            },
+            {
+              "key": "C",
+              "text": "had been reserved"
+            },
+            {
+              "key": "D",
+              "text": "no answer is correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213716",
+          "question": "He ……………………………. the truth from his wife.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hidden"
+            },
+            {
+              "key": "B",
+              "text": "had hidden"
+            },
+            {
+              "key": "C",
+              "text": "had been hidden"
+            },
+            {
+              "key": "D",
+              "text": "hid"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213717",
+          "question": "Nothing ………………………………… in the house.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had left"
+            },
+            {
+              "key": "B",
+              "text": "had been left"
+            },
+            {
+              "key": "C",
+              "text": "left"
+            },
+            {
+              "key": "D",
+              "text": "is leaving"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213718",
+          "question": "Any vehicles found parked in front of these gates will ……",
+          "options": [
+            {
+              "key": "A",
+              "text": "removing"
+            },
+            {
+              "key": "B",
+              "text": "remove"
+            },
+            {
+              "key": "C",
+              "text": "be removed"
+            },
+            {
+              "key": "D",
+              "text": "are removed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213719",
+          "question": "(Chọn đáp án đúng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "have arrested"
+            },
+            {
+              "key": "B",
+              "text": "have been arrested"
+            },
+            {
+              "key": "C",
+              "text": "has arrested"
+            },
+            {
+              "key": "D",
+              "text": "has been arrested"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213720",
+          "question": "On March 11, 2011 Japan …….(hit) by a devastating earthquake, which triggered a tsunami that measured as high as 10 meters in some places.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hitted"
+            },
+            {
+              "key": "B",
+              "text": "was hitted"
+            },
+            {
+              "key": "C",
+              "text": "was hit"
+            },
+            {
+              "key": "D",
+              "text": "hits"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213721",
+          "question": "(Chọn đáp án đúng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have successfully made"
+            },
+            {
+              "key": "B",
+              "text": "to have been successfully made"
+            },
+            {
+              "key": "C",
+              "text": "to successfully make"
+            },
+            {
+              "key": "D",
+              "text": "A & C are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213722",
+          "question": "Whatever you do, don't let yourself ……… (cheat).",
+          "options": [
+            {
+              "key": "A",
+              "text": "cheat"
+            },
+            {
+              "key": "B",
+              "text": "be cheated"
+            },
+            {
+              "key": "C",
+              "text": "to be cheated"
+            },
+            {
+              "key": "D",
+              "text": "to cheat"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213723",
+          "question": "If he had taken my advice, he ………. (not be) in trouble now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t"
+            },
+            {
+              "key": "B",
+              "text": "won’t be"
+            },
+            {
+              "key": "C",
+              "text": "wouldn’t be"
+            },
+            {
+              "key": "D",
+              "text": "hasn’t been"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213724",
+          "question": "Many people claimed ……… (see) unidentified flying objects.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to see"
+            },
+            {
+              "key": "B",
+              "text": "to have seen"
+            },
+            {
+              "key": "C",
+              "text": "to had seen"
+            },
+            {
+              "key": "D",
+              "text": "see"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213725",
+          "question": "The tragic sinking of the Titanic (always remember) for she went down on her first voyage with heavy loss of life.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will always remember"
+            },
+            {
+              "key": "B",
+              "text": "will always be remembered"
+            },
+            {
+              "key": "C",
+              "text": "always remember"
+            },
+            {
+              "key": "D",
+              "text": "no answer is correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213726",
+          "question": "The noblest and most imperative task of a Government is ……. (defend) the sovereignty, independence and territorial integrity of the Nation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "defending"
+            },
+            {
+              "key": "B",
+              "text": "to defend"
+            },
+            {
+              "key": "C",
+              "text": "defended"
+            },
+            {
+              "key": "D",
+              "text": "defent"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213727",
+          "question": "Henry deported for having an expired visa. He should ……. (have) his visa ….. (renew)",
+          "options": [
+            {
+              "key": "A",
+              "text": "have, renewing"
+            },
+            {
+              "key": "B",
+              "text": "have had, renewing"
+            },
+            {
+              "key": "C",
+              "text": "have had, renewed"
+            },
+            {
+              "key": "D",
+              "text": "have had, to be renewed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213728",
+          "question": "It is highly desirable that every effort (make) to reduce expenditure.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is made"
+            },
+            {
+              "key": "B",
+              "text": "has been made"
+            },
+            {
+              "key": "C",
+              "text": "be made"
+            },
+            {
+              "key": "D",
+              "text": "A&B are correct"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213729",
+          "question": "This homework is not as good as usual. I think you should (spend) time on it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "be spent"
+            },
+            {
+              "key": "B",
+              "text": "spend"
+            },
+            {
+              "key": "C",
+              "text": "have spent"
+            },
+            {
+              "key": "D",
+              "text": "have been spent"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213730",
+          "question": "I apologized for the mistake (make) by my team. There appears to (be) a slight misunderstanding.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is made, be"
+            },
+            {
+              "key": "B",
+              "text": "made, have been"
+            },
+            {
+              "key": "C",
+              "text": "making, have been"
+            },
+            {
+              "key": "D",
+              "text": "made, being"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "213731",
+          "question": "The medicine made me feel dizzy. I felt as though the room (spin) around and around.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is spinning"
+            },
+            {
+              "key": "B",
+              "text": "was spinning"
+            },
+            {
+              "key": "C",
+              "text": "were spinning"
+            },
+            {
+              "key": "D",
+              "text": "was spun"
+            }
+          ],
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "id": "PV-T1",
+      "title": "Thi Online: Câu Chủ Động, Bị Động 1 (30 câu)",
+      "exercises": [
+        {
+          "id": "606944",
+          "question": "We can’t go along here because the road _____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is repairing"
+            },
+            {
+              "key": "B",
+              "text": "is repaired"
+            },
+            {
+              "key": "C",
+              "text": "is being repaired"
+            },
+            {
+              "key": "D",
+              "text": "repaires"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606948",
+          "question": "The story I’ve just read _____ Agatha Christie.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was written"
+            },
+            {
+              "key": "B",
+              "text": "was written by"
+            },
+            {
+              "key": "C",
+              "text": "was written from"
+            },
+            {
+              "key": "D",
+              "text": "wrote by"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606949",
+          "question": "Why don’t you have your brother _____ the roof?",
+          "options": [
+            {
+              "key": "A",
+              "text": "repairs"
+            },
+            {
+              "key": "B",
+              "text": "repair"
+            },
+            {
+              "key": "C",
+              "text": "repaired"
+            },
+            {
+              "key": "D",
+              "text": "to repair"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606954",
+          "question": "The man died because medical help was not summoned.",
+          "options": [
+            {
+              "key": "A",
+              "text": "be have called"
+            },
+            {
+              "key": "B",
+              "text": "been called"
+            },
+            {
+              "key": "C",
+              "text": "be called"
+            },
+            {
+              "key": "D",
+              "text": "have been called"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606957",
+          "question": "Something funny _____ in class yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "happened"
+            },
+            {
+              "key": "B",
+              "text": "was happened"
+            },
+            {
+              "key": "C",
+              "text": "happens"
+            },
+            {
+              "key": "D",
+              "text": "is happened"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606958",
+          "question": "Many US automobiles _____ in Detroit, Michigan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "manufacture"
+            },
+            {
+              "key": "B",
+              "text": "have manufactured"
+            },
+            {
+              "key": "C",
+              "text": "are manufactured"
+            },
+            {
+              "key": "D",
+              "text": "are manufacturing"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606969",
+          "question": "(Chọn đáp án đúng)",
+          "options": [
+            {
+              "key": "A",
+              "text": "find"
+            },
+            {
+              "key": "B",
+              "text": "found"
+            },
+            {
+              "key": "C",
+              "text": "be finding"
+            },
+            {
+              "key": "D",
+              "text": "be found"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606970",
+          "question": "We _____ by a loud noise during the night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "woke up"
+            },
+            {
+              "key": "B",
+              "text": "are woken up"
+            },
+            {
+              "key": "C",
+              "text": "were woken up"
+            },
+            {
+              "key": "D",
+              "text": "were waking up"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606971",
+          "question": "Lots of houses_____________ by the earthquake.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are destroying"
+            },
+            {
+              "key": "B",
+              "text": "destroyed"
+            },
+            {
+              "key": "C",
+              "text": "were destroying"
+            },
+            {
+              "key": "D",
+              "text": "were destroyed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606973",
+          "question": "Some film stars _____ difficult to work with.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are said be"
+            },
+            {
+              "key": "B",
+              "text": "are said to be"
+            },
+            {
+              "key": "C",
+              "text": "say to be"
+            },
+            {
+              "key": "D",
+              "text": "said to be"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606974",
+          "question": "Last night a tornado swept through Rockville. It _____ everything in its path.",
+          "options": [
+            {
+              "key": "A",
+              "text": "destroyed"
+            },
+            {
+              "key": "B",
+              "text": "was destroyed"
+            },
+            {
+              "key": "C",
+              "text": "was being destroyed"
+            },
+            {
+              "key": "D",
+              "text": "has been destroyed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606975",
+          "question": "Vitamin C _____ by the human body. It gets into blood stream quickly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "absorbs easily"
+            },
+            {
+              "key": "B",
+              "text": "is easily absorbing"
+            },
+            {
+              "key": "C",
+              "text": "is easily absorbed"
+            },
+            {
+              "key": "D",
+              "text": "absorbed easily"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606976",
+          "question": "Why did Tom keep making jokes about me? I don’t enjoy _____ at.",
+          "options": [
+            {
+              "key": "A",
+              "text": "be laughed"
+            },
+            {
+              "key": "B",
+              "text": "to be laughed"
+            },
+            {
+              "key": "C",
+              "text": "to be laughed"
+            },
+            {
+              "key": "D",
+              "text": "being laughed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606978",
+          "question": "John _____ last week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had his house painted"
+            },
+            {
+              "key": "B",
+              "text": "had painted his house"
+            },
+            {
+              "key": "C",
+              "text": "had his father to paint"
+            },
+            {
+              "key": "D",
+              "text": "had his house paint"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606980",
+          "question": "Today, many serious childhood diseases _____ by early immunization.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are preventing"
+            },
+            {
+              "key": "B",
+              "text": "can prevent"
+            },
+            {
+              "key": "C",
+              "text": "prevent"
+            },
+            {
+              "key": "D",
+              "text": "can be prevented"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606982",
+          "question": "‘_____ about the eight o’clock flight to Chicago?’ ‘Not yet.’",
+          "options": [
+            {
+              "key": "A",
+              "text": "Has been an announcement made"
+            },
+            {
+              "key": "B",
+              "text": "Has an announcement made"
+            },
+            {
+              "key": "C",
+              "text": "Has an announcement been made"
+            },
+            {
+              "key": "D",
+              "text": "Has been made an announcement"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606987",
+          "question": "‘Has the commitee made its decision yet?’ ‘Not yet. They are still _____ the proposal.’",
+          "options": [
+            {
+              "key": "A",
+              "text": "considering"
+            },
+            {
+              "key": "B",
+              "text": "been considered"
+            },
+            {
+              "key": "C",
+              "text": "being considered"
+            },
+            {
+              "key": "D",
+              "text": "considered"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606988",
+          "question": "I might watch this programme. It _____ very funny.",
+          "options": [
+            {
+              "key": "A",
+              "text": "supposes to be"
+            },
+            {
+              "key": "B",
+              "text": "is supposed being"
+            },
+            {
+              "key": "C",
+              "text": "is supposed to be"
+            },
+            {
+              "key": "D",
+              "text": "was supposed be"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "606989",
+          "question": "Do you get your car_____ every year?",
+          "options": [
+            {
+              "key": "A",
+              "text": "checking"
+            },
+            {
+              "key": "B",
+              "text": "check"
+            },
+            {
+              "key": "C",
+              "text": "be checked"
+            },
+            {
+              "key": "D",
+              "text": "checked"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607030",
+          "question": "Claude Jennings is said _____ his memory.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to have been lost"
+            },
+            {
+              "key": "B",
+              "text": "to be lost"
+            },
+            {
+              "key": "C",
+              "text": "to have lost"
+            },
+            {
+              "key": "D",
+              "text": "lose"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607031",
+          "question": "This house __________ in 1970 by my grandfather.",
+          "options": [
+            {
+              "key": "A",
+              "text": "built"
+            },
+            {
+              "key": "B",
+              "text": "was built"
+            },
+            {
+              "key": "C",
+              "text": "was build"
+            },
+            {
+              "key": "D",
+              "text": "has built"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607032",
+          "question": "The robbers __________ by the police.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have arrested"
+            },
+            {
+              "key": "B",
+              "text": "have been arrested"
+            },
+            {
+              "key": "C",
+              "text": "was arrested"
+            },
+            {
+              "key": "D",
+              "text": "had arrested"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607033",
+          "question": "The students ____________ to submit their reports by the end of this week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have asked"
+            },
+            {
+              "key": "B",
+              "text": "are asked"
+            },
+            {
+              "key": "C",
+              "text": "has asked"
+            },
+            {
+              "key": "D",
+              "text": "are asking"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607034",
+          "question": "The inmates of the juvenile home _______________ well by their caretakers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were not being treated"
+            },
+            {
+              "key": "B",
+              "text": "were not treating"
+            },
+            {
+              "key": "C",
+              "text": "have not being treated"
+            },
+            {
+              "key": "D",
+              "text": "was not being treated"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607035",
+          "question": "The telephone ______________ by Alexander Graham Bell.",
+          "options": [
+            {
+              "key": "A",
+              "text": "invented"
+            },
+            {
+              "key": "B",
+              "text": "is inventing"
+            },
+            {
+              "key": "C",
+              "text": "be invented"
+            },
+            {
+              "key": "D",
+              "text": "was invented"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607036",
+          "question": "Mr. Pike ____________the most famous archaeologist in our city.",
+          "options": [
+            {
+              "key": "A",
+              "text": "says to be"
+            },
+            {
+              "key": "B",
+              "text": "is said to be"
+            },
+            {
+              "key": "C",
+              "text": "is said that"
+            },
+            {
+              "key": "D",
+              "text": "said to be"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607037",
+          "question": "I hate_____________ personal questions by newly-acquainted friends",
+          "options": [
+            {
+              "key": "A",
+              "text": "to be asking"
+            },
+            {
+              "key": "B",
+              "text": "be asked"
+            },
+            {
+              "key": "C",
+              "text": "being asked"
+            },
+            {
+              "key": "D",
+              "text": "of asking"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607038",
+          "question": "George ____________another trip to Greece.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is said to be planned"
+            },
+            {
+              "key": "B",
+              "text": "said to be planned"
+            },
+            {
+              "key": "C",
+              "text": "said to be planning"
+            },
+            {
+              "key": "D",
+              "text": "is said to be planning"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607039",
+          "question": "Beethoven’s Fifth Symphony______________ next weekend.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is going to be performed"
+            },
+            {
+              "key": "B",
+              "text": "has been performed"
+            },
+            {
+              "key": "C",
+              "text": "will be performing"
+            },
+            {
+              "key": "D",
+              "text": "will have performed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607040",
+          "question": "John ______________The Great Pyramid of Giza.",
+          "options": [
+            {
+              "key": "A",
+              "text": "said to have been visited"
+            },
+            {
+              "key": "B",
+              "text": "is said to have visited"
+            },
+            {
+              "key": "C",
+              "text": "is said to have been visited"
+            },
+            {
+              "key": "D",
+              "text": "said to have visited"
+            }
+          ],
+          "answer": ""
+        }
+      ]
+    },
+    {
+      "id": "PV-T2",
+      "title": "Thi Online: Câu Chủ Động, Bị Động 2 (30 câu)",
+      "exercises": [
+        {
+          "id": "607041",
+          "question": "The longest fish in the contest was eighteen inches long\". \"It_____ by Thelma Rivers\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "was catching"
+            },
+            {
+              "key": "B",
+              "text": "caught"
+            },
+            {
+              "key": "C",
+              "text": "was caught"
+            },
+            {
+              "key": "D",
+              "text": "catch"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607042",
+          "question": "English _____ since 2002.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have been learnt"
+            },
+            {
+              "key": "B",
+              "text": "have to learn"
+            },
+            {
+              "key": "C",
+              "text": "has been learnt"
+            },
+            {
+              "key": "D",
+              "text": "has to learn"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607043",
+          "question": "\"Are we about to have dinner?\". \"Yes, it _____ in the dining room\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "is serving"
+            },
+            {
+              "key": "B",
+              "text": "serves"
+            },
+            {
+              "key": "C",
+              "text": "is being served"
+            },
+            {
+              "key": "D",
+              "text": "served"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607044",
+          "question": "\"Why is Stanley in jail?\" \"He_____ of robbery\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "has been convicted"
+            },
+            {
+              "key": "B",
+              "text": "has been convicting"
+            },
+            {
+              "key": "C",
+              "text": "has convicted"
+            },
+            {
+              "key": "D",
+              "text": "convicted"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607045",
+          "question": "Your bill should _____ before you leave the hotel.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is paid"
+            },
+            {
+              "key": "B",
+              "text": "are paid"
+            },
+            {
+              "key": "C",
+              "text": "was paid"
+            },
+            {
+              "key": "D",
+              "text": "be paid"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607046",
+          "question": "\"Where's the old chicken coop?\" \"It_____ by a windstorm last year\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "destroy"
+            },
+            {
+              "key": "B",
+              "text": "is destroyed"
+            },
+            {
+              "key": "C",
+              "text": "was destroyed"
+            },
+            {
+              "key": "D",
+              "text": "destroyed"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607047",
+          "question": "\"We're still looking for Thomas\". \"Hasn't he_____ yet?\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "been found"
+            },
+            {
+              "key": "B",
+              "text": "to find"
+            },
+            {
+              "key": "C",
+              "text": "found"
+            },
+            {
+              "key": "D",
+              "text": "being found"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607048",
+          "question": "Parrots and crows _______ the most intelligent birds.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were considering"
+            },
+            {
+              "key": "B",
+              "text": "are considered"
+            },
+            {
+              "key": "C",
+              "text": "considered"
+            },
+            {
+              "key": "D",
+              "text": "was considered"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607049",
+          "question": "Grass _______ by fat cows on the green meadow.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are eaten"
+            },
+            {
+              "key": "B",
+              "text": "was been eaten"
+            },
+            {
+              "key": "C",
+              "text": "was being eaten"
+            },
+            {
+              "key": "D",
+              "text": "were being eaten"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607050",
+          "question": "\"What a beautiful dress you're wearing!\" \"Thank you. It_____ especially for me by a French tailor\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "is made"
+            },
+            {
+              "key": "B",
+              "text": "has made"
+            },
+            {
+              "key": "C",
+              "text": "made"
+            },
+            {
+              "key": "D",
+              "text": "was made"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607051",
+          "question": "\"Those eggs of different colors are very artistic\". \"Yes, they_____ in Russia\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "were painted"
+            },
+            {
+              "key": "B",
+              "text": "were paint"
+            },
+            {
+              "key": "C",
+              "text": "were painting"
+            },
+            {
+              "key": "D",
+              "text": "painted"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607052",
+          "question": "\"Homer is in jail for smoking marijuana\". \"He_____ that it was against the law\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "is telling"
+            },
+            {
+              "key": "B",
+              "text": "was told"
+            },
+            {
+              "key": "C",
+              "text": "told"
+            },
+            {
+              "key": "D",
+              "text": "tells"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607053",
+          "question": "America ________ by Columbus in 1492.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are discovered"
+            },
+            {
+              "key": "B",
+              "text": "were discovering"
+            },
+            {
+              "key": "C",
+              "text": "is discovered"
+            },
+            {
+              "key": "D",
+              "text": "was discovered"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607054",
+          "question": "Gold_____ in California in the nineteenth century.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was discovered"
+            },
+            {
+              "key": "B",
+              "text": "has been discovered"
+            },
+            {
+              "key": "C",
+              "text": "was discover"
+            },
+            {
+              "key": "D",
+              "text": "they discovered"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607055",
+          "question": "More than ten victims____________ missing in the storm last week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are reported to be"
+            },
+            {
+              "key": "B",
+              "text": "are reported to have been"
+            },
+            {
+              "key": "C",
+              "text": "are reporting to have been"
+            },
+            {
+              "key": "D",
+              "text": "are reporting to be"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607056",
+          "question": "All planes_____ before departure.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will checked"
+            },
+            {
+              "key": "B",
+              "text": "will has checked"
+            },
+            {
+              "key": "C",
+              "text": "will be checked"
+            },
+            {
+              "key": "D",
+              "text": "will been checked"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607057",
+          "question": "I wanted_____ by the head of the company, but it was impossible.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to see"
+            },
+            {
+              "key": "B",
+              "text": "to be seen"
+            },
+            {
+              "key": "C",
+              "text": "seeing"
+            },
+            {
+              "key": "D",
+              "text": "being to see"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607058",
+          "question": "In the US, the first stage of compulsory education ________ as elementary education.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to be generally known"
+            },
+            {
+              "key": "B",
+              "text": "is generally known"
+            },
+            {
+              "key": "C",
+              "text": "generally known"
+            },
+            {
+              "key": "D",
+              "text": "generally known"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607059",
+          "question": "Education_________ to be the most important element to develop a country.",
+          "options": [
+            {
+              "key": "A",
+              "text": "often be considered"
+            },
+            {
+              "key": "B",
+              "text": "can often consider"
+            },
+            {
+              "key": "C",
+              "text": "often considers"
+            },
+            {
+              "key": "D",
+              "text": "can often be considered"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607060",
+          "question": "\"What happened to the old mail carrier?\" \"He_____ to a new neighborhood to work\".",
+          "options": [
+            {
+              "key": "A",
+              "text": "has sent"
+            },
+            {
+              "key": "B",
+              "text": "was send"
+            },
+            {
+              "key": "C",
+              "text": "was sent"
+            },
+            {
+              "key": "D",
+              "text": "sent"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607061",
+          "question": "Somebody cleans the room every day",
+          "options": [
+            {
+              "key": "A",
+              "text": "The room every day is cleaned"
+            },
+            {
+              "key": "B",
+              "text": "The room is every day cleaned"
+            },
+            {
+              "key": "C",
+              "text": "The room is cleaned every day"
+            },
+            {
+              "key": "D",
+              "text": "The room is clean by somebody every day"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607062",
+          "question": "They cancelled all flights because of fog.",
+          "options": [
+            {
+              "key": "A",
+              "text": "All flights because of fog were cancelled"
+            },
+            {
+              "key": "B",
+              "text": "All flights were cancelled because of fog"
+            },
+            {
+              "key": "C",
+              "text": "All flights were because of fog cancelled"
+            },
+            {
+              "key": "D",
+              "text": "All flights was cancelled by them because of fog"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607063",
+          "question": "People don't use this road very often.",
+          "options": [
+            {
+              "key": "A",
+              "text": "This road is not used very often"
+            },
+            {
+              "key": "B",
+              "text": "Not very often this road is not used"
+            },
+            {
+              "key": "C",
+              "text": "This road very often is not used"
+            },
+            {
+              "key": "D",
+              "text": "This road not very often is used"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607064",
+          "question": "Somebody accused me of stealing money",
+          "options": [
+            {
+              "key": "A",
+              "text": "I was accused by somebody of stealing money"
+            },
+            {
+              "key": "B",
+              "text": "I was accused of stealing money"
+            },
+            {
+              "key": "C",
+              "text": "I was accused of stealing money by somebody"
+            },
+            {
+              "key": "D",
+              "text": "I was accused stealing money"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607065",
+          "question": "How do people learn languages?",
+          "options": [
+            {
+              "key": "A",
+              "text": "How are languages learned?"
+            },
+            {
+              "key": "B",
+              "text": "How are languages learned by people?"
+            },
+            {
+              "key": "C",
+              "text": "How languages are learned?"
+            },
+            {
+              "key": "D",
+              "text": "Languages are learned how?"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607066",
+          "question": "People warned us not to go out alone.",
+          "options": [
+            {
+              "key": "A",
+              "text": "We were warned not going out alone"
+            },
+            {
+              "key": "B",
+              "text": "We were warned not to go out alone by people"
+            },
+            {
+              "key": "C",
+              "text": "We weren't warned to go out alone"
+            },
+            {
+              "key": "D",
+              "text": "We were warned not to go out alone"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607067",
+          "question": "Somebody is using the computer at the moment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The computer is being used at the moment"
+            },
+            {
+              "key": "B",
+              "text": "The computer at the moment is being used"
+            },
+            {
+              "key": "C",
+              "text": "The computer is being used by somebody at the moment"
+            },
+            {
+              "key": "D",
+              "text": "The computer is used at the moment"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607068",
+          "question": "I didn't realize that somebody was recording our conversation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I didn’t realize that our conversation was recorded"
+            },
+            {
+              "key": "B",
+              "text": "I didn't realize that our conversation was being recorded"
+            },
+            {
+              "key": "C",
+              "text": "I didn't realize that our conversation was being recorded by someone"
+            },
+            {
+              "key": "D",
+              "text": "Our conversation wasn't realized to be recorded"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607069",
+          "question": "We found that they had cancelled the game.",
+          "options": [
+            {
+              "key": "A",
+              "text": "We found that the game had been cancelled"
+            },
+            {
+              "key": "B",
+              "text": "The game had been cancelled"
+            },
+            {
+              "key": "C",
+              "text": "We found that the game had been cancelled by them"
+            },
+            {
+              "key": "D",
+              "text": "The game were found to be cancelled"
+            }
+          ],
+          "answer": ""
+        },
+        {
+          "id": "607070",
+          "question": "They are building a new highway around the city.",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new highway is being built around the city"
+            },
+            {
+              "key": "B",
+              "text": "A new highway is being built around the city by them"
+            },
+            {
+              "key": "C",
+              "text": "A new highway around the city is being built"
+            },
+            {
+              "key": "D",
+              "text": "Around the city a new highway is being built"
+            }
+          ],
+          "answer": ""
+        }
+      ]
+    }
+  ]
+}

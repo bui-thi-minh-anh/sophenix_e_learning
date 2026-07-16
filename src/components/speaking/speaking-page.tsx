@@ -349,14 +349,19 @@ function DailyGoalCard() {
 
 function MotivationalCard() {
   return (
-    <div className="overflow-hidden rounded-2xl border border-border/40 bg-[#1a1a4a]">
+    <div className="overflow-hidden rounded-2xl border border-white/[0.06] bg-[#1a2340] p-5 flex items-center gap-4">
       <Image
         src="/images/speaking/mascot-motivational.png"
-        alt="Phoenix mascot giving thumbs up — You can do it!"
-        width={320}
-        height={320}
-        className="mx-auto h-44 w-auto object-contain"
+        alt="Phoenix mascot giving thumbs up"
+        width={160}
+        height={160}
+        className="shrink-0 object-contain"
+        unoptimized
       />
+      <div>
+        <p className="text-lg font-bold text-white">You can do it!</p>
+        <p className="text-xs text-slate-400 mt-1">Keep practicing, you&apos;re doing great.</p>
+      </div>
     </div>
   );
 }

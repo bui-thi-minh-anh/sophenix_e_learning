@@ -17,6 +17,7 @@ const config: Config = {
     extend: {
       fontFamily: {
         sans: ["var(--font-sans)", "Segoe UI", "system-ui", "Arial", "sans-serif"],
+        display: ["var(--font-display)", "var(--font-sans)", "system-ui", "sans-serif"],
       },
       colors: {
         background: "hsl(var(--background))",

@@ -436,14 +436,15 @@ function Achievements() {
 
 function QuoteCard() {
   return (
-    <div className="relative overflow-hidden rounded-2xl border border-border/40 bg-card p-5">
+    <div className="relative overflow-hidden rounded-2xl border border-white/[0.06] bg-[#1a2340] p-5">
       <div className="flex items-start gap-3">
         <Image
           src="/images/writing/mascot-reading.png"
           alt="Phoenix reading a book"
-          width={80}
-          height={53}
-          className="h-20 w-auto shrink-0 object-contain"
+          width={140}
+          height={93}
+          className="h-32 w-auto shrink-0 object-contain"
+          unoptimized
         />
         <div className="flex-1">
           <span className="text-2xl leading-none text-muted-foreground/30">&ldquo;</span>

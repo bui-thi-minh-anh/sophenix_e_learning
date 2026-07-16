@@ -196,16 +196,6 @@ export function ReadingPage() {
           {/* Daily Reading Challenge */}
           {dailyChallenge && (
             <div className="rounded-2xl border border-white/[0.06] bg-[#0f1a2e] p-5 space-y-3 relative overflow-hidden">
-              <div className="absolute -right-2 -bottom-2 opacity-90">
-                <Image
-                  src="/images/reading/mascot-writing.png"
-                  alt=""
-                  width={200}
-                  height={200}
-                  className="object-contain"
-                  unoptimized
-                />
-              </div>
               <div className="relative z-10">
                 <div className="flex items-center gap-2 mb-2">
                   <h3 className="text-sm font-semibold text-white">Daily Reading Challenge</h3>
@@ -524,10 +514,10 @@ function Achievements() {
 // ─── Quote Card (Sidebar) ──────────────────────────────
 function QuoteCard() {
   return (
-    <div className="rounded-2xl border border-white/[0.06] bg-[#0f1a2e] p-5 relative overflow-hidden">
+    <div className="rounded-2xl border border-white/[0.06] bg-[#1a2340] p-5 relative overflow-hidden">
       <div className="absolute -right-2 -bottom-2 opacity-90">
         <Image
-          src="/images/reading/mascot-glasses.png"
+          src="/images/reading/mascot-writing.png"
           alt=""
           width={160}
           height={160}

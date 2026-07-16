@@ -335,8 +335,8 @@ function ContinueLearning({ lesson }: { lesson: Lesson }) {
         <Image
           src="/images/lessons/mascot-reading.png"
           alt="Continue"
-          width={110}
-          height={110}
+          width={160}
+          height={160}
           className="object-contain shrink-0"
           unoptimized
         />
@@ -520,21 +520,19 @@ function AchievementsPanel() {
 // ─── Quote Card (Sidebar) ──────────────────────────────
 function QuoteCard() {
   return (
-    <div className="rounded-2xl border border-white/[0.06] bg-[#0f1a2e] p-5 relative overflow-hidden">
-      <div className="absolute -right-2 -bottom-2 opacity-80">
-        <Image src="/images/lessons/mascot-graduation.png" alt="" width={100} height={100} className="object-contain" unoptimized />
+    <div className="rounded-2xl border border-white/[0.06] bg-[#1a2340] p-6 relative overflow-hidden min-h-[140px] flex items-center justify-center">
+      <div className="absolute right-2 bottom-2">
+        <Image src="/images/lessons/mascot-graduation.png" alt="" width={120} height={120} className="object-contain" unoptimized />
       </div>
-      <div className="relative z-10">
-        <span className="text-2xl text-slate-600 leading-none">&ldquo;</span>
-        <p className="text-sm text-white font-semibold leading-relaxed">
+      <div className="relative z-10 w-full pr-16 pl-4">
+        <span className="text-3xl text-slate-500 leading-none">&ldquo;</span>
+        <p className="text-base text-white font-bold leading-snug">
           Knowledge
           <br />
           is power.
         </p>
-        <p className="text-[10px] text-slate-400 mt-1.5">
-          Keep learning,
-          <br />
-          keep growing.
+        <p className="text-xs text-slate-400 mt-2">
+          Keep learning, keep growing.
         </p>
       </div>
     </div>

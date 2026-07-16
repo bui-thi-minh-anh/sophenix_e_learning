@@ -21,7 +21,7 @@ export default function LessonDetailPage({ params }: { params: { slug: string } 
   return (
     <div className="mx-auto max-w-3xl space-y-6">
       <Link
-        href="/lessons"
+        href="/lessons/all"
         className="inline-flex items-center gap-1 text-sm text-muted-foreground hover:text-primary"
       >
         <ArrowLeft className="h-4 w-4" /> Quay lại danh sách

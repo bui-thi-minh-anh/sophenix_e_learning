@@ -30,6 +30,14 @@ import suHoaHopChuVi2 from "./su-hoa-hop-chu-vi-2.json";
 import gioiTu1 from "./gioi-tu-1.json";
 import gioiTu2 from "./gioi-tu-2.json";
 import gioiTu3 from "./gioi-tu-3.json";
+import phrasalVerbs1 from "./phrasal-verbs-1.json";
+import phrasalVerbs2 from "./phrasal-verbs-2.json";
+import conditionals1 from "./conditionals-1.json";
+import conditionals2 from "./conditionals-2.json";
+import passiveVoice1 from "./passive-voice-1.json";
+import passiveVoice2 from "./passive-voice-2.json";
+import reportedSpeech1 from "./reported-speech-1.json";
+import reportedSpeech2 from "./reported-speech-2.json";
 
 const jsonLessons = [
   daiTu1,
@@ -56,6 +64,14 @@ const jsonLessons = [
   gioiTu1,
   gioiTu2,
   gioiTu3,
+  phrasalVerbs1,
+  phrasalVerbs2,
+  conditionals1,
+  conditionals2,
+  passiveVoice1,
+  passiveVoice2,
+  reportedSpeech1,
+  reportedSpeech2,
 ] as unknown as Lesson[];
 
 // Danh sách bài giảng (thứ tự hiển thị). Thêm bài mới = import rồi thêm vào mảng này.
