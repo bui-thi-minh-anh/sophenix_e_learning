@@ -1,0 +1,738 @@
+{
+  "slug": "conjunctions-2",
+  "title": "Liên Từ & Từ Nối – Luyện Tập",
+  "level": "B1",
+  "topic": "conjunctions",
+  "series": "Conjunctions",
+  "summary": "Bài tập trắc nghiệm liên từ và từ nối.",
+  "sections": [],
+  "exerciseSets": [
+    {
+      "id": "CONJ-P1",
+      "title": "Luyện Tập Liên Từ & Từ Nối Tổng Hợp",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "614650",
+          "question": "_________ his physical handicap, he has become a successful businessman.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "in spite"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Chỉ sự nhượng bộ đi với cụm danh từ ta dùng 'despite'."
+        },
+        {
+          "id": "614655",
+          "question": "Interpreting is not a mechanical process of converting a sentence in language A into a sentence in language B. _____, it is a complex art.",
+          "options": [
+            {
+              "key": "A",
+              "text": "But"
+            },
+            {
+              "key": "B",
+              "text": "In addition"
+            },
+            {
+              "key": "C",
+              "text": "Rather"
+            },
+            {
+              "key": "D",
+              "text": "However"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Từ nối 'Rather' biểu thị ý nghĩa 'Trái lại/Đúng hơn là' nhằm thay thế hoặc đính chính thông tin câu trước."
+        },
+        {
+          "id": "614656",
+          "question": "He failed the test _________ he studied very hard.",
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "although"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "however"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề trạng ngữ chỉ sự tương phản nhượng bộ bắt đầu bằng 'although'."
+        },
+        {
+          "id": "614657",
+          "question": "Neither my brother _________ my sister likes playing sports.",
+          "options": [
+            {
+              "key": "A",
+              "text": "or"
+            },
+            {
+              "key": "B",
+              "text": "nor"
+            },
+            {
+              "key": "C",
+              "text": "and"
+            },
+            {
+              "key": "D",
+              "text": "but"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc tương hợp: 'Neither... nor' (Không... cũng không)."
+        },
+        {
+          "id": "614658",
+          "question": "She wanted to go to the concert, _________ she couldn't buy the tickets.",
+          "options": [
+            {
+              "key": "A",
+              "text": "but"
+            },
+            {
+              "key": "B",
+              "text": "so"
+            },
+            {
+              "key": "C",
+              "text": "or"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Liên từ đẳng lập 'but' chỉ sự đối lập giữa hai mệnh đề độc lập."
+        },
+        {
+          "id": "614659",
+          "question": "_________ you work harder, you will fail the exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Unless"
+            },
+            {
+              "key": "B",
+              "text": "If"
+            },
+            {
+              "key": "C",
+              "text": "Although"
+            },
+            {
+              "key": "D",
+              "text": "Because"
+            }
+          ],
+          "answer": "A",
+          "explanation": "'Unless' (Trừ khi) mang ý nghĩa phủ định cho điều kiện ('Unless you work harder' = 'If you don't work harder')."
+        },
+        {
+          "id": "614660",
+          "question": "The project was delayed _________ the shortage of funding.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "due to"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'due to' + cụm danh từ chỉ nguyên nhân."
+        },
+        {
+          "id": "614661",
+          "question": "Both Mary _________ her husband are doctors.",
+          "options": [
+            {
+              "key": "A",
+              "text": "or"
+            },
+            {
+              "key": "B",
+              "text": "nor"
+            },
+            {
+              "key": "C",
+              "text": "and"
+            },
+            {
+              "key": "D",
+              "text": "but"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc 'Both... and' luôn đi kèm nhau."
+        },
+        {
+          "id": "614662",
+          "question": "Not only the teacher _________ the students are going on a trip.",
+          "options": [
+            {
+              "key": "A",
+              "text": "but also"
+            },
+            {
+              "key": "B",
+              "text": "as well"
+            },
+            {
+              "key": "C",
+              "text": "or also"
+            },
+            {
+              "key": "D",
+              "text": "nor also"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cặp liên từ 'Not only... but also'."
+        },
+        {
+          "id": "614663",
+          "question": "I will buy either this laptop _________ that one.",
+          "options": [
+            {
+              "key": "A",
+              "text": "nor"
+            },
+            {
+              "key": "B",
+              "text": "or"
+            },
+            {
+              "key": "C",
+              "text": "and"
+            },
+            {
+              "key": "D",
+              "text": "but"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cặp liên từ tương hợp 'Either... or'."
+        },
+        {
+          "id": "614664",
+          "question": "She didn't get the job _________ she had excellent qualifications.",
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "even though"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "answer": "C",
+          "explanation": "'even though' + mệnh đề chỉ nhượng bộ tương phản."
+        },
+        {
+          "id": "614665",
+          "question": "He was very tired; _________, he completed his task on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "therefore"
+            },
+            {
+              "key": "B",
+              "text": "however"
+            },
+            {
+              "key": "C",
+              "text": "moreover"
+            },
+            {
+              "key": "D",
+              "text": "consequently"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Từ nối 'however' (tuy nhiên) biểu thị sự đối lập giữa hai câu riêng biệt ngăn cách bằng dấu chấm phẩy."
+        },
+        {
+          "id": "614666",
+          "question": "She is not only smart _________ extremely kind.",
+          "options": [
+            {
+              "key": "A",
+              "text": "and"
+            },
+            {
+              "key": "B",
+              "text": "but also"
+            },
+            {
+              "key": "C",
+              "text": "but"
+            },
+            {
+              "key": "D",
+              "text": "as well"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc tương hỗ 'not only... but also'."
+        },
+        {
+          "id": "614667",
+          "question": "The flight was postponed _________ the thick fog.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "since"
+            },
+            {
+              "key": "D",
+              "text": "as"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'because of' + cụm danh từ 'the thick fog'."
+        },
+        {
+          "id": "614668",
+          "question": "You should study hard _________ you want to pass the exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "if"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề điều kiện với 'if'."
+        },
+        {
+          "id": "614669",
+          "question": "He got lost _________ he didn't have a map.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "but"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Liên từ chỉ nguyên nhân."
+        },
+        {
+          "id": "614670",
+          "question": "_________ his age, he travels around the world regularly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "Despite"
+            },
+            {
+              "key": "C",
+              "text": "Because of"
+            },
+            {
+              "key": "D",
+              "text": "In spite"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'Despite' + cụm danh từ 'his age'."
+        },
+        {
+          "id": "614671",
+          "question": "He didn't have enough money; _________, he couldn't buy the car.",
+          "options": [
+            {
+              "key": "A",
+              "text": "however"
+            },
+            {
+              "key": "B",
+              "text": "therefore"
+            },
+            {
+              "key": "C",
+              "text": "besides"
+            },
+            {
+              "key": "D",
+              "text": "nevertheless"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'therefore' (vì vậy) nối kết quả có tính nhân quả giữa hai câu."
+        },
+        {
+          "id": "614672",
+          "question": "I would love to help you, _________ I am too busy right now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "but"
+            },
+            {
+              "key": "B",
+              "text": "so"
+            },
+            {
+              "key": "C",
+              "text": "yet"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Liên từ 'but' chỉ sự đối lập lịch sự."
+        },
+        {
+          "id": "614673",
+          "question": "He is not very wealthy, _________ he always helps the poor.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so"
+            },
+            {
+              "key": "B",
+              "text": "yet"
+            },
+            {
+              "key": "C",
+              "text": "and"
+            },
+            {
+              "key": "D",
+              "text": "nor"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'yet' (nhưng, tuy nhiên) nhấn mạnh sự bất ngờ tương phản."
+        },
+        {
+          "id": "614674",
+          "question": "We should bring some food _________ we get hungry on the way.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "although"
+            },
+            {
+              "key": "C",
+              "text": "in case"
+            },
+            {
+              "key": "D",
+              "text": "unless"
+            }
+          ],
+          "answer": "C",
+          "explanation": "'in case' (phòng khi)."
+        },
+        {
+          "id": "614675",
+          "question": "You can have _________ tea or coffee.",
+          "options": [
+            {
+              "key": "A",
+              "text": "neither"
+            },
+            {
+              "key": "B",
+              "text": "either"
+            },
+            {
+              "key": "C",
+              "text": "both"
+            },
+            {
+              "key": "D",
+              "text": "not only"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc song song đi với 'or' là 'either'."
+        },
+        {
+          "id": "614676",
+          "question": "He was absent from class yesterday _________ his illness.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "as"
+            },
+            {
+              "key": "D",
+              "text": "since"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'because of' + cụm danh từ 'his illness'."
+        },
+        {
+          "id": "614677",
+          "question": "She didn't sleep well _________ the noisy neighborhood.",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "in spite of"
+            },
+            {
+              "key": "C",
+              "text": "because of"
+            },
+            {
+              "key": "D",
+              "text": "as"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề chỉ nguyên nhân dạng cụm danh từ."
+        },
+        {
+          "id": "614678",
+          "question": "He is very intelligent; _________, he lacks practical experience.",
+          "options": [
+            {
+              "key": "A",
+              "text": "moreover"
+            },
+            {
+              "key": "B",
+              "text": "therefore"
+            },
+            {
+              "key": "C",
+              "text": "however"
+            },
+            {
+              "key": "D",
+              "text": "besides"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Từ nối 'however' chỉ sự tương phản đối lập."
+        },
+        {
+          "id": "614679",
+          "question": "_________ she got up early, she missed the first bus.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "Despite"
+            },
+            {
+              "key": "C",
+              "text": "Because"
+            },
+            {
+              "key": "D",
+              "text": "Unless"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề chỉ sự nhượng bộ bắt đầu bằng 'Although'."
+        },
+        {
+          "id": "614680",
+          "question": "I will buy this dress _________ it is too expensive.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "even though"
+            },
+            {
+              "key": "C",
+              "text": "in spite of"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'even though' (thậm chí dù) + mệnh đề chỉ nhượng bộ."
+        },
+        {
+          "id": "614681",
+          "question": "We stayed inside _________ the storm was raging outside.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "although"
+            }
+          ],
+          "answer": "A",
+          "explanation": "'because' + mệnh đề đầy đủ thành phần."
+        },
+        {
+          "id": "614682",
+          "question": "He has no car, _________ he has to walk to work every day.",
+          "options": [
+            {
+              "key": "A",
+              "text": "but"
+            },
+            {
+              "key": "B",
+              "text": "so"
+            },
+            {
+              "key": "C",
+              "text": "yet"
+            },
+            {
+              "key": "D",
+              "text": "or"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề chỉ kết quả với liên từ đẳng lập 'so'."
+        },
+        {
+          "id": "614683",
+          "question": "Not only did he lose his wallet, _________ he also lost his phone.",
+          "options": [
+            {
+              "key": "A",
+              "text": "and"
+            },
+            {
+              "key": "B",
+              "text": "but"
+            },
+            {
+              "key": "C",
+              "text": "nor"
+            },
+            {
+              "key": "D",
+              "text": "or"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc đảo ngữ đứng đầu: 'Not only + trợ động từ + S + V, but + S + also...'. Ở đây vế sau bắt đầu bằng 'but he also'."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "conjunctions-1",
+  "title": "Liên Từ & Từ Nối – Lý Thuyết",
+  "level": "B1",
+  "topic": "conjunctions",
+  "series": "Conjunctions",
+  "summary": "Liên từ đẳng lập FANBOYS, liên từ tương hỗ, từ nối chuyển ý chỉ tương phản, kết quả, bổ sung.",
+  "sections": [
+    {
+      "heading": "I. Liên Từ Đẳng Lập (Coordinating Conjunctions – FANBOYS)",
+      "body": "Liên từ đẳng lập dùng để nối các từ, cụm từ, hoặc mệnh đề độc lập có chức năng ngữ pháp tương đương nhau.\n\nGhi nhớ bằng cụm từ viết tắt FANBOYS.\n\n| Liên từ | Nghĩa | Ví dụ |\n|---|---|---|\n| **FOR (Bởi vì)** | Chỉ nguyên nhân, dùng tương tự 'because' nhưng đứng giữa câu và trang trọng hơn. | *We listened eagerly, for he brought news of our families.* |\n| **AND (Và)** | Thêm thông tin, kết hợp hai ý tương tự. | *He plays tennis and she plays badminton.* |\n| **NOR (Cũng không)** | Nối hai ý phủ định. Lưu ý mệnh đề sau 'nor' phải đảo ngữ. | *She doesn't eat meat, nor does she drink milk.* |\n| **BUT (Nhưng)** | Thể hiện sự tương phản, đối lập. | *I study hard, but I couldn't pass the exam.* |\n| **OR (Hoặc)** | Đưa ra sự lựa chọn. | *Do you want tea or coffee?* |\n| **YET (Nhưng, tuy nhiên)** | Thể hiện sự tương phản gây bất ngờ. | *He is very rich, yet he is unhappy.* |\n| **SO (Vì vậy, cho nên)** | Chỉ kết quả của hành động. | *It was raining heavily, so we stayed at home.* |"
+    },
+    {
+      "heading": "II. Liên Từ Tương Hỗ (Correlative Conjunctions)",
+      "body": "Là liên từ đi thành cặp để liên kết các cấu trúc ngữ pháp tương đương.\n\n**Both... and... (Cả... và...)**\n\n> *Both my father and my mother like music.*\n\n> **Lưu ý:** Động từ theo sau cấu trúc 'Both A and B' luôn chia số nhiều.\n\n**Not only... but also... (Không những... mà còn...)**\n\n> *Not only the teacher but also the students are going to the zoo.*\n\n> **Lưu ý:** Động từ chia theo danh từ đứng gần nhất (chủ ngữ B).\n\n**Either... or... (Hoặc... hoặc...)**\n\n> *Either you or he is responsible for this project.*\n\n> **Lưu ý:** Động từ chia theo chủ ngữ B.\n\n**Neither... nor... (Không... cũng không...)**\n\n> *Neither Mary nor her friends have come.*\n\n> **Lưu ý:** Động từ chia theo chủ ngữ B (ở đây là 'her friends' số nhiều nên dùng 'have')."
+    },
+    {
+      "heading": "III. Từ Nối Chuyển Ý (Conjunctional Adverbs / Connectors)",
+      "body": "Dùng để liên kết các câu hoặc mệnh đề, thường đứng sau dấu chấm phẩy (;) hoặc đầu câu đứng sau dấu chấm và ngăn cách với mệnh đề bằng dấu phẩy.\n\n| Nhóm | Từ nối | Ví dụ |\n|---|---|---|\n| **Chỉ sự tương phản (Contrast)** | However, Nevertheless, On the other hand, On the contrary | *He worked hard; however, he didn't get a promotion.* |\n| **Chỉ kết quả (Result)** | Therefore, Consequently, As a result | *The weather was bad; therefore, the flight was cancelled.* |\n| **Chỉ sự thêm vào (Addition)** | Moreover, In addition, Furthermore, Besides | *Learning English is very useful; moreover, it is interesting.* |\n| **Chỉ sự thay thế / lựa chọn khác** | Rather, Instead, Alternatively | *Interpreting is not a mechanical process. Rather, it is a complex art.* |"
+    }
+  ],
+  "exerciseSets": [
+    {
+      "id": "CONJ-MINI-1",
+      "title": "Bài Tập Minh Họa",
+      "description": "2 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "CONJ-M-1",
+          "question": "_________ his physical handicap, he has become a successful businessman.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "in spite"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "answer": "D",
+          "explanation": "'his physical handicap' là một cụm danh từ. Ta dùng 'despite' + Noun Phrase để chỉ sự nhượng bộ. 'In spite' thiếu 'of'. 'Although' + S + V."
+        },
+        {
+          "id": "CONJ-M-2",
+          "question": "Interpreting is not a mechanical process of converting a sentence in language A into a sentence in language B. _____, it is a complex art.",
+          "options": [
+            {
+              "key": "A",
+              "text": "But"
+            },
+            {
+              "key": "B",
+              "text": "In addition"
+            },
+            {
+              "key": "C",
+              "text": "Rather"
+            },
+            {
+              "key": "D",
+              "text": "However"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Từ 'Rather' (Trái lại / Đúng hơn là) được dùng để phủ định thông tin phía trước và đưa ra một sự khẳng định, định nghĩa chính xác hơn phía sau."
+        }
+      ]
+    }
+  ]
+}

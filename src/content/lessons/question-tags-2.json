@@ -1,0 +1,3399 @@
+{
+  "slug": "question-tags-2",
+  "title": "Câu Hỏi Đuôi – Luyện Tập",
+  "level": "B1",
+  "topic": "question-tags",
+  "series": "Question Tags",
+  "summary": "Bài tập và đề thi trắc nghiệm câu hỏi đuôi.",
+  "sections": [],
+  "exerciseSets": [
+    {
+      "id": "QT-P1",
+      "title": "Luyện Tập Câu Hỏi Đuôi 1",
+      "description": "50 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "303305",
+          "question": "Lan enjoys watching TV after dinner, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does not Lan"
+            },
+            {
+              "key": "B",
+              "text": "does not she"
+            },
+            {
+              "key": "C",
+              "text": "doesn't Lan"
+            },
+            {
+              "key": "D",
+              "text": "doesn't she"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Lan enjoys... (khẳng định, động từ thường 'enjoys', thì Hiện tại đơn) -> câu hỏi đuôi phủ định: doesn't she."
+        },
+        {
+          "id": "303306",
+          "question": "You have heard about that??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don't you"
+            },
+            {
+              "key": "B",
+              "text": "haven't you"
+            },
+            {
+              "key": "C",
+              "text": "do not you"
+            },
+            {
+              "key": "D",
+              "text": "have you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "You have heard... (khẳng định, hiện tại hoàn thành 'have heard') -> câu hỏi đuôi phủ định: haven't you."
+        },
+        {
+          "id": "303307",
+          "question": "He didn’t have to speak to me??",
+          "options": [
+            {
+              "key": "A",
+              "text": "did he"
+            },
+            {
+              "key": "B",
+              "text": "did him"
+            },
+            {
+              "key": "C",
+              "text": "didn't he"
+            },
+            {
+              "key": "D",
+              "text": "didn't him"
+            }
+          ],
+          "answer": "A",
+          "explanation": "He didn't have to... (phủ định quá khứ đơn 'didn't have to') -> câu hỏi đuôi khẳng định: did he."
+        },
+        {
+          "id": "303308",
+          "question": "Come and see me tomorrow??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don't you"
+            },
+            {
+              "key": "B",
+              "text": "do you"
+            },
+            {
+              "key": "C",
+              "text": "won't you"
+            },
+            {
+              "key": "D",
+              "text": "will you"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Come and see... (Câu mệnh lệnh khẳng định) -> câu hỏi đuôi: will you."
+        },
+        {
+          "id": "303309",
+          "question": "He used to beat his wife??",
+          "options": [
+            {
+              "key": "A",
+              "text": "used not he"
+            },
+            {
+              "key": "B",
+              "text": "used he"
+            },
+            {
+              "key": "C",
+              "text": "didn't he"
+            },
+            {
+              "key": "D",
+              "text": "did he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "He used to... (Cấu trúc 'used to') -> câu hỏi đuôi quá khứ đơn phủ định: didn't he."
+        },
+        {
+          "id": "303310",
+          "question": "She came very late??",
+          "options": [
+            {
+              "key": "A",
+              "text": "did she"
+            },
+            {
+              "key": "B",
+              "text": "didn't she"
+            },
+            {
+              "key": "C",
+              "text": "came she"
+            },
+            {
+              "key": "D",
+              "text": "came not she"
+            }
+          ],
+          "answer": "B",
+          "explanation": "She came... (khẳng định quá khứ đơn 'came') -> câu hỏi đuôi phủ định: didn't she."
+        },
+        {
+          "id": "303311",
+          "question": "I’d better go??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn’t I"
+            },
+            {
+              "key": "B",
+              "text": "hadn't you"
+            },
+            {
+              "key": "C",
+              "text": "didn't I"
+            },
+            {
+              "key": "D",
+              "text": "had I"
+            }
+          ],
+          "answer": "A",
+          "explanation": "I'd better go -> Had better -> mượn trợ động từ 'had' -> câu hỏi đuôi phủ định: hadn't I."
+        },
+        {
+          "id": "303312",
+          "question": "There’s an examination tomorrow??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn't there"
+            },
+            {
+              "key": "B",
+              "text": "isn't it"
+            },
+            {
+              "key": "C",
+              "text": "aren't there"
+            },
+            {
+              "key": "D",
+              "text": "aren't they"
+            }
+          ],
+          "answer": "A",
+          "explanation": "There is... (khẳng định 'There is') -> câu hỏi đuôi phủ định: isn't there."
+        },
+        {
+          "id": "303313",
+          "question": "No one is better cook than his mother??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is she"
+            },
+            {
+              "key": "B",
+              "text": "isn't she"
+            },
+            {
+              "key": "C",
+              "text": "are they"
+            },
+            {
+              "key": "D",
+              "text": "aren't they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "No one is... -> No one (phủ định) -> câu hỏi đuôi khẳng định, chủ ngữ đổi thành 'they' -> are they."
+        },
+        {
+          "id": "303314",
+          "question": "He seldom goes to the library??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn't he"
+            },
+            {
+              "key": "B",
+              "text": "is he"
+            },
+            {
+              "key": "C",
+              "text": "does he"
+            },
+            {
+              "key": "D",
+              "text": "isn't he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "He seldom goes... -> Seldom (bán phủ định) -> câu hỏi đuôi khẳng định hiện tại đơn: does he."
+        },
+        {
+          "id": "303315",
+          "question": "Let’s go for a long walk??",
+          "options": [
+            {
+              "key": "A",
+              "text": "will we"
+            },
+            {
+              "key": "B",
+              "text": "shall we"
+            },
+            {
+              "key": "C",
+              "text": "don’t you"
+            },
+            {
+              "key": "D",
+              "text": "do you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Let's go... -> Cấu trúc gợi ý 'Let's...' -> câu hỏi đuôi mặc định: shall we."
+        },
+        {
+          "id": "303316",
+          "question": "I think he will join us??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "B",
+              "text": "won’t he"
+            },
+            {
+              "key": "C",
+              "text": "will he"
+            },
+            {
+              "key": "D",
+              "text": "don’t I"
+            }
+          ],
+          "answer": "B",
+          "explanation": "I think he will join us -> Mệnh đề chính bắt đầu bằng 'I think' -> lấy mệnh đề phụ 'he will join' làm đuôi -> won't he."
+        },
+        {
+          "id": "303317",
+          "question": "The film is good??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is it"
+            },
+            {
+              "key": "B",
+              "text": "are they"
+            },
+            {
+              "key": "C",
+              "text": "isn’t it"
+            },
+            {
+              "key": "D",
+              "text": "aren’t they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "The film is... (khẳng định hiện tại đơn tobe 'is') -> câu hỏi đuôi phủ định: isn't it."
+        },
+        {
+          "id": "303318",
+          "question": "You are going to the party??",
+          "options": [
+            {
+              "key": "A",
+              "text": "are you"
+            },
+            {
+              "key": "B",
+              "text": "aren’t you"
+            },
+            {
+              "key": "C",
+              "text": "don't you"
+            },
+            {
+              "key": "D",
+              "text": "do you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "You are going... (khẳng định hiện tại tiếp diễn 'are going') -> câu hỏi đuôi phủ định: aren't you."
+        },
+        {
+          "id": "303319",
+          "question": "He can speak English??",
+          "options": [
+            {
+              "key": "A",
+              "text": "can he"
+            },
+            {
+              "key": "B",
+              "text": "can’t he"
+            },
+            {
+              "key": "C",
+              "text": "can’t him"
+            },
+            {
+              "key": "D",
+              "text": "could he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "He can speak... (động từ khuyết thiếu 'can') -> câu hỏi đuôi phủ định: can't he."
+        },
+        {
+          "id": "303320",
+          "question": "Tam didn’t go to school yesterday, ……??",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't he"
+            },
+            {
+              "key": "B",
+              "text": "did he"
+            },
+            {
+              "key": "C",
+              "text": "didn't Tam"
+            },
+            {
+              "key": "D",
+              "text": "did Tam"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tam didn't go... (phủ định quá khứ đơn 'didn't go') -> câu hỏi đuôi khẳng định: did he (hoặc did she)."
+        },
+        {
+          "id": "303321",
+          "question": "They’ll buy a new computer, ………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "will they"
+            },
+            {
+              "key": "B",
+              "text": "will not they"
+            },
+            {
+              "key": "C",
+              "text": "won't they"
+            },
+            {
+              "key": "D",
+              "text": "do they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "They'll buy... (khẳng định tương lai đơn 'will buy') -> câu hỏi đuôi phủ định: won't they."
+        },
+        {
+          "id": "303583",
+          "question": "You can’t play tennis today??",
+          "options": [
+            {
+              "key": "A",
+              "text": "can't you"
+            },
+            {
+              "key": "B",
+              "text": "can you"
+            },
+            {
+              "key": "C",
+              "text": "don't you"
+            },
+            {
+              "key": "D",
+              "text": "aren't you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "You can't play... (phủ định 'can't') -> câu hỏi đuôi khẳng định: can you."
+        },
+        {
+          "id": "303584",
+          "question": "She’s been studying English for two years??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn't she"
+            },
+            {
+              "key": "B",
+              "text": "has she"
+            },
+            {
+              "key": "C",
+              "text": "hasn't she"
+            },
+            {
+              "key": "D",
+              "text": "is she"
+            }
+          ],
+          "answer": "C",
+          "explanation": "She's been studying... (khẳng định hiện tại hoàn thành tiếp diễn 'has been studying') -> câu hỏi đuôi phủ định: hasn't she."
+        },
+        {
+          "id": "303639",
+          "question": "You’ve never been in Italy, . …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "have you"
+            },
+            {
+              "key": "B",
+              "text": "haven't you"
+            },
+            {
+              "key": "C",
+              "text": "have not you"
+            },
+            {
+              "key": "D",
+              "text": "never you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "You've never been... -> Never (phủ định) -> câu hỏi đuôi khẳng định: have you."
+        },
+        {
+          "id": "303641",
+          "question": "That’s Bob, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn't that"
+            },
+            {
+              "key": "B",
+              "text": "is that"
+            },
+            {
+              "key": "C",
+              "text": "aren't they"
+            },
+            {
+              "key": "D",
+              "text": "isn't it"
+            }
+          ],
+          "answer": "D",
+          "explanation": "That's Bob -> 'That is' ở vế trước -> đổi thành 'isn't it' ở câu hỏi đuôi."
+        },
+        {
+          "id": "303642",
+          "question": "I’m supposed to be here, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "amnot I"
+            },
+            {
+              "key": "B",
+              "text": "am I"
+            },
+            {
+              "key": "C",
+              "text": "aren't you"
+            },
+            {
+              "key": "D",
+              "text": "aren't I"
+            }
+          ],
+          "answer": "D",
+          "explanation": "I'm supposed... -> 'I am' ở vế trước -> câu hỏi đuôi mặc định: aren't I."
+        },
+        {
+          "id": "303643",
+          "question": "I’m supposed to be here, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do you"
+            },
+            {
+              "key": "B",
+              "text": "don’t you"
+            },
+            {
+              "key": "C",
+              "text": "are you"
+            },
+            {
+              "key": "D",
+              "text": "aren’t you"
+            }
+          ],
+          "answer": "D",
+          "explanation": "I'm supposed... -> Ở câu này vế trước là 'I'm supposed' nhưng các đáp án hỏi về 'you', mang nghĩa hỏi sự đồng tình của người nghe 'aren't you?'"
+        },
+        {
+          "id": "303644",
+          "question": "Lan speaks Chinese very well??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does she"
+            },
+            {
+              "key": "B",
+              "text": "doesn’t she"
+            },
+            {
+              "key": "C",
+              "text": "is she"
+            },
+            {
+              "key": "D",
+              "text": "isn't she"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Lan speaks... (khẳng định hiện tại đơn, ngôi thứ 3 số ít) -> câu hỏi đuôi phủ định: doesn't she."
+        },
+        {
+          "id": "303645",
+          "question": "John has worked hard??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he"
+            },
+            {
+              "key": "B",
+              "text": "has he"
+            },
+            {
+              "key": "C",
+              "text": "hasn’t he"
+            },
+            {
+              "key": "D",
+              "text": "doesn't he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "John has worked... (khẳng định hiện tại hoàn thành 'has worked') -> câu hỏi đuôi phủ định: hasn't he."
+        },
+        {
+          "id": "303646",
+          "question": "Tim has three exercises to do??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hasn't he"
+            },
+            {
+              "key": "B",
+              "text": "hasn't Tim"
+            },
+            {
+              "key": "C",
+              "text": "doesn't Tim"
+            },
+            {
+              "key": "D",
+              "text": "doesn't he"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tim has three exercises to do -> 'has' ở đây là động từ thường chỉ sở hữu -> câu hỏi đuôi dùng trợ động từ: doesn't he."
+        },
+        {
+          "id": "303647",
+          "question": "They invited him to the party??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do they"
+            },
+            {
+              "key": "B",
+              "text": "don’t they"
+            },
+            {
+              "key": "C",
+              "text": "didn’t they"
+            },
+            {
+              "key": "D",
+              "text": "did they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "They invited... (khẳng định quá khứ đơn 'invited') -> câu hỏi đuôi phủ định: didn't they."
+        },
+        {
+          "id": "303648",
+          "question": "Your brother doesn’t like watching TV??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he"
+            },
+            {
+              "key": "B",
+              "text": "doesn't he"
+            },
+            {
+              "key": "C",
+              "text": "isn't he"
+            },
+            {
+              "key": "D",
+              "text": "is he"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Your brother doesn't like... (phủ định hiện tại đơn 'doesn't like') -> câu hỏi đuôi khẳng định: does he."
+        },
+        {
+          "id": "303650",
+          "question": "Mary is reading a book in her room??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is she"
+            },
+            {
+              "key": "B",
+              "text": "isn't she"
+            },
+            {
+              "key": "C",
+              "text": "does she"
+            },
+            {
+              "key": "D",
+              "text": "doesn't she"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mary is reading... (khẳng định hiện tại tiếp diễn 'is reading') -> câu hỏi đuôi phủ định: isn't she."
+        },
+        {
+          "id": "303651",
+          "question": "Let’s listen to the radio??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don't we"
+            },
+            {
+              "key": "B",
+              "text": "don't you"
+            },
+            {
+              "key": "C",
+              "text": "will we"
+            },
+            {
+              "key": "D",
+              "text": "shall we"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Let's listen... -> Let's -> câu hỏi đuôi mặc định: shall we."
+        },
+        {
+          "id": "303652",
+          "question": "Turn off the television??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don't you"
+            },
+            {
+              "key": "B",
+              "text": "will you"
+            },
+            {
+              "key": "C",
+              "text": "do you"
+            },
+            {
+              "key": "D",
+              "text": "won't you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Turn off... (Câu mệnh lệnh khẳng định) -> câu hỏi đuôi: will you."
+        },
+        {
+          "id": "303653",
+          "question": "Nothing could be done??",
+          "options": [
+            {
+              "key": "A",
+              "text": "couldn't they"
+            },
+            {
+              "key": "B",
+              "text": "couldn't it"
+            },
+            {
+              "key": "C",
+              "text": "could they"
+            },
+            {
+              "key": "D",
+              "text": "could it"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Nothing could be done -> 'Nothing' (phủ định) -> câu hỏi đuôi khẳng định, chủ ngữ đổi thành 'it' -> could it."
+        },
+        {
+          "id": "303654",
+          "question": "Everybody is here??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn't it"
+            },
+            {
+              "key": "B",
+              "text": "is it"
+            },
+            {
+              "key": "C",
+              "text": "aren't they"
+            },
+            {
+              "key": "D",
+              "text": "are they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Everybody is here -> Chủ ngữ 'Everybody' -> câu hỏi đuôi dùng 'they', động từ tobe số nhiều tương ứng 'aren't' -> aren't they."
+        },
+        {
+          "id": "303655",
+          "question": "We must hurry, ………………..……??",
+          "options": [
+            {
+              "key": "A",
+              "text": "must we"
+            },
+            {
+              "key": "B",
+              "text": "needn't we"
+            },
+            {
+              "key": "C",
+              "text": "do we"
+            },
+            {
+              "key": "D",
+              "text": "don't we"
+            }
+          ],
+          "answer": "B",
+          "explanation": "We must hurry -> Must chỉ sự cần thiết cấp bách -> câu hỏi đuôi phủ định dùng: needn't we."
+        },
+        {
+          "id": "303656",
+          "question": "You must keep silence in class, ..........you??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don't you"
+            },
+            {
+              "key": "B",
+              "text": "mustn't you"
+            },
+            {
+              "key": "C",
+              "text": "do you"
+            },
+            {
+              "key": "D",
+              "text": "must you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "You must keep silence -> Must chỉ nghĩa bắt buộc, cấm đoán -> câu hỏi đuôi dùng chính 'must': mustn't you."
+        },
+        {
+          "id": "303657",
+          "question": "They are leaving here tomorrow??",
+          "options": [
+            {
+              "key": "A",
+              "text": "aren't they"
+            },
+            {
+              "key": "B",
+              "text": "will they"
+            },
+            {
+              "key": "C",
+              "text": "are they"
+            },
+            {
+              "key": "D",
+              "text": "won't they"
+            }
+          ],
+          "answer": "A",
+          "explanation": "They are leaving... (khẳng định hiện tại tiếp diễn 'are leaving') -> câu hỏi đuôi phủ định: aren't they."
+        },
+        {
+          "id": "303658",
+          "question": "Somebody has left these socks on the bathroom floor??",
+          "options": [
+            {
+              "key": "A",
+              "text": "have they"
+            },
+            {
+              "key": "B",
+              "text": "haven’t they"
+            },
+            {
+              "key": "C",
+              "text": "has he"
+            },
+            {
+              "key": "D",
+              "text": "hasn’t he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Somebody has left... -> Chủ ngữ 'Somebody' -> đuôi dùng 'they' và trợ động từ số nhiều phủ định tương ứng -> haven't they."
+        },
+        {
+          "id": "303659",
+          "question": "James owns a restaurant??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he"
+            },
+            {
+              "key": "B",
+              "text": "is he"
+            },
+            {
+              "key": "C",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "D",
+              "text": "didn’t he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "James owns... (khẳng định hiện tại đơn 'owns') -> câu hỏi đuôi phủ định: doesn't he."
+        },
+        {
+          "id": "303660",
+          "question": "You aren’t too busy to talk??",
+          "options": [
+            {
+              "key": "A",
+              "text": "are you"
+            },
+            {
+              "key": "B",
+              "text": "have you"
+            },
+            {
+              "key": "C",
+              "text": "aren’t you"
+            },
+            {
+              "key": "D",
+              "text": "do you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "You aren't... (phủ định hiện tại đơn 'aren't') -> câu hỏi đuôi khẳng định: are you."
+        },
+        {
+          "id": "303661",
+          "question": "The ticket to London doesn’t cost a lot??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do they"
+            },
+            {
+              "key": "B",
+              "text": "does it"
+            },
+            {
+              "key": "C",
+              "text": "is it"
+            },
+            {
+              "key": "D",
+              "text": "isn’t it"
+            }
+          ],
+          "answer": "B",
+          "explanation": "The ticket doesn't cost... (phủ định 'doesn't cost') -> câu hỏi đuôi khẳng định: does it."
+        },
+        {
+          "id": "303662",
+          "question": "You don’t need me any more??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do I"
+            },
+            {
+              "key": "B",
+              "text": "don’t I"
+            },
+            {
+              "key": "C",
+              "text": "do you"
+            },
+            {
+              "key": "D",
+              "text": "don’t you"
+            }
+          ],
+          "answer": "C",
+          "explanation": "You don't need... (phủ định 'don't need') -> câu hỏi đuôi khẳng định: do you."
+        },
+        {
+          "id": "303663",
+          "question": "We should follow the traffic rules strictly, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "should we"
+            },
+            {
+              "key": "B",
+              "text": "shouldn't we"
+            },
+            {
+              "key": "C",
+              "text": "should not we"
+            },
+            {
+              "key": "D",
+              "text": "shouldn't us"
+            }
+          ],
+          "answer": "B",
+          "explanation": "We should follow... (động từ khuyết thiếu 'should') -> câu hỏi đuôi phủ định: shouldn't we."
+        },
+        {
+          "id": "303664",
+          "question": "Your mother has read these fairy tales for you many times, . …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hasn't she"
+            },
+            {
+              "key": "B",
+              "text": "has she"
+            },
+            {
+              "key": "C",
+              "text": "doesn't she"
+            },
+            {
+              "key": "D",
+              "text": "does she"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Your mother has read... (khẳng định hiện tại hoàn thành 'has read') -> câu hỏi đuôi phủ định: hasn't she."
+        },
+        {
+          "id": "303665",
+          "question": "Nothing is wrong…………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is it"
+            },
+            {
+              "key": "B",
+              "text": "isn't it"
+            },
+            {
+              "key": "C",
+              "text": "aren't they"
+            },
+            {
+              "key": "D",
+              "text": "are they"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Nothing is wrong -> Chủ ngữ 'Nothing' (phủ định) -> câu hỏi đuôi khẳng định 'is it'."
+        },
+        {
+          "id": "303666",
+          "question": "Going swimming in the summer is never boring, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn't it"
+            },
+            {
+              "key": "B",
+              "text": "is it"
+            },
+            {
+              "key": "C",
+              "text": "doesn't it"
+            },
+            {
+              "key": "D",
+              "text": "does it"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Going swimming... is never boring -> Có 'never' (phủ định) -> câu hỏi đuôi khẳng định: is it."
+        },
+        {
+          "id": "303667",
+          "question": "He didn't recognize me??",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't he"
+            },
+            {
+              "key": "B",
+              "text": "did he"
+            },
+            {
+              "key": "C",
+              "text": "didn't him"
+            },
+            {
+              "key": "D",
+              "text": "did him"
+            }
+          ],
+          "answer": "B",
+          "explanation": "He didn't recognize... (phủ định quá khứ đơn 'didn't recognize') -> câu hỏi đuôi khẳng định: did he."
+        },
+        {
+          "id": "303668",
+          "question": "Don’t talk in class, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do you"
+            },
+            {
+              "key": "B",
+              "text": "don't you"
+            },
+            {
+              "key": "C",
+              "text": "will you"
+            },
+            {
+              "key": "D",
+              "text": "won't you"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Don't talk... (Câu mệnh lệnh phủ định) -> câu hỏi đuôi: will you."
+        },
+        {
+          "id": "303669",
+          "question": "This picture is yours, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is this"
+            },
+            {
+              "key": "B",
+              "text": "isn't this"
+            },
+            {
+              "key": "C",
+              "text": "is it"
+            },
+            {
+              "key": "D",
+              "text": "isn't it"
+            }
+          ],
+          "answer": "D",
+          "explanation": "This picture is... -> This -> đổi thành 'it' ở đuôi -> câu hỏi đuôi phủ định: isn't it."
+        },
+        {
+          "id": "303670",
+          "question": "You took some photos on the beach, . …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't you"
+            },
+            {
+              "key": "B",
+              "text": "did you"
+            },
+            {
+              "key": "C",
+              "text": "didn't they"
+            },
+            {
+              "key": "D",
+              "text": "did they"
+            }
+          ],
+          "answer": "A",
+          "explanation": "You took some photos... (khẳng định quá khứ đơn 'took') -> câu hỏi đuôi phủ định: didn't you."
+        },
+        {
+          "id": "303671",
+          "question": "Elizabeth is a dentist, ………………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is she"
+            },
+            {
+              "key": "B",
+              "text": "isn't she"
+            },
+            {
+              "key": "C",
+              "text": "is Elizabeth"
+            },
+            {
+              "key": "D",
+              "text": "isn't Elizabeth"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Elizabeth is... (khẳng định hiện tại đơn tobe 'is') -> câu hỏi đuôi phủ định: isn't she."
+        }
+      ]
+    },
+    {
+      "id": "QT-P2",
+      "title": "Luyện Tập Câu Hỏi Đuôi 2",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "303672",
+          "question": "Nobody likes the play??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do they"
+            },
+            {
+              "key": "B",
+              "text": "don’t they"
+            },
+            {
+              "key": "C",
+              "text": "does it"
+            },
+            {
+              "key": "D",
+              "text": "doesn't it"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Nobody likes... -> Nobody (phủ định) -> câu hỏi đuôi dùng khẳng định 'do they'."
+        },
+        {
+          "id": "303673",
+          "question": "That isn’t Bill driving??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn't it"
+            },
+            {
+              "key": "B",
+              "text": "is it"
+            },
+            {
+              "key": "C",
+              "text": "is he"
+            },
+            {
+              "key": "D",
+              "text": "isn't he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "That isn't... -> That -> đổi thành 'it' ở đuôi -> câu hỏi đuôi khẳng định: is it."
+        },
+        {
+          "id": "303674",
+          "question": "Don’t leave anything behind??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do you"
+            },
+            {
+              "key": "B",
+              "text": "don't you"
+            },
+            {
+              "key": "C",
+              "text": "won't you"
+            },
+            {
+              "key": "D",
+              "text": "will you"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Don't leave... (Mệnh lệnh phủ định) -> câu hỏi đuôi: will you."
+        },
+        {
+          "id": "303675",
+          "question": "Nobody called the phone, …………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't it"
+            },
+            {
+              "key": "B",
+              "text": "did it"
+            },
+            {
+              "key": "C",
+              "text": "didn't they"
+            },
+            {
+              "key": "D",
+              "text": "did they"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Nobody called... -> Nobody (phủ định) -> câu hỏi đuôi khẳng định quá khứ đơn: did they."
+        },
+        {
+          "id": "303676",
+          "question": "You have never been to Paris,…………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "haven't you"
+            },
+            {
+              "key": "B",
+              "text": "have you"
+            },
+            {
+              "key": "C",
+              "text": "don't you"
+            },
+            {
+              "key": "D",
+              "text": "do you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "You have never been to Paris -> Never (phủ định) -> câu hỏi đuôi khẳng định: have you."
+        },
+        {
+          "id": "303677",
+          "question": "Those aren’t Fred’s books, ………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "are those"
+            },
+            {
+              "key": "B",
+              "text": "aren't those"
+            },
+            {
+              "key": "C",
+              "text": "are they"
+            },
+            {
+              "key": "D",
+              "text": "aren't they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Those aren't... -> Those -> đổi thành 'they' ở đuôi -> câu hỏi đuôi khẳng định: are they."
+        },
+        {
+          "id": "303678",
+          "question": "This bridge is not very safe,……………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn't this"
+            },
+            {
+              "key": "B",
+              "text": "is this"
+            },
+            {
+              "key": "C",
+              "text": "is it"
+            },
+            {
+              "key": "D",
+              "text": "isn't it"
+            }
+          ],
+          "answer": "C",
+          "explanation": "This bridge is not... -> This -> đổi thành 'it' ở đuôi -> câu hỏi đuôi khẳng định: is it."
+        },
+        {
+          "id": "303679",
+          "question": "He’d better stop smoking??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he"
+            },
+            {
+              "key": "B",
+              "text": "doesn't he"
+            },
+            {
+              "key": "C",
+              "text": "had he"
+            },
+            {
+              "key": "D",
+              "text": "hadn't he"
+            }
+          ],
+          "answer": "D",
+          "explanation": "He'd better... -> Had better -> trợ động từ mượn là 'had' -> câu hỏi đuôi phủ định: hadn't he."
+        },
+        {
+          "id": "303680",
+          "question": "You need to stay longer??",
+          "options": [
+            {
+              "key": "A",
+              "text": "needn't you"
+            },
+            {
+              "key": "B",
+              "text": "need you"
+            },
+            {
+              "key": "C",
+              "text": "do you"
+            },
+            {
+              "key": "D",
+              "text": "don't you"
+            }
+          ],
+          "answer": "D",
+          "explanation": "You need to stay... -> Động từ thường 'need' chỉ sự cần thiết -> câu hỏi đuôi dùng trợ động từ: don't you."
+        },
+        {
+          "id": "303681",
+          "question": "There are many religions in Malaysia??",
+          "options": [
+            {
+              "key": "A",
+              "text": "aren't there"
+            },
+            {
+              "key": "B",
+              "text": "are there"
+            },
+            {
+              "key": "C",
+              "text": "aren't they"
+            },
+            {
+              "key": "D",
+              "text": "are they"
+            }
+          ],
+          "answer": "A",
+          "explanation": "There are... -> Đuôi phủ định: aren't there."
+        },
+        {
+          "id": "303682",
+          "question": "His children may swim??",
+          "options": [
+            {
+              "key": "A",
+              "text": "may not he"
+            },
+            {
+              "key": "B",
+              "text": "may not they"
+            },
+            {
+              "key": "C",
+              "text": "mayn't he"
+            },
+            {
+              "key": "D",
+              "text": "mayn't they"
+            }
+          ],
+          "answer": "D",
+          "explanation": "His children may swim -> Động từ khuyết thiếu 'may', chủ ngữ số nhiều 'children' (they) -> câu hỏi đuôi phủ định: mayn't they."
+        },
+        {
+          "id": "303683",
+          "question": "Nam and Binh have to study harder??",
+          "options": [
+            {
+              "key": "A",
+              "text": "haven't they"
+            },
+            {
+              "key": "B",
+              "text": "hasn't he"
+            },
+            {
+              "key": "C",
+              "text": "doesn't he"
+            },
+            {
+              "key": "D",
+              "text": "don't they"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Nam and Binh have to... -> Động từ thường 'have to' -> câu hỏi đuôi phủ định: don't they."
+        },
+        {
+          "id": "303684",
+          "question": "Ba’s village lies near the foot of the moutain??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he"
+            },
+            {
+              "key": "B",
+              "text": "doesn't he"
+            },
+            {
+              "key": "C",
+              "text": "doesn't it"
+            },
+            {
+              "key": "D",
+              "text": "does it"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ba's village lies... (khẳng định hiện tại đơn, ngôi thứ 3 số ít) -> câu hỏi đuôi phủ định: doesn't it."
+        },
+        {
+          "id": "303685",
+          "question": "Let’s forget unhappy things??",
+          "options": [
+            {
+              "key": "A",
+              "text": "shall we"
+            },
+            {
+              "key": "B",
+              "text": "will we"
+            },
+            {
+              "key": "C",
+              "text": "won't we"
+            },
+            {
+              "key": "D",
+              "text": "shan't we"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Let's forget... -> Let's -> câu hỏi đuôi: shall we."
+        },
+        {
+          "id": "303686",
+          "question": "You need finish your homework before going to bed??",
+          "options": [
+            {
+              "key": "A",
+              "text": "needn't you"
+            },
+            {
+              "key": "B",
+              "text": "need you"
+            },
+            {
+              "key": "C",
+              "text": "don't you"
+            },
+            {
+              "key": "D",
+              "text": "do you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "You need finish... -> Động từ khuyết thiếu 'need' (sau đó là bare inf 'finish') -> câu hỏi đuôi phủ định: needn't you."
+        },
+        {
+          "id": "303687",
+          "question": "Someone feels tired after the trip??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn't it"
+            },
+            {
+              "key": "B",
+              "text": "does it"
+            },
+            {
+              "key": "C",
+              "text": "don't they"
+            },
+            {
+              "key": "D",
+              "text": "do they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Someone feels... -> Someone -> câu hỏi đuôi dùng 'they' và trợ động từ số nhiều phủ định: don't they."
+        },
+        {
+          "id": "303688",
+          "question": "He will arrive soon, …………………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "won't he"
+            },
+            {
+              "key": "B",
+              "text": "will he"
+            },
+            {
+              "key": "C",
+              "text": "does he"
+            },
+            {
+              "key": "D",
+              "text": "doesn't he"
+            }
+          ],
+          "answer": "A",
+          "explanation": "He will arrive... -> câu hỏi đuôi phủ định tương lai đơn: won't he."
+        },
+        {
+          "id": "303689",
+          "question": "Go and buy me some aspirins, ……………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do you"
+            },
+            {
+              "key": "B",
+              "text": "don't you"
+            },
+            {
+              "key": "C",
+              "text": "will you"
+            },
+            {
+              "key": "D",
+              "text": "won't you"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Go and buy... (Mệnh lệnh khẳng định) -> câu hỏi đuôi: will you."
+        },
+        {
+          "id": "303690",
+          "question": "We shall give them away??",
+          "options": [
+            {
+              "key": "A",
+              "text": "will we"
+            },
+            {
+              "key": "B",
+              "text": "shall not we"
+            },
+            {
+              "key": "C",
+              "text": "won't we"
+            },
+            {
+              "key": "D",
+              "text": "shan't we"
+            }
+          ],
+          "answer": "D",
+          "explanation": "We shall... -> Động từ khuyết thiếu 'shall' -> câu hỏi đuôi phủ định: shan't we."
+        },
+        {
+          "id": "303691",
+          "question": "Your brother’s here??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is he"
+            },
+            {
+              "key": "B",
+              "text": "isn’t he"
+            },
+            {
+              "key": "C",
+              "text": "are your"
+            },
+            {
+              "key": "D",
+              "text": "aren't your"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Your brother's here -> viết tắt của 'is' -> câu hỏi đuôi phủ định: isn't he."
+        },
+        {
+          "id": "303692",
+          "question": "Mary wasn't angry??",
+          "options": [
+            {
+              "key": "A",
+              "text": "was she"
+            },
+            {
+              "key": "B",
+              "text": "is she"
+            },
+            {
+              "key": "C",
+              "text": "wasn’t she"
+            },
+            {
+              "key": "D",
+              "text": "was Mary"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mary wasn't... -> phủ định quá khứ đơn tobe 'wasn't' -> câu hỏi đuôi khẳng định: was she."
+        },
+        {
+          "id": "303693",
+          "question": "He hardly ever makes a mistake??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he"
+            },
+            {
+              "key": "B",
+              "text": "doesn't he"
+            },
+            {
+              "key": "C",
+              "text": "has he"
+            },
+            {
+              "key": "D",
+              "text": "hasn't he"
+            }
+          ],
+          "answer": "A",
+          "explanation": "He hardly ever... -> Hardly ever (bán phủ định) -> câu hỏi đuôi khẳng định hiện tại đơn: does he."
+        },
+        {
+          "id": "303694",
+          "question": "What a lovely day today??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is it"
+            },
+            {
+              "key": "B",
+              "text": "isn't it"
+            },
+            {
+              "key": "C",
+              "text": "is today"
+            },
+            {
+              "key": "D",
+              "text": "isn't today"
+            }
+          ],
+          "answer": "B",
+          "explanation": "What a lovely day today -> Câu cảm thán -> lấy chủ ngữ 'it' và động từ 'is' đổi sang phủ định -> isn't it."
+        },
+        {
+          "id": "303695",
+          "question": "I think that her voice is beautiful??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don't I"
+            },
+            {
+              "key": "B",
+              "text": "do I"
+            },
+            {
+              "key": "C",
+              "text": "isn't it"
+            },
+            {
+              "key": "D",
+              "text": "is it"
+            }
+          ],
+          "answer": "C",
+          "explanation": "I think that her voice is beautiful -> Mệnh đề chính 'I think' -> lấy câu hỏi đuôi theo mệnh đề phụ 'her voice is beautiful' -> isn't it."
+        },
+        {
+          "id": "303696",
+          "question": "I'm right??",
+          "options": [
+            {
+              "key": "A",
+              "text": "amnot I"
+            },
+            {
+              "key": "B",
+              "text": "aren't I"
+            },
+            {
+              "key": "C",
+              "text": "are you"
+            },
+            {
+              "key": "D",
+              "text": "aren't you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "I'm right -> Trường hợp đặc biệt của 'I am' -> câu hỏi đuôi phủ định: aren't I."
+        },
+        {
+          "id": "303697",
+          "question": "They seldom visit you, ………………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don't they"
+            },
+            {
+              "key": "B",
+              "text": "do they"
+            },
+            {
+              "key": "C",
+              "text": "are they"
+            },
+            {
+              "key": "D",
+              "text": "aren't they"
+            }
+          ],
+          "answer": "B",
+          "explanation": "They seldom visit... -> Seldom (bán phủ định) -> câu hỏi đuôi khẳng định: do they."
+        },
+        {
+          "id": "303698",
+          "question": "You had many cars, ………………………………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn't you"
+            },
+            {
+              "key": "B",
+              "text": "had you"
+            },
+            {
+              "key": "C",
+              "text": "didn't you"
+            },
+            {
+              "key": "D",
+              "text": "did you"
+            }
+          ],
+          "answer": "C",
+          "explanation": "You had many cars -> Động từ thường 'had' ở quá khứ đơn -> câu hỏi đuôi dùng trợ động từ phủ định: didn't you."
+        },
+        {
+          "id": "303699",
+          "question": "That house has been built since January,…………………??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn't it"
+            },
+            {
+              "key": "B",
+              "text": "does it"
+            },
+            {
+              "key": "C",
+              "text": "hasn't it"
+            },
+            {
+              "key": "D",
+              "text": "has it"
+            }
+          ],
+          "answer": "C",
+          "explanation": "That house has been built... (khẳng định hiện tại hoàn thành 'has been built') -> câu hỏi đuôi phủ định: hasn't it."
+        },
+        {
+          "id": "303700",
+          "question": "Tan and Ba are playing sports now??",
+          "options": [
+            {
+              "key": "A",
+              "text": "are they"
+            },
+            {
+              "key": "B",
+              "text": "aren't they"
+            },
+            {
+              "key": "C",
+              "text": "is he"
+            },
+            {
+              "key": "D",
+              "text": "isn't he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tan and Ba are playing... (khẳng định hiện tại tiếp diễn) -> câu hỏi đuôi phủ định: aren't they."
+        },
+        {
+          "id": "303701",
+          "question": "Everybody looked so miserable??",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't they"
+            },
+            {
+              "key": "B",
+              "text": "did they"
+            },
+            {
+              "key": "C",
+              "text": "did he"
+            },
+            {
+              "key": "D",
+              "text": "didn't he"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Everybody looked... -> Everybody -> đuôi dùng 'they'; động từ 'looked' ở quá khứ đơn -> câu hỏi đuôi phủ định: didn't they."
+        }
+      ]
+    },
+    {
+      "id": "QT-T1",
+      "title": "Thi Online: Câu Hỏi Đuôi 1",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "613040",
+          "question": "Don’t make mistake again??",
+          "options": [
+            {
+              "key": "A",
+              "text": "will you"
+            },
+            {
+              "key": "B",
+              "text": "do you"
+            },
+            {
+              "key": "C",
+              "text": "shall you"
+            },
+            {
+              "key": "D",
+              "text": "must you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Don't make... (Mệnh lệnh phủ định) -> câu hỏi đuôi: will you."
+        },
+        {
+          "id": "613041",
+          "question": "No one is indifferent to praise??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is one"
+            },
+            {
+              "key": "B",
+              "text": "are they"
+            },
+            {
+              "key": "C",
+              "text": "isn’t one"
+            },
+            {
+              "key": "D",
+              "text": "is he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "No one is... -> No one (phủ định) -> câu hỏi đuôi khẳng định 'are they'."
+        },
+        {
+          "id": "613042",
+          "question": "Tom, turn on the television??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "B",
+              "text": "don’t you"
+            },
+            {
+              "key": "C",
+              "text": "will you"
+            },
+            {
+              "key": "D",
+              "text": "will he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tom, turn on... (Mệnh lệnh khẳng định gửi cho Tom) -> câu hỏi đuôi: will you."
+        },
+        {
+          "id": "613043",
+          "question": "He’d rather stay at home and play video games??",
+          "options": [
+            {
+              "key": "A",
+              "text": "wouldn’t he"
+            },
+            {
+              "key": "B",
+              "text": "hadn’t he"
+            },
+            {
+              "key": "C",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "D",
+              "text": "didn’t he"
+            }
+          ],
+          "answer": "A",
+          "explanation": "He'd rather stay... -> Would rather -> câu hỏi đuôi phủ định: wouldn't he."
+        },
+        {
+          "id": "613044",
+          "question": "I don’t think he will accept the job??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do I"
+            },
+            {
+              "key": "B",
+              "text": "does he"
+            },
+            {
+              "key": "C",
+              "text": "will he"
+            },
+            {
+              "key": "D",
+              "text": "will I"
+            }
+          ],
+          "answer": "C",
+          "explanation": "I don't think he will accept... -> Mệnh đề chính có 'I don't think' (phủ định) -> lấy mệnh đề phụ và đổi thể thành khẳng định -> will he."
+        },
+        {
+          "id": "613045",
+          "question": "Everyone hopes to succeed in life??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "B",
+              "text": "hasn’t he"
+            },
+            {
+              "key": "C",
+              "text": "haven’t they"
+            },
+            {
+              "key": "D",
+              "text": "don’t they"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Everyone hopes... -> Everyone -> đuôi dùng 'they'; động từ 'hopes' khẳng định hiện tại đơn -> đuôi dùng: don't they."
+        },
+        {
+          "id": "613046",
+          "question": "They hardly do anything nowadays??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is it"
+            },
+            {
+              "key": "B",
+              "text": "don’t they"
+            },
+            {
+              "key": "C",
+              "text": "isn’t it"
+            },
+            {
+              "key": "D",
+              "text": "do they"
+            }
+          ],
+          "answer": "D",
+          "explanation": "They hardly do... -> Hardly (bán phủ định) -> câu hỏi đuôi khẳng định: do they."
+        },
+        {
+          "id": "613047",
+          "question": "You couldn’t do me a favor??",
+          "options": [
+            {
+              "key": "A",
+              "text": "could you"
+            },
+            {
+              "key": "B",
+              "text": "do you"
+            },
+            {
+              "key": "C",
+              "text": "couldn’t you"
+            },
+            {
+              "key": "D",
+              "text": "don’t you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "You couldn't do... -> Động từ khuyết thiếu phủ định 'couldn't' -> câu hỏi đuôi khẳng định: could you."
+        },
+        {
+          "id": "613049",
+          "question": "These cakes look good??",
+          "options": [
+            {
+              "key": "A",
+              "text": "are these"
+            },
+            {
+              "key": "B",
+              "text": "don’t these"
+            },
+            {
+              "key": "C",
+              "text": "are they"
+            },
+            {
+              "key": "D",
+              "text": "don’t they"
+            }
+          ],
+          "answer": "D",
+          "explanation": "These cakes look... -> Động từ thường 'look' hiện tại đơn số nhiều -> câu hỏi đuôi phủ định: don't they."
+        },
+        {
+          "id": "613050",
+          "question": "There is a meeting tonight??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t there"
+            },
+            {
+              "key": "B",
+              "text": "is there"
+            },
+            {
+              "key": "C",
+              "text": "isn’t it"
+            },
+            {
+              "key": "D",
+              "text": "is it"
+            }
+          ],
+          "answer": "A",
+          "explanation": "There is... -> Câu hỏi đuôi phủ định: isn't there."
+        },
+        {
+          "id": "613052",
+          "question": "Let’s go to the cinema tonight??",
+          "options": [
+            {
+              "key": "A",
+              "text": "will you"
+            },
+            {
+              "key": "B",
+              "text": "don’t you"
+            },
+            {
+              "key": "C",
+              "text": "shall we"
+            },
+            {
+              "key": "D",
+              "text": "don’t we"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Let's go... -> Let's -> câu hỏi đuôi mặc định: shall we."
+        },
+        {
+          "id": "613053",
+          "question": "You’ve never been in Hawaii??",
+          "options": [
+            {
+              "key": "A",
+              "text": "have you"
+            },
+            {
+              "key": "B",
+              "text": "haven’t you"
+            },
+            {
+              "key": "C",
+              "text": "do you"
+            },
+            {
+              "key": "D",
+              "text": "don’t you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "You've never been... -> Never (phủ định) -> câu hỏi đuôi khẳng định: have you."
+        },
+        {
+          "id": "613055",
+          "question": "Bob and Mary have to go home now??",
+          "options": [
+            {
+              "key": "A",
+              "text": "haven’t they"
+            },
+            {
+              "key": "B",
+              "text": "have they"
+            },
+            {
+              "key": "C",
+              "text": "do they"
+            },
+            {
+              "key": "D",
+              "text": "don’t they"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Bob and Mary have to... -> Động từ thường 'have to' -> câu hỏi đuôi phủ định: don't they."
+        },
+        {
+          "id": "613056",
+          "question": "She’s recently been ill??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t she"
+            },
+            {
+              "key": "B",
+              "text": "isn’t her"
+            },
+            {
+              "key": "C",
+              "text": "hasn’t her"
+            },
+            {
+              "key": "D",
+              "text": "hasn’t she"
+            }
+          ],
+          "answer": "D",
+          "explanation": "She's recently been... -> She's là viết tắt của 'she has' -> câu hỏi đuôi phủ định: hasn't she."
+        },
+        {
+          "id": "613057",
+          "question": "He’s never on time to work??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t he"
+            },
+            {
+              "key": "B",
+              "text": "is he"
+            },
+            {
+              "key": "C",
+              "text": "hasn’t he"
+            },
+            {
+              "key": "D",
+              "text": "has he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "He's never on time -> Never (phủ định), 'He's' là 'He is' -> câu hỏi đuôi khẳng định: is he."
+        },
+        {
+          "id": "613058",
+          "question": "I’m not pronouncing your name correctly??",
+          "options": [
+            {
+              "key": "A",
+              "text": "amnot I"
+            },
+            {
+              "key": "B",
+              "text": "am I"
+            },
+            {
+              "key": "C",
+              "text": "are I"
+            },
+            {
+              "key": "D",
+              "text": "aren’t I"
+            }
+          ],
+          "answer": "B",
+          "explanation": "I'm not pronouncing... -> Vế trước phủ định 'I am not' -> câu hỏi đuôi khẳng định: am I."
+        },
+        {
+          "id": "613059",
+          "question": "Mary had to cook dinner??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn’t she"
+            },
+            {
+              "key": "B",
+              "text": "didn’t she"
+            },
+            {
+              "key": "C",
+              "text": "had she"
+            },
+            {
+              "key": "D",
+              "text": "did she"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mary had to cook... -> Động từ thường 'had to' ở quá khứ đơn -> câu hỏi đuôi phủ định: didn't she."
+        },
+        {
+          "id": "613063",
+          "question": "There’s something cooking on the stove??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t there"
+            },
+            {
+              "key": "B",
+              "text": "is there"
+            },
+            {
+              "key": "C",
+              "text": "isn’t it"
+            },
+            {
+              "key": "D",
+              "text": "is it"
+            }
+          ],
+          "answer": "A",
+          "explanation": "There's something... -> Có 'There is' -> câu hỏi đuôi phủ định: isn't there."
+        },
+        {
+          "id": "613074",
+          "question": "She'd save money if she bought fresh food??",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn’t she"
+            },
+            {
+              "key": "B",
+              "text": "wouldn’t she"
+            },
+            {
+              "key": "C",
+              "text": "hadn’t she"
+            },
+            {
+              "key": "D",
+              "text": "did she"
+            }
+          ],
+          "answer": "B",
+          "explanation": "She'd save... -> She'd là viết tắt của 'she would' -> câu hỏi đuôi phủ định: wouldn't she."
+        },
+        {
+          "id": "613094",
+          "question": "George Washington was the first President of the United States??",
+          "options": [
+            {
+              "key": "A",
+              "text": "was he"
+            },
+            {
+              "key": "B",
+              "text": "was Washington"
+            },
+            {
+              "key": "C",
+              "text": "wasn’t it"
+            },
+            {
+              "key": "D",
+              "text": "wasn’t he"
+            }
+          ],
+          "answer": "D",
+          "explanation": "George Washington was... -> Khẳng định quá khứ đơn tobe 'was' -> câu hỏi đuôi phủ định: wasn't he."
+        },
+        {
+          "id": "613100",
+          "question": "It seldom barks??",
+          "options": [
+            {
+              "key": "A",
+              "text": "seldom it"
+            },
+            {
+              "key": "B",
+              "text": "doesn’t it"
+            },
+            {
+              "key": "C",
+              "text": "does it"
+            },
+            {
+              "key": "D",
+              "text": "is it"
+            }
+          ],
+          "answer": "C",
+          "explanation": "It seldom barks -> Seldom (bán phủ định) -> câu hỏi đuôi khẳng định: does it."
+        },
+        {
+          "id": "613115",
+          "question": "Michael and Melody often go home late??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "B",
+              "text": "does he"
+            },
+            {
+              "key": "C",
+              "text": "don’t they"
+            },
+            {
+              "key": "D",
+              "text": "do they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Michael and Melody often go... -> Động từ thường hiện tại đơn số nhiều -> câu hỏi đuôi phủ định: don't they."
+        },
+        {
+          "id": "613117",
+          "question": "Hugh had a red car??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn’t he"
+            },
+            {
+              "key": "B",
+              "text": "didn’t he"
+            },
+            {
+              "key": "C",
+              "text": "had he"
+            },
+            {
+              "key": "D",
+              "text": "did he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Hugh had a red car -> 'had' là động từ thường ở quá khứ đơn -> câu hỏi đuôi phủ định: didn't he."
+        },
+        {
+          "id": "613120",
+          "question": "The Mount Rushmore National Memorial Park is in Keystone??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is it"
+            },
+            {
+              "key": "B",
+              "text": "does it"
+            },
+            {
+              "key": "C",
+              "text": "doesn’t it"
+            },
+            {
+              "key": "D",
+              "text": "isn’t it"
+            }
+          ],
+          "answer": "D",
+          "explanation": "The Mount Rushmore... is in... -> Tobe 'is' -> câu hỏi đuôi phủ định: isn't it."
+        },
+        {
+          "id": "613123",
+          "question": "The rock was a sacred Indian site once??",
+          "options": [
+            {
+              "key": "A",
+              "text": "was it"
+            },
+            {
+              "key": "B",
+              "text": "wasn’t it"
+            },
+            {
+              "key": "C",
+              "text": "was the rock"
+            },
+            {
+              "key": "D",
+              "text": "wasn’t the rock"
+            }
+          ],
+          "answer": "B",
+          "explanation": "The rock was... -> Khẳng định quá khứ đơn tobe 'was' -> câu hỏi đuôi phủ định: wasn't it."
+        },
+        {
+          "id": "613124",
+          "question": "It’s been a national memorial since 1925??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t it"
+            },
+            {
+              "key": "B",
+              "text": "is it"
+            },
+            {
+              "key": "C",
+              "text": "hasn’t it"
+            },
+            {
+              "key": "D",
+              "text": "has it"
+            }
+          ],
+          "answer": "C",
+          "explanation": "It's been... -> 'It's' ở đây là 'It has' -> câu hỏi đuôi phủ định: hasn't it."
+        },
+        {
+          "id": "613125",
+          "question": "The monument does not show the bust of President Clinton??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t it"
+            },
+            {
+              "key": "B",
+              "text": "does it"
+            },
+            {
+              "key": "C",
+              "text": "is it"
+            },
+            {
+              "key": "D",
+              "text": "isn’t it"
+            }
+          ],
+          "answer": "B",
+          "explanation": "The monument does not show... -> Phủ định hiện tại đơn 'does not' -> câu hỏi đuôi khẳng định: does it."
+        },
+        {
+          "id": "613126",
+          "question": "You would not tell anyone about it??",
+          "options": [
+            {
+              "key": "A",
+              "text": "would you"
+            },
+            {
+              "key": "B",
+              "text": "wouldn’t you"
+            },
+            {
+              "key": "C",
+              "text": "did you"
+            },
+            {
+              "key": "D",
+              "text": "didn’t you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "You would not tell... -> Phủ định 'would not' -> câu hỏi đuôi khẳng định: would you."
+        },
+        {
+          "id": "613127",
+          "question": "This is your book??",
+          "options": [
+            {
+              "key": "A",
+              "text": "is this"
+            },
+            {
+              "key": "B",
+              "text": "isn’t this"
+            },
+            {
+              "key": "C",
+              "text": "is it"
+            },
+            {
+              "key": "D",
+              "text": "isn’t it"
+            }
+          ],
+          "answer": "D",
+          "explanation": "This is... -> This -> đổi thành 'it' ở đuôi -> câu hỏi đuôi phủ định: isn't it."
+        },
+        {
+          "id": "613128",
+          "question": "Nobody was late for the meeting last night??",
+          "options": [
+            {
+              "key": "A",
+              "text": "wasn’t he"
+            },
+            {
+              "key": "B",
+              "text": "weren’t they"
+            },
+            {
+              "key": "C",
+              "text": "was he"
+            },
+            {
+              "key": "D",
+              "text": "were they"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Nobody was late... -> Nobody (phủ định) -> câu hỏi đuôi khẳng định số nhiều: were they."
+        }
+      ]
+    },
+    {
+      "id": "QT-T2",
+      "title": "Thi Online: Câu Hỏi Đuôi 2",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "613140",
+          "question": "I think he will join us??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don’t I"
+            },
+            {
+              "key": "B",
+              "text": "won’t I"
+            },
+            {
+              "key": "C",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "D",
+              "text": "won’t he"
+            }
+          ],
+          "answer": "D",
+          "explanation": "I think he will join us -> Mệnh đề chính có 'I think' -> câu hỏi đuôi theo mệnh đề phụ 'he will join us' -> won't he."
+        },
+        {
+          "id": "613143",
+          "question": "Ba didn’t produce the first TV picture in 1920??",
+          "options": [
+            {
+              "key": "A",
+              "text": "did Ba"
+            },
+            {
+              "key": "B",
+              "text": "didn’t Ba"
+            },
+            {
+              "key": "C",
+              "text": "did he"
+            },
+            {
+              "key": "D",
+              "text": "didn’t he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ba didn't produce... -> Phủ định quá khứ đơn -> câu hỏi đuôi khẳng định: did he."
+        },
+        {
+          "id": "613144",
+          "question": "Let’s listen to the radio??",
+          "options": [
+            {
+              "key": "A",
+              "text": "will you"
+            },
+            {
+              "key": "B",
+              "text": "don’t you"
+            },
+            {
+              "key": "C",
+              "text": "shall we"
+            },
+            {
+              "key": "D",
+              "text": "shall we"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Let's listen... -> Let's -> câu hỏi đuôi mặc định: shall we."
+        },
+        {
+          "id": "613146",
+          "question": "Please, turn off the TV??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don’t you"
+            },
+            {
+              "key": "B",
+              "text": "do you"
+            },
+            {
+              "key": "C",
+              "text": "shall you"
+            },
+            {
+              "key": "D",
+              "text": "will you"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Please, turn off... (Câu mệnh lệnh/yêu cầu lịch sự) -> câu hỏi đuôi: will you."
+        },
+        {
+          "id": "613148",
+          "question": "Jane, you haven't got a pen??",
+          "options": [
+            {
+              "key": "A",
+              "text": "have you"
+            },
+            {
+              "key": "B",
+              "text": "haven’t you"
+            },
+            {
+              "key": "C",
+              "text": "don’t you"
+            },
+            {
+              "key": "D",
+              "text": "do you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Jane, you haven't got... -> Phủ định hiện tại hoàn thành 'haven't' -> câu hỏi đuôi khẳng định: have you."
+        },
+        {
+          "id": "613150",
+          "question": "She has a lovely voice??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hasn’t she"
+            },
+            {
+              "key": "B",
+              "text": "has she"
+            },
+            {
+              "key": "C",
+              "text": "doesn’t she"
+            },
+            {
+              "key": "D",
+              "text": "does she"
+            }
+          ],
+          "answer": "C",
+          "explanation": "She has... -> 'has' ở đây là động từ thường chỉ sở hữu -> câu hỏi đuôi phủ định hiện tại đơn: doesn't she."
+        },
+        {
+          "id": "613154",
+          "question": "Kate, you don't know where Ann is??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t she"
+            },
+            {
+              "key": "B",
+              "text": "is she"
+            },
+            {
+              "key": "C",
+              "text": "don’t you"
+            },
+            {
+              "key": "D",
+              "text": "do you"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Kate, you don't know... -> Phủ định 'don't' -> câu hỏi đuôi khẳng định: do you."
+        },
+        {
+          "id": "613158",
+          "question": "There are many interesting programs tonight??",
+          "options": [
+            {
+              "key": "A",
+              "text": "are there"
+            },
+            {
+              "key": "B",
+              "text": "are they"
+            },
+            {
+              "key": "C",
+              "text": "aren't there"
+            },
+            {
+              "key": "D",
+              "text": "aren’t they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "There are... -> Câu hỏi đuôi phủ định: aren't there."
+        },
+        {
+          "id": "613160",
+          "question": "I am late for the party??",
+          "options": [
+            {
+              "key": "A",
+              "text": "am I"
+            },
+            {
+              "key": "B",
+              "text": "amnot I"
+            },
+            {
+              "key": "C",
+              "text": "aren't I"
+            },
+            {
+              "key": "D",
+              "text": "are I"
+            }
+          ],
+          "answer": "C",
+          "explanation": "I am late... -> 'I am' ở câu khẳng định -> câu hỏi đuôi mặc định: aren't I."
+        },
+        {
+          "id": "613163",
+          "question": "No one can help you??",
+          "options": [
+            {
+              "key": "A",
+              "text": "can they"
+            },
+            {
+              "key": "B",
+              "text": "can he"
+            },
+            {
+              "key": "C",
+              "text": "can’t they"
+            },
+            {
+              "key": "D",
+              "text": "can’t he"
+            }
+          ],
+          "answer": "A",
+          "explanation": "No one can... -> No one (phủ định) -> câu hỏi đuôi khẳng định 'can they'."
+        },
+        {
+          "id": "613166",
+          "question": "You must give up smoking??",
+          "options": [
+            {
+              "key": "A",
+              "text": "must you"
+            },
+            {
+              "key": "B",
+              "text": "needn’t you"
+            },
+            {
+              "key": "C",
+              "text": "hadn’t you"
+            },
+            {
+              "key": "D",
+              "text": "must not you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "You must give up... -> Must chỉ sự khuyên bảo, cần thiết -> câu hỏi đuôi dùng: needn't you."
+        },
+        {
+          "id": "613168",
+          "question": "I didn’t do anything wrong??",
+          "options": [
+            {
+              "key": "A",
+              "text": "do I"
+            },
+            {
+              "key": "B",
+              "text": "did I"
+            },
+            {
+              "key": "C",
+              "text": "don’t I"
+            },
+            {
+              "key": "D",
+              "text": "didn’t I"
+            }
+          ],
+          "answer": "B",
+          "explanation": "I didn't do... -> Phủ định quá khứ đơn 'didn't do' -> câu hỏi đuôi khẳng định: did I."
+        },
+        {
+          "id": "613172",
+          "question": "You suppose that Gillian will marry him??",
+          "options": [
+            {
+              "key": "A",
+              "text": "won’t she"
+            },
+            {
+              "key": "B",
+              "text": "will she"
+            },
+            {
+              "key": "C",
+              "text": "don’t you"
+            },
+            {
+              "key": "D",
+              "text": "do you"
+            }
+          ],
+          "answer": "C",
+          "explanation": "You suppose that Gillian will marry him -> Mệnh đề chính bắt đầu bằng 'You suppose' (không phải I think/suppose) -> câu hỏi đuôi vẫn lấy theo mệnh đề chính 'You suppose' -> don't you."
+        },
+        {
+          "id": "613175",
+          "question": "I suppose that all the tickets will be sold tomorrow??",
+          "options": [
+            {
+              "key": "A",
+              "text": "won’t they"
+            },
+            {
+              "key": "B",
+              "text": "will they"
+            },
+            {
+              "key": "C",
+              "text": "do I"
+            },
+            {
+              "key": "D",
+              "text": "don’t I"
+            }
+          ],
+          "answer": "A",
+          "explanation": "I suppose that all the tickets will be sold... -> Mệnh đề chính 'I suppose' -> câu hỏi đuôi theo mệnh đề phụ 'all the tickets will be sold' -> won't they."
+        },
+        {
+          "id": "613179",
+          "question": "You may see me tomorrow??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don’t you"
+            },
+            {
+              "key": "B",
+              "text": "may not you"
+            },
+            {
+              "key": "C",
+              "text": "don’t you"
+            },
+            {
+              "key": "D",
+              "text": "mayn’t you"
+            }
+          ],
+          "answer": "D",
+          "explanation": "You may see... -> Động từ khuyết thiếu 'may' -> câu hỏi đuôi phủ định: mayn't you."
+        },
+        {
+          "id": "613182",
+          "question": "What an amazing performance??",
+          "options": [
+            {
+              "key": "A",
+              "text": "does it"
+            },
+            {
+              "key": "B",
+              "text": "doesn’t it"
+            },
+            {
+              "key": "C",
+              "text": "is it"
+            },
+            {
+              "key": "D",
+              "text": "isn’t it"
+            }
+          ],
+          "answer": "D",
+          "explanation": "What an amazing performance -> Câu cảm thán -> lấy chủ ngữ 'it' và tobe phủ định -> isn't it."
+        },
+        {
+          "id": "613184",
+          "question": "It seems that you're going to be late again??",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t it"
+            },
+            {
+              "key": "B",
+              "text": "is it"
+            },
+            {
+              "key": "C",
+              "text": "aren’t you"
+            },
+            {
+              "key": "D",
+              "text": "are you"
+            }
+          ],
+          "answer": "C",
+          "explanation": "It seems that you're going to be late again -> 'It seems that' -> câu hỏi đuôi chia theo mệnh đề phụ 'you're going...' -> aren't you."
+        },
+        {
+          "id": "613186",
+          "question": "There were a lot of people at the concert??",
+          "options": [
+            {
+              "key": "A",
+              "text": "were they"
+            },
+            {
+              "key": "B",
+              "text": "were there"
+            },
+            {
+              "key": "C",
+              "text": "weren’t they"
+            },
+            {
+              "key": "D",
+              "text": "weren’t there"
+            }
+          ],
+          "answer": "D",
+          "explanation": "There were... -> Khẳng định 'There were' -> câu hỏi đuôi phủ định: weren't there."
+        },
+        {
+          "id": "613190",
+          "question": "I’m going to be with you tomorrow night??",
+          "options": [
+            {
+              "key": "A",
+              "text": "am I"
+            },
+            {
+              "key": "B",
+              "text": "amnot I"
+            },
+            {
+              "key": "C",
+              "text": "will I"
+            },
+            {
+              "key": "D",
+              "text": "aren’t I"
+            }
+          ],
+          "answer": "D",
+          "explanation": "I'm going to be... -> 'I am' khẳng định -> câu hỏi đuôi mặc định: aren't I."
+        },
+        {
+          "id": "613194",
+          "question": "You had a good time at the game??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn’t you"
+            },
+            {
+              "key": "B",
+              "text": "had you"
+            },
+            {
+              "key": "C",
+              "text": "didn’t you"
+            },
+            {
+              "key": "D",
+              "text": "did you"
+            }
+          ],
+          "answer": "C",
+          "explanation": "You had a good time... -> 'had' là động từ thường chỉ hành động ở quá khứ đơn -> câu hỏi đuôi phủ định: didn't you."
+        },
+        {
+          "id": "613195",
+          "question": "They’ve never had a child??",
+          "options": [
+            {
+              "key": "A",
+              "text": "don’t they"
+            },
+            {
+              "key": "B",
+              "text": "do they"
+            },
+            {
+              "key": "C",
+              "text": "have they"
+            },
+            {
+              "key": "D",
+              "text": "haven’t they"
+            }
+          ],
+          "answer": "C",
+          "explanation": "They've never had... -> Never (phủ định) -> câu hỏi đuôi khẳng định hiện tại hoàn thành: have they."
+        },
+        {
+          "id": "613197",
+          "question": "Mary hardly ever cooks??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t she"
+            },
+            {
+              "key": "B",
+              "text": "doesn’t Mary"
+            },
+            {
+              "key": "C",
+              "text": "does Mary"
+            },
+            {
+              "key": "D",
+              "text": "does she"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mary hardly ever cooks -> Hardly ever (bán phủ định) -> câu hỏi đuôi khẳng định: does she."
+        },
+        {
+          "id": "613199",
+          "question": "Neither of them offered to help you??",
+          "options": [
+            {
+              "key": "A",
+              "text": "did they"
+            },
+            {
+              "key": "B",
+              "text": "didn’t they"
+            },
+            {
+              "key": "C",
+              "text": "did them"
+            },
+            {
+              "key": "D",
+              "text": "didn’t them"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Neither of them offered... -> Neither (phủ định), quá khứ đơn 'offered' -> câu hỏi đuôi khẳng định: did they."
+        },
+        {
+          "id": "613202",
+          "question": "He ought to have made a note of it??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "B",
+              "text": "shouldn’t he"
+            },
+            {
+              "key": "C",
+              "text": "ought not he"
+            },
+            {
+              "key": "D",
+              "text": "oughtn’t he"
+            }
+          ],
+          "answer": "D",
+          "explanation": "He ought to... -> Ought to -> câu hỏi đuôi phủ định: oughtn't he."
+        },
+        {
+          "id": "613204",
+          "question": "Nobody liked the play??",
+          "options": [
+            {
+              "key": "A",
+              "text": "did they"
+            },
+            {
+              "key": "B",
+              "text": "didn’t they"
+            },
+            {
+              "key": "C",
+              "text": "did he"
+            },
+            {
+              "key": "D",
+              "text": "didn’t he"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Nobody liked... -> Nobody (phủ định), quá khứ đơn 'liked' -> câu hỏi đuôi khẳng định: did they."
+        },
+        {
+          "id": "613209",
+          "question": "Bill put the money in the bank??",
+          "options": [
+            {
+              "key": "A",
+              "text": "doesn’t he"
+            },
+            {
+              "key": "B",
+              "text": "does he"
+            },
+            {
+              "key": "C",
+              "text": "didn’t he"
+            },
+            {
+              "key": "D",
+              "text": "did he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Bill put... -> 'put' ở đây là quá khứ đơn (vì chủ ngữ Bill số ít, nếu hiện tại phải là puts) -> câu hỏi đuôi phủ định: didn't he."
+        },
+        {
+          "id": "613214",
+          "question": "This will fit in your pocket??",
+          "options": [
+            {
+              "key": "A",
+              "text": "will this"
+            },
+            {
+              "key": "B",
+              "text": "will it"
+            },
+            {
+              "key": "C",
+              "text": "won’t it"
+            },
+            {
+              "key": "D",
+              "text": "won’t this"
+            }
+          ],
+          "answer": "C",
+          "explanation": "This will fit... -> This -> đổi thành 'it' ở đuôi -> câu hỏi đuôi phủ định: won't it."
+        },
+        {
+          "id": "613217",
+          "question": "He used to eat raw fish??",
+          "options": [
+            {
+              "key": "A",
+              "text": "usedn’t he"
+            },
+            {
+              "key": "B",
+              "text": "used not he"
+            },
+            {
+              "key": "C",
+              "text": "did not he"
+            },
+            {
+              "key": "D",
+              "text": "didn’t he"
+            }
+          ],
+          "answer": "D",
+          "explanation": "He used to... -> Used to -> câu hỏi đuôi phủ định: didn't he."
+        },
+        {
+          "id": "613219",
+          "question": "You'd better wait for Bill??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn’t you"
+            },
+            {
+              "key": "B",
+              "text": "had you"
+            },
+            {
+              "key": "C",
+              "text": "should you"
+            },
+            {
+              "key": "D",
+              "text": "shouldn’t you"
+            }
+          ],
+          "answer": "A",
+          "explanation": "You'd better... -> Had better -> câu hỏi đuôi phủ định mượn trợ động từ 'had': hadn't you."
+        },
+        {
+          "id": "613223",
+          "question": "You'd come if I needed help??",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn’t you"
+            },
+            {
+              "key": "B",
+              "text": "wouldn’t you"
+            },
+            {
+              "key": "C",
+              "text": "had you"
+            },
+            {
+              "key": "D",
+              "text": "would you"
+            }
+          ],
+          "answer": "B",
+          "explanation": "You'd come if I needed help -> You'd là viết tắt của 'You would' -> câu hỏi đuôi phủ định: wouldn't you."
+        }
+      ]
+    }
+  ]
+}

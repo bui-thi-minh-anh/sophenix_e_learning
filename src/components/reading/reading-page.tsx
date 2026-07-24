@@ -329,6 +329,18 @@ export function ReadingPage() {
 }
 
 // ─── Recommended Card ──────────────────────────────────
+const coverGradients: Record<string, string> = {
+  "daily-life": "from-blue-900/80 to-slate-900",
+  culture: "from-purple-900/80 to-slate-900",
+  environment: "from-emerald-900/80 to-slate-900",
+  technology: "from-cyan-900/80 to-slate-900",
+  science: "from-orange-900/80 to-slate-900",
+  business: "from-violet-900/80 to-slate-900",
+  health: "from-pink-900/80 to-slate-900",
+  travel: "from-sky-900/80 to-slate-900",
+  animals: "from-amber-900/80 to-slate-900",
+};
+
 function RecommendedCard({
   passage: p,
   onSelect,
@@ -338,19 +350,26 @@ function RecommendedCard({
 }) {
   const diff = difficultyFromLevel(p.level);
   const time = readingTime(p.wordCount);
+  const [imgError, setImgError] = React.useState(false);
+  const grad = coverGradients[p.category] ?? "from-slate-800 to-slate-900";
 
   return (
     <button
       onClick={() => onSelect(p.slug)}
       className="group text-left rounded-2xl border border-white/[0.06] overflow-hidden hover:border-white/15 hover:shadow-lg hover:shadow-black/20 transition-all relative h-[160px]"
     >
-      <Image
-        src={`/images/reading/covers/${p.slug}.png`}
-        alt={p.title}
-        fill
-        className="object-cover"
-        unoptimized
-      />
+      {!imgError ? (
+        <Image
+          src={`/images/reading/covers/${p.slug}.png`}
+          alt={p.title}
+          fill
+          className="object-cover"
+          unoptimized
+          onError={() => setImgError(true)}
+        />
+      ) : (
+        <div className={`absolute inset-0 bg-gradient-to-br ${grad}`} />
+      )}
       <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent z-10" />
       <div className="absolute inset-0 z-20 flex flex-col justify-between p-3.5">
         <Badge className="self-start bg-violet-600/80 text-white border-0 text-[9px] backdrop-blur-sm">

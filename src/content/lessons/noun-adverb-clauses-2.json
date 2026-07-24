@@ -1,0 +1,1465 @@
+{
+  "slug": "noun-adverb-clauses-2",
+  "title": "Mệnh Đề Danh Từ & Mệnh Đề Trạng Ngữ – Luyện Tập",
+  "level": "B1",
+  "topic": "noun-adverb-clauses",
+  "series": "Noun & Adverb Clauses",
+  "summary": "Bài tập trắc nghiệm mệnh đề danh từ và mệnh đề trạng ngữ.",
+  "sections": [],
+  "exerciseSets": [
+    {
+      "id": "NAC-P1",
+      "title": "Luyện Tập Mệnh Đề Danh Từ",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "633476",
+          "question": "Have you any idea _______?",
+          "options": [
+            {
+              "key": "A",
+              "text": "how fast does light go"
+            },
+            {
+              "key": "B",
+              "text": "how soon light goes"
+            },
+            {
+              "key": "C",
+              "text": "how soon does light go"
+            },
+            {
+              "key": "D",
+              "text": "how fast light goes"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề danh từ làm tân ngữ phải có trật tự từ trần thuật: how fast + S (light) + V (goes)."
+        },
+        {
+          "id": "633477",
+          "question": "_______ surprised me most _______ to see some of the village people seating on the benches at the end of the room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "What/was"
+            },
+            {
+              "key": "B",
+              "text": "What/were"
+            },
+            {
+              "key": "C",
+              "text": "That/was"
+            },
+            {
+              "key": "D",
+              "text": "That/were"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Dùng 'What' để tạo thành mệnh đề danh từ đóng vai trò chủ ngữ của câu. 'What surprised me most' là chủ ngữ số ít, động từ chia 'was'."
+        },
+        {
+          "id": "614942",
+          "question": "He wanted to know _________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "where he could change some money"
+            },
+            {
+              "key": "B",
+              "text": "where he can change some money"
+            },
+            {
+              "key": "C",
+              "text": "where could he change some money"
+            },
+            {
+              "key": "D",
+              "text": "where can he change some money"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Câu tường thuật gián tiếp của câu hỏi Wh-phải đổi trật tự từ thành trần thuật và lùi thì động từ ('can' lùi thành 'could')."
+        },
+        {
+          "id": "620814",
+          "question": "__________ I have will be yours soon or later.",
+          "options": [
+            {
+              "key": "A",
+              "text": "No matter what"
+            },
+            {
+              "key": "B",
+              "text": "Whatever"
+            },
+            {
+              "key": "C",
+              "text": "Whether"
+            },
+            {
+              "key": "D",
+              "text": "That"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'Whatever I have' (Bất cứ cái gì tôi có) làm mệnh đề danh từ đóng vai trò chủ ngữ trong câu."
+        },
+        {
+          "id": "620815",
+          "question": "________ we go swimming every day _______ us a lot of good.",
+          "options": [
+            {
+              "key": "A",
+              "text": "If/do"
+            },
+            {
+              "key": "B",
+              "text": "That/do"
+            },
+            {
+              "key": "C",
+              "text": "If/does"
+            },
+            {
+              "key": "D",
+              "text": "That/does"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề danh từ bắt đầu bằng 'That + S + V' làm chủ ngữ số ít, nên động từ chính chia số ít là 'does' ('That we go swimming every day does us a lot of good')."
+        },
+        {
+          "id": "620816",
+          "question": "These pictures show you ______.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what does our village look like"
+            },
+            {
+              "key": "B",
+              "text": "what our village looks like"
+            },
+            {
+              "key": "C",
+              "text": "how does our village look like"
+            },
+            {
+              "key": "D",
+              "text": "how our village looks like"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc hỏi 'look like' bắt đầu bằng 'What... look like'. Trật tự mệnh đề danh từ làm tân ngữ phải là trần thuật: 'what our village looks like'."
+        },
+        {
+          "id": "620817",
+          "question": "Can you make sure ________ the gold necklace?",
+          "options": [
+            {
+              "key": "A",
+              "text": "where Alice had put"
+            },
+            {
+              "key": "B",
+              "text": "where did Alice put"
+            },
+            {
+              "key": "C",
+              "text": "where has Alice put"
+            },
+            {
+              "key": "D",
+              "text": "where Alice has put"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Trật tự từ trong mệnh đề danh từ sau 'make sure' phải là trần thuật: S + V. 'where Alice has put' là chính xác nhất."
+        },
+        {
+          "id": "620818",
+          "question": "_______ we can’t get seems better than _______ we have.",
+          "options": [
+            {
+              "key": "A",
+              "text": "What/what"
+            },
+            {
+              "key": "B",
+              "text": "What/that"
+            },
+            {
+              "key": "C",
+              "text": "That/that"
+            },
+            {
+              "key": "D",
+              "text": "That/what"
+            }
+          ],
+          "answer": "A",
+          "explanation": "'What we can't get' (Những gì chúng ta không thể đạt được) và 'what we have' (những gì chúng ta có) đều là mệnh đề danh từ làm chủ ngữ và tân ngữ tương ứng."
+        },
+        {
+          "id": "620819",
+          "question": "______ they had won the game made us excited.",
+          "options": [
+            {
+              "key": "A",
+              "text": "What"
+            },
+            {
+              "key": "B",
+              "text": "That"
+            },
+            {
+              "key": "C",
+              "text": "Where"
+            },
+            {
+              "key": "D",
+              "text": "–"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề danh từ 'That they had won the game' (Việc họ chiến thắng trò chơi) làm chủ ngữ đầy đủ thành phần của câu."
+        },
+        {
+          "id": "620820",
+          "question": "________ I accept award or refuse it is none of your business.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whether"
+            },
+            {
+              "key": "B",
+              "text": "If"
+            },
+            {
+              "key": "C",
+              "text": "That"
+            },
+            {
+              "key": "D",
+              "text": "What"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc 'Whether... or' (Liệu... hay) đứng đầu câu làm mệnh đề danh từ làm chủ ngữ."
+        },
+        {
+          "id": "620821",
+          "question": "Why she didn't come to the party _________ a mystery to us.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề danh từ 'Why she didn't come to the party' làm chủ ngữ số ít, động từ chia 'is' hoặc 'was' tùy theo ngữ cảnh hiện tại."
+        },
+        {
+          "id": "620822",
+          "question": "It is widely believed ________ the Earth is getting warmer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "whether"
+            },
+            {
+              "key": "D",
+              "text": "if"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc giả chủ ngữ 'It + is + PII + that + S + V' (Người ta tin rằng...)."
+        },
+        {
+          "id": "620823",
+          "question": "She wanted to know if her application ___________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has been accepted"
+            },
+            {
+              "key": "B",
+              "text": "accepted"
+            },
+            {
+              "key": "C",
+              "text": "had been accepted"
+            },
+            {
+              "key": "D",
+              "text": "accepts"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Câu tường thuật lùi thì từ Quá khứ đơn/Hiện tại hoàn thành thành Quá khứ hoàn thành bị động 'had been accepted'."
+        },
+        {
+          "id": "620824",
+          "question": "It depends on ________ he will arrive on time or not.",
+          "options": [
+            {
+              "key": "A",
+              "text": "if"
+            },
+            {
+              "key": "B",
+              "text": "whether"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "how"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sau giới từ 'on' và khi có cụm 'or not' phía sau, ta bắt buộc sử dụng 'whether'."
+        },
+        {
+          "id": "620825",
+          "question": "He told me about _________ he had seen in the museum.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "C",
+          "explanation": "'what he had seen' (những gì anh ấy đã thấy) làm mệnh đề danh từ sau giới từ 'about'."
+        },
+        {
+          "id": "620826",
+          "question": "The fact ________ she didn't apologize annoyed him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "when"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'The fact that + S + V' (Thực tế là...) làm mệnh đề đồng vị."
+        },
+        {
+          "id": "620827",
+          "question": "Can you tell me ___________ you managed to solve the problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "how"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Dùng trạng từ 'how' để chỉ cách thức: 'how you managed' (bằng cách nào bạn giải quyết)."
+        },
+        {
+          "id": "620828",
+          "question": "His excuse ________ he forgot the keys seemed unacceptable.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "whether"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề đồng vị 'that he forgot the keys' bổ nghĩa cho 'His excuse'."
+        },
+        {
+          "id": "620829",
+          "question": "Whoever ___________ this window will have to pay for it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "breaks"
+            },
+            {
+              "key": "B",
+              "text": "break"
+            },
+            {
+              "key": "C",
+              "text": "broke"
+            },
+            {
+              "key": "D",
+              "text": "breaking"
+            }
+          ],
+          "answer": "C",
+          "explanation": "'Whoever broke this window' (Bất cứ ai đã làm vỡ cửa sổ này) làm mệnh đề danh từ chỉ hành động quá khứ."
+        },
+        {
+          "id": "620830",
+          "question": "The question is ___________ we should cancel the picnic.",
+          "options": [
+            {
+              "key": "A",
+              "text": "if"
+            },
+            {
+              "key": "B",
+              "text": "whether"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "what"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Làm bổ ngữ sau động từ 'tobe' nên dùng 'whether' thay vì 'if' để thể hiện sự trang trọng học thuật."
+        },
+        {
+          "id": "620831",
+          "question": "I don't think ________ she will agree with your proposal.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "if"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'that' nối mệnh đề danh từ làm tân ngữ của 'think'."
+        },
+        {
+          "id": "620832",
+          "question": "Do you know ___________ book this is?",
+          "options": [
+            {
+              "key": "A",
+              "text": "whose"
+            },
+            {
+              "key": "B",
+              "text": "who"
+            },
+            {
+              "key": "C",
+              "text": "whom"
+            },
+            {
+              "key": "D",
+              "text": "which"
+            }
+          ],
+          "answer": "A",
+          "explanation": "'whose book' (sách của ai) làm từ hỏi trong mệnh đề danh từ làm tân ngữ."
+        },
+        {
+          "id": "620833",
+          "question": "It is a pity ________ you can't join us tonight.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "whether"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "if"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề danh từ 'that you can't join us tonight' đi sau cấu trúc 'It is a pity'."
+        },
+        {
+          "id": "620834",
+          "question": "They are talking about ___________ will win the championship.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "whom"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "which"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ 'about' đi trước mệnh đề danh từ. Chủ ngữ của mệnh đề này phải là 'who'."
+        },
+        {
+          "id": "620835",
+          "question": "I was surprised at ___________ she had achieved in a short time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'what she had achieved' (những gì cô ấy đạt được) đứng sau giới từ 'at'."
+        },
+        {
+          "id": "620836",
+          "question": "No one can deny the fact ________ she is incredibly talented.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "what"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề đồng vị bổ nghĩa cho 'the fact' bắt đầu bằng 'that'."
+        },
+        {
+          "id": "620837",
+          "question": "He cannot explain ___________ he was absent from class yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "why"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "answer": "A",
+          "explanation": "'why he was absent' (lý do tại sao anh ấy vắng mặt) làm mệnh đề danh từ."
+        },
+        {
+          "id": "620838",
+          "question": "________ the computer was invented revolutionized the world.",
+          "options": [
+            {
+              "key": "A",
+              "text": "What"
+            },
+            {
+              "key": "B",
+              "text": "How"
+            },
+            {
+              "key": "C",
+              "text": "That"
+            },
+            {
+              "key": "D",
+              "text": "If"
+            }
+          ],
+          "answer": "C",
+          "explanation": "'That the computer was invented' (Việc máy tính được phát minh) làm chủ ngữ."
+        },
+        {
+          "id": "620839",
+          "question": "Please pay attention to ___________ the teacher is writing on the board.",
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "answer": "A",
+          "explanation": "'what the teacher is writing' (những gì giáo viên đang viết) làm tân ngữ cho giới từ 'to'."
+        },
+        {
+          "id": "620840",
+          "question": "I wonder ___________ she will accept my invitation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "if"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "which"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'wonder if' (băn khoăn liệu rằng...) dùng trong câu gián tiếp."
+        }
+      ]
+    },
+    {
+      "id": "NAC-P2",
+      "title": "Luyện Tập Mệnh Đề Trạng Ngữ",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "614980",
+          "question": "He is decorating his house ___________selling it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in order to"
+            },
+            {
+              "key": "B",
+              "text": "with a view to"
+            },
+            {
+              "key": "C",
+              "text": "in order that"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'with a view to + V-ing' (nhằm mục đích làm gì). Ở đây động từ là 'selling'. 'in order to' + V-inf. 'so that / in order that' + mệnh đề."
+        },
+        {
+          "id": "618386",
+          "question": "___________hard I study, I won’t pass my class.",
+          "options": [
+            {
+              "key": "A",
+              "text": "However"
+            },
+            {
+              "key": "B",
+              "text": "Although"
+            },
+            {
+              "key": "C",
+              "text": "No matter"
+            },
+            {
+              "key": "D",
+              "text": "Despite"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc: 'However + Adj/Adv + S + V' (Dù có ... thế nào đi chăng nữa). Cụm 'hard' là trạng từ."
+        },
+        {
+          "id": "633475",
+          "question": "Cooking changes the qualities of the food, ___________ it is easier to digest.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in order that"
+            },
+            {
+              "key": "B",
+              "text": "whereas"
+            },
+            {
+              "key": "C",
+              "text": "since"
+            },
+            {
+              "key": "D",
+              "text": "nevertheless"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Dùng 'since' mang nghĩa 'bởi vì' để giới thiệu mệnh đề trạng ngữ chỉ nguyên nhân."
+        },
+        {
+          "id": "633478",
+          "question": "We went to bed early ___________ we had to wake up at 5 a.m. the next day.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "so that"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "in spite of"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề trạng ngữ chỉ nguyên nhân bắt đầu bằng liên từ 'because' (vì)."
+        },
+        {
+          "id": "633479",
+          "question": "You should check your spelling ___________ you submit your essay.",
+          "options": [
+            {
+              "key": "A",
+              "text": "after"
+            },
+            {
+              "key": "B",
+              "text": "before"
+            },
+            {
+              "key": "C",
+              "text": "until"
+            },
+            {
+              "key": "D",
+              "text": "since"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề trạng ngữ chỉ thời gian với liên từ 'before' (trước khi)."
+        },
+        {
+          "id": "633480",
+          "question": "The boy ran as fast as he could ___________ he wouldn't be late for school.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because of"
+            },
+            {
+              "key": "B",
+              "text": "in order to"
+            },
+            {
+              "key": "C",
+              "text": "so that"
+            },
+            {
+              "key": "D",
+              "text": "so as not to"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc chỉ mục đích với mệnh đề: 'so that + S + wouldn't...'. 'so as not to' đi với động từ nguyên mẫu."
+        },
+        {
+          "id": "633481",
+          "question": "___________ she was tired, she completed all her homework.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Despite"
+            },
+            {
+              "key": "B",
+              "text": "In spite of"
+            },
+            {
+              "key": "C",
+              "text": "Even though"
+            },
+            {
+              "key": "D",
+              "text": "Because of"
+            }
+          ],
+          "answer": "C",
+          "explanation": "'she was tired' là mệnh đề đầy đủ, dùng 'Even though' chỉ sự nhượng bộ."
+        },
+        {
+          "id": "633482",
+          "question": "I will give you a call ___________ I arrive in London.",
+          "options": [
+            {
+              "key": "A",
+              "text": "until"
+            },
+            {
+              "key": "B",
+              "text": "as soon as"
+            },
+            {
+              "key": "C",
+              "text": "since"
+            },
+            {
+              "key": "D",
+              "text": "while"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'as soon as' (ngay sau khi) chỉ thời gian hành động diễn ra nối tiếp nhau."
+        },
+        {
+          "id": "633483",
+          "question": "She studied very hard ___________ she got the highest mark in class.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "in order that"
+            },
+            {
+              "key": "C",
+              "text": "such that"
+            },
+            {
+              "key": "D",
+              "text": "so"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Liên từ 'so' chỉ kết quả đứng trước một mệnh đề độc lập."
+        },
+        {
+          "id": "633484",
+          "question": "The coffee was ___________ hot for me to drink.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so"
+            },
+            {
+              "key": "B",
+              "text": "such"
+            },
+            {
+              "key": "C",
+              "text": "too"
+            },
+            {
+              "key": "D",
+              "text": "very"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc: 'too + Adj + for sb + to V' (Quá... để cho ai làm gì)."
+        },
+        {
+          "id": "633485",
+          "question": "It was ___________ a beautiful day that we went for a picnic.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so"
+            },
+            {
+              "key": "B",
+              "text": "such"
+            },
+            {
+              "key": "C",
+              "text": "too"
+            },
+            {
+              "key": "D",
+              "text": "very"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc: 'such + a/an + Adj + N + that' (Quá... đến nỗi mà...)."
+        },
+        {
+          "id": "633486",
+          "question": "He has been living here ___________ he was born.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when"
+            },
+            {
+              "key": "B",
+              "text": "since"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "as soon as"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sau 'since' chia Quá khứ đơn, mệnh đề chính chia Hiện tại hoàn thành."
+        },
+        {
+          "id": "633487",
+          "question": "You shouldn't go out ___________ it is raining.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because of"
+            },
+            {
+              "key": "B",
+              "text": "while"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Dùng 'while' chỉ thời gian hành động song song đang tiếp diễn."
+        },
+        {
+          "id": "633488",
+          "question": "He was ___________ tired that he fell asleep immediately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so"
+            },
+            {
+              "key": "B",
+              "text": "such"
+            },
+            {
+              "key": "C",
+              "text": "too"
+            },
+            {
+              "key": "D",
+              "text": "very"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc: 'so + Adj + that + S + V' (Quá... đến nỗi)."
+        },
+        {
+          "id": "633489",
+          "question": "Don't open the door ___________ the train stops.",
+          "options": [
+            {
+              "key": "A",
+              "text": "until"
+            },
+            {
+              "key": "B",
+              "text": "before"
+            },
+            {
+              "key": "C",
+              "text": "after"
+            },
+            {
+              "key": "D",
+              "text": "as soon as"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc 'not... until' (Cho đến khi... thì mới)."
+        },
+        {
+          "id": "633490",
+          "question": "We went out for a walk ___________ the bad weather.",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "despite"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "in spite"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Dùng 'despite' + cụm danh từ 'the bad weather' chỉ sự tương phản."
+        },
+        {
+          "id": "633491",
+          "question": "He took his umbrella ___________ it might rain.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "in case"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "because of"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc: 'in case + S + V' (Phòng khi / Trong trường hợp)."
+        },
+        {
+          "id": "633492",
+          "question": "She spoke in a low voice ___________ nobody could hear her conversation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in order to"
+            },
+            {
+              "key": "B",
+              "text": "so that"
+            },
+            {
+              "key": "C",
+              "text": "because of"
+            },
+            {
+              "key": "D",
+              "text": "in case"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề trạng ngữ chỉ mục đích 'so that + mệnh đề'."
+        },
+        {
+          "id": "633493",
+          "question": "We decided to cancel the match ___________ the heavy snow.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "because of"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Dùng 'because of' + cụm danh từ."
+        },
+        {
+          "id": "633494",
+          "question": "He had ___________ a hard time that he wanted to give up.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so"
+            },
+            {
+              "key": "B",
+              "text": "such"
+            },
+            {
+              "key": "C",
+              "text": "too"
+            },
+            {
+              "key": "D",
+              "text": "as"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'such + (a/an) + Adj + N + that'."
+        },
+        {
+          "id": "633495",
+          "question": "Please turn off the lights ___________ you leave the office.",
+          "options": [
+            {
+              "key": "A",
+              "text": "after"
+            },
+            {
+              "key": "B",
+              "text": "when"
+            },
+            {
+              "key": "C",
+              "text": "while"
+            },
+            {
+              "key": "D",
+              "text": "since"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Liên từ 'when' chỉ thời điểm hành động xảy ra."
+        },
+        {
+          "id": "633496",
+          "question": "I won't join the party ___________ I am invited.",
+          "options": [
+            {
+              "key": "A",
+              "text": "if"
+            },
+            {
+              "key": "B",
+              "text": "unless"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "because"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Liên từ 'unless' = 'if not' (Trừ khi / Nếu không)."
+        },
+        {
+          "id": "633497",
+          "question": "The box was ___________ heavy that she couldn't lift it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "too"
+            },
+            {
+              "key": "B",
+              "text": "so"
+            },
+            {
+              "key": "C",
+              "text": "such"
+            },
+            {
+              "key": "D",
+              "text": "very"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'so... that' đi kèm tính từ 'heavy'."
+        },
+        {
+          "id": "633498",
+          "question": "They worked hard ___________ they could buy a new house.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "as if"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề trạng ngữ chỉ mục đích 'so that + S + could V'."
+        },
+        {
+          "id": "633499",
+          "question": "He has changed a lot ___________ I last met him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when"
+            },
+            {
+              "key": "B",
+              "text": "since"
+            },
+            {
+              "key": "C",
+              "text": "as soon as"
+            },
+            {
+              "key": "D",
+              "text": "before"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sử dụng 'since' làm mốc thời gian."
+        },
+        {
+          "id": "633500",
+          "question": "___________ he was late, he missed the most important part of the meeting.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "Because"
+            },
+            {
+              "key": "C",
+              "text": "Despite"
+            },
+            {
+              "key": "D",
+              "text": "If"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề trạng ngữ chỉ nguyên nhân."
+        },
+        {
+          "id": "633501",
+          "question": "He talked ___________ he knew everything.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as if"
+            },
+            {
+              "key": "B",
+              "text": "so that"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "although"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc 'as if / as though' (như thể là) chỉ giả định trái thực tế."
+        },
+        {
+          "id": "633502",
+          "question": "They continued their trip ___________ the bad weather.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because of"
+            },
+            {
+              "key": "B",
+              "text": "although"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "in spite"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Dùng 'despite' trước cụm danh từ."
+        },
+        {
+          "id": "633503",
+          "question": "I didn't answer the phone ___________ I was extremely busy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "although"
+            },
+            {
+              "key": "B",
+              "text": "as soon as"
+            },
+            {
+              "key": "C",
+              "text": "because"
+            },
+            {
+              "key": "D",
+              "text": "while"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề chỉ nguyên nhân."
+        },
+        {
+          "id": "633504",
+          "question": "Write down his phone number ___________ you forget it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "in case"
+            },
+            {
+              "key": "C",
+              "text": "although"
+            },
+            {
+              "key": "D",
+              "text": "because of"
+            }
+          ],
+          "answer": "B",
+          "explanation": "'in case' (phòng khi)."
+        }
+      ]
+    }
+  ]
+}

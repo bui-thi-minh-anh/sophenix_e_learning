@@ -23,6 +23,19 @@ import {
   Target,
   TrendingUp,
   Trophy,
+
+  GitBranch,
+  Shield,
+  MessageCircleQuestion,
+  Repeat,
+  Shuffle,
+  Sparkles,
+  FlipVertical,
+  Link2,
+  Regex,
+  Users,
+  Braces,
+  GitMerge,
 } from "lucide-react";
 import { getAllLessons } from "@/content/lessons";
 import type { Lesson } from "@/content/lessons/types";
@@ -58,6 +71,20 @@ const iconMap: Record<string, typeof BookOpen> = {
   "Thì": Clock,
   "Động từ": Play,
   "Giới từ": Target,
+  "Gerund": Repeat,
+  "subject-verb": Users,
+  "phrasal-verbs": Link2,
+  "conditionals": GitBranch,
+  "passive-voice": Shield,
+  "reported-speech": MessageSquare,
+  "inversion": FlipVertical,
+  "question-tags": MessageCircleQuestion,
+  "participles": Sparkles,
+  "subjunctive": Shuffle,
+  "prepositions": Target,
+  "relative-clauses": Regex,
+  "noun-adverb-clauses": Braces,
+  "conjunctions": GitMerge,
 };
 
 const colorMap: Record<string, { bg: string; icon: string; border: string }> = {
@@ -70,6 +97,20 @@ const colorMap: Record<string, { bg: string; icon: string; border: string }> = {
   "Thì": { bg: "from-indigo-500/20 to-indigo-600/10", icon: "text-indigo-400", border: "border-indigo-500/20" },
   "Động từ": { bg: "from-violet-500/20 to-violet-600/10", icon: "text-violet-400", border: "border-violet-500/20" },
   "Giới từ": { bg: "from-amber-500/20 to-amber-600/10", icon: "text-amber-400", border: "border-amber-500/20" },
+  "Gerund": { bg: "from-teal-500/20 to-teal-600/10", icon: "text-teal-400", border: "border-teal-500/20" },
+  "subject-verb": { bg: "from-lime-500/20 to-lime-600/10", icon: "text-lime-400", border: "border-lime-500/20" },
+  "phrasal-verbs": { bg: "from-fuchsia-500/20 to-fuchsia-600/10", icon: "text-fuchsia-400", border: "border-fuchsia-500/20" },
+  "conditionals": { bg: "from-sky-500/20 to-sky-600/10", icon: "text-sky-400", border: "border-sky-500/20" },
+  "passive-voice": { bg: "from-slate-400/20 to-slate-500/10", icon: "text-slate-300", border: "border-slate-400/20" },
+  "reported-speech": { bg: "from-rose-500/20 to-rose-600/10", icon: "text-rose-400", border: "border-rose-500/20" },
+  "inversion": { bg: "from-yellow-500/20 to-yellow-600/10", icon: "text-yellow-400", border: "border-yellow-500/20" },
+  "question-tags": { bg: "from-green-500/20 to-green-600/10", icon: "text-green-400", border: "border-green-500/20" },
+  "participles": { bg: "from-red-500/20 to-red-600/10", icon: "text-red-400", border: "border-red-500/20" },
+  "subjunctive": { bg: "from-purple-400/20 to-indigo-500/10", icon: "text-purple-300", border: "border-purple-400/20" },
+  "prepositions": { bg: "from-amber-500/20 to-amber-600/10", icon: "text-amber-400", border: "border-amber-500/20" },
+  "relative-clauses": { bg: "from-emerald-400/20 to-teal-500/10", icon: "text-emerald-300", border: "border-emerald-400/20" },
+  "noun-adverb-clauses": { bg: "from-blue-400/20 to-violet-500/10", icon: "text-blue-300", border: "border-blue-400/20" },
+  "conjunctions": { bg: "from-orange-400/20 to-rose-500/10", icon: "text-orange-300", border: "border-orange-400/20" },
 };
 
 function getIcon(topic: string) {
@@ -253,7 +294,7 @@ function LessonsHero({ onBrowse }: { onBrowse: () => void }) {
       />
       <div className="absolute inset-0 bg-gradient-to-r from-[#060e1f]/85 via-[#060e1f]/50 to-transparent" />
 
-      <div className="absolute inset-0 z-10 flex items-center px-8 lg:px-12">
+      <div className="absolute inset-0 z-10 flex items-center px-3">
         <div className="flex-1 space-y-4 max-w-sm">
           <h1 className="text-2xl font-bold leading-tight text-white lg:text-3xl tracking-tight">
             Learn a little every day,
@@ -264,11 +305,11 @@ function LessonsHero({ onBrowse }: { onBrowse: () => void }) {
             Step by step, you will go further.
           </p>
           <div className="flex gap-3 pt-1">
-            <Button className="gap-2 bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-600/20">
+            <Button className="gap-2 bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-600/20 px-3">
               <BookOpen className="h-4 w-4" />
               Continue Learning
             </Button>
-            <Button onClick={onBrowse} variant="outline" className="gap-2 border-white/20 text-white hover:bg-white/10 backdrop-blur-sm">
+            <Button onClick={onBrowse} variant="outline" className="gap-2 border-white/20 text-white hover:bg-white/10 backdrop-blur-sm px-3">
               <Search className="h-4 w-4" />
               Browse Lessons
             </Button>

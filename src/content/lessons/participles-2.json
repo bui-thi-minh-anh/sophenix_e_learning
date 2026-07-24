@@ -1,0 +1,2735 @@
+{
+  "slug": "participles-2",
+  "title": "Phân Từ – Luyện Tập",
+  "level": "B1",
+  "topic": "participles",
+  "series": "Participles",
+  "summary": "Bài tập và đề thi trắc nghiệm phân từ.",
+  "sections": [],
+  "exerciseSets": [
+    {
+      "id": "PT-P1",
+      "title": "Luyện Tập Phân Từ 1",
+      "description": "50 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "293846",
+          "question": "Nam's success is really __________ to us.",
+          "options": [
+            {
+              "key": "A",
+              "text": "surprisingly"
+            },
+            {
+              "key": "B",
+              "text": "surprise"
+            },
+            {
+              "key": "C",
+              "text": "surprised"
+            },
+            {
+              "key": "D",
+              "text": "surprising"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Chủ ngữ 'success' chỉ vật, tính chất của sự việc nên ta dùng tính từ đuôi -ing để miêu tả đặc điểm: 'surprising' (gây ngạc nhiên)."
+        },
+        {
+          "id": "293847",
+          "question": "His funny story is so __________ that we can't help laughing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "amusement"
+            },
+            {
+              "key": "B",
+              "text": "amused"
+            },
+            {
+              "key": "C",
+              "text": "amuse"
+            },
+            {
+              "key": "D",
+              "text": "amusing"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Chủ ngữ 'funny story' chỉ vật nên dùng tính từ đuôi -ing để miêu tả tính chất: 'amusing' (hài hước, gây cười)."
+        },
+        {
+          "id": "293848",
+          "question": "John and Mary are engaged. They are going to get __________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "marry"
+            },
+            {
+              "key": "B",
+              "text": "to marry"
+            },
+            {
+              "key": "C",
+              "text": "marrying"
+            },
+            {
+              "key": "D",
+              "text": "married"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cụm từ 'get married' có nghĩa là kết hôn. 'Married' đóng vai trò như một quá khứ phân từ làm tính từ."
+        },
+        {
+          "id": "293849",
+          "question": "We met a lot of __________ people while we were traveling in Ho Chi Minh City.",
+          "options": [
+            {
+              "key": "A",
+              "text": "interesting"
+            },
+            {
+              "key": "B",
+              "text": "interest"
+            },
+            {
+              "key": "C",
+              "text": "interestingly"
+            },
+            {
+              "key": "D",
+              "text": "interested"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tính từ đứng trước danh từ 'people' chỉ người để miêu tả tính chất thú vị của họ nên dùng tính từ đuôi -ing: 'interesting people'."
+        },
+        {
+          "id": "293850",
+          "question": "At the end of the day's work, she often finds __________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "exhausted"
+            },
+            {
+              "key": "B",
+              "text": "exhaust"
+            },
+            {
+              "key": "C",
+              "text": "exhaustedly"
+            },
+            {
+              "key": "D",
+              "text": "exhausting"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc 'find someone/something + adj' (thấy ai/cái gì thế nào). Ở đây người phụ nữ cảm thấy kiệt sức, mang tính bị động (bị làm cho kiệt sức bởi công việc) nên dùng tính từ đuôi -ed: 'finds herself exhausted' (rút gọn thành 'finds exhausted')."
+        },
+        {
+          "id": "293851",
+          "question": "Children are__________ with these horror films.",
+          "options": [
+            {
+              "key": "A",
+              "text": "terrify"
+            },
+            {
+              "key": "B",
+              "text": "terrifying"
+            },
+            {
+              "key": "C",
+              "text": "terrified"
+            },
+            {
+              "key": "D",
+              "text": "terribly"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc bị động chỉ cảm xúc của người: 'be + terrified with/by' (bị khiếp sợ, hoảng sợ bởi cái gì)."
+        },
+        {
+          "id": "293852",
+          "question": "All of us were __________ in the film on TV last night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "interest"
+            },
+            {
+              "key": "B",
+              "text": "interesting"
+            },
+            {
+              "key": "C",
+              "text": "interestingly"
+            },
+            {
+              "key": "D",
+              "text": "interested"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc chỉ cảm xúc: 'be interested in something' (hứng thú, quan tâm đến cái gì)."
+        },
+        {
+          "id": "293853",
+          "question": "The film was so __________ that they all saw it through.",
+          "options": [
+            {
+              "key": "A",
+              "text": "interestingly"
+            },
+            {
+              "key": "B",
+              "text": "interested"
+            },
+            {
+              "key": "C",
+              "text": "have interested"
+            },
+            {
+              "key": "D",
+              "text": "interesting"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Chủ ngữ 'film' là danh từ chỉ vật nên dùng tính từ đuôi -ing để miêu tả đặc điểm tính chất: 'interesting'."
+        },
+        {
+          "id": "293854",
+          "question": "The news sounds __________. We are happy to hear it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "interesting"
+            },
+            {
+              "key": "B",
+              "text": "interest"
+            },
+            {
+              "key": "C",
+              "text": "interested"
+            },
+            {
+              "key": "D",
+              "text": "interestingly"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Động từ liên kết 'sound' đi kèm với tính từ miêu tả tính chất của chủ ngữ 'news' (chỉ vật) nên dùng tính từ đuôi -ing: 'interesting'."
+        },
+        {
+          "id": "293855",
+          "question": "The weather is truly__________ today.",
+          "options": [
+            {
+              "key": "A",
+              "text": "depressed"
+            },
+            {
+              "key": "B",
+              "text": "depressingly"
+            },
+            {
+              "key": "C",
+              "text": "depressing"
+            },
+            {
+              "key": "D",
+              "text": "depression"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Thời tiết là đối tượng chỉ vật gây ra cảm giác chán nản nên dùng tính từ đuôi -ing: 'depressing weather'."
+        },
+        {
+          "id": "293856",
+          "question": "The children are ______ with watching the same programme every day.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bored"
+            },
+            {
+              "key": "B",
+              "text": "boring"
+            },
+            {
+              "key": "C",
+              "text": "bore"
+            },
+            {
+              "key": "D",
+              "text": "boredom"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Chủ ngữ 'children' chỉ người trải nghiệm cảm giác buồn chán do xem cùng chương trình mỗi ngày nên dùng tính từ đuôi -ed: 'be bored with'."
+        },
+        {
+          "id": "293857",
+          "question": "We were all __________ at his progress.",
+          "options": [
+            {
+              "key": "A",
+              "text": "surprise"
+            },
+            {
+              "key": "B",
+              "text": "surprisingly"
+            },
+            {
+              "key": "C",
+              "text": "surprised"
+            },
+            {
+              "key": "D",
+              "text": "surprising"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Chủ ngữ 'we' chỉ người trải nghiệm cảm giác ngạc nhiên trước sự tiến bộ của anh ấy nên dùng tính từ đuôi -ed: 'surprised'."
+        },
+        {
+          "id": "293858",
+          "question": "We got __________ after we had worked for four hours in the field.",
+          "options": [
+            {
+              "key": "A",
+              "text": "exhausted"
+            },
+            {
+              "key": "B",
+              "text": "to exhaust"
+            },
+            {
+              "key": "C",
+              "text": "exhaust"
+            },
+            {
+              "key": "D",
+              "text": "exhausting"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc 'get + adj' chỉ trạng thái biến đổi. Chúng tôi mệt lử sau khi làm việc nên dùng tính từ đuôi -ed: 'get exhausted'."
+        },
+        {
+          "id": "293859",
+          "question": "Lan is really__________ about going to Singapore.",
+          "options": [
+            {
+              "key": "A",
+              "text": "exciting"
+            },
+            {
+              "key": "B",
+              "text": "excited"
+            },
+            {
+              "key": "C",
+              "text": "excitedly"
+            },
+            {
+              "key": "D",
+              "text": "excitement"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ 'Lan' chỉ người trải nghiệm cảm giác phấn khích về chuyến đi Singapore nên dùng tính từ đuôi -ed: 'excited'."
+        },
+        {
+          "id": "293860",
+          "question": "I have never met one of the most __________ people like that.",
+          "options": [
+            {
+              "key": "A",
+              "text": "boring"
+            },
+            {
+              "key": "B",
+              "text": "bored"
+            },
+            {
+              "key": "C",
+              "text": "bore"
+            },
+            {
+              "key": "D",
+              "text": "boredom"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tính từ bổ nghĩa cho danh từ 'people' chỉ những người tẻ nhạt nên dùng tính từ đuôi -ing: 'boring people'."
+        },
+        {
+          "id": "293861",
+          "question": "His parents’ __________ made him work harder.",
+          "options": [
+            {
+              "key": "A",
+              "text": "disappointingly"
+            },
+            {
+              "key": "B",
+              "text": "disappointed"
+            },
+            {
+              "key": "C",
+              "text": "disappointing"
+            },
+            {
+              "key": "D",
+              "text": "disappointment"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Ở đây cần một danh từ sau sở hữu cách 'parents’' làm chủ ngữ của động từ 'made': 'disappointment' (sự thất vọng)."
+        },
+        {
+          "id": "293862",
+          "question": "I find horror films really __________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "terrify"
+            },
+            {
+              "key": "B",
+              "text": "terrifying"
+            },
+            {
+              "key": "C",
+              "text": "terrified"
+            },
+            {
+              "key": "D",
+              "text": "terribly"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'find something + adj'. 'Horror films' chỉ vật nên dùng tính từ đuôi -ing chỉ đặc tính: 'terrifying' (kinh dị, đáng sợ)."
+        },
+        {
+          "id": "293863",
+          "question": "Tom felt so __________ that he went bed early.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tirelessly"
+            },
+            {
+              "key": "B",
+              "text": "tire"
+            },
+            {
+              "key": "C",
+              "text": "tiring"
+            },
+            {
+              "key": "D",
+              "text": "tired"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Động từ liên kết 'felt' chỉ cảm giác của người nên dùng tính từ đuôi -ed: 'feel tired' (cảm thấy mệt mỏi)."
+        },
+        {
+          "id": "293864",
+          "question": "It will be an__________ experience for us to discover the formation of the stone.",
+          "options": [
+            {
+              "key": "A",
+              "text": "excitedly"
+            },
+            {
+              "key": "B",
+              "text": "excitement"
+            },
+            {
+              "key": "C",
+              "text": "exciting"
+            },
+            {
+              "key": "D",
+              "text": "excited"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tính từ bổ nghĩa cho danh từ chỉ vật 'experience' nên dùng tính từ đuôi -ing để miêu tả tính chất: 'an exciting experience'."
+        },
+        {
+          "id": "293865",
+          "question": "Tam is very __________ with his school result.",
+          "options": [
+            {
+              "key": "A",
+              "text": "disappointment"
+            },
+            {
+              "key": "B",
+              "text": "disappoint"
+            },
+            {
+              "key": "C",
+              "text": "disappointed"
+            },
+            {
+              "key": "D",
+              "text": "disappointing"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Chủ ngữ 'Tam' chỉ người trải nghiệm cảm giác thất vọng về kết quả học tập nên dùng tính từ đuôi -ed: 'be disappointed with'."
+        },
+        {
+          "id": "293866",
+          "question": "We didn't see it through because of the __________film.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bore"
+            },
+            {
+              "key": "B",
+              "text": "bored"
+            },
+            {
+              "key": "C",
+              "text": "boring"
+            },
+            {
+              "key": "D",
+              "text": "boredom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Bổ nghĩa cho danh từ chỉ vật 'film' nên dùng tính từ đuôi -ing để miêu tả tính chất tẻ nhạt của nó: 'boring film'."
+        },
+        {
+          "id": "293867",
+          "question": "The audience soon got __________ because of the boring performance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "boring"
+            },
+            {
+              "key": "B",
+              "text": "bored"
+            },
+            {
+              "key": "C",
+              "text": "to bore"
+            },
+            {
+              "key": "D",
+              "text": "bore"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Khán giả (người) trải nghiệm cảm giác buồn chán do buổi biểu diễn tẻ nhạt nên dùng tính từ đuôi -ed: 'get bored'."
+        },
+        {
+          "id": "293868",
+          "question": "Hoa was amused at my ________story.",
+          "options": [
+            {
+              "key": "A",
+              "text": "invent"
+            },
+            {
+              "key": "B",
+              "text": "invented"
+            },
+            {
+              "key": "C",
+              "text": "inventing"
+            },
+            {
+              "key": "D",
+              "text": "invention"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Câu chuyện đã được bịa ra (mang tính bị động) bổ nghĩa cho danh từ 'story' nên dùng quá khứ phân từ: 'invented story'."
+        },
+        {
+          "id": "293869",
+          "question": "Huong teaches small children. She often finds her job__________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "exhausted"
+            },
+            {
+              "key": "B",
+              "text": "exhaustedly"
+            },
+            {
+              "key": "C",
+              "text": "exhausting"
+            },
+            {
+              "key": "D",
+              "text": "exhaust"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc 'find something + adj'. Công việc (job) chỉ vật nên dùng tính từ đuôi -ing miêu tả tính chất: 'finds her job exhausting'."
+        },
+        {
+          "id": "293870",
+          "question": "The girls are __________ of the long journey.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tirelessly"
+            },
+            {
+              "key": "B",
+              "text": "tired"
+            },
+            {
+              "key": "C",
+              "text": "tiring"
+            },
+            {
+              "key": "D",
+              "text": "tiredness"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ 'girls' (người) trải nghiệm cảm giác mệt mỏi vì chuyến đi dài nên dùng tính từ đuôi -ed: 'be tired of'."
+        },
+        {
+          "id": "293871",
+          "question": "The weather this summer is really __________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "disappointed"
+            },
+            {
+              "key": "B",
+              "text": "disappointment"
+            },
+            {
+              "key": "C",
+              "text": "disappointing"
+            },
+            {
+              "key": "D",
+              "text": "disappointingly"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Bổ nghĩa cho chủ ngữ 'weather' chỉ vật nên dùng tính từ đuôi -ing miêu tả tính chất gây thất vọng: 'disappointing weather'."
+        },
+        {
+          "id": "293872",
+          "question": "They had a __________ discussion on biology last night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bore"
+            },
+            {
+              "key": "B",
+              "text": "boredom"
+            },
+            {
+              "key": "C",
+              "text": "boring"
+            },
+            {
+              "key": "D",
+              "text": "bored"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Bổ nghĩa cho danh từ chỉ vật 'discussion' nên dùng tính từ đuôi -ing miêu tả đặc điểm cuộc thảo luận tẻ nhạt: 'boring discussion'."
+        },
+        {
+          "id": "293873",
+          "question": "Melanie was the only person __________ a letter of thanks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wrote"
+            },
+            {
+              "key": "B",
+              "text": "written"
+            },
+            {
+              "key": "C",
+              "text": "to write"
+            },
+            {
+              "key": "D",
+              "text": "writing"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc rút gọn mệnh đề quan hệ với danh từ có 'the only' đi kèm: dùng 'to V'. Ở đây là 'the only person to write a letter'."
+        },
+        {
+          "id": "293874",
+          "question": "The pilot was the only man after the crash.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was rescue"
+            },
+            {
+              "key": "B",
+              "text": "rescued"
+            },
+            {
+              "key": "C",
+              "text": "rescuing"
+            },
+            {
+              "key": "D",
+              "text": "to be rescued"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động sau 'the only man' nên dùng 'to be P2': 'the only man to be rescued'."
+        },
+        {
+          "id": "293875",
+          "question": "I'm afraid I am not __________ to talk about this matter.",
+          "options": [
+            {
+              "key": "A",
+              "text": "qualifying"
+            },
+            {
+              "key": "B",
+              "text": "qualified"
+            },
+            {
+              "key": "C",
+              "text": "quality"
+            },
+            {
+              "key": "D",
+              "text": "qualitative"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cụm tính từ 'be qualified to do something' nghĩa là đủ năng lực, tiêu chuẩn để làm việc gì."
+        },
+        {
+          "id": "293876",
+          "question": "The movie on T.V last night made me __________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "boredom"
+            },
+            {
+              "key": "B",
+              "text": "bored"
+            },
+            {
+              "key": "C",
+              "text": "bore"
+            },
+            {
+              "key": "D",
+              "text": "boring"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'make someone + adj/V'. Ở đây 'movie' làm cho tôi cảm thấy buồn chán nên dùng tính từ đuôi -ed: 'made me bored'."
+        },
+        {
+          "id": "293877",
+          "question": "The man __________over there is my boyfriend.",
+          "options": [
+            {
+              "key": "A",
+              "text": "sit"
+            },
+            {
+              "key": "B",
+              "text": "sitting"
+            },
+            {
+              "key": "C",
+              "text": "sat"
+            },
+            {
+              "key": "D",
+              "text": "is sitting"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động: 'The man who is sitting over there' -> 'The man sitting over there'."
+        },
+        {
+          "id": "293878",
+          "question": "I feel so __________ and sleepy today because I worked late last night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tiredness"
+            },
+            {
+              "key": "B",
+              "text": "tiring"
+            },
+            {
+              "key": "C",
+              "text": "tired"
+            },
+            {
+              "key": "D",
+              "text": "tire"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Chủ ngữ chỉ người cảm thấy mệt mỏi và buồn ngủ nên dùng tính từ đuôi -ed: 'feel tired'."
+        },
+        {
+          "id": "293879",
+          "question": "She said that the report was a bit __________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "confuse"
+            },
+            {
+              "key": "B",
+              "text": "confuses"
+            },
+            {
+              "key": "C",
+              "text": "confusing"
+            },
+            {
+              "key": "D",
+              "text": "confused"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Chủ ngữ 'report' chỉ vật nên dùng tính từ đuôi -ing miêu tả đặc tính gây bối rối của bản báo cáo: 'confusing'."
+        },
+        {
+          "id": "293880",
+          "question": "A careful analysis of the __________ products on the market indicated that our product lacked innovation and optional features.",
+          "options": [
+            {
+              "key": "A",
+              "text": "completing"
+            },
+            {
+              "key": "B",
+              "text": "completed"
+            },
+            {
+              "key": "C",
+              "text": "completes"
+            },
+            {
+              "key": "D",
+              "text": "completion"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tính từ bổ nghĩa cho danh từ 'products' đã được hoàn thành, hoàn thiện để đưa ra thị trường nên dùng dạng quá khứ phân từ: 'completed products'."
+        },
+        {
+          "id": "293881",
+          "question": "The __________ retail price for the shoe polish is $3.99, roughly 25% lower than other shoe polishes currently on the market.",
+          "options": [
+            {
+              "key": "A",
+              "text": "suggest"
+            },
+            {
+              "key": "B",
+              "text": "suggested"
+            },
+            {
+              "key": "C",
+              "text": "suggesting"
+            },
+            {
+              "key": "D",
+              "text": "suggestion"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Quá khứ phân từ dùng như tính từ bổ nghĩa cho danh từ 'retail price': 'suggested retail price' (giá bán lẻ đề xuất)."
+        },
+        {
+          "id": "293882",
+          "question": "Robert is getting ready to realize his dream: opening a business __________ plants on the Internet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "sell"
+            },
+            {
+              "key": "B",
+              "text": "sells"
+            },
+            {
+              "key": "C",
+              "text": "selling"
+            },
+            {
+              "key": "D",
+              "text": "sold"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động bổ nghĩa cho 'a business': 'a business which sells plants' -> 'a business selling plants'."
+        },
+        {
+          "id": "293883",
+          "question": "__________ tired after a long hard day, the marketing expert decided to call it a day and went home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "feel"
+            },
+            {
+              "key": "B",
+              "text": "feels"
+            },
+            {
+              "key": "C",
+              "text": "felt"
+            },
+            {
+              "key": "D",
+              "text": "feeling"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ nguyên nhân cùng chủ ngữ dạng chủ động: 'Because he felt tired...' -> 'Feeling tired...'."
+        },
+        {
+          "id": "293884",
+          "question": "The book __________ last year has been lost.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bought"
+            },
+            {
+              "key": "B",
+              "text": "be bought"
+            },
+            {
+              "key": "C",
+              "text": "buying"
+            },
+            {
+              "key": "D",
+              "text": "buy"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động bổ nghĩa cho 'The book': 'The book which was bought last year' -> 'The book bought last year'."
+        },
+        {
+          "id": "293885",
+          "question": "When __________ your application, be sure to check the reply address is correct.",
+          "options": [
+            {
+              "key": "A",
+              "text": "send"
+            },
+            {
+              "key": "B",
+              "text": "sends"
+            },
+            {
+              "key": "C",
+              "text": "sending"
+            },
+            {
+              "key": "D",
+              "text": "sent"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề trạng ngữ cùng chủ ngữ dạng chủ động với liên từ 'When': 'When you send your application' -> 'When sending your application'."
+        },
+        {
+          "id": "293886",
+          "question": "A notice _______ today's special events is posted on the bulletin board.",
+          "options": [
+            {
+              "key": "A",
+              "text": "shown"
+            },
+            {
+              "key": "B",
+              "text": "showed"
+            },
+            {
+              "key": "C",
+              "text": "showing"
+            },
+            {
+              "key": "D",
+              "text": "shows"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động bổ nghĩa cho 'A notice': 'A notice which shows...' -> 'A notice showing...'."
+        },
+        {
+          "id": "293887",
+          "question": "The secretary will get the forms__________ tomorrow.",
+          "options": [
+            {
+              "key": "A",
+              "text": "signed"
+            },
+            {
+              "key": "B",
+              "text": "to be signed"
+            },
+            {
+              "key": "C",
+              "text": "sign"
+            },
+            {
+              "key": "D",
+              "text": "signing"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc truyền khiến bị động: 'get something + P2' (có cái gì được làm bởi ai). Ở đây là 'get the forms signed'."
+        },
+        {
+          "id": "293888",
+          "question": "The head of the department__________ the banquet room for a party should submit a required form to the Catering Department.",
+          "options": [
+            {
+              "key": "A",
+              "text": "use"
+            },
+            {
+              "key": "B",
+              "text": "used"
+            },
+            {
+              "key": "C",
+              "text": "using"
+            },
+            {
+              "key": "D",
+              "text": "will use"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động bổ nghĩa cho chủ ngữ 'The head of the department': 'The head... who uses...' -> 'The head... using...'."
+        },
+        {
+          "id": "293889",
+          "question": "Please complete the return list__________ the reason for the return and it will be processed promptly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "detail"
+            },
+            {
+              "key": "B",
+              "text": "detailed"
+            },
+            {
+              "key": "C",
+              "text": "detailing"
+            },
+            {
+              "key": "D",
+              "text": "in detail"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động bổ nghĩa cho 'the return list': 'the return list which details...' -> 'the return list detailing...'."
+        },
+        {
+          "id": "293890",
+          "question": "This film is quite__________. All the children are __________ in it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "interesting/interesting"
+            },
+            {
+              "key": "B",
+              "text": "interesting/interested"
+            },
+            {
+              "key": "C",
+              "text": "interested/interesting"
+            },
+            {
+              "key": "D",
+              "text": "interested/interested"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Bộ phim (film) chỉ vật nên dùng tính từ đuôi -ing để miêu tả tính chất 'interesting', lũ trẻ (children) chỉ người trải nghiệm cảm xúc nên dùng 'interested in'."
+        },
+        {
+          "id": "293891",
+          "question": "Welton Textiles Inc. made a net profit of £500 million, __________ it to fund its expansion across the continent.",
+          "options": [
+            {
+              "key": "A",
+              "text": "allowing"
+            },
+            {
+              "key": "B",
+              "text": "allows"
+            },
+            {
+              "key": "C",
+              "text": "allowance"
+            },
+            {
+              "key": "D",
+              "text": "allowably"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ/mệnh đề trạng ngữ chủ động bổ nghĩa cho mệnh đề trước: ', which allows it to fund...' -> ', allowing it to fund...'."
+        },
+        {
+          "id": "293892",
+          "question": "According to the preliminary analysis by the labor department, the recovery of the economy this year lead to an increase in employment, __________ with the same period last year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "compare"
+            },
+            {
+              "key": "B",
+              "text": "comparing"
+            },
+            {
+              "key": "C",
+              "text": "compared"
+            },
+            {
+              "key": "D",
+              "text": "comparison"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc bị động rút gọn dùng để so sánh: 'compared with the same period last year' (được so sánh với cùng kỳ năm ngoái)."
+        },
+        {
+          "id": "293893",
+          "question": "__________ one hand on the steering wheel, Ann opened a can of soda pop with her free hand.",
+          "options": [
+            {
+              "key": "A",
+              "text": "To keep"
+            },
+            {
+              "key": "B",
+              "text": "Keep"
+            },
+            {
+              "key": "C",
+              "text": "In keeping"
+            },
+            {
+              "key": "D",
+              "text": "Keeping"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động diễn ra song song cùng chủ ngữ dạng chủ động: 'Keeping one hand on...'."
+        },
+        {
+          "id": "293894",
+          "question": "When __________ to explain his mistake, the new employee cleared his throat nervously.",
+          "options": [
+            {
+              "key": "A",
+              "text": "asking"
+            },
+            {
+              "key": "B",
+              "text": "asked"
+            },
+            {
+              "key": "C",
+              "text": "to be asked"
+            },
+            {
+              "key": "D",
+              "text": "being asked"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề trạng ngữ cùng chủ ngữ dạng bị động với liên từ 'When': 'When he was asked...' -> 'When asked...'."
+        },
+        {
+          "id": "293895",
+          "question": "Some customers were very__________ about the return policy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "confuse"
+            },
+            {
+              "key": "B",
+              "text": "confuses"
+            },
+            {
+              "key": "C",
+              "text": "confusing"
+            },
+            {
+              "key": "D",
+              "text": "confused"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Chủ ngữ chỉ người cảm thấy bối rối về chính sách hoàn trả nên dùng tính từ đuôi -ed: 'confused about'."
+        }
+      ]
+    },
+    {
+      "id": "PT-P2",
+      "title": "Luyện Tập Phân Từ 2",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "294040",
+          "question": "_________ their work, they went home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Finishing"
+            },
+            {
+              "key": "B",
+              "text": "Having finished"
+            },
+            {
+              "key": "C",
+              "text": "Had finished"
+            },
+            {
+              "key": "D",
+              "text": "Finished"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề trạng ngữ có hai hành động xảy ra trước - sau. Việc làm xong bài tập diễn ra trước khi về nhà nên dùng phân từ hoàn thành: 'Having finished their work...'."
+        },
+        {
+          "id": "294041",
+          "question": "The girl_____ behind you is naughty.",
+          "options": [
+            {
+              "key": "A",
+              "text": "stands"
+            },
+            {
+              "key": "B",
+              "text": "stood"
+            },
+            {
+              "key": "C",
+              "text": "is standing"
+            },
+            {
+              "key": "D",
+              "text": "standing"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động: 'The girl who stands behind you' -> 'The girl standing behind you'."
+        },
+        {
+          "id": "294042",
+          "question": "________ their farm work, the farmers returned home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Finishing"
+            },
+            {
+              "key": "B",
+              "text": "Finish"
+            },
+            {
+              "key": "C",
+              "text": "Having finished"
+            },
+            {
+              "key": "?",
+              "text": "D."
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động hoàn thành trước một hành động khác: 'Having finished their farm work, the farmers returned home.'"
+        },
+        {
+          "id": "294043",
+          "question": "_________ by the visitor, the clavichord could not be used.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "?",
+              "text": "B."
+            },
+            {
+              "key": "?",
+              "text": "C."
+            },
+            {
+              "key": "?",
+              "text": "D."
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề trạng ngữ cùng chủ ngữ dạng bị động: 'Because it was broken by...' -> 'Broken by...'."
+        },
+        {
+          "id": "294044",
+          "question": "After _________ dinner, I watch television",
+          "options": [
+            {
+              "key": "A",
+              "text": "eat"
+            },
+            {
+              "key": "B",
+              "text": "eating"
+            },
+            {
+              "key": "C",
+              "text": "eaten"
+            },
+            {
+              "key": "D",
+              "text": "ate"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ 'After' đi kèm danh động từ hoặc phân từ chỉ thời gian: 'After eating dinner...'."
+        },
+        {
+          "id": "294045",
+          "question": "When _________ in international trade, letters of credit are convenient.",
+          "options": [
+            {
+              "key": "A",
+              "text": "used"
+            },
+            {
+              "key": "B",
+              "text": "are used"
+            },
+            {
+              "key": "C",
+              "text": "using"
+            },
+            {
+              "key": "D",
+              "text": "they used"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề trạng ngữ dạng bị động với liên từ 'When': 'When they are used...' -> 'When used...'."
+        },
+        {
+          "id": "294046",
+          "question": "She swam to the shore _________ the night in the water.",
+          "options": [
+            {
+              "key": "A",
+              "text": "having spent"
+            },
+            {
+              "key": "B",
+              "text": "having spending"
+            },
+            {
+              "key": "C",
+              "text": "when spending"
+            },
+            {
+              "key": "D",
+              "text": "had spent"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động xảy ra trước dạng chủ động: 'after she had spent...' -> 'having spent...'."
+        },
+        {
+          "id": "294047",
+          "question": "I believe here is somebody _________ on the door.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to knock"
+            },
+            {
+              "key": "B",
+              "text": "knock"
+            },
+            {
+              "key": "C",
+              "text": "knocked"
+            },
+            {
+              "key": "D",
+              "text": "knocking"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động bổ nghĩa cho 'somebody': 'somebody who is knocking' -> 'somebody knocking'."
+        },
+        {
+          "id": "294048",
+          "question": "The lady _________in blue is her aunt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "dressed"
+            },
+            {
+              "key": "B",
+              "text": "dressing"
+            },
+            {
+              "key": "C",
+              "text": "is dressing"
+            },
+            {
+              "key": "D",
+              "text": "in dress"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động bổ nghĩa cho 'The lady': 'The lady who is dressed in blue' -> 'The lady dressed in blue'."
+        },
+        {
+          "id": "294049",
+          "question": "_________from what you say, you are innocent.",
+          "options": [
+            {
+              "key": "A",
+              "text": "To judge"
+            },
+            {
+              "key": "B",
+              "text": "Judging"
+            },
+            {
+              "key": "C",
+              "text": "Judge"
+            },
+            {
+              "key": "D",
+              "text": "To be judged"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cụm từ cố định 'Judging from/by...' nghĩa là: Nhìn vào, đánh giá từ... đóng vai trò phân từ độc lập."
+        },
+        {
+          "id": "294050",
+          "question": "_________you to the job, he felt calm.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "?",
+              "text": "B."
+            },
+            {
+              "key": "C",
+              "text": "Having appointed"
+            },
+            {
+              "key": "D",
+              "text": "To appoint"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động xảy ra trước dạng chủ động: 'After he had appointed you...' -> 'Having appointed you...'."
+        },
+        {
+          "id": "294051",
+          "question": "_________so much, the doll is still on the shelf.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "?",
+              "text": "B."
+            },
+            {
+              "key": "C",
+              "text": "To cost"
+            },
+            {
+              "key": "?",
+              "text": "D."
+            }
+          ],
+          "answer": "D",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ nguyên nhân cùng chủ ngữ dạng chủ động: 'Because the doll costs so much...' -> 'Costing so much...'."
+        },
+        {
+          "id": "294052",
+          "question": "_________at by everyone, he was disappointed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Laughed"
+            },
+            {
+              "key": "B",
+              "text": "Laugh"
+            },
+            {
+              "key": "C",
+              "text": "Laughing"
+            },
+            {
+              "key": "D",
+              "text": "In laugh"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề trạng ngữ cùng chủ ngữ dạng bị động: 'Because he was laughed at...' -> 'Laughed at...'."
+        },
+        {
+          "id": "294053",
+          "question": "_________ anxious to please us, they told us all we wanted to know.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "To be"
+            },
+            {
+              "key": "?",
+              "text": "C."
+            },
+            {
+              "key": "D",
+              "text": "In being"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ nguyên nhân, sử dụng hiện tại phân từ của động từ 'to be': 'Being anxious to please us...'."
+        },
+        {
+          "id": "294054",
+          "question": "_________ the room, the man was no longer there.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Entering"
+            },
+            {
+              "key": "B",
+              "text": "When we entered"
+            },
+            {
+              "key": "C",
+              "text": "On entering"
+            },
+            {
+              "key": "D",
+              "text": "Having entered"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Để tránh sai ngữ pháp do khác chủ ngữ (chủ ngữ mệnh đề chính là 'the man', chủ ngữ hành động vào phòng là 'we'), ta phải dùng mệnh đề trạng ngữ đầy đủ: 'When we entered the room...'."
+        },
+        {
+          "id": "294055",
+          "question": "Since _______ his new business, Bob has been working 16 hours a day.",
+          "options": [
+            {
+              "key": "A",
+              "text": "open"
+            },
+            {
+              "key": "B",
+              "text": "opening"
+            },
+            {
+              "key": "C",
+              "text": "opened"
+            },
+            {
+              "key": "D",
+              "text": "of opening"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ 'Since' đi kèm với danh động từ chỉ mốc thời gian hành động bắt đầu: 'Since opening his new business...'."
+        },
+        {
+          "id": "294056",
+          "question": "I really like horror films but my sister doesn't. She thinks they are very _________ and _________ .",
+          "options": [
+            {
+              "key": "A",
+              "text": "frightened/bores"
+            },
+            {
+              "key": "B",
+              "text": "frightening/bored"
+            },
+            {
+              "key": "C",
+              "text": "frightened/boring"
+            },
+            {
+              "key": "D",
+              "text": "frightening/boring"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Phim kinh dị (films) chỉ vật nên dùng tính từ đuôi -ing miêu tả đặc điểm: 'frightening' và 'boring'."
+        },
+        {
+          "id": "294057",
+          "question": "I didn't think you were _________in photography.",
+          "options": [
+            {
+              "key": "A",
+              "text": "interested"
+            },
+            {
+              "key": "B",
+              "text": "interesting"
+            },
+            {
+              "key": "C",
+              "text": "interest"
+            },
+            {
+              "key": "D",
+              "text": "interests"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Chủ ngữ chỉ người trải nghiệm cảm giác hứng thú với nhiếp ảnh nên dùng tính từ đuôi -ed: 'interested in'."
+        },
+        {
+          "id": "294058",
+          "question": "The recent oil spill along the Belgian coast resulted in ________ consequences for the industry.",
+          "options": [
+            {
+              "key": "A",
+              "text": "worried"
+            },
+            {
+              "key": "B",
+              "text": "worrying"
+            },
+            {
+              "key": "C",
+              "text": "worries"
+            },
+            {
+              "key": "D",
+              "text": "worrier"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Bổ nghĩa cho danh từ chỉ vật 'consequences' (hậu quả) nên dùng tính từ đuôi -ing chỉ đặc tính gây lo ngại: 'worrying'."
+        },
+        {
+          "id": "294059",
+          "question": "Our Design Department has recently purchased the most _________ software available, with the aim of greatly increasing our design capabilities.",
+          "options": [
+            {
+              "key": "A",
+              "text": "sophisticate"
+            },
+            {
+              "key": "B",
+              "text": "sophisticating"
+            },
+            {
+              "key": "C",
+              "text": "sophisticated"
+            },
+            {
+              "key": "D",
+              "text": "sophistication"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tính từ bổ nghĩa cho danh từ chỉ phần mềm 'software' mang tính chất tinh vi, phức tạp: 'sophisticated software'."
+        },
+        {
+          "id": "294060",
+          "question": "The plane began to move in a rather _________ way.",
+          "options": [
+            {
+              "key": "A",
+              "text": "alarming"
+            },
+            {
+              "key": "B",
+              "text": "alarmed"
+            },
+            {
+              "key": "C",
+              "text": "alarmingly"
+            },
+            {
+              "key": "D",
+              "text": "alarm"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Bổ nghĩa cho danh từ chỉ vật 'way' (cách thức, chiều hướng) nên dùng tính từ đuôi -ing miêu tả tính chất gây đáng lo ngại: 'alarming'."
+        },
+        {
+          "id": "294061",
+          "question": "I'm sorry, I can't come tonight. I'm completely _________ .",
+          "options": [
+            {
+              "key": "A",
+              "text": "exhausted"
+            },
+            {
+              "key": "B",
+              "text": "exhaust"
+            },
+            {
+              "key": "C",
+              "text": "exhaustedly"
+            },
+            {
+              "key": "D",
+              "text": "exhausting"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Chủ ngữ chỉ người mệt lử, kiệt sức nên dùng tính từ đuôi -ed: 'exhausted'."
+        },
+        {
+          "id": "294062",
+          "question": "You look _________. Do you have any problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "worried"
+            },
+            {
+              "key": "B",
+              "text": "worrying"
+            },
+            {
+              "key": "C",
+              "text": "worries"
+            },
+            {
+              "key": "D",
+              "text": "worrier"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Động từ liên kết 'look' đi kèm tính từ chỉ cảm xúc, trạng thái lo lắng của người nên dùng tính từ đuôi -ed: 'look worried'."
+        },
+        {
+          "id": "294063",
+          "question": "I can't eat this. It's _________ .",
+          "options": [
+            {
+              "key": "A",
+              "text": "disgusting"
+            },
+            {
+              "key": "B",
+              "text": "disgusted"
+            },
+            {
+              "key": "C",
+              "text": "disgustingly"
+            },
+            {
+              "key": "D",
+              "text": "disgust"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Món ăn (it) chỉ vật gây ra cảm giác ghê tởm nên dùng tính từ đuôi -ing chỉ tính chất: 'disgusting'."
+        },
+        {
+          "id": "294064",
+          "question": "We saw many _________ places during our holiday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "interested"
+            },
+            {
+              "key": "B",
+              "text": "interesting"
+            },
+            {
+              "key": "C",
+              "text": "interest"
+            },
+            {
+              "key": "D",
+              "text": "interests"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Địa điểm (places) chỉ vật gây ra sự thú vị nên dùng tính từ đuôi -ing để bổ nghĩa: 'interesting places'."
+        },
+        {
+          "id": "294065",
+          "question": "She doesn't like flying. She's _________ .",
+          "options": [
+            {
+              "key": "A",
+              "text": "frightening"
+            },
+            {
+              "key": "B",
+              "text": "frightened"
+            },
+            {
+              "key": "C",
+              "text": "frighten"
+            },
+            {
+              "key": "D",
+              "text": "frightfully"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ 'she' chỉ người cảm thấy sợ hãi việc đi máy bay nên dùng tính từ đuôi -ed: 'frightened'."
+        },
+        {
+          "id": "294066",
+          "question": "It was very _________ for Tom when he was caught travelling without ticket.",
+          "options": [
+            {
+              "key": "A",
+              "text": "embarrassing"
+            },
+            {
+              "key": "B",
+              "text": "embarrassed"
+            },
+            {
+              "key": "C",
+              "text": "embarrassing"
+            },
+            {
+              "key": "D",
+              "text": "embarrassment"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Sự việc bị bắt quả tang đi lậu vé gây xấu hổ cho Tom (chỉ tính chất sự việc) nên dùng tính từ đuôi -ing: 'embarrassing'."
+        },
+        {
+          "id": "294067",
+          "question": "He was very _________ with the results of his exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "disappointingly"
+            },
+            {
+              "key": "B",
+              "text": "disappointed"
+            },
+            {
+              "key": "C",
+              "text": "disappointing"
+            },
+            {
+              "key": "D",
+              "text": "disappointment"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ chỉ người cảm thấy thất vọng với kết quả thi nên dùng tính từ đuôi -ed: 'disappointed'."
+        },
+        {
+          "id": "294069",
+          "question": "I think I could do with a _________ holiday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "relaxing"
+            },
+            {
+              "key": "B",
+              "text": "relaxed"
+            },
+            {
+              "key": "C",
+              "text": "relax"
+            },
+            {
+              "key": "D",
+              "text": "relaxation"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Kỳ nghỉ (holiday) chỉ vật giúp người ta thư giãn nên dùng tính từ đuôi -ing miêu tả tính chất: 'relaxing holiday'."
+        },
+        {
+          "id": "294071",
+          "question": "It was such a _________ story everybody ended up crying.",
+          "options": [
+            {
+              "key": "A",
+              "text": "moving"
+            },
+            {
+              "key": "B",
+              "text": "moved"
+            },
+            {
+              "key": "C",
+              "text": "movement"
+            },
+            {
+              "key": "D",
+              "text": "move"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Câu chuyện (story) chỉ vật gây ra sự cảm động nên dùng tính từ đuôi -ing miêu tả đặc điểm: 'moving story'."
+        }
+      ]
+    },
+    {
+      "id": "PT-T1",
+      "title": "Thi Online: Phân Từ 1",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "579145",
+          "question": "Mary is shocked that he could do something so stupid and dangerous.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mary (người) trải nghiệm cảm giác sốc nên dùng tính từ đuôi -ed 'shocked' là hoàn toàn chính xác (Correct)."
+        },
+        {
+          "id": "579146",
+          "question": "It's so frustrating! No matter how much I study I can't seem to remember this vocabulary.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Vocabulary là việc khó nhớ gây ra cảm giác bực bội, nản lòng nên dùng tính từ đuôi -ing 'frustrating' là chính xác (Correct)."
+        },
+        {
+          "id": "579147",
+          "question": "Sometimes I'm frustrating when I can't express myself clearly in English.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đính chính: Tôi (người) cảm thấy nản lòng nên phải dùng 'frustrated' chứ không phải 'frustrating' (Incorrect)."
+        },
+        {
+          "id": "579148",
+          "question": "The news was so shocking that I bursted into tears.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tin tức (news) chỉ vật gây sốc nên dùng tính từ đuôi -ing 'shocking' là chính xác (Correct)."
+        },
+        {
+          "id": "579149",
+          "question": "We covered the shivering child with a blanket.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đứa trẻ đang chủ động run rẩy vì lạnh nên dùng hiện tại phân từ 'shivering child' là chính xác (Correct)."
+        },
+        {
+          "id": "579150",
+          "question": "The captain electing by her teammates is preparing a speech.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đính chính: Thuyền trưởng được bầu bởi đồng đội (bị động) nên phải dùng quá khứ phân từ 'elected' chứ không phải 'electing' (Incorrect)."
+        },
+        {
+          "id": "579151",
+          "question": "The shouting fans encouraged the runners.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Người hâm mộ đang chủ động hò hét cổ vũ nên dùng hiện tại phân từ 'shouting fans' là chính xác (Correct)."
+        },
+        {
+          "id": "579152",
+          "question": "Everyone was extremely delighting when the winner was announced.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đính chính: Mọi người (người) cảm thấy vui mừng nên phải dùng tính từ đuôi -ed 'delighted' chứ không phải 'delighting' (Incorrect)."
+        },
+        {
+          "id": "579153",
+          "question": "The boy given me this picture is my nephew.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đính chính: Cậu bé chủ động trao cho tôi bức tranh nên phải dùng hiện tại phân từ 'giving' chứ không phải 'given' (Incorrect)."
+        },
+        {
+          "id": "579154",
+          "question": "The broken window is being fixed.",
+          "options": [
+            {
+              "key": "?",
+              "text": "A."
+            },
+            {
+              "key": "B",
+              "text": "Incorrect"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cửa sổ bị vỡ (bị động) nên dùng quá khứ phân từ 'broken window' là hoàn toàn chính xác (Correct)."
+        },
+        {
+          "id": "579155",
+          "question": "______ for twelve hours, I felt marvelous.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Having slept"
+            },
+            {
+              "key": "B",
+              "text": "Have slept"
+            },
+            {
+              "key": "C",
+              "text": "Having been slept"
+            },
+            {
+              "key": "D",
+              "text": "Have been slept"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động xảy ra trước dạng chủ động: 'Having slept for twelve hours...'."
+        },
+        {
+          "id": "579156",
+          "question": "She’s angry about _____ to the farewell party last night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "not having invited"
+            },
+            {
+              "key": "B",
+              "text": "not to have invited"
+            },
+            {
+              "key": "C",
+              "text": "not having been invited"
+            },
+            {
+              "key": "D",
+              "text": "not to have been invited"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc bị động của phân từ hoàn thành sau giới từ 'about': 'about not having been invited' (về việc không được mời)."
+        },
+        {
+          "id": "579157",
+          "question": "We decided not to travel, ____ the terrible weather forecast.",
+          "options": [
+            {
+              "key": "A",
+              "text": "having heard"
+            },
+            {
+              "key": "B",
+              "text": "heard"
+            },
+            {
+              "key": "C",
+              "text": "having been heard"
+            },
+            {
+              "key": "D",
+              "text": "to have heard"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động xảy ra trước dạng chủ động: 'Having heard the terrible weather forecast...'."
+        },
+        {
+          "id": "579158",
+          "question": "_____ in dark colors, the room needed some bright lights.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Having painted"
+            },
+            {
+              "key": "B",
+              "text": "Painted"
+            },
+            {
+              "key": "C",
+              "text": "Having been painted"
+            },
+            {
+              "key": "D",
+              "text": "To have painted"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề trạng ngữ cùng chủ ngữ dạng bị động: 'Because the room was painted...' -> 'Painted in dark colors...'."
+        },
+        {
+          "id": "579159",
+          "question": "_____ a hotel, we looked for somewhere to have dinner.",
+          "options": [
+            {
+              "key": "A",
+              "text": "We found"
+            },
+            {
+              "key": "B",
+              "text": "Found"
+            },
+            {
+              "key": "C",
+              "text": "Finding"
+            },
+            {
+              "key": "?",
+              "text": "D."
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động xảy ra trước dạng chủ động: 'Finding a hotel, we looked for...'."
+        },
+        {
+          "id": "579160",
+          "question": "The princess lived in a house ______ of wood.",
+          "options": [
+            {
+              "key": "A",
+              "text": "building"
+            },
+            {
+              "key": "B",
+              "text": "built"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động bổ nghĩa cho 'a house': 'a house which was built of wood' -> 'a house built of wood'."
+        },
+        {
+          "id": "579161",
+          "question": "The king wore a crown ______ of gold.",
+          "options": [
+            {
+              "key": "A",
+              "text": "making"
+            },
+            {
+              "key": "B",
+              "text": "made"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động bổ nghĩa cho 'a crown': 'a crown made of gold' (vương miện được làm bằng vàng)."
+        },
+        {
+          "id": "579162",
+          "question": "They belong to a tribe ______ in the hills.",
+          "options": [
+            {
+              "key": "A",
+              "text": "living"
+            },
+            {
+              "key": "B",
+              "text": "lived"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động bổ nghĩa cho 'a tribe': 'a tribe living in the hills' (bộ tộc sống ở vùng đồi)."
+        },
+        {
+          "id": "579163",
+          "question": "We are collecting money for children ______ heart defects.",
+          "options": [
+            {
+              "key": "A",
+              "text": "having"
+            },
+            {
+              "key": "B",
+              "text": "had"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động bổ nghĩa cho 'children': 'children having heart defects' (trẻ em có dị tật tim)."
+        },
+        {
+          "id": "579164",
+          "question": "The package ______ in the corner was discovered.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hiding"
+            },
+            {
+              "key": "B",
+              "text": "hidden"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động bổ nghĩa cho 'The package': 'The package hidden in the corner' (bưu kiện được giấu ở góc)."
+        },
+        {
+          "id": "579165",
+          "question": "Cowboys ______ into the sunset were in the final scenes of many movies.",
+          "options": [
+            {
+              "key": "A",
+              "text": "riding"
+            },
+            {
+              "key": "B",
+              "text": "ridden"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng chủ động bổ nghĩa cho 'Cowboys': 'Cowboys riding into the sunset' (những chàng cao bồi cưỡi ngựa đi vào hoàng hôn)."
+        },
+        {
+          "id": "579166",
+          "question": "The plates, ______ from Denmark by my father, are on display in this room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "bringing"
+            },
+            {
+              "key": "B",
+              "text": "brought"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rút gọn mệnh đề quan hệ dạng bị động bổ nghĩa cho 'The plates': 'The plates brought from Denmark' (những chiếc đĩa được mang từ Đan Mạch)."
+        },
+        {
+          "id": "579167",
+          "question": "I’m ______ to music while Kelvin is playing football.",
+          "options": [
+            {
+              "key": "A",
+              "text": "listening"
+            },
+            {
+              "key": "B",
+              "text": "listened"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Hành động đang diễn ra song song ở thì tiếp diễn: 'I’m listening to music'."
+        },
+        {
+          "id": "579168",
+          "question": "Mark will be very ______ if Sophie does well in her test.",
+          "options": [
+            {
+              "key": "A",
+              "text": "surprising"
+            },
+            {
+              "key": "B",
+              "text": "surprised"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ 'Mark' chỉ người trải nghiệm cảm giác ngạc nhiên nên dùng tính từ đuôi -ed: 'surprised'."
+        },
+        {
+          "id": "579169",
+          "question": "I think she was ______ because she called me John, while my name is Nick.",
+          "options": [
+            {
+              "key": "A",
+              "text": "confusing"
+            },
+            {
+              "key": "B",
+              "text": "confused"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ 'she' chỉ người cảm thấy bối rối nên dùng tính từ đuôi -ed: 'confused'."
+        },
+        {
+          "id": "579170",
+          "question": "David had an accident. His situation is very ______ now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "worrying"
+            },
+            {
+              "key": "B",
+              "text": "worried"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tình huống của anh ấy (situation) chỉ vật gây ra sự lo lắng nên dùng tính từ đuôi -ing: 'worrying'."
+        },
+        {
+          "id": "579171",
+          "question": "What is the most ______ story you’ve ever heard?",
+          "options": [
+            {
+              "key": "A",
+              "text": "frightening"
+            },
+            {
+              "key": "B",
+              "text": "frightened"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Câu chuyện (story) chỉ vật gây ra sự đáng sợ nên dùng tính từ đuôi -ing: 'frightening story'."
+        },
+        {
+          "id": "579172",
+          "question": "Betty and Emily have just ______ their project.",
+          "options": [
+            {
+              "key": "A",
+              "text": "finishing"
+            },
+            {
+              "key": "B",
+              "text": "finished"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Thì hiện tại hoàn thành: 'have just finished'."
+        },
+        {
+          "id": "579173",
+          "question": "The film is not ______ in spite of being a comedy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "amusing"
+            },
+            {
+              "key": "B",
+              "text": "amused"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Bộ phim (film) chỉ vật không gây được sự vui vẻ, hài hước nên dùng tính từ đuôi -ing: 'not amusing'."
+        },
+        {
+          "id": "579174",
+          "question": "Mark thinks doing homework is very ______.",
+          "options": [
+            {
+              "key": "A",
+              "text": "frustrating"
+            },
+            {
+              "key": "B",
+              "text": "frustrated"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Việc làm bài tập về nhà (doing homework) chỉ vật gây ra cảm giác nản lòng, bực bội nên dùng tính từ đuôi -ing: 'frustrating'."
+        }
+      ]
+    },
+    {
+      "id": "PT-T2",
+      "title": "Thi Online: Phân Từ 2",
+      "description": "14 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "579287",
+          "question": "His reaction was ____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "embarrassing"
+            },
+            {
+              "key": "B",
+              "text": "embarrassed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Phản ứng của anh ấy (reaction) chỉ vật gây ra sự xấu hổ, ngượng ngùng cho người khác nên dùng tính từ đuôi -ing: 'embarrassing'."
+        },
+        {
+          "id": "579288",
+          "question": "We were ____ to hear that she had died.",
+          "options": [
+            {
+              "key": "A",
+              "text": "shocking"
+            },
+            {
+              "key": "B",
+              "text": "shocked"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ chỉ người cảm thấy bị sốc khi nghe tin cô ấy qua đời nên dùng tính từ đuôi -ed: 'shocked'."
+        },
+        {
+          "id": "579289",
+          "question": "I loved the book and found the film very____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "disappointing"
+            },
+            {
+              "key": "B",
+              "text": "disappointed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Bộ phim (film) chỉ vật gây ra sự thất vọng nên dùng tính từ đuôi -ing: 'disappointing'."
+        },
+        {
+          "id": "579290",
+          "question": "It was very ____ when I saw them together.",
+          "options": [
+            {
+              "key": "A",
+              "text": "embarrassed"
+            },
+            {
+              "key": "B",
+              "text": "embarrassing"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Việc nhìn thấy họ ở cùng nhau gây ra sự xấu hổ, ngượng ngùng (tính chất sự việc) nên dùng tính từ đuôi -ing: 'embarrassing'."
+        },
+        {
+          "id": "579291",
+          "question": "He was very ____ with his results.",
+          "options": [
+            {
+              "key": "A",
+              "text": "pleasing"
+            },
+            {
+              "key": "B",
+              "text": "pleased"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Anh ấy (người) cảm thấy hài lòng với kết quả của mình nên dùng tính từ đuôi -ed: 'pleased with'."
+        },
+        {
+          "id": "579292",
+          "question": "It was a ____ story.",
+          "options": [
+            {
+              "key": "A",
+              "text": "shocking"
+            },
+            {
+              "key": "B",
+              "text": "shocked"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Câu chuyện (story) chỉ vật gây sốc nên dùng tính từ đuôi -ing miêu tả đặc điểm: 'shocking story'."
+        },
+        {
+          "id": "579293",
+          "question": "I was really ____ with him for turning up late.",
+          "options": [
+            {
+              "key": "A",
+              "text": "annoying"
+            },
+            {
+              "key": "B",
+              "text": "annoyed"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ chỉ người cảm thấy bực mình vì anh ta đến muộn nên dùng tính từ đuôi -ed: 'annoyed with'."
+        },
+        {
+          "id": "579294",
+          "question": "The dinner was ____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "disgusted"
+            },
+            {
+              "key": "B",
+              "text": "disgusting"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Bữa tối (dinner) chỉ vật gây ra cảm giác ghê tởm, kinh khủng nên dùng tính từ đuôi -ing: 'disgusting'."
+        },
+        {
+          "id": "579295",
+          "question": "It's been a ____ day- I'm ready to go to bed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tired"
+            },
+            {
+              "key": "B",
+              "text": "tiring"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ngày làm việc (day) chỉ vật gây ra sự mệt mỏi nên dùng tính từ đuôi -ing miêu tả tính chất: 'tiring day'."
+        },
+        {
+          "id": "579296",
+          "question": "The lecture was really ____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "boring"
+            },
+            {
+              "key": "B",
+              "text": "bored"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Bài giảng (lecture) chỉ vật gây ra sự nhàm chán nên dùng tính từ đuôi -ing miêu tả đặc điểm: 'boring'."
+        },
+        {
+          "id": "579297",
+          "question": "We switched off the lights before we went to bed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Having switched off the lights, we went to bed"
+            },
+            {
+              "key": "B",
+              "text": "Switched off the lights, we went to bed"
+            },
+            {
+              "key": "?",
+              "text": "C."
+            },
+            {
+              "key": "D",
+              "text": "Switching off the lights, we went to bed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động xảy ra trước dạng chủ động: 'Having switched off the lights, we went to bed.'"
+        },
+        {
+          "id": "579298",
+          "question": "The boy asked his mother’s permission and then went out to play.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Having asked his mother’s permission, the boy went out to play"
+            },
+            {
+              "key": "?",
+              "text": "B."
+            },
+            {
+              "key": "?",
+              "text": "C."
+            },
+            {
+              "key": "?",
+              "text": "D."
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ hành động xảy ra trước dạng chủ động: 'Having asked his mother’s permission, the boy went out to play.'"
+        },
+        {
+          "id": "579299",
+          "question": "As he had drunk too much, he didn’t drive home himself.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had drunk too much, he didn’t drive home himself"
+            },
+            {
+              "key": "?",
+              "text": "B."
+            },
+            {
+              "key": "C",
+              "text": "Having druck too much, he didn’t drive home himself"
+            },
+            {
+              "key": "D",
+              "text": "He had drunk too much, he didn’t drive home himself"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ nguyên nhân xảy ra trước dạng chủ động: 'Having drunk too much, he didn’t drive...' (Chú ý từ 'druck' trong phương án C là lỗi chính tả trong đề gốc)."
+        },
+        {
+          "id": "579309",
+          "question": "We have done two tests today, so we are exhausted.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Have done two tests today, so we are exhausted"
+            },
+            {
+              "key": "B",
+              "text": "Having done two tests today, so we are exhausted"
+            },
+            {
+              "key": "?",
+              "text": "C."
+            },
+            {
+              "key": "D",
+              "text": "Having done two tests today, we are exhausted"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Rút gọn mệnh đề trạng ngữ chỉ nguyên nhân xảy ra trước dạng chủ động: 'Having done two tests today, we are exhausted.'"
+        }
+      ]
+    }
+  ]
+}

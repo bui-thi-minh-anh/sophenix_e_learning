@@ -1,0 +1,5093 @@
+{
+  "slug": "relative-clauses-2",
+  "title": "Mệnh Đề Quan Hệ & Câu Chẻ – Luyện Tập",
+  "level": "B1",
+  "topic": "relative-clauses",
+  "series": "Relative Clauses",
+  "summary": "Bài tập và đề thi trắc nghiệm mệnh đề quan hệ và câu chẻ.",
+  "sections": [],
+  "exerciseSets": [
+    {
+      "id": "RC-P1",
+      "title": "Luyện Tập Mệnh Đề Quan Hệ Đề 1",
+      "description": "40 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "214210",
+          "question": "The woman next to my door is going to spend a few weeks in Sweden........ her daughter lives.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "where"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sweden là danh từ riêng chỉ nơi chốn, do đó cần dùng dấu phẩy và trạng từ quan hệ 'where' để chỉ nơi chốn."
+        },
+        {
+          "id": "214212",
+          "question": "I can't remember the name of the garage ....... we had the car repaired.",
+          "options": [
+            {
+              "key": "A",
+              "text": "here"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": " "
+            }
+          ],
+          "answer": "A",
+          "explanation": "Garage là danh từ chỉ nơi chốn, 'where' thay thế cho 'in the garage'."
+        },
+        {
+          "id": "214213",
+          "question": "It was an awful experience. It was the worst thing ........ has ever happened to me.",
+          "options": [
+            {
+              "key": "A",
+              "text": " "
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Trong cấu trúc so sánh hơn nhất 'the worst thing', ta bắt buộc phải sử dụng đại từ quan hệ 'that'."
+        },
+        {
+          "id": "214215",
+          "question": "The party .... we went to last night was not very enjoyable.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "here"
+            },
+            {
+              "key": "D",
+              "text": "and B"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả 'which' và 'that' đều có thể làm tân ngữ thay thế cho vật 'The party' khi giới từ 'to' đứng cuối mệnh đề phụ."
+        },
+        {
+          "id": "214219",
+          "question": "He likes to tell people about his problems. He will talk to .... will listen to him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hoever"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Sử dụng đại từ bất định 'whoever' (bất kỳ ai) đóng vai trò làm chủ ngữ cho mệnh đề phụ 'will listen to him'."
+        },
+        {
+          "id": "214220",
+          "question": "At the end of this month, scientists at the institute will conduct their AIDS research, the results of... will be published within 6 months.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc chỉ lượng: danh từ chỉ vật 'research' -> 'the results of which'."
+        },
+        {
+          "id": "214221",
+          "question": "The whole world is hoping for the time .......... a cure for cancer will be discovered.",
+          "options": [
+            {
+              "key": "A",
+              "text": "henever"
+            },
+            {
+              "key": "B",
+              "text": "hen"
+            },
+            {
+              "key": "C",
+              "text": " "
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Danh từ chỉ thời gian 'the time' -> dùng trạng từ quan hệ 'when'."
+        },
+        {
+          "id": "214223",
+          "question": "The physician's office usually has a laboratory …..a variety of medical tests can be done.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "here"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Danh từ chỉ nơi chốn 'laboratory' -> dùng trạng từ quan hệ 'where'."
+        },
+        {
+          "id": "214224",
+          "question": "In traditional medicine a healer is someone......... may use a combination of ritual and remedies to treat a sick person.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "o answer is correct"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ người 'someone' -> dùng đại từ quan hệ 'that' (do các phương án khác không phù hợp)."
+        },
+        {
+          "id": "214225",
+          "question": "There are many languages used around the world today__ do not have a form of writing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hen"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ chỉ vật số nhiều 'languages' đóng vai trò chủ ngữ -> dùng 'which'."
+        },
+        {
+          "id": "214226",
+          "question": "There are five flights going to Chicago everyday. I don't care which one we take. We can take .......fits best with our schedule.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hoever"
+            },
+            {
+              "key": "B",
+              "text": "henever"
+            },
+            {
+              "key": "C",
+              "text": "hatever"
+            },
+            {
+              "key": "D",
+              "text": "hichever"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Sử dụng đại từ 'whichever' (bất cứ cái nào) chỉ sự lựa chọn trong số lượng giới hạn."
+        },
+        {
+          "id": "214228",
+          "question": "The company hired ten new employees, some of ... are well-trained.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc lượng từ chỉ người: 'some of whom'."
+        },
+        {
+          "id": "214229",
+          "question": "The boys ...... tennis over there are my new neighbors.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho plays"
+            },
+            {
+              "key": "B",
+              "text": "hat playing"
+            },
+            {
+              "key": "C",
+              "text": "ho are playing"
+            },
+            {
+              "key": "D",
+              "text": "re playing"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề quan hệ chủ động đầy đủ: 'who are playing'."
+        },
+        {
+          "id": "214231",
+          "question": "Simon is the man _________ Mary loves.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "&B"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tân ngữ chỉ người 'the man' -> dùng đại từ quan hệ 'whom'."
+        },
+        {
+          "id": "214233",
+          "question": "Only one of the people _________ work in the company is qualified.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "here"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ người số nhiều 'the people' -> dùng đại từ quan hệ 'who'."
+        },
+        {
+          "id": "214234",
+          "question": "She is the one _________ I told you about.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ người 'the one' đóng vai trò tân ngữ của giới từ 'about' đứng cuối câu -> dùng 'who' hoặc 'whom/that/whoever' (với who/whom là phổ biến nhất)."
+        },
+        {
+          "id": "214236",
+          "question": "The magazine _________ you lent me is interesting.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ vật 'The magazine' đóng vai trò tân ngữ -> dùng 'which'."
+        },
+        {
+          "id": "214257",
+          "question": "The boy _________ sat next to you is my friend.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'People invited are expected to...'."
+        },
+        {
+          "id": "214258",
+          "question": "We are using books _________ were printed last year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ vật số nhiều 'books' đóng vai trò chủ ngữ ở thể bị động -> dùng 'which'."
+        },
+        {
+          "id": "214259",
+          "question": "The painting_________Ms. Wallace bought was very expensive.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "here"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ vật 'The painting' đóng vai trò tân ngữ -> dùng 'which'."
+        },
+        {
+          "id": "214260",
+          "question": "The homeless people_____story appeared in the paper last week have now found a place to live.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Sở hữu cách chỉ người 'The homeless people... whose story' (những người vô gia cư có câu chuyện được đăng tải)."
+        },
+        {
+          "id": "214262",
+          "question": "Were the Wright brothers the ones __________built the first aeroplane?",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ người có dạng xác định 'the ones' -> dùng 'that'."
+        },
+        {
+          "id": "214263",
+          "question": "I don't like stories________ have unhappy endings.",
+          "options": [
+            {
+              "key": "A",
+              "text": "here"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hey"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ vật số nhiều 'stories' đóng vai trò chủ ngữ -> dùng 'which'."
+        },
+        {
+          "id": "214264",
+          "question": "The periodic table contains all the elements, ________ has a particular atomic weight and atomic number.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich of each"
+            },
+            {
+              "key": "B",
+              "text": "ach of which"
+            },
+            {
+              "key": "C",
+              "text": "hich each"
+            },
+            {
+              "key": "D",
+              "text": "ach"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc lượng từ chỉ từng thành phần: 'each of which' (mỗi cái trong số chúng)."
+        },
+        {
+          "id": "214265",
+          "question": "Ansel Adams was a landscape photographer ________ photographs of the western United States show nature on a grand scale.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "f whom"
+            },
+            {
+              "key": "C",
+              "text": "f his"
+            },
+            {
+              "key": "D",
+              "text": "is"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Sở hữu cách chỉ người 'Ansel Adams... whose photographs' (những bức ảnh của ông ấy)."
+        },
+        {
+          "id": "214266",
+          "question": "Jan didn't check she had enough petrol before she left, ____ was careless of her.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "t"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đại từ quan hệ 'which' đứng sau dấu phẩy thay thế cho cả ý mệnh đề phía trước."
+        },
+        {
+          "id": "214267",
+          "question": "This is a town ________ many people live.",
+          "options": [
+            {
+              "key": "A",
+              "text": "n which"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "t which"
+            },
+            {
+              "key": "D",
+              "text": "n which"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ + đại từ quan hệ chỉ nơi chốn: 'in which' (= where)."
+        },
+        {
+          "id": "214268",
+          "question": "Julie, ________ is your sister, lives far away.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Danh từ riêng chỉ người 'Julie' bổ sung thông tin không giới hạn -> dùng ', who'."
+        },
+        {
+          "id": "214269",
+          "question": "I see some girls ________ are pretty.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hey"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ người 'some girls' đóng vai trò chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "214270",
+          "question": "Give back the money ________ you took.",
+          "options": [
+            {
+              "key": "A",
+              "text": "t"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ vật 'the money' đóng vai trò tân ngữ -> dùng 'which'."
+        },
+        {
+          "id": "214271",
+          "question": "He was killed by a man ________ friends we know.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Sở hữu cách chỉ người: 'a man whose friends we know' (người đàn ông mà bạn của ông ta chúng tôi quen)."
+        },
+        {
+          "id": "214272",
+          "question": "He spoke to the messengers with ________ you were leaving.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'with whom'."
+        },
+        {
+          "id": "214273",
+          "question": "We captured a town ________ is in Spain.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "t"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ vật 'a town' đóng vai trò chủ ngữ -> dùng 'which'."
+        },
+        {
+          "id": "214274",
+          "question": "The farmers ________ we saw were in the field.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hey"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ người 'The farmers' đóng vai trò tân ngữ -> dùng 'whom'."
+        },
+        {
+          "id": "214275",
+          "question": "The women ________ I gave the money were glad.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o whom"
+            },
+            {
+              "key": "B",
+              "text": "o that"
+            },
+            {
+              "key": "C",
+              "text": "or whom"
+            },
+            {
+              "key": "D",
+              "text": "or that"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'to whom'."
+        },
+        {
+          "id": "214276",
+          "question": "I know a boy ________ name is John.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sở hữu cách chỉ người: 'a boy whose name is John'."
+        },
+        {
+          "id": "214277",
+          "question": "The man ________ you sent to the general has reported the victory.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "e"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ người 'The man' đóng vai trò tân ngữ -> dùng 'whom'."
+        },
+        {
+          "id": "214279",
+          "question": "The people ________ courage you praised are now citizens.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Sở hữu cách chỉ người: 'whose courage' (những người mà lòng dũng cảm của họ)."
+        },
+        {
+          "id": "214281",
+          "question": "Those towns ________ you were looking at in Gaul are small.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ vật số nhiều 'Those towns' đóng vai trò tân ngữ -> dùng 'which'."
+        },
+        {
+          "id": "534656",
+          "question": "This is the girl _________ I talked yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "bout who"
+            },
+            {
+              "key": "D",
+              "text": "bout whom"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'about whom I talked yesterday'."
+        }
+      ]
+    },
+    {
+      "id": "RC-P2",
+      "title": "Luyện Tập Mệnh Đề Quan Hệ Đề 2",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "214278",
+          "question": "I saw those slaves ________ had been led to the city.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đáp án chính xác ngữ pháp."
+        },
+        {
+          "id": "214280",
+          "question": "You folks ________ live in farmhouses do not like the life of the city.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hey"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ người 'You folks' đóng vai trò chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "214285",
+          "question": "Behind the farmhouse there was a large garden,____ the farmer and his sons were working.",
+          "options": [
+            {
+              "key": "A",
+              "text": "or which"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "n which"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giới từ chỉ nơi chốn + đại từ quan hệ chỉ vật: 'in which' (= where)."
+        },
+        {
+          "id": "214286",
+          "question": "Did you see the men ___ I gave the money?",
+          "options": [
+            {
+              "key": "A",
+              "text": "o whom"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "rom whom"
+            },
+            {
+              "key": "D",
+              "text": "o that"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'to whom'."
+        },
+        {
+          "id": "214287",
+          "question": "She sends me the book________ she________ two years ago.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom / writes"
+            },
+            {
+              "key": "B",
+              "text": "hose /wrote"
+            },
+            {
+              "key": "C",
+              "text": "hich/ writes"
+            },
+            {
+              "key": "D",
+              "text": "hich / wrote"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ vật 'the book' làm tân ngữ và mệnh đề chia quá khứ đơn 'wrote' -> dùng 'which / wrote'."
+        },
+        {
+          "id": "214288",
+          "question": "The man ________ spoke to John is my brother.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ người 'The man' đóng vai trò chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "214289",
+          "question": "I must thank the man from _____ I got the present.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'from whom'."
+        },
+        {
+          "id": "214290",
+          "question": "It is a car ______ I bought last year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ vật 'a car' đóng vai trò tân ngữ -> dùng 'which'."
+        },
+        {
+          "id": "214291",
+          "question": "He is the man _______ son is a doctor",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Sở hữu cách chỉ người: 'the man whose son is a doctor'."
+        },
+        {
+          "id": "217695",
+          "question": "The problems ______they are discussing at the meeting are very important.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": " "
+            },
+            {
+              "key": "D",
+              "text": "oth B and C"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ vật 'The problems' đóng vai trò tân ngữ -> có thể dùng 'which' hoặc lược bỏ đại từ quan hệ 'Ø'."
+        },
+        {
+          "id": "218206",
+          "question": "Michael told me about students _______have just got the scholarship.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": " "
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ người 'students' đóng vai trò chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "218210",
+          "question": "The ring ______ is made of gold and diamond.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he is wearing it"
+            },
+            {
+              "key": "B",
+              "text": "e gave it to her"
+            },
+            {
+              "key": "C",
+              "text": "inda like"
+            },
+            {
+              "key": "D",
+              "text": "he is wearing"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề quan hệ chỉ vật làm tân ngữ và lược bỏ đại từ: 'the ring she is wearing'."
+        },
+        {
+          "id": "218213",
+          "question": "The house ______ is situated in the city centre.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "e have just bought"
+            },
+            {
+              "key": "C",
+              "text": "n where we live"
+            },
+            {
+              "key": "D",
+              "text": "hich we live"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Lược bỏ đại từ quan hệ và sử dụng mệnh đề xác định trực tiếp: 'The house we have just bought'."
+        },
+        {
+          "id": "218216",
+          "question": "I come from a city _______ is located in the southern part of the country.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "&C"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ vật 'a city' đóng vai trò chủ ngữ -> có thể dùng 'which' hoặc 'that'."
+        },
+        {
+          "id": "218218",
+          "question": "The film about _____ they are talking is fantastic.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ + đại từ quan hệ chỉ vật: 'about which'."
+        },
+        {
+          "id": "218219",
+          "question": "That’s the woman to _______ Jim used to be married.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'to whom'."
+        },
+        {
+          "id": "218221",
+          "question": "He is the boy _______ is my best friend",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "& C"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ người 'the boy' đóng vai trò chủ ngữ -> có thể dùng 'who' hoặc 'that'."
+        },
+        {
+          "id": "218226",
+          "question": "I met a lot of new people at the party ________ names I can’t remember.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Sở hữu cách chỉ người số nhiều: 'whose names' (những người mà tên của họ)."
+        },
+        {
+          "id": "218227",
+          "question": "I talked to a woman __________ car had broken down on the way to the party.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Sở hữu cách chỉ người: 'a woman whose car had broken down'."
+        },
+        {
+          "id": "218228",
+          "question": "Vicky, __________ name was missed off the list, wasn’t very pleased.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Danh từ riêng chỉ người 'Vicky' kèm sở hữu cách -> dùng ', whose'."
+        },
+        {
+          "id": "218229",
+          "question": "The picture was painted by Laura, ____________ is being shown in an exhibition.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đại từ quan hệ 'which' đứng sau dấu phẩy bổ nghĩa cho toàn bộ mệnh đề chính phía trước."
+        },
+        {
+          "id": "218230",
+          "question": "The concert ___________ we are looking forward is next Saturday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "& B"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc giới từ đi kèm động từ: 'look forward to' -> dùng 'to which' hoặc 'which' khi giữ giới từ ở cuối."
+        },
+        {
+          "id": "218231",
+          "question": "I’ll see you near the post office ___________ we met the other day.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "hen"
+            },
+            {
+              "key": "D",
+              "text": "hy"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Trạng từ quan hệ chỉ nơi chốn: 'near the post office where we met'."
+        },
+        {
+          "id": "218232",
+          "question": "The success of shared holidays depends on __________ you shared it with.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đại từ quan hệ làm tân ngữ sau giới từ 'with' -> dùng 'whom'."
+        },
+        {
+          "id": "218233",
+          "question": "Tom made a number of suggestions, most of ____ were very helpful.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hem"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "& C"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc chỉ lượng đi với danh từ chỉ vật 'suggestions' -> 'most of which'."
+        },
+        {
+          "id": "218234",
+          "question": "Alaska __________ my brother lives, is the largest state in the United States.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "ll are correct"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Danh từ riêng chỉ địa danh 'Alaska' -> dùng ', where'."
+        },
+        {
+          "id": "218235",
+          "question": "Tell me the reason ____________ you were absent yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "here"
+            },
+            {
+              "key": "B",
+              "text": "hen"
+            },
+            {
+              "key": "C",
+              "text": "hy"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Từ chỉ lý do 'the reason' -> dùng trạng từ quan hệ 'why'."
+        },
+        {
+          "id": "218236",
+          "question": "There was a time __________ dinosaurs dominated the earth.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hen"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "& B"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ thời gian 'a time' -> dùng trạng từ quan hệ 'when'."
+        },
+        {
+          "id": "218237",
+          "question": "The house in ________ I was born and grew up was destroyed in an earthquake ten years ago.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "ll are correct"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ chỉ vị trí + đại từ quan hệ chỉ vật: 'in which'."
+        },
+        {
+          "id": "218238",
+          "question": "Summer is the time of the year _________ the weather is the hottest.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hen"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "& C"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ chỉ thời gian 'the time of the year' -> dùng trạng từ quan hệ 'when'."
+        }
+      ]
+    },
+    {
+      "id": "RC-P3",
+      "title": "Luyện Tập Mệnh Đề Quan Hệ Đề 3",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "218279",
+          "question": "The first television picture ……. John Logie Baird transmitted on 25 November, 1905 was a boy …… worked in the office next to Baird's workroom in London.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich / whom"
+            },
+            {
+              "key": "B",
+              "text": "ho / which"
+            },
+            {
+              "key": "C",
+              "text": "hat / whose"
+            },
+            {
+              "key": "D",
+              "text": "hat / who"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Vế 1 dùng 'that' làm tân ngữ cho 'television picture', vế 2 dùng 'who' làm chủ ngữ chỉ người cho 'a boy'."
+        },
+        {
+          "id": "218281",
+          "question": "Joyce Bews, …….was born and grew up in Portsmouth on the south coast of England, ….. she still lives, was 100 last year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat / in which"
+            },
+            {
+              "key": "B",
+              "text": "ho / where"
+            },
+            {
+              "key": "C",
+              "text": "hat / where"
+            },
+            {
+              "key": "D",
+              "text": "ho / that"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Danh từ riêng chỉ người 'Joyce Bews' dùng 'who', tiền ngữ chỉ nơi chốn 'Portsmouth' dùng 'where'."
+        },
+        {
+          "id": "218326",
+          "question": "The old lady ……… we were travelling told us her life story.",
+          "options": [
+            {
+              "key": "A",
+              "text": "f whom"
+            },
+            {
+              "key": "B",
+              "text": "ith whom"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'travel with somebody' -> dùng giới từ + đại từ quan hệ chỉ người: 'with whom'."
+        },
+        {
+          "id": "218327",
+          "question": "She says the exam, ……… she took yesterday, was full of hard questions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "f which"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "f whose"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ vật 'the exam' -> dùng ', which'."
+        },
+        {
+          "id": "218328",
+          "question": "I called my cousin, …….. is a mechanic, to fix my car, ….. was broken.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho/ which"
+            },
+            {
+              "key": "B",
+              "text": "hat/ all of which"
+            },
+            {
+              "key": "C",
+              "text": "ho/ all of which"
+            },
+            {
+              "key": "D",
+              "text": "ho/ what"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề quan hệ không giới hạn vế 1 chỉ người dùng 'who', vế 2 chỉ vật dùng 'which'."
+        },
+        {
+          "id": "218329",
+          "question": "My only blue tie, …….. Richard wants to wear, is really an expensive one.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề quan hệ không giới hạn bổ nghĩa cho tie chỉ vật -> dùng ', which'."
+        },
+        {
+          "id": "218330",
+          "question": "This is the village ……… my family and I lived for six year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "n which"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "n which"
+            },
+            {
+              "key": "D",
+              "text": "n where"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ + đại từ quan hệ chỉ vị trí: 'in which'."
+        },
+        {
+          "id": "218331",
+          "question": "She is a famous actress ……… everybody admires.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o whom"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "o which"
+            },
+            {
+              "key": "D",
+              "text": "f whom"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ người đóng vai trò tân ngữ -> dùng 'whom'."
+        },
+        {
+          "id": "218333",
+          "question": "Justine, …….. parents live in Christchurch, has gone to Southampton.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "o whom"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Sở hữu cách chỉ người 'Justine... whose parents'."
+        },
+        {
+          "id": "218335",
+          "question": "The old building ……… was behind the local church fell down.",
+          "options": [
+            {
+              "key": "A",
+              "text": "f which"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ vật 'The old building' đóng vai trò chủ ngữ -> dùng 'which'."
+        },
+        {
+          "id": "218350",
+          "question": "This man studies biology. What do you call him?",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat do you call a man who studies biology?"
+            },
+            {
+              "key": "B",
+              "text": "hat do you call a man, who studies biology?"
+            },
+            {
+              "key": "C",
+              "text": "hat do you call a man studies biology?"
+            },
+            {
+              "key": "D",
+              "text": "hat do you call a man whom studies biology?"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề quan hệ chỉ người làm chủ ngữ hỏi về danh từ không xác định -> 'a man who studies biology?'."
+        },
+        {
+          "id": "218351",
+          "question": "Hemingway developed a very concise writing style. His name is well - known throughout the world.",
+          "options": [
+            {
+              "key": "A",
+              "text": "emingway, his name is well - known throughout the world, developed a very concise writing style"
+            },
+            {
+              "key": "B",
+              "text": "emingway, whose is name well - known throughout the world, developed a very concise writing style"
+            },
+            {
+              "key": "C",
+              "text": "emingway, whose name is well - known throughout the world, developed a very concise writing style"
+            },
+            {
+              "key": "D",
+              "text": "emingway, who developed a very concise writing style, his name is well - known throughout the world"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Kết hợp câu dùng sở hữu cách ', whose name is well-known throughout the world,'."
+        },
+        {
+          "id": "218352",
+          "question": "This is the battle field. The soldiers fought there.",
+          "options": [
+            {
+              "key": "A",
+              "text": "his is the battle field which the soldiers fought"
+            },
+            {
+              "key": "B",
+              "text": "his is the battle field that the soldiers fought"
+            },
+            {
+              "key": "C",
+              "text": "his is the battle field where the soldiers fought there"
+            },
+            {
+              "key": "D",
+              "text": "his is the battle field where the soldiers fought"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề chỉ địa điểm 'where the soldiers fought' (không giữ 'there' ở cuối)."
+        },
+        {
+          "id": "218353",
+          "question": "He was born in 1983. There was a severe drought that year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "e was born in 1983 when there was a severe drought"
+            },
+            {
+              "key": "B",
+              "text": "e was born in 1983 when was there a severe drought"
+            },
+            {
+              "key": "C",
+              "text": "hen there was a severe drought in 1983 he was born"
+            },
+            {
+              "key": "D",
+              "text": "e was born in 1983, there was a severe drought when"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Kết hợp câu chỉ mốc thời gian 'in 1983 when there was a severe drought'."
+        },
+        {
+          "id": "218354",
+          "question": "John Montagu was an English Earl. He invented the sandwich.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ohn Montagu, whose invented the sandwich, was an English Earl"
+            },
+            {
+              "key": "B",
+              "text": "ohn Montagu, who invented the sandwich, was an English Earl"
+            },
+            {
+              "key": "C",
+              "text": "ohn Montagu, that invented the sandwich, was an English Earl"
+            },
+            {
+              "key": "D",
+              "text": "ohn Montagu, invented the sandwich, was an English Earl"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Kết hợp câu không giới hạn chỉ người: 'John Montagu, who invented the sandwich, was...'."
+        },
+        {
+          "id": "218355",
+          "question": "Flies, which come mostly in the summer, carry diseases.",
+          "options": [
+            {
+              "key": "A",
+              "text": "lies, to come mostly in the summer, carry diseases"
+            },
+            {
+              "key": "B",
+              "text": "lies, come mostly in the summer, carry diseases"
+            },
+            {
+              "key": "C",
+              "text": "lies, coming mostly in the summer, carry diseases"
+            },
+            {
+              "key": "D",
+              "text": "lies, that come mostly in the summer, carry diseases"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động bằng cụm Hiện tại phân từ: 'coming'."
+        },
+        {
+          "id": "218356",
+          "question": "There was a candle which burnt in the room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "here was a candle burning in the room"
+            },
+            {
+              "key": "B",
+              "text": "here was a candle burnt in the room"
+            },
+            {
+              "key": "C",
+              "text": "here was a candle to burn in the room"
+            },
+            {
+              "key": "D",
+              "text": "here was a candle to be burnt in the room"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'There was a candle burning'."
+        },
+        {
+          "id": "218357",
+          "question": "I see a boy who is running in the street.",
+          "options": [
+            {
+              "key": "A",
+              "text": "see a boy running in the street"
+            },
+            {
+              "key": "B",
+              "text": "see a boy to running in the street"
+            },
+            {
+              "key": "C",
+              "text": "see a boy to run in the street"
+            },
+            {
+              "key": "D",
+              "text": "one is correct"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động đang diễn diễn: 'a boy running'."
+        },
+        {
+          "id": "218358",
+          "question": "He drew from the bag a watch which had been given for his birthday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "e drew from the bag a watch given for his birthday"
+            },
+            {
+              "key": "B",
+              "text": "e drew from the bag a watch been given for his birthday"
+            },
+            {
+              "key": "C",
+              "text": "e drew from the bag a watch had given for his birthday"
+            },
+            {
+              "key": "D",
+              "text": "e drew from the bag a watch had been given for his birthday"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'a watch given for his birthday'."
+        },
+        {
+          "id": "218359",
+          "question": "One of the drivers who was brought by Steward came over to me.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ne of the drivers that were brought by Steward came over to me"
+            },
+            {
+              "key": "B",
+              "text": "ne of the drivers was brought by Steward came over to me"
+            },
+            {
+              "key": "C",
+              "text": "ne of the drivers brought by Steward came over to me"
+            },
+            {
+              "key": "D",
+              "text": "ne of the drivers bring by Steward came over to me"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'drivers brought by Steward'."
+        },
+        {
+          "id": "218360",
+          "question": "We are talking about the girl who used to be a Miss World.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he girl about whom we are talking used to be a Miss World"
+            },
+            {
+              "key": "B",
+              "text": "e hardly know a girl who used to be a Miss World"
+            },
+            {
+              "key": "C",
+              "text": "he girl who used to be a Miss World said that she knew you"
+            },
+            {
+              "key": "D",
+              "text": "e know the girl who used to be a Miss World"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'The girl about whom we are talking'."
+        },
+        {
+          "id": "218361",
+          "question": "He told her about the book. He liked it best.",
+          "options": [
+            {
+              "key": "A",
+              "text": "e told her about the book which he liked it best"
+            },
+            {
+              "key": "B",
+              "text": "e told her about the book which he liked best"
+            },
+            {
+              "key": "C",
+              "text": "e told her about the book whom he liked best"
+            },
+            {
+              "key": "D",
+              "text": "e told her about the book whose he liked best"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Lựa chọn đại từ quan hệ chỉ vật làm tân ngữ thích hợp: 'which he liked best'."
+        },
+        {
+          "id": "218362",
+          "question": "The old man is working in this factory. I borrowed his bicycle yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he old man is working in this factory which I borrowed his bicycle yesterday"
+            },
+            {
+              "key": "B",
+              "text": "he old man whom is working in this factory I borrowed his bicycle yesterday"
+            },
+            {
+              "key": "C",
+              "text": "he old man whom I borrowed his bicycle yesterday is working in this factory"
+            },
+            {
+              "key": "D",
+              "text": "he old man whose bicycle I borrowed yesterday is working in this factory"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Sở hữu cách chỉ người kết hợp câu: 'The old man whose bicycle I borrowed yesterday'."
+        },
+        {
+          "id": "218363",
+          "question": "This is my opinion. You can do nothing to change it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ou can do nothing to change it my mind"
+            },
+            {
+              "key": "B",
+              "text": "here’s nothing you can do to change my mind"
+            },
+            {
+              "key": "C",
+              "text": "here’s nothing can be done except changing my mind"
+            },
+            {
+              "key": "D",
+              "text": "ou can do everything to change it my mind"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề quan hệ lược bỏ đại từ và 'there': 'nothing you can do to change my mind'."
+        },
+        {
+          "id": "218364",
+          "question": "The man is my teacher. I am grateful to him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he man whom I grateful to him is my teacher"
+            },
+            {
+              "key": "B",
+              "text": "he man whom I am grateful to is my teacher"
+            },
+            {
+              "key": "C",
+              "text": "he man is my teacher who I am grateful"
+            },
+            {
+              "key": "D",
+              "text": "he man to him I am grateful is my teacher"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ đứng cuối hoặc lược giới từ: 'The man whom I am grateful to is my teacher'."
+        },
+        {
+          "id": "218365",
+          "question": "Ngoc is friendly. We are talking about her.",
+          "options": [
+            {
+              "key": "A",
+              "text": "goc, we are talking about, is friendly"
+            },
+            {
+              "key": "B",
+              "text": "goc, whom we are talking about, is friendly"
+            },
+            {
+              "key": "C",
+              "text": "goc, about her we are talking, is friendly"
+            },
+            {
+              "key": "D",
+              "text": "goc, whom we are talking, is friendly"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ người làm tân ngữ: 'Ngoc, whom we are talking about, is friendly'."
+        },
+        {
+          "id": "218366",
+          "question": "A pilot is a person who flies an aircraft.",
+          "options": [
+            {
+              "key": "A",
+              "text": "person who called a pilot flies an aircraft"
+            },
+            {
+              "key": "B",
+              "text": "pilot is someone who flies an aircraft"
+            },
+            {
+              "key": "C",
+              "text": "person that flies an aircraft is called a pilot"
+            },
+            {
+              "key": "D",
+              "text": "oth B and C are correct"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả B và C đều đúng ngữ nghĩa và ngữ pháp."
+        },
+        {
+          "id": "218367",
+          "question": "That is the student. I borrowed his book last week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat is the student I borrowed whose book last week"
+            },
+            {
+              "key": "B",
+              "text": "he student whose book I borrowed that is"
+            },
+            {
+              "key": "C",
+              "text": "hat is the student, whose book I borrowed last week"
+            },
+            {
+              "key": "D",
+              "text": "hat is the student whose book I borrowed last week"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Sở hữu cách kết hợp mệnh đề không giới hạn: 'That is the student whose book I borrowed last week'."
+        },
+        {
+          "id": "218368",
+          "question": "We like the computer. We bought it yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "e like the computer which we bought it yesterday"
+            },
+            {
+              "key": "B",
+              "text": "e like the computer we bought which yesterday"
+            },
+            {
+              "key": "C",
+              "text": "e like the computer we bought yesterday"
+            },
+            {
+              "key": "D",
+              "text": "he computer we like we bought yesterday"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Lược bỏ đại từ quan hệ chỉ vật làm tân ngữ: 'the computer we bought yesterday'."
+        },
+        {
+          "id": "218376",
+          "question": "Dr. Sales is the person____________",
+          "options": [
+            {
+              "key": "A",
+              "text": "don’t have much confidence"
+            },
+            {
+              "key": "B",
+              "text": "n whom I don’t have much confidence"
+            },
+            {
+              "key": "C",
+              "text": "hom I don’t have much confidence in him"
+            },
+            {
+              "key": "D",
+              "text": "n that I don’t have much confidence"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'have confidence in somebody' -> giới từ + đại từ quan hệ: 'in whom I don't have much confidence'."
+        }
+      ]
+    },
+    {
+      "id": "RC-P4",
+      "title": "Luyện Tập Mệnh Đề Quan Hệ Đề 4",
+      "description": "50 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "214209",
+          "question": "There is a good restaurant ...seafood.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o eat"
+            },
+            {
+              "key": "B",
+              "text": "ating"
+            },
+            {
+              "key": "C",
+              "text": "te"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ bằng cụm To-infinitive sau 'There is': 'a good restaurant to eat seafood'."
+        },
+        {
+          "id": "214227",
+          "question": "English is an important language …...",
+          "options": [
+            {
+              "key": "A",
+              "text": "o master"
+            },
+            {
+              "key": "B",
+              "text": "astering"
+            },
+            {
+              "key": "C",
+              "text": "astered"
+            },
+            {
+              "key": "D",
+              "text": "aster"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc To-infinitive chỉ mục đích/yêu cầu bổ nghĩa cho danh từ: 'an important language to master'."
+        },
+        {
+          "id": "214230",
+          "question": "He read The Old Man and The Sea, a novel ......... by Ernest Hemingway.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ritten"
+            },
+            {
+              "key": "B",
+              "text": "riting"
+            },
+            {
+              "key": "C",
+              "text": "hich written"
+            },
+            {
+              "key": "D",
+              "text": "hat wrote"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'a novel written by Ernest Hemingway'."
+        },
+        {
+          "id": "214237",
+          "question": "The man... there is my brother",
+          "options": [
+            {
+              "key": "A",
+              "text": "tanding"
+            },
+            {
+              "key": "B",
+              "text": "o stand"
+            },
+            {
+              "key": "C",
+              "text": "tand"
+            },
+            {
+              "key": "D",
+              "text": "tood"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'The man standing there is my brother'."
+        },
+        {
+          "id": "214238",
+          "question": "I like books ...by Nguyen Du.",
+          "options": [
+            {
+              "key": "A",
+              "text": "rite"
+            },
+            {
+              "key": "B",
+              "text": "ritten"
+            },
+            {
+              "key": "C",
+              "text": "o write"
+            },
+            {
+              "key": "D",
+              "text": "riting"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'books written by Nguyen Du'."
+        },
+        {
+          "id": "214240",
+          "question": "This is the only student .... this exercise.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o"
+            },
+            {
+              "key": "B",
+              "text": "one"
+            },
+            {
+              "key": "C",
+              "text": "id"
+            },
+            {
+              "key": "D",
+              "text": "o do"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Sử dụng To-infinitive sau danh từ có 'the only' bổ nghĩa: 'the only student to do this exercise'."
+        },
+        {
+          "id": "214241",
+          "question": "A girl... at a pub has won a lottery.",
+          "options": [
+            {
+              "key": "A",
+              "text": "orking"
+            },
+            {
+              "key": "B",
+              "text": "o work"
+            },
+            {
+              "key": "C",
+              "text": "orks"
+            },
+            {
+              "key": "D",
+              "text": "ho work"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'A girl working at a pub'."
+        },
+        {
+          "id": "214242",
+          "question": "The book ... is mine.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose on the table"
+            },
+            {
+              "key": "B",
+              "text": "s on the table"
+            },
+            {
+              "key": "C",
+              "text": "hich on the table"
+            },
+            {
+              "key": "D",
+              "text": "n the table"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giản lược mệnh đề quan hệ bằng cụm giới từ: 'The book on the table is mine'."
+        },
+        {
+          "id": "214243",
+          "question": "He is the only men ... this problem.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o solve"
+            },
+            {
+              "key": "B",
+              "text": "olving"
+            },
+            {
+              "key": "C",
+              "text": "olved"
+            },
+            {
+              "key": "D",
+              "text": "olve"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Dùng To-infinitive sau từ thứ tự/duy nhất: 'the only men to solve this problem'."
+        },
+        {
+          "id": "214244",
+          "question": "A woman .... told all her husband's personal secrets.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as angry at her husband"
+            },
+            {
+              "key": "B",
+              "text": "ngry at her husband"
+            },
+            {
+              "key": "C",
+              "text": "he angry at her husband"
+            },
+            {
+              "key": "D",
+              "text": "ngrying at her husband"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giản lược mệnh đề quan hệ bằng cụm tính từ bổ nghĩa cho chủ ngữ: 'A woman angry at her husband'."
+        },
+        {
+          "id": "214245",
+          "question": "There are six letters ... today.",
+          "options": [
+            {
+              "key": "A",
+              "text": "rite"
+            },
+            {
+              "key": "B",
+              "text": "riting"
+            },
+            {
+              "key": "C",
+              "text": "o be written"
+            },
+            {
+              "key": "D",
+              "text": "rote"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Dùng To-infinitive bị động sau 'There are': 'six letters to be written today'."
+        },
+        {
+          "id": "214246",
+          "question": "Today, the number of people ... from AlDs is finally decreasing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ied"
+            },
+            {
+              "key": "B",
+              "text": "ying"
+            },
+            {
+              "key": "C",
+              "text": "hey die"
+            },
+            {
+              "key": "D",
+              "text": "o die"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'the number of people dying from AIDS'."
+        },
+        {
+          "id": "214247",
+          "question": "The man ... to Jane is handsome.",
+          "options": [
+            {
+              "key": "A",
+              "text": "alking"
+            },
+            {
+              "key": "B",
+              "text": "s talking"
+            },
+            {
+              "key": "C",
+              "text": "alked"
+            },
+            {
+              "key": "D",
+              "text": "o talking"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'The man talking to Jane'."
+        },
+        {
+          "id": "214248",
+          "question": "The ideas ... in that book are interesting",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich presented"
+            },
+            {
+              "key": "B",
+              "text": "resenting"
+            },
+            {
+              "key": "C",
+              "text": "o present"
+            },
+            {
+              "key": "D",
+              "text": "resented"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'The ideas presented in that book'."
+        },
+        {
+          "id": "214249",
+          "question": "My grandmother, ..., never goes out of the house.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ld and sick"
+            },
+            {
+              "key": "B",
+              "text": "s old and sick"
+            },
+            {
+              "key": "C",
+              "text": "ho old and sick"
+            },
+            {
+              "key": "D",
+              "text": "&C"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ bằng cụm tính từ ghép đồng chủ ngữ: 'My grandmother, old and sick, never...'."
+        },
+        {
+          "id": "214250",
+          "question": "I was awakened by the sound of a laughter ... from the next room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ome"
+            },
+            {
+              "key": "B",
+              "text": "omes"
+            },
+            {
+              "key": "C",
+              "text": "ame"
+            },
+            {
+              "key": "D",
+              "text": "oming"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'sound of a laughter coming from...'."
+        },
+        {
+          "id": "214251",
+          "question": "A person ...in a shop is call a shop assistant.",
+          "options": [
+            {
+              "key": "A",
+              "text": "erving"
+            },
+            {
+              "key": "B",
+              "text": "ho serve"
+            },
+            {
+              "key": "C",
+              "text": "erved"
+            },
+            {
+              "key": "D",
+              "text": "o server"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'A person serving in a shop'."
+        },
+        {
+          "id": "214252",
+          "question": "The house ... now belongs to Mr. Jonh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "uild"
+            },
+            {
+              "key": "B",
+              "text": "s built"
+            },
+            {
+              "key": "C",
+              "text": "uiding"
+            },
+            {
+              "key": "D",
+              "text": "uilt"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'The house built now belongs to Mr. John'."
+        },
+        {
+          "id": "214253",
+          "question": "The car ... on the street is broken.",
+          "options": [
+            {
+              "key": "A",
+              "text": "eave"
+            },
+            {
+              "key": "B",
+              "text": "eaving"
+            },
+            {
+              "key": "C",
+              "text": "eft"
+            },
+            {
+              "key": "D",
+              "text": "o leave"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'The car left on the street'."
+        },
+        {
+          "id": "214254",
+          "question": "The men … for you comes from Japan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ait"
+            },
+            {
+              "key": "B",
+              "text": "o wait"
+            },
+            {
+              "key": "C",
+              "text": "aiting"
+            },
+            {
+              "key": "D",
+              "text": "aited"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'The men waiting for you'."
+        },
+        {
+          "id": "214255",
+          "question": "The teacher punishes anyone....the rules.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho break"
+            },
+            {
+              "key": "B",
+              "text": "reaks"
+            },
+            {
+              "key": "C",
+              "text": "roke"
+            },
+            {
+              "key": "D",
+              "text": "reaking"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'punishes anyone breaking the rules'."
+        },
+        {
+          "id": "214256",
+          "question": "The house ... in red is where John lives.",
+          "options": [
+            {
+              "key": "A",
+              "text": "aint"
+            },
+            {
+              "key": "B",
+              "text": "ainted"
+            },
+            {
+              "key": "C",
+              "text": "o paint"
+            },
+            {
+              "key": "D",
+              "text": "ainting"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'The house painted in red'."
+        },
+        {
+          "id": "214257",
+          "question": "People ... are expected to be formally dressed for the occasion.",
+          "options": [
+            {
+              "key": "A",
+              "text": "nvited"
+            },
+            {
+              "key": "B",
+              "text": "nvite"
+            },
+            {
+              "key": "C",
+              "text": "o invite"
+            },
+            {
+              "key": "D",
+              "text": "nviting"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'People invited are expected to...'."
+        },
+        {
+          "id": "214292",
+          "question": "The woman _______next door is a famous singer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ives"
+            },
+            {
+              "key": "B",
+              "text": "ho live"
+            },
+            {
+              "key": "C",
+              "text": "iving"
+            },
+            {
+              "key": "D",
+              "text": "hat living"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'The woman living next door'."
+        },
+        {
+          "id": "214293",
+          "question": "The house ______ in the storm has now been rebuilt.",
+          "options": [
+            {
+              "key": "A",
+              "text": "estroyed"
+            },
+            {
+              "key": "B",
+              "text": "estroying"
+            },
+            {
+              "key": "C",
+              "text": "hich destroyed"
+            },
+            {
+              "key": "D",
+              "text": "hat is destroyed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'The house destroyed in the storm'."
+        },
+        {
+          "id": "214295",
+          "question": "Tom was the last ______the classroom yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o leave"
+            },
+            {
+              "key": "B",
+              "text": "eaving"
+            },
+            {
+              "key": "C",
+              "text": "eft"
+            },
+            {
+              "key": "D",
+              "text": "eaves"
+            }
+          ],
+          "answer": "A",
+          "explanation": "To-infinitive sau 'the last': 'the last to leave the classroom'."
+        },
+        {
+          "id": "214296",
+          "question": "Linda was the last student ______ at the oral exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o be asked"
+            },
+            {
+              "key": "B",
+              "text": "sking"
+            },
+            {
+              "key": "C",
+              "text": "sks"
+            },
+            {
+              "key": "D",
+              "text": "o ask"
+            }
+          ],
+          "answer": "A",
+          "explanation": "To-infinitive bị động sau 'the last student': 'to be asked'."
+        },
+        {
+          "id": "218220",
+          "question": "1. The people __________ for the bus in the rain are getting wet",
+          "options": [
+            {
+              "key": "A",
+              "text": "aiting"
+            },
+            {
+              "key": "B",
+              "text": "o wait"
+            },
+            {
+              "key": "C",
+              "text": "aited"
+            },
+            {
+              "key": "D",
+              "text": "ait"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'The people waiting for the bus'."
+        },
+        {
+          "id": "218222",
+          "question": "I have a message for people __________ by the traffic chaos.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o delay"
+            },
+            {
+              "key": "B",
+              "text": "ho delay"
+            },
+            {
+              "key": "C",
+              "text": "elayed"
+            },
+            {
+              "key": "D",
+              "text": "elaying"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'people delayed by the traffic chaos'."
+        },
+        {
+          "id": "218223",
+          "question": "I live in a pleasant room ____________ the garden.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o overlook"
+            },
+            {
+              "key": "B",
+              "text": "verlooking"
+            },
+            {
+              "key": "C",
+              "text": "verlooked"
+            },
+            {
+              "key": "D",
+              "text": "hich overlooking"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'a pleasant room overlooking the garden'."
+        },
+        {
+          "id": "218224",
+          "question": "Melanie was the only person __________ a letter of thanks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "rote"
+            },
+            {
+              "key": "B",
+              "text": "ritten"
+            },
+            {
+              "key": "C",
+              "text": "o write"
+            },
+            {
+              "key": "D",
+              "text": "riting"
+            }
+          ],
+          "answer": "C",
+          "explanation": "To-infinitive sau 'the only person': 'the only person to write a letter'."
+        },
+        {
+          "id": "218239",
+          "question": "Sunday is the day on ___________ I am least busy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "here"
+            },
+            {
+              "key": "B",
+              "text": "hen"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giới từ + đại từ quan hệ chỉ thời gian: 'Sunday is the day on which I am least busy'."
+        },
+        {
+          "id": "218240",
+          "question": "Do you know the man about ___________ they’re talking?",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "& C"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'the man about whom they're talking'."
+        },
+        {
+          "id": "218241",
+          "question": "I don’t like people ___________ lose their tempers easily.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "& C"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ người làm chủ ngữ -> có thể dùng 'who' hoặc 'that'."
+        },
+        {
+          "id": "218264",
+          "question": "Genghis Khan, …… name means \"very mighty ruler\", was a Mongol emperor in the Middle Ages.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "ow"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sở hữu cách chỉ người không giới hạn: 'Genghis Khan, whose name means...'."
+        },
+        {
+          "id": "218265",
+          "question": "The children ……. sang at the Mayor's parade were from the local school.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ người số nhiều làm chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "218266",
+          "question": "Galileo, ….. published works proving that the Earth revolves around the Sun, continued his scientific experiments even when he went deaf and blind.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hen"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "here"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ người làm chủ ngữ mệnh đề không giới hạn -> dùng 'who'."
+        },
+        {
+          "id": "218267",
+          "question": "The school programme ….. has been interrupted by revision tests requires a regular course study.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ vật làm chủ ngữ -> dùng 'that'."
+        },
+        {
+          "id": "218268",
+          "question": "Credit ……. is given in this semester requires approximately three hours of classroom work.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hen"
+            },
+            {
+              "key": "D",
+              "text": "here"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ chỉ vật làm chủ ngữ -> dùng 'which'."
+        },
+        {
+          "id": "218269",
+          "question": "Two courses ….. have the same subjects are in different times.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hen"
+            },
+            {
+              "key": "D",
+              "text": "here"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ chỉ vật số nhiều -> dùng 'that'."
+        },
+        {
+          "id": "218270",
+          "question": "You may enroll our course by e-mail …….. can be faster than other registration forms.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hen"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đại từ quan hệ làm chủ ngữ mệnh đề không giới hạn chỉ vật -> dùng ', which'."
+        },
+        {
+          "id": "218271",
+          "question": "The girl …….. dress you admire has been working for an Egpo company since she left school.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "uja/whose"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Sở hữu cách chỉ người: 'The girl whose dress you admire'."
+        },
+        {
+          "id": "218272",
+          "question": "The young man ……… was released after the court was found innocent of all the charges against him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "ho he"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ chỉ người làm chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "218273",
+          "question": "Is that the same film …….. we watched last year?",
+          "options": [
+            {
+              "key": "A",
+              "text": "hen"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hy"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ vật làm tân ngữ -> dùng 'which'."
+        },
+        {
+          "id": "218274",
+          "question": "The girl …….. I borrowed the dictionary asked me to use it carefully.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "rom whom"
+            },
+            {
+              "key": "C",
+              "text": "rom whose"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'the girl from whom I borrowed'."
+        },
+        {
+          "id": "218275",
+          "question": "The pupils ……. we took to the amusement park behaved themselves very well.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "ith whom"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ người làm tân ngữ -> dùng 'whom'."
+        },
+        {
+          "id": "218276",
+          "question": "Bournemouth,….we are going to visit next summer, is a real paradise for the retired.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "n which"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ vật làm tân ngữ mệnh đề không giới hạn -> dùng ', which'."
+        },
+        {
+          "id": "218277",
+          "question": "Thatcher, ……. birthplace was above a shop in the small English town of Grantham, became Prime Minister of Britain four years after she had become the leader of the Conservative Party in 1975.",
+          "options": [
+            {
+              "key": "A",
+              "text": "here"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "n which"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sở hữu cách chỉ người mệnh đề không giới hạn: 'Thatcher, whose birthplace...'."
+        },
+        {
+          "id": "218278",
+          "question": "First jeans, ………. became fashionable for women after they saw them in Vogue magazine, were made by two Americans, Jacob Davis and Levi Strauss.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "f which"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ vật số nhiều làm chủ ngữ -> dùng ', which'."
+        },
+        {
+          "id": "218280",
+          "question": "Felix Hoffman, a 29-year-old chemist …… worked for the German company Bayer, invented the drug Aspirin in April 1879.",
+          "options": [
+            {
+              "key": "A",
+              "text": "here"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ người làm chủ ngữ -> dùng 'who'."
+        }
+      ]
+    },
+    {
+      "id": "RC-T1",
+      "title": "Thi Online: Mệnh Đề Quan Hệ Đề 1",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "614539",
+          "question": "The man to _______ we have just talked is the Director General",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": " "
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'The man to whom we have just talked'."
+        },
+        {
+          "id": "614542",
+          "question": "As a famous person _ many children admire, it is important for her to act responsibly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hen"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ người làm tân ngữ -> dùng 'whom'."
+        },
+        {
+          "id": "614545",
+          "question": "he was the first person…………….the room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ntering"
+            },
+            {
+              "key": "B",
+              "text": "o enter"
+            },
+            {
+              "key": "C",
+              "text": "o be enter"
+            },
+            {
+              "key": "D",
+              "text": "aving entered"
+            }
+          ],
+          "answer": "B",
+          "explanation": "To-infinitive sau 'the first person': 'the first person to enter the room'."
+        },
+        {
+          "id": "614548",
+          "question": "They tell me about the film ______ on TV last week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hen they watched"
+            },
+            {
+              "key": "B",
+              "text": "hich they watched it"
+            },
+            {
+              "key": "C",
+              "text": "hich they watched"
+            },
+            {
+              "key": "D",
+              "text": "hom they watched"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ vật làm tân ngữ -> dùng 'which they watched'."
+        },
+        {
+          "id": "614553",
+          "question": "The girl _____ design had been chosen stepped to the platform to receive the award.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Sở hữu cách chỉ người: 'The girl whose design' (cô gái có thiết kế được chọn)."
+        },
+        {
+          "id": "614555",
+          "question": "Do you know the person _________ next to you in the evening class?",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose sitting"
+            },
+            {
+              "key": "B",
+              "text": "hom sits"
+            },
+            {
+              "key": "C",
+              "text": "itting"
+            },
+            {
+              "key": "D",
+              "text": "ho sit"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động đang diễn ra: 'person sitting next to you'."
+        },
+        {
+          "id": "614556",
+          "question": "The second bus, _______ didn’t stop either.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat was full"
+            },
+            {
+              "key": "B",
+              "text": "hat was full"
+            },
+            {
+              "key": "C",
+              "text": "hich was full"
+            },
+            {
+              "key": "D",
+              "text": "hat was full,"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ vật -> dùng ', which was full,'."
+        },
+        {
+          "id": "614557",
+          "question": "The police have just round the man and his car _______ were swept away during the heavy storm last week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hen"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ hỗn hợp (man and his car) -> bắt buộc dùng 'that'."
+        },
+        {
+          "id": "614559",
+          "question": "My relative, _____ you met yesterday, is a talented pianist.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "and C are correct"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ chỉ người làm tân ngữ mệnh đề không giới hạn -> dùng ', whom'."
+        },
+        {
+          "id": "614562",
+          "question": "A college is a public institution ______ higher education to young men and women.",
+          "options": [
+            {
+              "key": "A",
+              "text": "roviding"
+            },
+            {
+              "key": "B",
+              "text": "hich provide"
+            },
+            {
+              "key": "C",
+              "text": "o provide to"
+            },
+            {
+              "key": "D",
+              "text": "rovided to"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'institution providing higher education'."
+        },
+        {
+          "id": "614567",
+          "question": "This is the hotel ______ rooms have a view of the sea.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "ts"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Sở hữu cách chỉ vật: 'the hotel whose rooms have a view'."
+        },
+        {
+          "id": "614572",
+          "question": "This is Henry, ________works for your father.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "& B are correct"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ người làm chủ ngữ -> dùng ', who'."
+        },
+        {
+          "id": "614580",
+          "question": "The temperature________ takes place varies widely from material to material.",
+          "options": [
+            {
+              "key": "A",
+              "text": "t which they melt"
+            },
+            {
+              "key": "B",
+              "text": "hich melting"
+            },
+            {
+              "key": "C",
+              "text": "hich they melt"
+            },
+            {
+              "key": "D",
+              "text": "t which melting"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ + đại từ quan hệ chỉ vị trí của hành động: 'at which they melt'."
+        },
+        {
+          "id": "614581",
+          "question": "Near the White House is another famous landmark _______the Washington Monument.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich called"
+            },
+            {
+              "key": "B",
+              "text": "alled"
+            },
+            {
+              "key": "C",
+              "text": "hich calls"
+            },
+            {
+              "key": "D",
+              "text": "alling"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'another famous landmark called...'."
+        },
+        {
+          "id": "614583",
+          "question": "I have three brother, ___________ are professional athletes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wo of them"
+            },
+            {
+              "key": "B",
+              "text": "wo of that"
+            },
+            {
+              "key": "C",
+              "text": "wo of who"
+            },
+            {
+              "key": "D",
+              "text": "wo of whom"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc lượng từ chỉ người: 'two of whom are professional athletes'."
+        },
+        {
+          "id": "614586",
+          "question": "India is the country ____________ he spent the early year of his life.",
+          "options": [
+            {
+              "key": "A",
+              "text": "t which"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "n which"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Trạng từ quan hệ chỉ nơi chốn: 'India is the country where he spent...'."
+        },
+        {
+          "id": "614587",
+          "question": "_____ instructed me how to make a good preparation for a job interview.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ohn Robbins to that I spoke by telephone,"
+            },
+            {
+              "key": "B",
+              "text": "ohn Robbins, that I spoke by telephone,"
+            },
+            {
+              "key": "C",
+              "text": "ohn Robbins I spoke to by telephone,"
+            },
+            {
+              "key": "D",
+              "text": "ohn Robbins, whom I spoke to by telephone,"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ người làm tân ngữ của giới từ 'to': 'John Robbins, whom I spoke to by telephone,'."
+        },
+        {
+          "id": "614588",
+          "question": "Nothing _____ I do seems to please her",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sau đại từ phủ định 'Nothing' -> bắt buộc dùng 'that'."
+        },
+        {
+          "id": "614589",
+          "question": "The man _ under oath at court and was charged with perverting the course of justice.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ied"
+            },
+            {
+              "key": "B",
+              "text": "ain"
+            },
+            {
+              "key": "C",
+              "text": "ay"
+            },
+            {
+              "key": "D",
+              "text": "ying"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giản lược mệnh đề quan hệ chủ động: 'The man lying under oath'."
+        },
+        {
+          "id": "614593",
+          "question": "Candles________from beeswax burn with a very clean flame.",
+          "options": [
+            {
+              "key": "A",
+              "text": "re made"
+            },
+            {
+              "key": "B",
+              "text": "aking"
+            },
+            {
+              "key": "C",
+              "text": "hich make"
+            },
+            {
+              "key": "D",
+              "text": "ade"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'Candles made from beeswax'."
+        },
+        {
+          "id": "614597",
+          "question": "There used to be many centenarians on this island, ________ attracted twenty scientists going there last year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "his"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "here"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề nối tiếp bổ nghĩa cho toàn bộ vế trước -> dùng ', which'."
+        },
+        {
+          "id": "614603",
+          "question": "The boy _____ family is poor is very intelligent.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sở hữu cách chỉ người: 'The boy whose family is poor'."
+        },
+        {
+          "id": "614604",
+          "question": "The Eiffel Tower, _________ design was revolutionary at its time, is still a marvelous structure.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Sở hữu cách chỉ vật mệnh đề không giới hạn: 'The Eiffel Tower, whose design...'."
+        },
+        {
+          "id": "614607",
+          "question": "It’s the best film __________ have ever been made about madness",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sau cấu trúc so sánh hơn nhất 'the best film' -> dùng 'that'."
+        },
+        {
+          "id": "614608",
+          "question": "Dr Sales is a person _______.",
+          "options": [
+            {
+              "key": "A",
+              "text": "n that I don’t have much confidence"
+            },
+            {
+              "key": "B",
+              "text": "hom I don’t have much confidence"
+            },
+            {
+              "key": "C",
+              "text": "n whom I don’t have much confidence"
+            },
+            {
+              "key": "D",
+              "text": "don’t have much confidence"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc 'have confidence in' -> giới từ + đại từ quan hệ: 'in whom I don't have much confidence'."
+        },
+        {
+          "id": "614613",
+          "question": "The party __________we went to last night was not very enjoyable.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hen"
+            },
+            {
+              "key": "D",
+              "text": "here"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ chỉ vật làm tân ngữ -> dùng 'which'."
+        },
+        {
+          "id": "614614",
+          "question": "It wasn’t an awful experience. It was the worst thing ____has ever happened to me.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hy"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Trong cấu trúc 'It is/was... that' nhấn mạnh sự việc và sau 'the worst thing' -> dùng 'that'."
+        },
+        {
+          "id": "614616",
+          "question": "Stress,______ is a psychological problem, may lead to physical illness.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ vật làm chủ ngữ -> dùng ', which is a psychological problem,'."
+        },
+        {
+          "id": "614623",
+          "question": "Tim has passed the exam, ______ is great news.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hich"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mệnh đề quan hệ nối tiếp bổ sung ý nghĩa cho cả mệnh đề đứng trước -> dùng ', which'."
+        },
+        {
+          "id": "614624",
+          "question": "The house _______ 40 years ago is still in good condition.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich built"
+            },
+            {
+              "key": "B",
+              "text": "o build"
+            },
+            {
+              "key": "C",
+              "text": "uilt"
+            },
+            {
+              "key": "D",
+              "text": "uilding"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ bị động trong quá khứ: 'The house built 40 years ago'."
+        }
+      ]
+    },
+    {
+      "id": "RC-T2",
+      "title": "Thi Online: Mệnh Đề Quan Hệ Đề 2",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "614625",
+          "question": "Last week, our class went to Ha Long Bay for a picnic, ___ made us very happy then.",
+          "options": [
+            {
+              "key": "A",
+              "text": "f which"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "t"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề quan hệ nối tiếp bổ nghĩa cho cả sự việc Ha Long Bay picnic phía trước -> dùng ', which'."
+        },
+        {
+          "id": "614628",
+          "question": "The girls and the flowers _________ he painted were vivid.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ hỗn hợp chỉ người và vật (girls and flowers) -> bắt buộc dùng 'that'."
+        },
+        {
+          "id": "614629",
+          "question": "The man _________ designed the building is my father.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hen"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Tiền ngữ chỉ người làm chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "614633",
+          "question": "Martin tried three new jackets, ________ fitted him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "either of them"
+            },
+            {
+              "key": "B",
+              "text": "either of which"
+            },
+            {
+              "key": "C",
+              "text": "one of which"
+            },
+            {
+              "key": "D",
+              "text": "one of them"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc chỉ lượng phủ định cho vật số nhiều: 'none of which fitted him'."
+        },
+        {
+          "id": "614637",
+          "question": "The boy __ was speaking to your daughter is the captain of the football team.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hose"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tiền ngữ chỉ người làm chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "614646",
+          "question": "He decides to go and teach abroad, ___ will be an interesting experience for him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "hen"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề nối tiếp bổ nghĩa cho cả hành động quyết định đi dạy ở nước ngoài -> dùng ', which'."
+        },
+        {
+          "id": "614651",
+          "question": "Neil Amstrong, the first person ______ on the moon, reported that the surface was fine and powdery.",
+          "options": [
+            {
+              "key": "A",
+              "text": "et foot"
+            },
+            {
+              "key": "B",
+              "text": "o set foot"
+            },
+            {
+              "key": "C",
+              "text": "etting foot"
+            },
+            {
+              "key": "D",
+              "text": "hat set foot"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Dùng To-infinitive sau 'the first person': 'the first person to set foot'."
+        },
+        {
+          "id": "614652",
+          "question": "Early forms of life on Earth, _____ in the absence of oxygen, required elements such as sulfur instead.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose life"
+            },
+            {
+              "key": "B",
+              "text": "ere living"
+            },
+            {
+              "key": "C",
+              "text": "ived"
+            },
+            {
+              "key": "D",
+              "text": "hich lived"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề quan hệ chỉ vật số nhiều trong quá khứ -> dùng 'which lived'."
+        },
+        {
+          "id": "614654",
+          "question": "Cameron, ____ directed \"The Titanic\", is one of the leading faces in Hollywood.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hat"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ người làm chủ ngữ -> dùng ', who'."
+        },
+        {
+          "id": "614657",
+          "question": "We are talking about the writer _____ latest book is one of the best-sellers this year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Sở hữu cách chỉ người: 'the writer whose latest book'."
+        },
+        {
+          "id": "614659",
+          "question": "It was a service ________I will be eternally grateful.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o which"
+            },
+            {
+              "key": "B",
+              "text": "or which"
+            },
+            {
+              "key": "C",
+              "text": "o whom"
+            },
+            {
+              "key": "D",
+              "text": "or whom"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc 'grateful to somebody for something' -> 'to which' (ở đây là service -> to which)."
+        },
+        {
+          "id": "614660",
+          "question": "That is a problem _____ the government is now dealing",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "ith whom"
+            },
+            {
+              "key": "C",
+              "text": "ith which"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc 'deal with something' -> giới từ + đại từ quan hệ: 'with which'."
+        },
+        {
+          "id": "614663",
+          "question": "It was last night ________ Sue borrowed my bike.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hen"
+            },
+            {
+              "key": "B",
+              "text": "t which"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc câu chẻ nhấn mạnh trạng ngữ thời gian: 'It was last night that Sue...'."
+        },
+        {
+          "id": "614664",
+          "question": "She was once bitten by a monkey,____ made her dislike monkeys for the rest of her life.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề nối tiếp bổ nghĩa cho cả việc bị khỉ cắn -> dùng ', which'."
+        },
+        {
+          "id": "614907",
+          "question": "Last week, our class went to Ha Long Bay for a picnic, ________ made us very happy then.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hat"
+            },
+            {
+              "key": "C",
+              "text": "t"
+            },
+            {
+              "key": "D",
+              "text": "f which"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Mệnh đề quan hệ nối tiếp chỉ sự việc phía trước -> dùng ', which'."
+        },
+        {
+          "id": "614908",
+          "question": "The last person ______ the room must turn off the lights.",
+          "options": [
+            {
+              "key": "A",
+              "text": "o leave"
+            },
+            {
+              "key": "B",
+              "text": "ho leave"
+            },
+            {
+              "key": "C",
+              "text": "hat leave"
+            },
+            {
+              "key": "D",
+              "text": "ll are correct"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Dùng To-infinitive sau 'the last person': 'the last person to leave the room'."
+        },
+        {
+          "id": "614922",
+          "question": "The philosopher _____________ theories I am writing went insane before he died.",
+          "options": [
+            {
+              "key": "A",
+              "text": "n which"
+            },
+            {
+              "key": "B",
+              "text": "ith whom"
+            },
+            {
+              "key": "C",
+              "text": "bout whose"
+            },
+            {
+              "key": "D",
+              "text": "or whom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Sở hữu cách chỉ người: 'The philosopher about whose theories I am writing' (nhà triết học có các lý thuyết mà tôi đang viết về)."
+        },
+        {
+          "id": "614935",
+          "question": "An endangered species is a species.......is so small that it is in danger of extinction.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ho"
+            },
+            {
+              "key": "B",
+              "text": "hose"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hich"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tiền ngữ chỉ vật 'a species' đóng vai trò chủ ngữ -> dùng 'which'."
+        },
+        {
+          "id": "614984",
+          "question": "Yuri Gagarin was the first person __________into space",
+          "options": [
+            {
+              "key": "A",
+              "text": "as traveled"
+            },
+            {
+              "key": "B",
+              "text": "raveling"
+            },
+            {
+              "key": "C",
+              "text": "raveled"
+            },
+            {
+              "key": "D",
+              "text": "o travel"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Dùng To-infinitive sau 'the first person': 'the first person to travel into space'."
+        },
+        {
+          "id": "615258",
+          "question": "Is that the same film_____ we watched last year?",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hen"
+            },
+            {
+              "key": "C",
+              "text": "hy"
+            },
+            {
+              "key": "D",
+              "text": "ho"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Sau 'the same film' -> dùng 'which' hoặc 'that'."
+        },
+        {
+          "id": "615259",
+          "question": "The children ____ sang at the Mayor’s parade were from the local school.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hose"
+            },
+            {
+              "key": "B",
+              "text": "here"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hom"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Tiền ngữ chỉ người số nhiều làm chủ ngữ -> dùng 'who'."
+        },
+        {
+          "id": "615261",
+          "question": "She’s the person with __________ I share the flat.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hich"
+            },
+            {
+              "key": "B",
+              "text": "hom"
+            },
+            {
+              "key": "C",
+              "text": "ho"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'the person with whom I share'."
+        },
+        {
+          "id": "615262",
+          "question": "The police questioned the woman _________ handbag was stolen.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hat"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hom"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Sở hữu cách chỉ người: 'the woman whose handbag was stolen'."
+        },
+        {
+          "id": "615264",
+          "question": "My bike, ____ I left at the gate, had disappeared.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hen"
+            },
+            {
+              "key": "B",
+              "text": "hich"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề quan hệ không giới hạn chỉ vật làm tân ngữ -> dùng ', which'."
+        },
+        {
+          "id": "615265",
+          "question": "Ms Young, to ____ many of her students are writing, is living happily and peacefully in Canada.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hom"
+            },
+            {
+              "key": "B",
+              "text": "ho"
+            },
+            {
+              "key": "C",
+              "text": "hat"
+            },
+            {
+              "key": "D",
+              "text": "hose"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giới từ + đại từ quan hệ chỉ người: 'Ms Young, to whom many of her students...'."
+        },
+        {
+          "id": "615267",
+          "question": "The picture _________ was beautiful.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he was looking"
+            },
+            {
+              "key": "B",
+              "text": "t it she was looking"
+            },
+            {
+              "key": "C",
+              "text": "t which she was looking"
+            },
+            {
+              "key": "D",
+              "text": "t that she was looking"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc 'look at something' -> giới từ + đại từ quan hệ: 'at which she was looking'."
+        },
+        {
+          "id": "618030",
+          "question": "They had invited over one hundred guests, ________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ot any of whom I knew"
+            },
+            {
+              "key": "B",
+              "text": "did not know any of whom"
+            },
+            {
+              "key": "C",
+              "text": "knew none of who"
+            },
+            {
+              "key": "D",
+              "text": "one of whom I knew"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc chỉ lượng phủ định đi kèm người làm tân ngữ: 'none of whom I knew'."
+        },
+        {
+          "id": "618031",
+          "question": "We should participate in the movements_________ the natural environment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "rganizing to conserve"
+            },
+            {
+              "key": "B",
+              "text": "rganized to conserve"
+            },
+            {
+              "key": "C",
+              "text": "rganized conserving"
+            },
+            {
+              "key": "D",
+              "text": "hich organize to conserve"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giản lược mệnh đề quan hệ bị động chỉ mục đích: 'movements organized to conserve' (các phong trào được tổ chức để bảo tồn)."
+        },
+        {
+          "id": "618032",
+          "question": "The medicine _______ had no effect at all.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he doctor gave it to me"
+            },
+            {
+              "key": "B",
+              "text": "he doctor gave me"
+            },
+            {
+              "key": "C",
+              "text": "hich the doctor gave it to me"
+            },
+            {
+              "key": "D",
+              "text": "hich given to me by the doctor"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Mệnh đề quan hệ lược bỏ đại từ quan hệ chỉ vật làm tân ngữ: 'The medicine the doctor gave me'."
+        },
+        {
+          "id": "618033",
+          "question": "Florida, _____ the Sunshine State, attracts many tourists every year",
+          "options": [
+            {
+              "key": "A",
+              "text": "s"
+            },
+            {
+              "key": "B",
+              "text": "s known as"
+            },
+            {
+              "key": "C",
+              "text": "nown as"
+            },
+            {
+              "key": "D",
+              "text": "hat is known as"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giản lược mệnh đề quan hệ bị động: 'Florida, known as the Sunshine State,'."
+        }
+      ]
+    }
+  ]
+}

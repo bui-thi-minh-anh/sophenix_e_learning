@@ -1,0 +1,4126 @@
+{
+  "slug": "subjunctive-2",
+  "title": "Giả Định Cách – Luyện Tập",
+  "level": "B2",
+  "topic": "subjunctive",
+  "series": "Subjunctive",
+  "summary": "Bài tập và đề thi trắc nghiệm giả định cách.",
+  "sections": [],
+  "exerciseSets": [
+    {
+      "id": "SB-P1",
+      "title": "Luyện Tập Giả Định Cách 1",
+      "description": "50 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "217949",
+          "question": "I wish I _____so much.",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn’t eaten"
+            },
+            {
+              "key": "B",
+              "text": "hadn’t eaten"
+            },
+            {
+              "key": "C",
+              "text": "do not eat"
+            },
+            {
+              "key": "D",
+              "text": "won’t eat"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược quá khứ: 'hadn't eaten'."
+        },
+        {
+          "id": "217950",
+          "question": "Had it not been for your help, I ______.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would get lost"
+            },
+            {
+              "key": "B",
+              "text": "got lost"
+            },
+            {
+              "key": "C",
+              "text": "would have got lost"
+            },
+            {
+              "key": "D",
+              "text": "had got lost"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ câu điều kiện loại 3: 'Had it not been for... , S + would have P2' -> 'would have got lost'."
+        },
+        {
+          "id": "217951",
+          "question": "I wish I ____applied for the job.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will"
+            },
+            {
+              "key": "B",
+              "text": "should"
+            },
+            {
+              "key": "C",
+              "text": "had"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược quá khứ: 'had'."
+        },
+        {
+          "id": "217953",
+          "question": "If Margaret hadn’t been wearing a seat belt, she _________injured.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has been"
+            },
+            {
+              "key": "B",
+              "text": "would has been"
+            },
+            {
+              "key": "C",
+              "text": "would be"
+            },
+            {
+              "key": "D",
+              "text": "would have been"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Điều kiện loại 3: 'would have been'."
+        },
+        {
+          "id": "217956",
+          "question": "If the driver in front ________so suddenly, the accident wouldn’t have happened.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hasn’t stopped"
+            },
+            {
+              "key": "B",
+              "text": "hadn’t stopped"
+            },
+            {
+              "key": "C",
+              "text": "didn’t stop"
+            },
+            {
+              "key": "D",
+              "text": "don’t stop"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Điều kiện loại 3: 'hadn't stopped'."
+        },
+        {
+          "id": "217960",
+          "question": "If you didn’t do this, you ______punished.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "will be"
+            },
+            {
+              "key": "C",
+              "text": "should be"
+            },
+            {
+              "key": "D",
+              "text": "would be"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Điều kiện loại 2: 'would be'."
+        },
+        {
+          "id": "217961",
+          "question": "They helped me a lot. I don’t know what I _______without their help.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have done"
+            },
+            {
+              "key": "B",
+              "text": "had done"
+            },
+            {
+              "key": "C",
+              "text": "would have done"
+            },
+            {
+              "key": "D",
+              "text": "will do"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định quá khứ: 'would have done'."
+        },
+        {
+          "id": "217962",
+          "question": "I wish you _____something instead of just sitting and doing nothing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "should"
+            },
+            {
+              "key": "C",
+              "text": "will do"
+            },
+            {
+              "key": "D",
+              "text": "would do"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mong muốn ai thay đổi hành động ở hiện tại: 'would do'."
+        },
+        {
+          "id": "217963",
+          "question": "I wish Sarah _______here now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "would be"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược hiện tại: dùng 'were'."
+        },
+        {
+          "id": "217967",
+          "question": "I wish I ______to the party last night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "went"
+            },
+            {
+              "key": "B",
+              "text": "go"
+            },
+            {
+              "key": "C",
+              "text": "had gone"
+            },
+            {
+              "key": "D",
+              "text": "have gone"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược quá khứ ('last night'): 'had gone'."
+        },
+        {
+          "id": "217970",
+          "question": "She wishes she _____a doctor in the future.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "will be"
+            },
+            {
+              "key": "D",
+              "text": "would be"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Ước muốn ở tương lai: 'would be'."
+        },
+        {
+          "id": "217972",
+          "question": "If only _____taller, I might be better at basketball.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I am"
+            },
+            {
+              "key": "B",
+              "text": "I were"
+            },
+            {
+              "key": "C",
+              "text": "I be"
+            },
+            {
+              "key": "D",
+              "text": "I have been"
+            }
+          ],
+          "answer": "B",
+          "explanation": "If only trái ngược hiện tại: 'I were'."
+        },
+        {
+          "id": "217975",
+          "question": "I suggest that he ........... (study).",
+          "options": [
+            {
+              "key": "A",
+              "text": "study"
+            },
+            {
+              "key": "B",
+              "text": "studies"
+            },
+            {
+              "key": "C",
+              "text": "studying"
+            },
+            {
+              "key": "D",
+              "text": "to study"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với suggest: 'study'."
+        },
+        {
+          "id": "217976",
+          "question": "Is it essential that we ......... (be) there?",
+          "options": [
+            {
+              "key": "A",
+              "text": "be"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "being"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với essential: 'be'."
+        },
+        {
+          "id": "217977",
+          "question": "Don recommended that you ........... ( join) the committee.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are joining"
+            },
+            {
+              "key": "B",
+              "text": "join"
+            },
+            {
+              "key": "C",
+              "text": "joined"
+            },
+            {
+              "key": "D",
+              "text": "had joined"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với recommend: 'join'."
+        },
+        {
+          "id": "218116",
+          "question": "When I stopped talking,Sam finished my sentence for me as though he ..my mind.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would read"
+            },
+            {
+              "key": "B",
+              "text": "had read"
+            },
+            {
+              "key": "C",
+              "text": "reads"
+            },
+            {
+              "key": "D",
+              "text": "can read"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với as though trái ngược quá khứ: 'had read'."
+        },
+        {
+          "id": "218117",
+          "question": "It is important that he ...........(try) to study often.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tries"
+            },
+            {
+              "key": "B",
+              "text": "tried"
+            },
+            {
+              "key": "C",
+              "text": "try"
+            },
+            {
+              "key": "B",
+              "text": "trying"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với important: 'try'."
+        },
+        {
+          "id": "218118",
+          "question": "Dr. Smith asked that Mark…(submit) his research paper before the end of the month.",
+          "options": [
+            {
+              "key": "A",
+              "text": "submit"
+            },
+            {
+              "key": "B",
+              "text": "submitted"
+            },
+            {
+              "key": "C",
+              "text": "submitting"
+            },
+            {
+              "key": "D",
+              "text": "be submitted"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với ask: 'submit'."
+        },
+        {
+          "id": "218119",
+          "question": "Donna requested Frank ............(come) to the party.",
+          "options": [
+            {
+              "key": "A",
+              "text": "came"
+            },
+            {
+              "key": "B",
+              "text": "comes"
+            },
+            {
+              "key": "C",
+              "text": "come"
+            },
+            {
+              "key": "D",
+              "text": "coming"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Donna requested Frank that he come / requested Frank to come. Ở đây 'come' là giả định nguyên thể."
+        },
+        {
+          "id": "218120",
+          "question": "If you……., I would have brought my friends over to your house this evening to watch TV,but I didn’t want to bother you.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have studied"
+            },
+            {
+              "key": "B",
+              "text": "studied"
+            },
+            {
+              "key": "C",
+              "text": "hadn’t been studying"
+            },
+            {
+              "key": "D",
+              "text": "didn’t study"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Điều kiện loại 3 phủ định: 'hadn't been studying'."
+        },
+        {
+          "id": "218121",
+          "question": "I wish I…….you some money for your rent,but I’m broke myself.",
+          "options": [
+            {
+              "key": "A",
+              "text": "can lend"
+            },
+            {
+              "key": "B",
+              "text": "would lend"
+            },
+            {
+              "key": "C",
+              "text": "could lend"
+            },
+            {
+              "key": "D",
+              "text": "will lend"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược hiện tại: 'could lend'."
+        },
+        {
+          "id": "218124",
+          "question": "If it weren’t working for an accounting firm, I….in a bank.",
+          "options": [
+            {
+              "key": "A",
+              "text": "work"
+            },
+            {
+              "key": "B",
+              "text": "will work"
+            },
+            {
+              "key": "C",
+              "text": "have worked"
+            },
+            {
+              "key": "D",
+              "text": "would be working"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Điều kiện loại trộn: 'would be working'."
+        },
+        {
+          "id": "218127",
+          "question": "If there…….the ricefields could have been more productive.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had been enough water"
+            },
+            {
+              "key": "B",
+              "text": "were enough water"
+            },
+            {
+              "key": "C",
+              "text": "would be enough water"
+            },
+            {
+              "key": "D",
+              "text": "are enough water"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Điều kiện loại 3: 'had been enough water'."
+        },
+        {
+          "id": "218129",
+          "question": "The teacher insists that her students ...........(be) on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "being"
+            },
+            {
+              "key": "C",
+              "text": "be"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với insist: 'be'."
+        },
+        {
+          "id": "218133",
+          "question": "Jake recommended that Susan ............ (hire) immediately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hire"
+            },
+            {
+              "key": "B",
+              "text": "hires"
+            },
+            {
+              "key": "C",
+              "text": "hired"
+            },
+            {
+              "key": "D",
+              "text": "be hired"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định bị động với recommend: 'be hired'."
+        },
+        {
+          "id": "218137",
+          "question": "……….she agreed, you would have done it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "if"
+            },
+            {
+              "key": "B",
+              "text": "had"
+            },
+            {
+              "key": "C",
+              "text": "should"
+            },
+            {
+              "key": "D",
+              "text": "would"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ điều kiện loại 3: 'Had'."
+        },
+        {
+          "id": "218138",
+          "question": "If he hadn’t wasted too much time , he ……in his examination.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would fail"
+            },
+            {
+              "key": "B",
+              "text": "wouldn’t fail"
+            },
+            {
+              "key": "C",
+              "text": "wouldn’t have failed"
+            },
+            {
+              "key": "D",
+              "text": "won’t fail"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Điều kiện loại 3: 'wouldn't have failed'."
+        },
+        {
+          "id": "218140",
+          "question": "If you had the chance,…….you go fishing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "did"
+            },
+            {
+              "key": "B",
+              "text": "may"
+            },
+            {
+              "key": "C",
+              "text": "would"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Điều kiện loại 2: 'would'."
+        },
+        {
+          "id": "218142",
+          "question": "Christine demanded that I ..........(allow) to take part in the negotiations.",
+          "options": [
+            {
+              "key": "A",
+              "text": "allow"
+            },
+            {
+              "key": "B",
+              "text": "be allowed"
+            },
+            {
+              "key": "C",
+              "text": "allowing"
+            },
+            {
+              "key": "D",
+              "text": "allowed"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định bị động với demand: 'be allowed'."
+        },
+        {
+          "id": "218143",
+          "question": "We suggested that you ..............(admit) to the organization.",
+          "options": [
+            {
+              "key": "A",
+              "text": "admit"
+            },
+            {
+              "key": "B",
+              "text": "admited"
+            },
+            {
+              "key": "C",
+              "text": "be admitted"
+            },
+            {
+              "key": "D",
+              "text": "admitting"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với suggest: 'be admitted'."
+        },
+        {
+          "id": "218145",
+          "question": "It is important that you ........... (stand) there when he gets off the plane.",
+          "options": [
+            {
+              "key": "A",
+              "text": "stands"
+            },
+            {
+              "key": "B",
+              "text": "are standing"
+            },
+            {
+              "key": "C",
+              "text": "will stand"
+            },
+            {
+              "key": "D",
+              "text": "be standing"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định tiếp diễn với important: 'be standing'."
+        },
+        {
+          "id": "218149",
+          "question": "I wish ____ his address",
+          "options": [
+            {
+              "key": "A",
+              "text": "I knew"
+            },
+            {
+              "key": "B",
+              "text": "I knows"
+            },
+            {
+              "key": "C",
+              "text": "I have known"
+            },
+            {
+              "key": "D",
+              "text": "I would know"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Ước muốn trái ngược hiện tại: 'I knew'."
+        },
+        {
+          "id": "302739",
+          "question": "Would you mind not bringing your dog into the restaurant? -> I'd rather you ________ your dog into the restaurant.",
+          "options": [
+            {
+              "key": "A",
+              "text": "not bring"
+            },
+            {
+              "key": "B",
+              "text": "did not bring"
+            },
+            {
+              "key": "C",
+              "text": "bring"
+            },
+            {
+              "key": "D",
+              "text": "brought"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc would rather loại 2 trái ngược hiện tại: 'S1 + would rather + S2 + V.ed/were' -> 'did not bring'."
+        },
+        {
+          "id": "302746",
+          "question": "It is very important that all employees.........in their proper uniforms before 6:30 a.m",
+          "options": [
+            {
+              "key": "A",
+              "text": "are dressed"
+            },
+            {
+              "key": "B",
+              "text": "will be dressed"
+            },
+            {
+              "key": "C",
+              "text": "be dressed"
+            },
+            {
+              "key": "D",
+              "text": "were dressed"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với important: 'be dressed'."
+        },
+        {
+          "id": "302760",
+          "question": "I can't stand him. He always talks as though he ..........everything.",
+          "options": [
+            {
+              "key": "A",
+              "text": "knew"
+            },
+            {
+              "key": "B",
+              "text": "knows"
+            },
+            {
+              "key": "C",
+              "text": "know"
+            },
+            {
+              "key": "D",
+              "text": "known"
+            }
+          ],
+          "answer": "A",
+          "explanation": "As though trái ngược hiện tại: 'knew'."
+        },
+        {
+          "id": "302772",
+          "question": "I enjoyed the movie very much. I wish I___________the book from which it was made.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have read"
+            },
+            {
+              "key": "B",
+              "text": "had read"
+            },
+            {
+              "key": "C",
+              "text": "should have read"
+            },
+            {
+              "key": "D",
+              "text": "read"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược quá khứ: 'had read'."
+        },
+        {
+          "id": "302785",
+          "question": "If there were no subjunctive mood, English ............much easier",
+          "options": [
+            {
+              "key": "A",
+              "text": "will be"
+            },
+            {
+              "key": "B",
+              "text": "could have been"
+            },
+            {
+              "key": "C",
+              "text": "would have been"
+            },
+            {
+              "key": "D",
+              "text": "would be"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Điều kiện loại 2: 'would be'."
+        },
+        {
+          "id": "302798",
+          "question": "The coach insisted that Fabio.........the center position.",
+          "options": [
+            {
+              "key": "A",
+              "text": "play"
+            },
+            {
+              "key": "B",
+              "text": "plays"
+            },
+            {
+              "key": "C",
+              "text": "played"
+            },
+            {
+              "key": "D",
+              "text": "to play"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với insist: 'play'."
+        },
+        {
+          "id": "302802",
+          "question": "The law requires that everyone.........his car checked at least once a month.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "had"
+            },
+            {
+              "key": "D",
+              "text": "will have"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với require: 'have' (dùng thể nguyên mẫu 'have' cho S2 'everyone')."
+        },
+        {
+          "id": "302807",
+          "question": "We might have failed if you _______us a helping hand.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have not given"
+            },
+            {
+              "key": "B",
+              "text": "would not give"
+            },
+            {
+              "key": "C",
+              "text": "had not given"
+            },
+            {
+              "key": "D",
+              "text": "did not give"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Điều kiện loại 3: 'had not given'."
+        },
+        {
+          "id": "302812",
+          "question": "“What will you do during winter vacation?” – “I don’t know, but it’s about time______something.”",
+          "options": [
+            {
+              "key": "A",
+              "text": "I decided"
+            },
+            {
+              "key": "B",
+              "text": "I'll decide"
+            },
+            {
+              "key": "C",
+              "text": "I'd decided"
+            },
+            {
+              "key": "D",
+              "text": "I'm deciding"
+            }
+          ],
+          "answer": "A",
+          "explanation": "It's about time + S + V.ed -> 'I decided'."
+        },
+        {
+          "id": "302822",
+          "question": "The two strangers talked as if they_______friends for years.",
+          "options": [
+            {
+              "key": "A",
+              "text": "should be"
+            },
+            {
+              "key": "B",
+              "text": "had been"
+            },
+            {
+              "key": "C",
+              "text": "have been"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "B",
+          "explanation": "As if trái ngược quá khứ: 'had been'."
+        },
+        {
+          "id": "302827",
+          "question": "My suggestion is that the sick boy_______to hospital as soon as possible.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is taken"
+            },
+            {
+              "key": "B",
+              "text": "must be taken"
+            },
+            {
+              "key": "C",
+              "text": "be taken"
+            },
+            {
+              "key": "D",
+              "text": "has to be taken"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với suggestion: 'be taken'."
+        },
+        {
+          "id": "302834",
+          "question": "The coach wishes the ruby team.........more motivated.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "would be"
+            },
+            {
+              "key": "D",
+              "text": "would have been"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược hiện tại: 'were'."
+        },
+        {
+          "id": "302838",
+          "question": "if only Judhead.........a little more responsible in his choice of courses!",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược hiện tại: 'were'."
+        },
+        {
+          "id": "302840",
+          "question": "It's time the children........to bed",
+          "options": [
+            {
+              "key": "A",
+              "text": "have gone"
+            },
+            {
+              "key": "B",
+              "text": "to go"
+            },
+            {
+              "key": "C",
+              "text": "go"
+            },
+            {
+              "key": "D",
+              "text": "went"
+            }
+          ],
+          "answer": "D",
+          "explanation": "It's time + S + V.ed -> 'went'."
+        },
+        {
+          "id": "302841",
+          "question": "I suggest that you ...........the tickets in advance",
+          "options": [
+            {
+              "key": "A",
+              "text": "book"
+            },
+            {
+              "key": "B",
+              "text": "booked"
+            },
+            {
+              "key": "C",
+              "text": "booking"
+            },
+            {
+              "key": "D",
+              "text": "to book"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với suggest: 'book'."
+        },
+        {
+          "id": "302842",
+          "question": "The guard at the gate insisted that everybody_______the rules.",
+          "options": [
+            {
+              "key": "A",
+              "text": "obeys"
+            },
+            {
+              "key": "B",
+              "text": "obey"
+            },
+            {
+              "key": "C",
+              "text": "will obey"
+            },
+            {
+              "key": "D",
+              "text": "would obey"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với insist: 'obey'."
+        },
+        {
+          "id": "302843",
+          "question": "I _______her if I thought she would understand.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would tell"
+            },
+            {
+              "key": "B",
+              "text": "will tell"
+            },
+            {
+              "key": "C",
+              "text": "would have told"
+            },
+            {
+              "key": "D",
+              "text": "tell"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Điều kiện loại 2: 'would tell'."
+        },
+        {
+          "id": "302844",
+          "question": "You are late. If you _______ a few minutes earlier, you_______him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "came / would meet"
+            },
+            {
+              "key": "B",
+              "text": "had come / would have met"
+            },
+            {
+              "key": "C",
+              "text": "come / will meet"
+            },
+            {
+              "key": "D",
+              "text": "had come / would meet"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Điều kiện loại 3: 'had come / would have met'."
+        }
+      ]
+    },
+    {
+      "id": "SB-P2",
+      "title": "Luyện Tập Giả Định Cách 2",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "302889",
+          "question": "I demand that he …………… immediately",
+          "options": [
+            {
+              "key": "A",
+              "text": "apologize"
+            },
+            {
+              "key": "B",
+              "text": "will apologize"
+            },
+            {
+              "key": "C",
+              "text": "apologizes"
+            },
+            {
+              "key": "D",
+              "text": "has apologize"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với demand: 'apologize'."
+        },
+        {
+          "id": "302890",
+          "question": "It is necessary that everything …………… ready by two o'clock tomorrow.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "be"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với necessary: 'be'."
+        },
+        {
+          "id": "302891",
+          "question": "I like this coat. If it ……………cheaper, I would buy it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "be"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Điều kiện loại 2: 'were'."
+        },
+        {
+          "id": "302892",
+          "question": "He insisted that he _______ really very tried and that he _______to have a rest",
+          "options": [
+            {
+              "key": "A",
+              "text": "was / be allowed"
+            },
+            {
+              "key": "B",
+              "text": "was / must be allowed"
+            },
+            {
+              "key": "C",
+              "text": "should be / must be allowed"
+            },
+            {
+              "key": "D",
+              "text": "should be / be allowed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Khẳng định sự thật khách quan ở vế đầu ('was'), vế sau giả định cầu khiến ('be allowed'): 'was / be allowed'."
+        },
+        {
+          "id": "302893",
+          "question": "She didn't come to his birthday party yesterday. He wishes she .…………",
+          "options": [
+            {
+              "key": "A",
+              "text": "has come"
+            },
+            {
+              "key": "B",
+              "text": "came"
+            },
+            {
+              "key": "C",
+              "text": "had come"
+            },
+            {
+              "key": "D",
+              "text": "would come"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược quá khứ ('yesterday'): 'had come'."
+        },
+        {
+          "id": "302894",
+          "question": "John behaved as if he.......... himself at the party.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had been enjoying"
+            },
+            {
+              "key": "B",
+              "text": "was enjoying"
+            },
+            {
+              "key": "C",
+              "text": "enjoyed"
+            },
+            {
+              "key": "D",
+              "text": "enjoy"
+            }
+          ],
+          "answer": "A",
+          "explanation": "As if trái ngược quá khứ: 'had been enjoying'."
+        },
+        {
+          "id": "302895",
+          "question": "It's a pity you missed many lessons. -> I'd rather you.......... so many lessons.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had missed"
+            },
+            {
+              "key": "B",
+              "text": "missed"
+            },
+            {
+              "key": "C",
+              "text": "didn't miss"
+            },
+            {
+              "key": "D",
+              "text": "hadn't missed"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Would rather loại 3 trái ngược quá khứ: 'hadn't missed'."
+        },
+        {
+          "id": "302896",
+          "question": "I said that her cooking was terrible. I wish I ………… that.",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't say"
+            },
+            {
+              "key": "B",
+              "text": "hadn't said"
+            },
+            {
+              "key": "C",
+              "text": "wouldn't say"
+            },
+            {
+              "key": "D",
+              "text": "wouldn't have said"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược quá khứ: 'hadn't said'."
+        },
+        {
+          "id": "302897",
+          "question": "He likes to swim. He wishes he . ………… near the sea.",
+          "options": [
+            {
+              "key": "A",
+              "text": "lives"
+            },
+            {
+              "key": "B",
+              "text": "lived"
+            },
+            {
+              "key": "C",
+              "text": "had lived"
+            },
+            {
+              "key": "D",
+              "text": "would live"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược hiện tại: 'lived'."
+        },
+        {
+          "id": "302898",
+          "question": "It is strange that he ...... so upset about such a trifle, isn't it?",
+          "options": [
+            {
+              "key": "A",
+              "text": "were"
+            },
+            {
+              "key": "B",
+              "text": "shall be"
+            },
+            {
+              "key": "C",
+              "text": "should be"
+            },
+            {
+              "key": "D",
+              "text": "have been"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc giả định 'It is strange that S + should + V.inf': 'should be'."
+        },
+        {
+          "id": "302899",
+          "question": "We should really be working now. -> It's time we ________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were working"
+            },
+            {
+              "key": "B",
+              "text": "work"
+            },
+            {
+              "key": "C",
+              "text": "be working"
+            },
+            {
+              "key": "D",
+              "text": "will work"
+            }
+          ],
+          "answer": "A",
+          "explanation": "It's time + S + V.ed/were (dạng tiếp diễn): 'were working'."
+        },
+        {
+          "id": "302900",
+          "question": "If I …………… you, I would call him.",
+          "options": [
+            {
+              "key": "A",
+              "text": "am"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "had been"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Điều kiện loại 2: 'were'."
+        },
+        {
+          "id": "302901",
+          "question": "It is advisable that you …………… your application as soon as possible.",
+          "options": [
+            {
+              "key": "A",
+              "text": "submit"
+            },
+            {
+              "key": "B",
+              "text": "will submit"
+            },
+            {
+              "key": "C",
+              "text": "submitted"
+            },
+            {
+              "key": "D",
+              "text": "should have submitted"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với advisable: 'submit'."
+        },
+        {
+          "id": "302905",
+          "question": "They disagree on everything and fight all the time. They wish they…… married.",
+          "options": [
+            {
+              "key": "A",
+              "text": "didn't get"
+            },
+            {
+              "key": "B",
+              "text": "hadn't got"
+            },
+            {
+              "key": "C",
+              "text": "wouldn't get"
+            },
+            {
+              "key": "D",
+              "text": "wouldn't have got"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược quá khứ: 'hadn't got'."
+        },
+        {
+          "id": "302906",
+          "question": "Take an umbrella. It looks as if it …………rain.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is going to"
+            },
+            {
+              "key": "B",
+              "text": "was going to"
+            },
+            {
+              "key": "C",
+              "text": "were going to"
+            },
+            {
+              "key": "D",
+              "text": "might be"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Trường hợp mô tả hành động có thật sắp xảy ra: 'is going to'."
+        },
+        {
+          "id": "302909",
+          "question": "She described that place as if she ………… it before.",
+          "options": [
+            {
+              "key": "A",
+              "text": "visited"
+            },
+            {
+              "key": "B",
+              "text": "has visited"
+            },
+            {
+              "key": "C",
+              "text": "had visited"
+            },
+            {
+              "key": "D",
+              "text": "were visiting"
+            }
+          ],
+          "answer": "C",
+          "explanation": "As if trái ngược quá khứ: 'had visited'."
+        },
+        {
+          "id": "302911",
+          "question": "It's high time he ………… smoking.",
+          "options": [
+            {
+              "key": "A",
+              "text": "stop"
+            },
+            {
+              "key": "B",
+              "text": "stops"
+            },
+            {
+              "key": "C",
+              "text": "stopped"
+            },
+            {
+              "key": "D",
+              "text": "had stopped"
+            }
+          ],
+          "answer": "C",
+          "explanation": "It's high time + S + V.ed -> 'stopped'."
+        },
+        {
+          "id": "302913",
+          "question": "If only I ………… how to find her now!",
+          "options": [
+            {
+              "key": "A",
+              "text": "know"
+            },
+            {
+              "key": "B",
+              "text": "knew"
+            },
+            {
+              "key": "C",
+              "text": "had known"
+            },
+            {
+              "key": "D",
+              "text": "would know"
+            }
+          ],
+          "answer": "B",
+          "explanation": "If only trái ngược hiện tại: 'knew'."
+        },
+        {
+          "id": "302917",
+          "question": "She suggested that we …………… in the lobby of the hotel at 9:00 a.m.",
+          "options": [
+            {
+              "key": "A",
+              "text": "shall meet"
+            },
+            {
+              "key": "B",
+              "text": "will meet"
+            },
+            {
+              "key": "C",
+              "text": "should meet"
+            },
+            {
+              "key": "D",
+              "text": "would have met"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với suggest: 'should meet' (hoặc 'meet')."
+        },
+        {
+          "id": "302922",
+          "question": "If she ____________yesterday, she would come here with us tomorrow night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "finished it"
+            },
+            {
+              "key": "B",
+              "text": "finish it"
+            },
+            {
+              "key": "C",
+              "text": "have finished it"
+            },
+            {
+              "key": "D",
+              "text": "had finished it"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Điều kiện trộn: 'had finished it' (mệnh đề If trái quá khứ 'yesterday', mệnh đề chính trái hiện tại 'tomorrow night')."
+        },
+        {
+          "id": "302925",
+          "question": "If I had taken that English course, I____________ much progress.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would have made"
+            },
+            {
+              "key": "B",
+              "text": "would make"
+            },
+            {
+              "key": "C",
+              "text": "made"
+            },
+            {
+              "key": "D",
+              "text": "will make"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Điều kiện loại 3: 'would have made'."
+        },
+        {
+          "id": "302927",
+          "question": "They recommend that she …………… to a ski resort in Spain.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will go"
+            },
+            {
+              "key": "B",
+              "text": "goes"
+            },
+            {
+              "key": "C",
+              "text": "go"
+            },
+            {
+              "key": "D",
+              "text": "should have gone"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với recommend: 'go'."
+        },
+        {
+          "id": "302929",
+          "question": "The doctor insisted that she …………… at the hospital.",
+          "options": [
+            {
+              "key": "A",
+              "text": "stay"
+            },
+            {
+              "key": "B",
+              "text": "stays"
+            },
+            {
+              "key": "C",
+              "text": "will stay"
+            },
+            {
+              "key": "D",
+              "text": "has stayed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với insist: 'stay'."
+        },
+        {
+          "id": "302932",
+          "question": "If I ………… enough money, I could have stayed at a five-star hotel during my vacation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had"
+            },
+            {
+              "key": "B",
+              "text": "had had"
+            },
+            {
+              "key": "C",
+              "text": "have"
+            },
+            {
+              "key": "D",
+              "text": "have had"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Điều kiện loại 3: 'had had'."
+        },
+        {
+          "id": "302934",
+          "question": "Their trip to China was very interesting. I wish I …………there with them.",
+          "options": [
+            {
+              "key": "A",
+              "text": "could go"
+            },
+            {
+              "key": "B",
+              "text": "might go"
+            },
+            {
+              "key": "C",
+              "text": "had gone"
+            },
+            {
+              "key": "D",
+              "text": "went"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược quá khứ: 'had gone'."
+        },
+        {
+          "id": "302937",
+          "question": "She misses him. She wishes he . ………… her a letter",
+          "options": [
+            {
+              "key": "A",
+              "text": "has sent"
+            },
+            {
+              "key": "B",
+              "text": "will send"
+            },
+            {
+              "key": "C",
+              "text": "would send"
+            },
+            {
+              "key": "D",
+              "text": "would have sent"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn ở tương lai: 'would send'."
+        },
+        {
+          "id": "302940",
+          "question": "They treat her as if she ………… their daughter",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "be"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "D",
+          "explanation": "As if trái ngược hiện tại: 'were'."
+        },
+        {
+          "id": "302944",
+          "question": "I cannot sleep. The dog next door is making too much noise. I wish it ______ quiet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "kept"
+            },
+            {
+              "key": "B",
+              "text": "had kept"
+            },
+            {
+              "key": "C",
+              "text": "would keep"
+            },
+            {
+              "key": "D",
+              "text": "would have kept"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Mong muốn thay đổi hành động ở hiện tại: 'would keep'."
+        },
+        {
+          "id": "302947",
+          "question": "She would be disappointed if we ………… her a present.",
+          "options": [
+            {
+              "key": "A",
+              "text": "won't bring"
+            },
+            {
+              "key": "B",
+              "text": "wouldn't bring"
+            },
+            {
+              "key": "C",
+              "text": "didn't bring"
+            },
+            {
+              "key": "D",
+              "text": "hadn't brought"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Điều kiện loại 2: 'didn't bring'."
+        },
+        {
+          "id": "302951",
+          "question": "He enjoyed talking to them. He wished they ………… so quickly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "left"
+            },
+            {
+              "key": "B",
+              "text": "had left"
+            },
+            {
+              "key": "C",
+              "text": "did not leave"
+            },
+            {
+              "key": "D",
+              "text": "had not left"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Ước muốn trái ngược quá khứ: 'had not left'."
+        }
+      ]
+    },
+    {
+      "id": "SB-T1",
+      "title": "Thi Online: Giả Định Cách 1",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "612345",
+          "question": "I feel sick. I wish I _______ so much cake.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hadn't eaten"
+            },
+            {
+              "key": "B",
+              "text": "have eaten"
+            },
+            {
+              "key": "C",
+              "text": "wouldn't eat"
+            },
+            {
+              "key": "D",
+              "text": "didn't eat"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Ước muốn trái ngược quá khứ: 'hadn't eaten'."
+        },
+        {
+          "id": "612346",
+          "question": "Would you like him to paint the door green? -> - I'd rather he ___________ it red.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to paint"
+            },
+            {
+              "key": "B",
+              "text": "painted"
+            },
+            {
+              "key": "C",
+              "text": "paints"
+            },
+            {
+              "key": "D",
+              "text": "painting"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Would rather trái ngược hiện tại: 'painted'."
+        },
+        {
+          "id": "612347",
+          "question": "He recommended that we _________ on time for all meetings.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "be"
+            },
+            {
+              "key": "C",
+              "text": "will be"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với recommend: 'be'."
+        },
+        {
+          "id": "613264",
+          "question": "The teacher always _______that the student make an outline before writing a complete essay.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reports"
+            },
+            {
+              "key": "B",
+              "text": "recommends"
+            },
+            {
+              "key": "C",
+              "text": "tells"
+            },
+            {
+              "key": "D",
+              "text": "says"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Tính từ/động từ cầu khiến 'recommends' đòi hỏi mệnh đề sau dùng giả định: 'recommends that...'."
+        },
+        {
+          "id": "613265",
+          "question": "Alright, Johny, it’s time you _______ to bed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are going to"
+            },
+            {
+              "key": "B",
+              "text": "went"
+            },
+            {
+              "key": "C",
+              "text": "would go"
+            },
+            {
+              "key": "D",
+              "text": "will be going"
+            }
+          ],
+          "answer": "B",
+          "explanation": "It's time + S + V.ed -> 'went'."
+        },
+        {
+          "id": "613266",
+          "question": "It is recommended that he _______ this course",
+          "options": [
+            {
+              "key": "A",
+              "text": "took"
+            },
+            {
+              "key": "B",
+              "text": "takes"
+            },
+            {
+              "key": "C",
+              "text": "take"
+            },
+            {
+              "key": "D",
+              "text": "taking"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với recommend: 'take'."
+        },
+        {
+          "id": "613267",
+          "question": "Is it a requirement that the scheme ___________ next Friday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "carry out"
+            },
+            {
+              "key": "B",
+              "text": "will carry out"
+            },
+            {
+              "key": "C",
+              "text": "carried out"
+            },
+            {
+              "key": "D",
+              "text": "be carried out"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định bị động với requirement: 'be carried out'."
+        },
+        {
+          "id": "613268",
+          "question": "I suggest that the room _________ before Christmas.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were decorated"
+            },
+            {
+              "key": "B",
+              "text": "be decorated"
+            },
+            {
+              "key": "C",
+              "text": "should decorate"
+            },
+            {
+              "key": "D",
+              "text": "is decorated"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định bị động với suggest: 'be decorated'."
+        },
+        {
+          "id": "614367",
+          "question": "The engineers demanded that the worker ____ with them.",
+          "options": [
+            {
+              "key": "A",
+              "text": "go"
+            },
+            {
+              "key": "B",
+              "text": "must go"
+            },
+            {
+              "key": "C",
+              "text": "went"
+            },
+            {
+              "key": "D",
+              "text": "goes"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với demand: 'go'."
+        },
+        {
+          "id": "614368",
+          "question": "If only the committee ____ the proposal and put them into effect as soon as possible.",
+          "options": [
+            {
+              "key": "A",
+              "text": "accept"
+            },
+            {
+              "key": "B",
+              "text": "have accepted"
+            },
+            {
+              "key": "C",
+              "text": "accepted"
+            },
+            {
+              "key": "D",
+              "text": "should accept"
+            }
+          ],
+          "answer": "C",
+          "explanation": "If only trái ngược hiện tại: 'accepted'."
+        },
+        {
+          "id": "614369",
+          "question": "My advice is that he ____ the city at once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "should leave"
+            },
+            {
+              "key": "B",
+              "text": "leaves"
+            },
+            {
+              "key": "C",
+              "text": "will leave"
+            },
+            {
+              "key": "D",
+              "text": "has left"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với advice: 'should leave'."
+        },
+        {
+          "id": "614370",
+          "question": "It’s about time that everybody ____ to do the job.",
+          "options": [
+            {
+              "key": "A",
+              "text": "begins"
+            },
+            {
+              "key": "B",
+              "text": "will begin"
+            },
+            {
+              "key": "C",
+              "text": "begin"
+            },
+            {
+              "key": "D",
+              "text": "began"
+            }
+          ],
+          "answer": "D",
+          "explanation": "It's about time + S + V.ed -> 'began'."
+        },
+        {
+          "id": "614372",
+          "question": "I would rather all of you _____ at once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "go"
+            },
+            {
+              "key": "B",
+              "text": "will go"
+            },
+            {
+              "key": "C",
+              "text": "have gone"
+            },
+            {
+              "key": "D",
+              "text": "went"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Would rather trái ngược hiện tại: 'went'."
+        },
+        {
+          "id": "614374",
+          "question": "Our boss would rather __________ during the working hours.",
+          "options": [
+            {
+              "key": "A",
+              "text": "us not chat"
+            },
+            {
+              "key": "B",
+              "text": "we didn’t chat"
+            },
+            {
+              "key": "C",
+              "text": "we don’t chat"
+            },
+            {
+              "key": "D",
+              "text": "us not chatting"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Boss would rather + S + V.ed (trải ngược hiện tại): 'we didn't chat'."
+        },
+        {
+          "id": "614376",
+          "question": "It is important that the police ____ about the case.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are informed"
+            },
+            {
+              "key": "B",
+              "text": "informed"
+            },
+            {
+              "key": "C",
+              "text": "be informed"
+            },
+            {
+              "key": "D",
+              "text": "will be informed"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với important: 'be informed'."
+        },
+        {
+          "id": "614377",
+          "question": "Fanny insisted that we ____ the day before",
+          "options": [
+            {
+              "key": "A",
+              "text": "came"
+            },
+            {
+              "key": "B",
+              "text": "should come"
+            },
+            {
+              "key": "C",
+              "text": "had come"
+            },
+            {
+              "key": "D",
+              "text": "must come"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Fanny khăng khăng khẳng định sự việc đã xảy ra hôm trước (sự thật quá khứ) nên dùng quá khứ hoàn thành: 'had come'."
+        },
+        {
+          "id": "614380",
+          "question": "“Have done something wrong?” “ Wish you _________ more tactful; you’re always offending people”.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have been"
+            },
+            {
+              "key": "B",
+              "text": "had been being"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            },
+            {
+              "key": "D",
+              "text": "were being"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược hiện tại: 'were'."
+        },
+        {
+          "id": "614381",
+          "question": "I wish I _________to him. Now it is too late.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had listened"
+            },
+            {
+              "key": "B",
+              "text": "would listen"
+            },
+            {
+              "key": "C",
+              "text": "listened"
+            },
+            {
+              "key": "D",
+              "text": "have listened"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Ước muốn trái ngược quá khứ: 'had listened'."
+        },
+        {
+          "id": "614382",
+          "question": "The UN demanded _____ from Vietnamese Eastern waters.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that all"
+            },
+            {
+              "key": "B",
+              "text": "all"
+            },
+            {
+              "key": "C",
+              "text": "that all"
+            },
+            {
+              "key": "D",
+              "text": "all"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với demand: 'that all Chinese troops be withdrawn'."
+        },
+        {
+          "id": "614383",
+          "question": "The suggestion is that Mary ____ to the club more regularly.",
+          "options": [
+            {
+              "key": "A",
+              "text": "goes"
+            },
+            {
+              "key": "B",
+              "text": "go"
+            },
+            {
+              "key": "C",
+              "text": "will go"
+            },
+            {
+              "key": "D",
+              "text": "would go"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với suggestion: 'go'."
+        },
+        {
+          "id": "614384",
+          "question": "I can’t understand the French visitors. I wish I ________French.",
+          "options": [
+            {
+              "key": "A",
+              "text": "knew"
+            },
+            {
+              "key": "B",
+              "text": "will know"
+            },
+            {
+              "key": "C",
+              "text": "know"
+            },
+            {
+              "key": "D",
+              "text": "have known"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Ước muốn trái ngược hiện tại: 'knew'."
+        },
+        {
+          "id": "614385",
+          "question": "It is imperative ____ what to do when there is a fire.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he must know about"
+            },
+            {
+              "key": "B",
+              "text": "that everyone know"
+            },
+            {
+              "key": "C",
+              "text": "we knew"
+            },
+            {
+              "key": "D",
+              "text": "that he knew"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với imperative: 'that everyone know'."
+        },
+        {
+          "id": "614386",
+          "question": "It is high time Tom ____ more active in class.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "must be"
+            },
+            {
+              "key": "C",
+              "text": "had been"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "D",
+          "explanation": "It's high time + S + V.ed/were -> 'were'."
+        },
+        {
+          "id": "614387",
+          "question": "We suggest that she ____ the 10.30 train immediately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "take"
+            },
+            {
+              "key": "B",
+              "text": "has to take"
+            },
+            {
+              "key": "C",
+              "text": "might take"
+            },
+            {
+              "key": "D",
+              "text": "may take"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với suggest: 'take'."
+        },
+        {
+          "id": "614388",
+          "question": "The doctor recommended that the patient ________as soon as possible.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is operated"
+            },
+            {
+              "key": "B",
+              "text": "operated"
+            },
+            {
+              "key": "C",
+              "text": "would be operated"
+            },
+            {
+              "key": "D",
+              "text": "be operated"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định bị động với recommend: 'be operated'."
+        },
+        {
+          "id": "614389",
+          "question": "It is imperative that your facebook password ________ confidential.",
+          "options": [
+            {
+              "key": "A",
+              "text": "need keeping"
+            },
+            {
+              "key": "B",
+              "text": "need to keep"
+            },
+            {
+              "key": "C",
+              "text": "needs to be kept"
+            },
+            {
+              "key": "D",
+              "text": "needed keeping"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với imperative: 'needs to be kept'."
+        },
+        {
+          "id": "614391",
+          "question": "I recommended that she ___________ reduce her expenditure.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would"
+            },
+            {
+              "key": "B",
+              "text": "should"
+            },
+            {
+              "key": "C",
+              "text": "must"
+            },
+            {
+              "key": "D",
+              "text": "need"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với recommend: 'should'."
+        },
+        {
+          "id": "614393",
+          "question": "She acted as if she_______ big amount of money.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "have"
+            },
+            {
+              "key": "D",
+              "text": "had had"
+            }
+          ],
+          "answer": "A",
+          "explanation": "As if trái ngược hiện tại: 'had'."
+        },
+        {
+          "id": "614394",
+          "question": "A: These figures are too complicated to work out in your head. -> B: Yes, _________ a calculator.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I wish I would have"
+            },
+            {
+              "key": "B",
+              "text": "if only we had"
+            },
+            {
+              "key": "C",
+              "text": "if only we had had"
+            },
+            {
+              "key": "D",
+              "text": "I wish we have"
+            }
+          ],
+          "answer": "B",
+          "explanation": "If only trái ngược hiện tại: 'if only we had'."
+        },
+        {
+          "id": "614395",
+          "question": "It’s high time the children _________ their lesson. They are watching TV now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "should prepare"
+            },
+            {
+              "key": "B",
+              "text": "prepare"
+            },
+            {
+              "key": "C",
+              "text": "prepared"
+            },
+            {
+              "key": "D",
+              "text": "had prepared"
+            }
+          ],
+          "answer": "C",
+          "explanation": "It's high time + S + V.ed -> 'prepared'."
+        }
+      ]
+    },
+    {
+      "id": "SB-T2",
+      "title": "Thi Online: Giả Định Cách 2",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "613766",
+          "question": "I’m really sleepy today. I wish I _______ Bob to the airport late last night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "weren’t taking"
+            },
+            {
+              "key": "B",
+              "text": "didn’t take"
+            },
+            {
+              "key": "C",
+              "text": "hadn’t had to take"
+            },
+            {
+              "key": "D",
+              "text": "didn’t have to take"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược quá khứ ('last night'): 'hadn't had to take' (ước giá như tôi đã không phải đưa Bob ra sân bay)."
+        },
+        {
+          "id": "613767",
+          "question": "I’d rather you _______ to the English-speaking club with me this Sunday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will come"
+            },
+            {
+              "key": "B",
+              "text": "come"
+            },
+            {
+              "key": "C",
+              "text": "to come"
+            },
+            {
+              "key": "D",
+              "text": "came"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Would rather trái ngược hiện tại: 'came'."
+        },
+        {
+          "id": "613768",
+          "question": "It has been suggested that Mary_a computer course in preparation for a steady job.",
+          "options": [
+            {
+              "key": "A",
+              "text": "take"
+            },
+            {
+              "key": "B",
+              "text": "have been taken"
+            },
+            {
+              "key": "C",
+              "text": "would have taken"
+            },
+            {
+              "key": "D",
+              "text": "was taken"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với suggest: 'take'."
+        },
+        {
+          "id": "613769",
+          "question": "I’d rather you ________ home now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "go"
+            },
+            {
+              "key": "B",
+              "text": "going"
+            },
+            {
+              "key": "C",
+              "text": "gone"
+            },
+            {
+              "key": "D",
+              "text": "went"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Would rather trái ngược hiện tại: 'went'."
+        },
+        {
+          "id": "613770",
+          "question": "It’s important that she __________ at once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would leave"
+            },
+            {
+              "key": "B",
+              "text": "can leave"
+            },
+            {
+              "key": "C",
+              "text": "should leave"
+            },
+            {
+              "key": "D",
+              "text": "could leave"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với important: 'should leave'."
+        },
+        {
+          "id": "613771",
+          "question": "If only it _________ raining.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would stop"
+            },
+            {
+              "key": "B",
+              "text": "will stop"
+            },
+            {
+              "key": "C",
+              "text": "have stopped"
+            },
+            {
+              "key": "D",
+              "text": "stops"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Ước muốn ở tương lai/hiện tại thể hiện mong mỏi: 'would stop'."
+        },
+        {
+          "id": "613772",
+          "question": "The doctor suggested that his patient _________ smoking",
+          "options": [
+            {
+              "key": "A",
+              "text": "stop"
+            },
+            {
+              "key": "B",
+              "text": "stops"
+            },
+            {
+              "key": "C",
+              "text": "stopped"
+            },
+            {
+              "key": "D",
+              "text": "will stop"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với suggest: 'stop'."
+        },
+        {
+          "id": "613773",
+          "question": "Christine demanded that I __________ to take part in the negotiations.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is allowed"
+            },
+            {
+              "key": "B",
+              "text": "be allowed"
+            },
+            {
+              "key": "C",
+              "text": "allowed"
+            },
+            {
+              "key": "D",
+              "text": "was allowed"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định bị động với demand: 'be allowed'."
+        },
+        {
+          "id": "613774",
+          "question": "We suggested that you ______ to the organization.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are admitted"
+            },
+            {
+              "key": "B",
+              "text": "were admitted"
+            },
+            {
+              "key": "C",
+              "text": "be admitted"
+            },
+            {
+              "key": "D",
+              "text": "have been admitted"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với suggest: 'be admitted'."
+        },
+        {
+          "id": "613775",
+          "question": "It’s important that you _________ there when he gets off the plane.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are standing"
+            },
+            {
+              "key": "B",
+              "text": "am standing"
+            },
+            {
+              "key": "C",
+              "text": "be standing"
+            },
+            {
+              "key": "D",
+              "text": "was standing"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định tiếp diễn với important: 'be standing'."
+        },
+        {
+          "id": "613776",
+          "question": "Jane would rather it _________winter now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were"
+            },
+            {
+              "key": "B",
+              "text": "be"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "had been"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Would rather trái ngược hiện tại: 'were'."
+        },
+        {
+          "id": "613777",
+          "question": "The director requests that all packages ______ at the central office.",
+          "options": [
+            {
+              "key": "A",
+              "text": "send"
+            },
+            {
+              "key": "B",
+              "text": "be send"
+            },
+            {
+              "key": "C",
+              "text": "be sent"
+            },
+            {
+              "key": "D",
+              "text": "are sent"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với request: 'be sent'."
+        },
+        {
+          "id": "613778",
+          "question": "It is essential that she ________ the truth about her illness.",
+          "options": [
+            {
+              "key": "A",
+              "text": "tell"
+            },
+            {
+              "key": "B",
+              "text": "tells"
+            },
+            {
+              "key": "C",
+              "text": "is told"
+            },
+            {
+              "key": "D",
+              "text": "be told"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định bị động với essential: 'be told'."
+        },
+        {
+          "id": "613779",
+          "question": "Dan’s parents insist that he _____ home every week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "must call"
+            },
+            {
+              "key": "B",
+              "text": "call"
+            },
+            {
+              "key": "C",
+              "text": "called"
+            },
+            {
+              "key": "D",
+              "text": "has to call"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với insist: 'call'."
+        },
+        {
+          "id": "613780",
+          "question": "“What is your opinion?” – “It is necessary that an employee ……………….his work on time”",
+          "options": [
+            {
+              "key": "A",
+              "text": "finish"
+            },
+            {
+              "key": "B",
+              "text": "finishes"
+            },
+            {
+              "key": "C",
+              "text": "can finish"
+            },
+            {
+              "key": "D",
+              "text": "to finish"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với necessary: 'finish'."
+        },
+        {
+          "id": "613781",
+          "question": "“What instructions did your boss give you?” – “He requires that Alice ________ the meeting”",
+          "options": [
+            {
+              "key": "A",
+              "text": "would attend"
+            },
+            {
+              "key": "B",
+              "text": "attends"
+            },
+            {
+              "key": "C",
+              "text": "attended"
+            },
+            {
+              "key": "D",
+              "text": "attend"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định với require: 'attend'."
+        },
+        {
+          "id": "613782",
+          "question": "It was urgent that she __________ the robbery to the police immediately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reported"
+            },
+            {
+              "key": "B",
+              "text": "reports"
+            },
+            {
+              "key": "C",
+              "text": "report"
+            },
+            {
+              "key": "D",
+              "text": "must report"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với urgent: 'report'."
+        },
+        {
+          "id": "613783",
+          "question": "The teacher demanded that Tom ___________ the room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "leave"
+            },
+            {
+              "key": "B",
+              "text": "leaves"
+            },
+            {
+              "key": "C",
+              "text": "has to leave"
+            },
+            {
+              "key": "D",
+              "text": "leaving"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với demand: 'leave'."
+        },
+        {
+          "id": "613784",
+          "question": "The boys proposed that their group leader ______ a camping trip.",
+          "options": [
+            {
+              "key": "A",
+              "text": "organized"
+            },
+            {
+              "key": "B",
+              "text": "organize"
+            },
+            {
+              "key": "C",
+              "text": "organizes"
+            },
+            {
+              "key": "D",
+              "text": "organizing"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với propose: 'organize'."
+        },
+        {
+          "id": "613785",
+          "question": "It’s high time they ______ this road.",
+          "options": [
+            {
+              "key": "A",
+              "text": "mend"
+            },
+            {
+              "key": "B",
+              "text": "mending"
+            },
+            {
+              "key": "C",
+              "text": "mended"
+            },
+            {
+              "key": "D",
+              "text": "to mend"
+            }
+          ],
+          "answer": "C",
+          "explanation": "It's high time + S + V.ed -> 'mended'."
+        },
+        {
+          "id": "613786",
+          "question": "Tom acts as if he _________ my boss.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "be"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "D",
+          "explanation": "As if trái ngược hiện tại: 'were'."
+        },
+        {
+          "id": "613787",
+          "question": "The boss insisted that Sam …………….at the meeting.",
+          "options": [
+            {
+              "key": "A",
+              "text": "isn’t"
+            },
+            {
+              "key": "B",
+              "text": "wasn’t"
+            },
+            {
+              "key": "C",
+              "text": "weren’t"
+            },
+            {
+              "key": "D",
+              "text": "not be"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định phủ định với insist: 'not be'."
+        },
+        {
+          "id": "613788",
+          "question": "He treats us as if we _________ all idiots.",
+          "options": [
+            {
+              "key": "A",
+              "text": "be"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": "C",
+          "explanation": "As if trái ngược hiện tại: 'were'."
+        },
+        {
+          "id": "613789",
+          "question": "I’d rather you ______ by train.",
+          "options": [
+            {
+              "key": "A",
+              "text": "go"
+            },
+            {
+              "key": "B",
+              "text": "went"
+            },
+            {
+              "key": "C",
+              "text": "are going"
+            },
+            {
+              "key": "D",
+              "text": "will go"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Would rather trái ngược hiện tại: 'went'."
+        },
+        {
+          "id": "613790",
+          "question": "It has been suggested that income tax __________",
+          "options": [
+            {
+              "key": "A",
+              "text": "abolished"
+            },
+            {
+              "key": "B",
+              "text": "abolishes"
+            },
+            {
+              "key": "C",
+              "text": "is abolished"
+            },
+            {
+              "key": "D",
+              "text": "be abolished"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định bị động với suggest: 'be abolished'."
+        },
+        {
+          "id": "613791",
+          "question": "- I wish you _____ making that noise. It's bothering me. -Sorry, I'll stop it right now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would stop"
+            },
+            {
+              "key": "B",
+              "text": "are going to stop"
+            },
+            {
+              "key": "C",
+              "text": "stop"
+            },
+            {
+              "key": "D",
+              "text": "can stop"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Ước muốn thể hiện mong mỏi thay đổi hành động ở hiện tại: 'would stop'."
+        },
+        {
+          "id": "613792",
+          "question": "- I told your mother that you had left your job. -Well, I wish you _____ her. It's none of your business.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wouldn't tell"
+            },
+            {
+              "key": "B",
+              "text": "didn't tell"
+            },
+            {
+              "key": "C",
+              "text": "hadn't told"
+            },
+            {
+              "key": "D",
+              "text": "doesn't tell"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược quá khứ: 'hadn't told'."
+        },
+        {
+          "id": "613793",
+          "question": "I demand that I __________ to be free now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "be allowed"
+            },
+            {
+              "key": "B",
+              "text": "allowed"
+            },
+            {
+              "key": "C",
+              "text": "allow"
+            },
+            {
+              "key": "D",
+              "text": "am allowed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định bị động với demand: 'be allowed'."
+        },
+        {
+          "id": "613794",
+          "question": "They moved that their plan ____ rejected.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "be"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định bị động với move (đề nghị): 'be'."
+        },
+        {
+          "id": "613795",
+          "question": "The doctor suggested that Tom _____ smoking.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is stopping"
+            },
+            {
+              "key": "B",
+              "text": "stop"
+            },
+            {
+              "key": "C",
+              "text": "stops"
+            },
+            {
+              "key": "D",
+              "text": "stopped"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với suggest: 'stop'."
+        }
+      ]
+    },
+    {
+      "id": "SB-T3",
+      "title": "Thi Online: Giả Định Cách 3",
+      "description": "30 câu trắc nghiệm.",
+      "exercises": [
+        {
+          "id": "613517",
+          "question": "It’s a little difficult to find the restaurant. I propose that we all ____________ together so that nobody gets lost along the way.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is driving"
+            },
+            {
+              "key": "B",
+              "text": "drive"
+            },
+            {
+              "key": "C",
+              "text": "to drive"
+            },
+            {
+              "key": "D",
+              "text": "driven"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với propose: 'drive'."
+        },
+        {
+          "id": "613518",
+          "question": "It is important that Henry ___________very differently from you. She may not agree to the changes you have made in the organization of the company",
+          "options": [
+            {
+              "key": "A",
+              "text": "think"
+            },
+            {
+              "key": "B",
+              "text": "to think"
+            },
+            {
+              "key": "C",
+              "text": "thinks"
+            },
+            {
+              "key": "D",
+              "text": "thinking"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với important: 'think'."
+        },
+        {
+          "id": "613519",
+          "question": "Was it really necessary that I _____ there watching you the entire time you were rehearsing for the play? It was really boring watching you repeat the scenes over and over again.",
+          "options": [
+            {
+              "key": "A",
+              "text": "sits"
+            },
+            {
+              "key": "B",
+              "text": "am sitting"
+            },
+            {
+              "key": "C",
+              "text": "be sitting"
+            },
+            {
+              "key": "D",
+              "text": "to sit"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định tiếp diễn với necessary: 'be sitting'."
+        },
+        {
+          "id": "613520",
+          "question": "Tom asked that we _________ her graduation ceremony next week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "attended"
+            },
+            {
+              "key": "B",
+              "text": "to attend"
+            },
+            {
+              "key": "C",
+              "text": "attend"
+            },
+            {
+              "key": "D",
+              "text": "attending"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với ask: 'attend'."
+        },
+        {
+          "id": "613521",
+          "question": "I am not going to sit here and let her insult me. I demand that she immediately ______________ for what she just said.",
+          "options": [
+            {
+              "key": "A",
+              "text": "apologize"
+            },
+            {
+              "key": "B",
+              "text": "apologizing"
+            },
+            {
+              "key": "C",
+              "text": "to apologize"
+            },
+            {
+              "key": "D",
+              "text": "apologized"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với demand: 'apologize'."
+        },
+        {
+          "id": "613522",
+          "question": "The monk insisted that the tourists___ the temple until they had removed their shoes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "not entering"
+            },
+            {
+              "key": "B",
+              "text": "not to enter"
+            },
+            {
+              "key": "C",
+              "text": "not enter"
+            },
+            {
+              "key": "D",
+              "text": "entered"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định phủ định với insist: 'not enter'."
+        },
+        {
+          "id": "613523",
+          "question": "It’s vital that the United States _____ on improving its public education system. What we do now will affect our country for generations to come.",
+          "options": [
+            {
+              "key": "A",
+              "text": "focuses"
+            },
+            {
+              "key": "B",
+              "text": "focus"
+            },
+            {
+              "key": "C",
+              "text": "focusing"
+            },
+            {
+              "key": "D",
+              "text": "to focus"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với vital: 'focus'."
+        },
+        {
+          "id": "613524",
+          "question": "I suggest that John_______________ the directions carefully before assembling the bicycle. He doesn’t want the wheels to fall off while he is riding down a hill.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reading"
+            },
+            {
+              "key": "B",
+              "text": "to read"
+            },
+            {
+              "key": "C",
+              "text": "read"
+            },
+            {
+              "key": "D",
+              "text": "have read"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với suggest: 'read'."
+        },
+        {
+          "id": "613525",
+          "question": "It is absolutely necessary _ in the library by 5.00 PM if we want sufficient time for the test.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that we are"
+            },
+            {
+              "key": "B",
+              "text": "us to be"
+            },
+            {
+              "key": "C",
+              "text": "that we be"
+            },
+            {
+              "key": "D",
+              "text": "for us be"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với necessary: 'that we be'."
+        },
+        {
+          "id": "613526",
+          "question": "I really enjoyed our trip to the theatre. I wish we _____ more often",
+          "options": [
+            {
+              "key": "A",
+              "text": "go"
+            },
+            {
+              "key": "B",
+              "text": "went"
+            },
+            {
+              "key": "C",
+              "text": "will go"
+            },
+            {
+              "key": "D",
+              "text": "have gone"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn trái ngược hiện tại/mong mỏi thói quen: 'went'."
+        },
+        {
+          "id": "613527",
+          "question": "- My feet are killing me! I wish I _____ more comfortable shoes. -Yeah, me too. I wish I _____ that we were going to have to walk this much.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had worn/ knew"
+            },
+            {
+              "key": "B",
+              "text": "am wearing/ had known"
+            },
+            {
+              "key": "C",
+              "text": "were wearing/ would know"
+            },
+            {
+              "key": "D",
+              "text": "wore/ had known"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Ước muốn trái ngược quá khứ: 'had worn/ knew'."
+        },
+        {
+          "id": "613528",
+          "question": "It was critical that the paramedics ______ within 5 minutes of the traffic collision.",
+          "options": [
+            {
+              "key": "A",
+              "text": "arrived"
+            },
+            {
+              "key": "B",
+              "text": "should be arrived"
+            },
+            {
+              "key": "C",
+              "text": "be arrived"
+            },
+            {
+              "key": "D",
+              "text": "arrive"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định với critical: 'arrive'."
+        },
+        {
+          "id": "613529",
+          "question": "It is important that we _________ for all possible emergencies.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are prepared"
+            },
+            {
+              "key": "B",
+              "text": "be prepared"
+            },
+            {
+              "key": "C",
+              "text": "be prepare"
+            },
+            {
+              "key": "D",
+              "text": "prepared"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định bị động với important: 'be prepared'."
+        },
+        {
+          "id": "613530",
+          "question": "His girlfriend insists ___________",
+          "options": [
+            {
+              "key": "A",
+              "text": "that he doesn’t date other women"
+            },
+            {
+              "key": "B",
+              "text": "he not dates other women"
+            },
+            {
+              "key": "C",
+              "text": "he must not date other women"
+            },
+            {
+              "key": "D",
+              "text": "that he not date other women"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định phủ định với insist: 'that he not date other women'."
+        },
+        {
+          "id": "613531",
+          "question": "- Did you study for that test? . - No, but now I wish I _____ because I flunked it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had studied"
+            },
+            {
+              "key": "B",
+              "text": "studied"
+            },
+            {
+              "key": "C",
+              "text": "would study"
+            },
+            {
+              "key": "D",
+              "text": "have studied"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Ước muốn trái ngược quá khứ: 'had studied'."
+        },
+        {
+          "id": "613554",
+          "question": "- It's raining. I wish it _____ -Me too. If only the sun _____ so that we could go swimming.",
+          "options": [
+            {
+              "key": "A",
+              "text": "stopped/ shined"
+            },
+            {
+              "key": "B",
+              "text": "would stop/ were shining"
+            },
+            {
+              "key": "C",
+              "text": "would stop/ were shining"
+            },
+            {
+              "key": "D",
+              "text": "would stop/ would shine"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Ước muốn và giả định hiện tại: 'would stop/ were shining'."
+        },
+        {
+          "id": "613557",
+          "question": "Our proposal is that he ______ to group leader.",
+          "options": [
+            {
+              "key": "A",
+              "text": "elected"
+            },
+            {
+              "key": "B",
+              "text": "elect"
+            },
+            {
+              "key": "C",
+              "text": "be elect"
+            },
+            {
+              "key": "D",
+              "text": "be elected"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định bị động với proposal: 'be elected'."
+        },
+        {
+          "id": "613559",
+          "question": "The doctor’s suggestion is that she ______a holiday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "takes"
+            },
+            {
+              "key": "B",
+              "text": "take"
+            },
+            {
+              "key": "C",
+              "text": "is taking"
+            },
+            {
+              "key": "D",
+              "text": "took"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với suggestion: 'take'."
+        },
+        {
+          "id": "613561",
+          "question": "We recommend that he ______ with us.",
+          "options": [
+            {
+              "key": "A",
+              "text": "should go"
+            },
+            {
+              "key": "B",
+              "text": "goes"
+            },
+            {
+              "key": "C",
+              "text": "went"
+            },
+            {
+              "key": "D",
+              "text": "will go"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với recommend: 'should go'."
+        },
+        {
+          "id": "613565",
+          "question": "- Are we lost? - I think so. I wish we _____ a map with us today.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were bringing"
+            },
+            {
+              "key": "B",
+              "text": "brought"
+            },
+            {
+              "key": "C",
+              "text": "had brought"
+            },
+            {
+              "key": "D",
+              "text": "would bring"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược quá khứ: 'had brought'."
+        },
+        {
+          "id": "613756",
+          "question": "-Could you lend me some money? - I wish I _____ you some money for your rent, but I'm broke myself",
+          "options": [
+            {
+              "key": "A",
+              "text": "can lend"
+            },
+            {
+              "key": "B",
+              "text": "would lend"
+            },
+            {
+              "key": "C",
+              "text": "could lend"
+            },
+            {
+              "key": "D",
+              "text": "will lend"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược hiện tại: 'could lend'."
+        },
+        {
+          "id": "613757",
+          "question": "The teacher asked that all students _________ on time for the next test.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "can be"
+            },
+            {
+              "key": "C",
+              "text": "should be"
+            },
+            {
+              "key": "D",
+              "text": "must be"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với ask: 'should be'."
+        },
+        {
+          "id": "613758",
+          "question": "The coach advised that the students______ in the race.",
+          "options": [
+            {
+              "key": "A",
+              "text": "could complete"
+            },
+            {
+              "key": "B",
+              "text": "to complete"
+            },
+            {
+              "key": "C",
+              "text": "completed"
+            },
+            {
+              "key": "D",
+              "text": "complete"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định với advise: 'complete'."
+        },
+        {
+          "id": "613759",
+          "question": "The teacher required that we _____ our work before 6 p.m",
+          "options": [
+            {
+              "key": "A",
+              "text": "finish"
+            },
+            {
+              "key": "B",
+              "text": "finished"
+            },
+            {
+              "key": "C",
+              "text": "should finish"
+            },
+            {
+              "key": "?",
+              "text": "D."
+            }
+          ],
+          "answer": "D",
+          "explanation": "Giả định với require: 'A & C are correct' ('finish' hoặc 'should finish')."
+        },
+        {
+          "id": "613760",
+          "question": "His suggestion _________ to see the art exhibition interested every one of us.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that we go"
+            },
+            {
+              "key": "B",
+              "text": "which we should go"
+            },
+            {
+              "key": "C",
+              "text": "that we would go"
+            },
+            {
+              "key": "D",
+              "text": "we would go"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Giả định với suggestion: 'that we go'."
+        },
+        {
+          "id": "613761",
+          "question": "She wishes she _________ you the bad news yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "wouldn’t tell"
+            },
+            {
+              "key": "B",
+              "text": "didn’t tell"
+            },
+            {
+              "key": "C",
+              "text": "hadn’t told"
+            },
+            {
+              "key": "D",
+              "text": "doesn’t tell"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Ước muốn trái ngược quá khứ: 'hadn't told'."
+        },
+        {
+          "id": "613762",
+          "question": "The teacher recommended that Tom _________ his composition as soon as possible",
+          "options": [
+            {
+              "key": "A",
+              "text": "finished writing"
+            },
+            {
+              "key": "B",
+              "text": "finish writing"
+            },
+            {
+              "key": "C",
+              "text": "should finish to write"
+            },
+            {
+              "key": "D",
+              "text": "finishes writing"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với recommend: 'finish writing'."
+        },
+        {
+          "id": "613763",
+          "question": "It’s essential that every student ________ the exam before attending the course.",
+          "options": [
+            {
+              "key": "A",
+              "text": "passes"
+            },
+            {
+              "key": "B",
+              "text": "pass"
+            },
+            {
+              "key": "C",
+              "text": "would pass"
+            },
+            {
+              "key": "D",
+              "text": "passed"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Giả định với essential: 'pass'."
+        },
+        {
+          "id": "613764",
+          "question": "If only I ________ you wanted to invest money in business.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had known"
+            },
+            {
+              "key": "B",
+              "text": "knew"
+            },
+            {
+              "key": "C",
+              "text": "would know"
+            },
+            {
+              "key": "D",
+              "text": "know"
+            }
+          ],
+          "answer": "A",
+          "explanation": "If only trái ngược quá khứ: 'had known'."
+        },
+        {
+          "id": "613765",
+          "question": "I don’t like the suggestion that we ______ this job together.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would do"
+            },
+            {
+              "key": "B",
+              "text": "did"
+            },
+            {
+              "key": "C",
+              "text": "do"
+            },
+            {
+              "key": "D",
+              "text": "will do"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Giả định với suggestion: 'do'."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7007 @@
+{
+  "slug": "inversion-2",
+  "title": "Đảo Ngữ (Inversion) – Luyện Tập",
+  "level": "B2",
+  "topic": "inversion",
+  "series": "Inversion",
+  "summary": "Tổng hợp bài tập trắc nghiệm đảo ngữ từ cơ bản đến nâng cao.",
+  "sections": [],
+  "exerciseSets": [
+    {
+      "id": "INV-P1",
+      "title": "Luyện Tập Đảo Ngữ 1 (50 câu)",
+      "exercises": [
+        {
+          "id": "INV-P1-1",
+          "question": "Only when he started working with her, ____that she was intelligent.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he had realize"
+            },
+            {
+              "key": "B",
+              "text": "did he realize"
+            },
+            {
+              "key": "C",
+              "text": "he did realized"
+            },
+            {
+              "key": "D",
+              "text": "he realized"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only when + clause + đảo ngữ: did he realize."
+        },
+        {
+          "id": "INV-P1-2",
+          "question": "Only after food has been dried or canned _______________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it should be stored for future use"
+            },
+            {
+              "key": "B",
+              "text": "that it should be stored for future use"
+            },
+            {
+              "key": "C",
+              "text": "should it be stored for future use"
+            },
+            {
+              "key": "D",
+              "text": "should it store for future use"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only after + clause + đảo ngữ ở mệnh đề chính: should it be stored."
+        },
+        {
+          "id": "INV-P1-3",
+          "question": "____worked outside the home as nowadays.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Never so many women have"
+            },
+            {
+              "key": "B",
+              "text": "Never have so many women"
+            },
+            {
+              "key": "C",
+              "text": "The women are not never"
+            },
+            {
+              "key": "D",
+              "text": "The women who have never"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Never đứng đầu câu + đảo ngữ hiện tại hoàn thành: Never have so many women."
+        },
+        {
+          "id": "INV-P1-4",
+          "question": "No longer____any pleasure to do this job.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I do have"
+            },
+            {
+              "key": "B",
+              "text": "do I have"
+            },
+            {
+              "key": "C",
+              "text": "do have I"
+            },
+            {
+              "key": "D",
+              "text": "I have"
+            }
+          ],
+          "answer": "B",
+          "explanation": "No longer + đảo ngữ hiện tại đơn: do I have."
+        },
+        {
+          "id": "INV-P1-5",
+          "question": "John stops smoking.",
+          "options": [
+            {
+              "key": "A",
+              "text": "John does not smoke no longer"
+            },
+            {
+              "key": "B",
+              "text": "John smokes any longer"
+            },
+            {
+              "key": "C",
+              "text": "No longer does John smoke"
+            },
+            {
+              "key": "D",
+              "text": "Any longer John smokes"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Chọn phương án viết lại đúng nghĩa dùng đảo ngữ với No longer: No longer does John smoke."
+        },
+        {
+          "id": "INV-P1-6",
+          "question": "Only when you grow up____the truth.",
+          "options": [
+            {
+              "key": "A",
+              "text": "you will know"
+            },
+            {
+              "key": "B",
+              "text": "will you know"
+            },
+            {
+              "key": "C",
+              "text": "you know"
+            },
+            {
+              "key": "D",
+              "text": "do you know"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only when + clause + đảo ngữ mệnh đề chính dạng tương lai: will you know."
+        },
+        {
+          "id": "INV-P1-7",
+          "question": "No sooner had he arrived home____he was called out again.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when"
+            },
+            {
+              "key": "B",
+              "text": "and"
+            },
+            {
+              "key": "C",
+              "text": "than"
+            },
+            {
+              "key": "D",
+              "text": "but"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc No sooner... than... (vừa mới... thì đã...)."
+        },
+        {
+          "id": "INV-P1-8",
+          "question": "____had the restaurant opened____people were flocking to eat there .",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly… than"
+            },
+            {
+              "key": "B",
+              "text": "Nosooner..that"
+            },
+            {
+              "key": "C",
+              "text": "No sooner..than"
+            },
+            {
+              "key": "D",
+              "text": "hardly.. that"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc tương ứng: No sooner had ... than."
+        },
+        {
+          "id": "INV-P1-9",
+          "question": "Down____for three days.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the rain poured"
+            },
+            {
+              "key": "B",
+              "text": "did the rain pour"
+            },
+            {
+              "key": "C",
+              "text": "poured the rain"
+            },
+            {
+              "key": "D",
+              "text": "do the rain pour"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ toàn bộ với trạng từ chỉ phương hướng: Down + động từ chính (poured) + chủ ngữ (the rain)."
+        },
+        {
+          "id": "INV-P1-10",
+          "question": "Out _____ when the bell rang.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did the children run"
+            },
+            {
+              "key": "B",
+              "text": "ran the children"
+            },
+            {
+              "key": "C",
+              "text": "run the children"
+            },
+            {
+              "key": "D",
+              "text": "do the children run"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ toàn bộ: Out + động từ chính (ran) + chủ ngữ (the children)."
+        },
+        {
+          "id": "INV-P1-11",
+          "question": "Such____that he would stop at nothing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "his ambition was"
+            },
+            {
+              "key": "B",
+              "text": "did his ambition"
+            },
+            {
+              "key": "C",
+              "text": "does his ambition"
+            },
+            {
+              "key": "D",
+              "text": "was his ambition"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc Such + be + N + that... Đảo ngữ với Such: Such was his ambition."
+        },
+        {
+          "id": "INV-P1-12",
+          "question": "Only once____late to school.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he came"
+            },
+            {
+              "key": "B",
+              "text": "did he came"
+            },
+            {
+              "key": "C",
+              "text": "came he"
+            },
+            {
+              "key": "D",
+              "text": "did he come"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only once + đảo ngữ quá khứ đơn: did he come (động từ nguyên mẫu)."
+        },
+        {
+          "id": "INV-P1-13",
+          "question": "He no longer collects stamps as he used to. No longer____",
+          "options": [
+            {
+              "key": "A",
+              "text": "he collects stamps as he used to"
+            },
+            {
+              "key": "B",
+              "text": "does he collect stamps as he used to"
+            },
+            {
+              "key": "C",
+              "text": "does he collected stamps as he used to"
+            },
+            {
+              "key": "D",
+              "text": "doesn’t he collect stamps as he used to it"
+            }
+          ],
+          "answer": "B",
+          "explanation": "No longer + đảo ngữ hiện tại đơn: does he collect stamps..."
+        },
+        {
+          "id": "INV-P1-14",
+          "question": "____, a matter is formed of molecules.",
+          "options": [
+            {
+              "key": "A",
+              "text": "It doesn’t matter if the complex"
+            },
+            {
+              "key": "B",
+              "text": "It’s not a complex matter"
+            },
+            {
+              "key": "C",
+              "text": "No matter how complex it is"
+            },
+            {
+              "key": "D",
+              "text": "How complex is not a matter"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc nhượng bộ: No matter how + adj + S + be."
+        },
+        {
+          "id": "INV-P1-15",
+          "question": "No more ____to worry about the future sources of energy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "don’t we have"
+            },
+            {
+              "key": "B",
+              "text": "we don’t have"
+            },
+            {
+              "key": "C",
+              "text": "do we have"
+            },
+            {
+              "key": "D",
+              "text": "we do have"
+            }
+          ],
+          "answer": "C",
+          "explanation": "No more + đảo ngữ thể khẳng định: do we have."
+        },
+        {
+          "id": "INV-P1-16",
+          "question": "Hardly____asleep when the phone woke him up again.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had the doctor fallen"
+            },
+            {
+              "key": "B",
+              "text": "did the doctor fall"
+            },
+            {
+              "key": "C",
+              "text": "the doctor fell"
+            },
+            {
+              "key": "D",
+              "text": "the doctor has fallen"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Hardly + had + S + PII + when + clause."
+        },
+        {
+          "id": "INV-P1-17",
+          "question": "Not until darkness fell____he hadn’t done half of his work.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that he realized"
+            },
+            {
+              "key": "B",
+              "text": "did he realize"
+            },
+            {
+              "key": "C",
+              "text": "that he didn’t realize"
+            },
+            {
+              "key": "D",
+              "text": "didn’t he realize"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not until + clause / time + đảo ngữ mệnh đề chính: did he realize."
+        },
+        {
+          "id": "INV-P1-18",
+          "question": "Seldom____of Nancy Johnson as coloured.",
+          "options": [
+            {
+              "key": "A",
+              "text": "her classmates thought"
+            },
+            {
+              "key": "B",
+              "text": "thought her classmates"
+            },
+            {
+              "key": "C",
+              "text": "her classmates did think"
+            },
+            {
+              "key": "D",
+              "text": "did her school classmates think"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Seldom đứng đầu câu + đảo ngữ quá khứ đơn: did her school classmates think."
+        },
+        {
+          "id": "INV-P1-19",
+          "question": "On the hill ____ a big pine tree.",
+          "options": [
+            {
+              "key": "A",
+              "text": "stands"
+            },
+            {
+              "key": "B",
+              "text": "stand"
+            },
+            {
+              "key": "C",
+              "text": "does"
+            },
+            {
+              "key": "D",
+              "text": "standing"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ toàn bộ với trạng ngữ chỉ vị trí: On the hill + stands (chia số ít theo a big pine tree)."
+        },
+        {
+          "id": "INV-P1-20",
+          "question": "Not once ____ into her eyes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he looked"
+            },
+            {
+              "key": "B",
+              "text": "does he looks"
+            },
+            {
+              "key": "C",
+              "text": "did he look"
+            },
+            {
+              "key": "D",
+              "text": "he was looking"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not once (không một lần nào) + đảo ngữ quá khứ đơn: did he look."
+        },
+        {
+          "id": "INV-P1-21",
+          "question": "Not until next year____ take place.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the new tax change will"
+            },
+            {
+              "key": "B",
+              "text": "will the new tax change"
+            },
+            {
+              "key": "C",
+              "text": "the new tax changes"
+            },
+            {
+              "key": "D",
+              "text": "they change the new tax"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not until + time + đảo ngữ tương lai đơn: will the new tax change."
+        },
+        {
+          "id": "INV-P1-22",
+          "question": "Not until a monkey is several years old …..…to exhibit signs of independence from its mother.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it begins"
+            },
+            {
+              "key": "B",
+              "text": "does it begin"
+            },
+            {
+              "key": "C",
+              "text": "and begin"
+            },
+            {
+              "key": "D",
+              "text": "is it begin"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not until + clause + đảo ngữ mệnh đề chính: does it begin."
+        },
+        {
+          "id": "INV-P1-23",
+          "question": ".………….. did Jerome accept the job.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only because it was interesting work"
+            },
+            {
+              "key": "B",
+              "text": "Because it was an interesting work"
+            },
+            {
+              "key": "C",
+              "text": "Only because it was interested work"
+            },
+            {
+              "key": "D",
+              "text": "The work was interesting"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc Only because + clause + đảo ngữ ở mệnh đề chính."
+        },
+        {
+          "id": "INV-P1-24",
+          "question": "………..great was the destruction that the south took decades to recover.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Very"
+            },
+            {
+              "key": "B",
+              "text": "too"
+            },
+            {
+              "key": "C",
+              "text": "Such"
+            },
+            {
+              "key": "D",
+              "text": "So"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc đảo ngữ với So: So + adj (great) + be + S + that..."
+        },
+        {
+          "id": "INV-P1-25",
+          "question": "………….….when the Charges found themselves 7-0 down.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly had the games begun"
+            },
+            {
+              "key": "B",
+              "text": "Hardly the games had begun"
+            },
+            {
+              "key": "C",
+              "text": "The games had hardly begun"
+            },
+            {
+              "key": "D",
+              "text": "Hardly had begun the games"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Hardly had + S + PII... when + clause."
+        },
+        {
+          "id": "INV-P1-26",
+          "question": "Not until the first land plants developed………………..",
+          "options": [
+            {
+              "key": "A",
+              "text": "land animals appeared"
+            },
+            {
+              "key": "B",
+              "text": "did land animals appear"
+            },
+            {
+              "key": "C",
+              "text": "would land animals appear"
+            },
+            {
+              "key": "D",
+              "text": "the land animals appeared"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not until + clause + đảo ngữ quá khứ đơn: did land animals appear."
+        },
+        {
+          "id": "INV-P1-27",
+          "question": "Not until it was too late ………………. to call Susan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I remembered"
+            },
+            {
+              "key": "B",
+              "text": "did I remember"
+            },
+            {
+              "key": "C",
+              "text": "did I remembered"
+            },
+            {
+              "key": "D",
+              "text": "I did remember"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not until + clause + đảo ngữ: did I remember."
+        },
+        {
+          "id": "INV-P1-28",
+          "question": "Never before …………………. such a wonderful child.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I have seen"
+            },
+            {
+              "key": "B",
+              "text": "I had seen"
+            },
+            {
+              "key": "C",
+              "text": "I saw"
+            },
+            {
+              "key": "D",
+              "text": "have I seen"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Never before + đảo ngữ hiện tại hoàn thành: have I seen."
+        },
+        {
+          "id": "INV-P1-29",
+          "question": "Hardly had we settle down in our seats …………….. the lights went out.",
+          "options": [
+            {
+              "key": "A",
+              "text": "than"
+            },
+            {
+              "key": "B",
+              "text": "when"
+            },
+            {
+              "key": "C",
+              "text": "then"
+            },
+            {
+              "key": "D",
+              "text": "after"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc Hardly... when..."
+        },
+        {
+          "id": "INV-P1-30",
+          "question": "Only after checking three times …………certain of the answer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I was"
+            },
+            {
+              "key": "B",
+              "text": "was I"
+            },
+            {
+              "key": "C",
+              "text": "were I"
+            },
+            {
+              "key": "D",
+              "text": "I were"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only after + V-ing + đảo ngữ: was I (chủ ngữ 'I' chia 'was')."
+        },
+        {
+          "id": "INV-P1-31",
+          "question": "Only when he is here, ……………",
+          "options": [
+            {
+              "key": "A",
+              "text": "he speaks English"
+            },
+            {
+              "key": "B",
+              "text": "does he speak English"
+            },
+            {
+              "key": "C",
+              "text": "he can speak English"
+            },
+            {
+              "key": "D",
+              "text": "he does speak English"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only when + clause + đảo ngữ hiện tại đơn: does he speak."
+        },
+        {
+          "id": "INV-P1-32",
+          "question": "________, you would have succeeded in your business.",
+          "options": [
+            {
+              "key": "A",
+              "text": "If you listened to my advice"
+            },
+            {
+              "key": "B",
+              "text": "Were you to listen to my advice"
+            },
+            {
+              "key": "C",
+              "text": "Had you listened to my advice"
+            },
+            {
+              "key": "D",
+              "text": "As long as you listened to my advice"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ câu điều kiện loại 3: Had + S + PII."
+        },
+        {
+          "id": "INV-P1-33",
+          "question": "She doesn’t like classical music and ____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I don’t, too"
+            },
+            {
+              "key": "B",
+              "text": "I don’t, either"
+            },
+            {
+              "key": "C",
+              "text": "neither do I"
+            },
+            {
+              "key": "D",
+              "text": "B and C are correct"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đồng tình phủ định: 'I don't, either' hoặc 'neither do I' đều đúng."
+        },
+        {
+          "id": "INV-P1-34",
+          "question": "Little ______________ what he has caused to others.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he know"
+            },
+            {
+              "key": "B",
+              "text": "he knows"
+            },
+            {
+              "key": "C",
+              "text": "he can know"
+            },
+            {
+              "key": "D",
+              "text": "he will know"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Little đứng đầu câu + đảo ngữ hiện tại đơn: does he know."
+        },
+        {
+          "id": "INV-P1-35",
+          "question": "______ had he entered the office than he realized that he had left his wallet at home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly"
+            },
+            {
+              "key": "B",
+              "text": "Scarcely"
+            },
+            {
+              "key": "C",
+              "text": "No sooner"
+            },
+            {
+              "key": "D",
+              "text": "Not only"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Liên từ 'than' đi kèm với 'No sooner'."
+        },
+        {
+          "id": "INV-P1-36",
+          "question": "Tìm lỗi sai: We cannot clean up all the polluted seas and rivers. Nor we can stop the disappearance of plants and animals.",
+          "options": [
+            {
+              "key": "A",
+              "text": "cannot"
+            },
+            {
+              "key": "B",
+              "text": "all"
+            },
+            {
+              "key": "C",
+              "text": "we can"
+            },
+            {
+              "key": "D",
+              "text": "disappearance"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Nor đứng đầu câu làm liên từ nối, phải đảo ngữ: 'Nor can we'."
+        },
+        {
+          "id": "INV-P1-37",
+          "question": "Tìm lỗi sai: Hardly had he entered the office when he realized that he forgot his wallet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had"
+            },
+            {
+              "key": "B",
+              "text": "the"
+            },
+            {
+              "key": "C",
+              "text": "when"
+            },
+            {
+              "key": "D",
+              "text": "forgot"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Hành động 'forgot' xảy ra trước 'realized' nên phải chia quá khứ hoàn thành: 'had forgotten'."
+        },
+        {
+          "id": "INV-P1-38",
+          "question": "Tìm lỗi sai: It was not until he was 30 did he get married , had a job and lived independently of his parents.",
+          "options": [
+            {
+              "key": "A",
+              "text": "It was"
+            },
+            {
+              "key": "B",
+              "text": "did he get married"
+            },
+            {
+              "key": "C",
+              "text": "a job"
+            },
+            {
+              "key": "D",
+              "text": "independently of"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc nhấn mạnh 'It was not until... that + clause (không đảo ngữ)' -> sửa thành 'that he got married'."
+        },
+        {
+          "id": "INV-P1-39",
+          "question": "Tìm lỗi sai: Never before has so many people in the U.S been interested in soccer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Never"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "the U.S"
+            },
+            {
+              "key": "D",
+              "text": "been interested in"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Chủ ngữ 'so many people' số nhiều nên sửa 'has' thành 'have'."
+        },
+        {
+          "id": "INV-P1-40",
+          "question": "Tìm lỗi sai: Not only he spent all his money but he also borrowed some from me",
+          "options": [
+            {
+              "key": "A",
+              "text": "he spent"
+            },
+            {
+              "key": "B",
+              "text": "all"
+            },
+            {
+              "key": "C",
+              "text": "but he also"
+            },
+            {
+              "key": "D",
+              "text": "from"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not only đứng đầu câu phải đảo ngữ: 'did he spend'."
+        },
+        {
+          "id": "INV-P1-41",
+          "question": "We couldn’t relax until all the guests had left.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Not until all the guests had left could we relax"
+            },
+            {
+              "key": "B",
+              "text": "It wasn’t until all the guests had left that we could relax"
+            },
+            {
+              "key": "C",
+              "text": "It wasn’t until all the guests had left could we relax"
+            },
+            {
+              "key": "D",
+              "text": "A and B are correct"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả A (đảo ngữ) và B (câu chẻ nhấn mạnh) đều diễn đạt đúng nghĩa của câu gốc."
+        },
+        {
+          "id": "INV-P1-42",
+          "question": "The phone stopped ringing the moment I got downstairs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "No sooner had the phone stopped ringing than I got downstairs"
+            },
+            {
+              "key": "B",
+              "text": "After the phone had stopped ringing, I got downstairs"
+            },
+            {
+              "key": "C",
+              "text": "Hardly had the phone stopped ringing when I got downstairs"
+            },
+            {
+              "key": "D",
+              "text": "No sooner had I got downstairs than the phone stopped ringing"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Tôi vừa mới xuống cầu thang thì điện thoại ngừng reo (hành động xuống cầu thang hoàn thành trước, chia quá khứ hoàn thành đảo ngữ)."
+        },
+        {
+          "id": "INV-P1-43",
+          "question": "The light failed the moment they began working",
+          "options": [
+            {
+              "key": "A",
+              "text": "But for the light failed, they would have begun work"
+            },
+            {
+              "key": "B",
+              "text": "Hardly did they begin work when the light failed"
+            },
+            {
+              "key": "C",
+              "text": "Hardly had they begun work when the light failed"
+            },
+            {
+              "key": "D",
+              "text": "As soon as the light failed, they began work"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Họ vừa mới bắt đầu làm việc thì đèn tắt. Cấu trúc Hardly had + S + PII + when..."
+        },
+        {
+          "id": "INV-P1-44",
+          "question": "She didn’t shed a tear as the play ended in tragedy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "The tragedy play wasn’t good for her to shed tear"
+            },
+            {
+              "key": "B",
+              "text": "Without her tear, the play didn’t end tragically"
+            },
+            {
+              "key": "C",
+              "text": "So tragic was the play that she didn’t shed a tear"
+            },
+            {
+              "key": "D",
+              "text": "Not a tear did she shed when the play ended in tragedy"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ với 'Not a tear did she shed...' diễn đạt đúng và nhấn mạnh ý câu gốc."
+        },
+        {
+          "id": "INV-P1-45",
+          "question": "It was not until she had arrived home _____ her appointment with the doctor.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when she remembered"
+            },
+            {
+              "key": "B",
+              "text": "that she remembered"
+            },
+            {
+              "key": "C",
+              "text": "and she remembered"
+            },
+            {
+              "key": "D",
+              "text": "did she remember"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc câu chẻ nhấn mạnh: It was not until + Clause + that + Clause."
+        },
+        {
+          "id": "INV-P1-46",
+          "question": "Canada does not require that U.S citizens obtain passports to enter the country, and__.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mexico doesn’t, too"
+            },
+            {
+              "key": "B",
+              "text": "so does Mexico"
+            },
+            {
+              "key": "C",
+              "text": "Mexico doesn’t, either"
+            },
+            {
+              "key": "D",
+              "text": "neither is Mexico"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đồng tình phủ định ở cuối câu dùng 'either' kết hợp trợ động từ phủ định: 'Mexico doesn’t, either'."
+        },
+        {
+          "id": "INV-P1-47",
+          "question": "____________________, he would have been able to pass the exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "If he studied harder last year"
+            },
+            {
+              "key": "B",
+              "text": "Provided he studied hard last year"
+            },
+            {
+              "key": "C",
+              "text": "Studying harder last year"
+            },
+            {
+              "key": "D",
+              "text": "Had he studied harder last year"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ câu điều kiện loại 3: Had + S + PII."
+        },
+        {
+          "id": "INV-P1-48",
+          "question": "___________________ will Mr. Dennis be able to regain control of the company.",
+          "options": [
+            {
+              "key": "A",
+              "text": "With hard work"
+            },
+            {
+              "key": "B",
+              "text": "Despite his hard work"
+            },
+            {
+              "key": "C",
+              "text": "Only if he works hardly"
+            },
+            {
+              "key": "D",
+              "text": "Only by working hard"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc Only by + V-ing/Noun + đảo ngữ mệnh đề chính: 'will Mr. Dennis be able...'"
+        },
+        {
+          "id": "INV-P1-49",
+          "question": "__________ had I arrived home than it began to rain.",
+          "options": [
+            {
+              "key": "A",
+              "text": "No sooner"
+            },
+            {
+              "key": "B",
+              "text": "Hardly"
+            },
+            {
+              "key": "C",
+              "text": "Scarcely"
+            },
+            {
+              "key": "D",
+              "text": "Rarely"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Từ nhận biết 'than' đứng sau biểu thị cấu trúc 'No sooner... than'."
+        },
+        {
+          "id": "INV-P1-50",
+          "question": "My father paid my fees. _______________that, I wouldn’t be here now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had it not been for"
+            },
+            {
+              "key": "B",
+              "text": "But for"
+            },
+            {
+              "key": "C",
+              "text": "A and B are correct"
+            },
+            {
+              "key": "D",
+              "text": "If there were not"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cả 'But for' và 'Had it not been for' đều diễn tả 'Nếu không có/Nếu không nhờ có...' trong giả thiết loại 3 hỗn hợp."
+        }
+      ]
+    },
+    {
+      "id": "INV-P2",
+      "title": "Luyện Tập Đảo Ngữ 2 (50 câu)",
+      "exercises": [
+        {
+          "id": "INV-P2-1",
+          "question": "____the government be forced into another election, it would be the favorite to win.",
+          "options": [
+            {
+              "key": "A",
+              "text": "If"
+            },
+            {
+              "key": "B",
+              "text": "Unless"
+            },
+            {
+              "key": "C",
+              "text": "Was"
+            },
+            {
+              "key": "D",
+              "text": "Should"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ câu điều kiện loại 1: Should + S + V (inf)."
+        },
+        {
+          "id": "INV-P2-2",
+          "question": "___to make an appointment to see Dr Simons, she is available between 9.00 and 11.00.",
+          "options": [
+            {
+              "key": "A",
+              "text": "you should wish"
+            },
+            {
+              "key": "B",
+              "text": "Should you wish"
+            },
+            {
+              "key": "C",
+              "text": "had you wish"
+            },
+            {
+              "key": "D",
+              "text": "When you wished"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ câu điều kiện loại 1 diễn tả giả thiết: Should you wish..."
+        },
+        {
+          "id": "INV-P2-3",
+          "question": "_________further problems with your printer, contact your deal for advice.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had you have"
+            },
+            {
+              "key": "B",
+              "text": "Should you have"
+            },
+            {
+              "key": "C",
+              "text": "If you having"
+            },
+            {
+              "key": "D",
+              "text": "Were you have"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ điều kiện loại 1: Should you have..."
+        },
+        {
+          "id": "INV-P2-4",
+          "question": "_____to accept the post, you will be expected to start work on 1st April.",
+          "options": [
+            {
+              "key": "A",
+              "text": "you should decide"
+            },
+            {
+              "key": "B",
+              "text": "Should you decide"
+            },
+            {
+              "key": "C",
+              "text": "If you decide"
+            },
+            {
+              "key": "D",
+              "text": "B & C"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả B (Should you decide) và C (If you decide) đều đúng cấu trúc điều kiện loại 1."
+        },
+        {
+          "id": "INV-P2-5",
+          "question": "________any further news, we will be in touch immediately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "We hear"
+            },
+            {
+              "key": "B",
+              "text": "Had we heard"
+            },
+            {
+              "key": "C",
+              "text": "Should we hear"
+            },
+            {
+              "key": "D",
+              "text": "Unless we hear"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ câu điều kiện loại 1: Should we hear..."
+        },
+        {
+          "id": "INV-P2-6",
+          "question": "______ you wish to take advantage of the offer, kindly tick the box on your order.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Can"
+            },
+            {
+              "key": "B",
+              "text": "Should"
+            },
+            {
+              "key": "C",
+              "text": "Were"
+            },
+            {
+              "key": "D",
+              "text": "Had"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Should đứng đầu câu làm đảo ngữ điều kiện loại 1."
+        },
+        {
+          "id": "INV-P2-7",
+          "question": "_________ the film be a success, they may be rich soon",
+          "options": [
+            {
+              "key": "A",
+              "text": "Was"
+            },
+            {
+              "key": "B",
+              "text": "If"
+            },
+            {
+              "key": "C",
+              "text": "Should"
+            },
+            {
+              "key": "D",
+              "text": "B & C"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ hoặc dùng câu điều kiện có 'should' -> 'Should the film be a success' hoặc 'If the film should be a success'. Do đó B & C đều chấp nhận được."
+        },
+        {
+          "id": "INV-P2-8",
+          "question": "________you change your mind, there will always be a job for you here.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "If"
+            },
+            {
+              "key": "C",
+              "text": "Should"
+            },
+            {
+              "key": "D",
+              "text": "B&C"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả 'If you change' (B) và 'Should you change' (C) đều đúng."
+        },
+        {
+          "id": "INV-P2-9",
+          "question": "_________, a large area of sea would be contaminated.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Did the chemical to leak"
+            },
+            {
+              "key": "B",
+              "text": "Were the chemical be leak"
+            },
+            {
+              "key": "C",
+              "text": "Were the chemical to leak"
+            },
+            {
+              "key": "D",
+              "text": "Should the chemical to leak"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ điều kiện loại 2 với động từ thường: Were + S + to-inf -> Were the chemical to leak."
+        },
+        {
+          "id": "INV-P2-10",
+          "question": "_________, they would face Italy in the final.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had Germany beat"
+            },
+            {
+              "key": "B",
+              "text": "Shoud Germany to beat"
+            },
+            {
+              "key": "C",
+              "text": "Were Germany to be beat"
+            },
+            {
+              "key": "D",
+              "text": "Were Germany to beat"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ điều kiện loại 2: Were + S + to-inf -> Were Germany to beat."
+        },
+        {
+          "id": "INV-P2-11",
+          "question": "_________, he would not permit such bad behavior.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had Mr Morgan still be headmaster"
+            },
+            {
+              "key": "B",
+              "text": "Were Mr Morgan still headmaster"
+            },
+            {
+              "key": "C",
+              "text": "Was Mr Morgan still headmaster"
+            },
+            {
+              "key": "D",
+              "text": "Should Mr Morgan still headmaster"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ điều kiện loại 2 với 'be': Were + S + Noun -> Were Mr Morgan still headmaster."
+        },
+        {
+          "id": "INV-P2-12",
+          "question": "_________, you would have got a high mark.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Should you given it in on time"
+            },
+            {
+              "key": "B",
+              "text": "Had you given it in on time"
+            },
+            {
+              "key": "C",
+              "text": "Were you given it in on time"
+            },
+            {
+              "key": "D",
+              "text": "Had you give it in on time"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ điều kiện loại 3: Had + S + PII (given)."
+        },
+        {
+          "id": "INV-P2-13",
+          "question": "_________a lawyer, as her parents’ wishes, she would have earned a large salary.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had she became"
+            },
+            {
+              "key": "B",
+              "text": "Had she become"
+            },
+            {
+              "key": "C",
+              "text": "Were she became"
+            },
+            {
+              "key": "D",
+              "text": "Had she to become"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ điều kiện loại 3: Had + S + PII (become)."
+        },
+        {
+          "id": "INV-P2-14",
+          "question": "_________, I would have been held responsible.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had anything go wrong"
+            },
+            {
+              "key": "B",
+              "text": "Had anything have gone wrong"
+            },
+            {
+              "key": "C",
+              "text": "Were anything gone wrong"
+            },
+            {
+              "key": "D",
+              "text": "Had anything gone wrong"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ điều kiện loại 3: Had + S + PII (gone wrong)."
+        },
+        {
+          "id": "INV-P2-15",
+          "question": "_________ Henry, I might not have met you.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had it not for"
+            },
+            {
+              "key": "B",
+              "text": "Had it not been for"
+            },
+            {
+              "key": "C",
+              "text": "Had it no been for"
+            },
+            {
+              "key": "D",
+              "text": "Had not it been for"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc đảo ngữ điều kiện loại 3: Had it not been for + N."
+        },
+        {
+          "id": "INV-P2-16",
+          "question": "_________they could have saved the vessels.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Should the coast guards been notified"
+            },
+            {
+              "key": "B",
+              "text": "Were the coast guards to been notified"
+            },
+            {
+              "key": "C",
+              "text": "Had the coast guards been notified"
+            },
+            {
+              "key": "D",
+              "text": "Had been the coast guards notified"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ điều kiện loại 3 dạng bị động: Had the coast guards been notified."
+        },
+        {
+          "id": "INV-P2-17",
+          "question": "Had _________ by phone, the airline could have warned them.",
+          "options": [
+            {
+              "key": "A",
+              "text": "they confirm"
+            },
+            {
+              "key": "B",
+              "text": "they confirmed"
+            },
+            {
+              "key": "C",
+              "text": "did they confirmed"
+            },
+            {
+              "key": "D",
+              "text": "did they confirm"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc đảo ngữ 'Had they confirmed...' (PII)."
+        },
+        {
+          "id": "INV-P2-18",
+          "question": "_________ his solicitor’s advice, he would have made a serious mistake.",
+          "options": [
+            {
+              "key": "A",
+              "text": "But for"
+            },
+            {
+              "key": "B",
+              "text": "Had it not been for"
+            },
+            {
+              "key": "C",
+              "text": "Had not it been for"
+            },
+            {
+              "key": "D",
+              "text": "A & B"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả 'But for' và 'Had it not been for' đều đúng cấu trúc điều kiện loại 3."
+        },
+        {
+          "id": "INV-P2-19",
+          "question": "_________did he spend all his money but she also borrowed some from me.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only after"
+            },
+            {
+              "key": "B",
+              "text": "Not only"
+            },
+            {
+              "key": "C",
+              "text": "Not until"
+            },
+            {
+              "key": "D",
+              "text": "In any time"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'Not only + đảo ngữ, but S also V...'"
+        },
+        {
+          "id": "INV-P2-20",
+          "question": "_________had I left the office than the phone rang.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly"
+            },
+            {
+              "key": "B",
+              "text": "Not till"
+            },
+            {
+              "key": "C",
+              "text": "No sooner"
+            },
+            {
+              "key": "D",
+              "text": "No longer"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Liên từ 'than' đi kèm với 'No sooner'."
+        },
+        {
+          "id": "INV-P2-21",
+          "question": "Hardly_________ the phone down when the boss rang back.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has I put"
+            },
+            {
+              "key": "B",
+              "text": "had I put"
+            },
+            {
+              "key": "C",
+              "text": "was I put"
+            },
+            {
+              "key": "D",
+              "text": "did I put"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'Hardly had + S + PII ... when'."
+        },
+        {
+          "id": "INV-P2-22",
+          "question": "Not until the bell rang_________ his work.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did he finish"
+            },
+            {
+              "key": "B",
+              "text": "has he finish"
+            },
+            {
+              "key": "C",
+              "text": "he finished"
+            },
+            {
+              "key": "D",
+              "text": "he finish"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not until + clause + đảo ngữ quá khứ đơn: did he finish."
+        },
+        {
+          "id": "INV-P2-23",
+          "question": "Only after several months _________ to see the symptoms of the disease.",
+          "options": [
+            {
+              "key": "A",
+              "text": "we begin"
+            },
+            {
+              "key": "B",
+              "text": "did we begin"
+            },
+            {
+              "key": "C",
+              "text": "did we begun"
+            },
+            {
+              "key": "D",
+              "text": "did we began"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only after + khoảng thời gian + đảo ngữ quá khứ đơn: did we begin (sau did dùng động từ nguyên thể)."
+        },
+        {
+          "id": "INV-P2-24",
+          "question": "Never in my life _________ anyone drink as much as you.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have I seened"
+            },
+            {
+              "key": "B",
+              "text": "have I seen"
+            },
+            {
+              "key": "C",
+              "text": "did I seen"
+            },
+            {
+              "key": "D",
+              "text": "was I seen"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Never in my life + đảo ngữ HTHT: have I seen."
+        },
+        {
+          "id": "INV-P2-25",
+          "question": "Under the table _________a sleeping dog.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did lied"
+            },
+            {
+              "key": "B",
+              "text": "did lying"
+            },
+            {
+              "key": "C",
+              "text": "lying"
+            },
+            {
+              "key": "D",
+              "text": "was lying"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ toàn bộ với trạng từ vị trí: Under the table + động từ chính (was lying) + a sleeping dog."
+        },
+        {
+          "id": "INV-P2-26",
+          "question": "Rarely _________been more excited.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was his brother"
+            },
+            {
+              "key": "B",
+              "text": "have his brother"
+            },
+            {
+              "key": "C",
+              "text": "had his brother"
+            },
+            {
+              "key": "D",
+              "text": "did his brother"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Rarely + đảo ngữ quá khứ hoàn thành: had his brother."
+        },
+        {
+          "id": "INV-P2-27",
+          "question": "Only later _________ all the facts made public.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "was"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only later + đảo ngữ bị động quá khứ đơn: were (số nhiều theo all the facts) + S + PII (made)."
+        },
+        {
+          "id": "INV-P2-28",
+          "question": "_________what would happen, I wouldn’t have accepted the job.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had I realize"
+            },
+            {
+              "key": "B",
+              "text": "Had I realized"
+            },
+            {
+              "key": "C",
+              "text": "If I had realized"
+            },
+            {
+              "key": "D",
+              "text": "B & C"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả B (Had I realized - đảo ngữ loại 3) và C (If I had realized) đều diễn đạt đúng."
+        },
+        {
+          "id": "INV-P2-29",
+          "question": "_________ for our new products that we had to take on more staff",
+          "options": [
+            {
+              "key": "A",
+              "text": "So was the demand"
+            },
+            {
+              "key": "B",
+              "text": "Such was the demand"
+            },
+            {
+              "key": "C",
+              "text": "the demand such was"
+            },
+            {
+              "key": "D",
+              "text": "the demand was such"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc đảo ngữ 'Such + be + N + that...' -> Such was the demand."
+        },
+        {
+          "id": "INV-P2-30",
+          "question": "Not only _________ his leg but he also injured his shoulder.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did Harry break"
+            },
+            {
+              "key": "B",
+              "text": "Harry break"
+            },
+            {
+              "key": "C",
+              "text": "Harry broke"
+            },
+            {
+              "key": "D",
+              "text": "Harry did break"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not only đứng đầu câu + đảo ngữ quá khứ đơn: did Harry break."
+        },
+        {
+          "id": "INV-P2-31",
+          "question": "Little _________ suspect that the judge was the murderer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were the police"
+            },
+            {
+              "key": "B",
+              "text": "did the police"
+            },
+            {
+              "key": "C",
+              "text": "the police"
+            },
+            {
+              "key": "D",
+              "text": "had the police"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Little + đảo ngữ quá khứ đơn: did the police suspect (sau did dùng động từ nguyên mẫu suspect)."
+        },
+        {
+          "id": "INV-P2-32",
+          "question": "_________you see Helen, could you ask her to call me?",
+          "options": [
+            {
+              "key": "A",
+              "text": "If"
+            },
+            {
+              "key": "B",
+              "text": "Should"
+            },
+            {
+              "key": "C",
+              "text": "Had"
+            },
+            {
+              "key": "D",
+              "text": "A&B"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả If (A) và Should (B - đảo ngữ loại 1) đều đúng."
+        },
+        {
+          "id": "INV-P2-33",
+          "question": "In no way _________ for the accident.",
+          "options": [
+            {
+              "key": "A",
+              "text": "can blamed"
+            },
+            {
+              "key": "B",
+              "text": "can blamed the bus"
+            },
+            {
+              "key": "C",
+              "text": "can the bus blamed be"
+            },
+            {
+              "key": "D",
+              "text": "can the bus be blamed"
+            }
+          ],
+          "answer": "D",
+          "explanation": "In no way + đảo ngữ bị động với can: can + S + be + PII -> can the bus be blamed."
+        },
+        {
+          "id": "INV-P2-34",
+          "question": "So heavy _________ that all the trains had to be cancelled",
+          "options": [
+            {
+              "key": "A",
+              "text": "were the snowfall"
+            },
+            {
+              "key": "B",
+              "text": "was the snowfall"
+            },
+            {
+              "key": "C",
+              "text": "the snowfall was"
+            },
+            {
+              "key": "D",
+              "text": "did the snowfall was"
+            }
+          ],
+          "answer": "B",
+          "explanation": "So + adj + be + S + that... snowfall số ít nên dùng 'was'."
+        },
+        {
+          "id": "INV-P2-35",
+          "question": "_________ interest rates they would lose the election.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the government were to raise"
+            },
+            {
+              "key": "B",
+              "text": "Had the government to raise"
+            },
+            {
+              "key": "C",
+              "text": "Should the government to raise"
+            },
+            {
+              "key": "D",
+              "text": "Were the government to raise"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ câu điều kiện loại 2: Were + S + to V."
+        },
+        {
+          "id": "INV-P2-36",
+          "question": "__________had I got into the bath than someone knocked on the door.",
+          "options": [
+            {
+              "key": "A",
+              "text": "No longer"
+            },
+            {
+              "key": "B",
+              "text": "No where"
+            },
+            {
+              "key": "C",
+              "text": "Hardly"
+            },
+            {
+              "key": "D",
+              "text": "No sooner"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đi kèm liên từ 'than' -> 'No sooner ... than'."
+        },
+        {
+          "id": "INV-P2-37",
+          "question": "_________ was the uncertainty that the financial markets remained closed",
+          "options": [
+            {
+              "key": "A",
+              "text": "So"
+            },
+            {
+              "key": "B",
+              "text": "No sooner"
+            },
+            {
+              "key": "C",
+              "text": "Such"
+            },
+            {
+              "key": "D",
+              "text": "At any time"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc Such + be + N + that... -> Such was the uncertainty."
+        },
+        {
+          "id": "INV-P2-38",
+          "question": "Seldom _________so much rain in March.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are there"
+            },
+            {
+              "key": "B",
+              "text": "is there"
+            },
+            {
+              "key": "C",
+              "text": "had there"
+            },
+            {
+              "key": "D",
+              "text": "have there been"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Seldom đứng đầu câu + đảo ngữ với there is/are: is there (rain không đếm được)."
+        },
+        {
+          "id": "INV-P2-39",
+          "question": "__________your identity has been checked will you be allowed in.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only when"
+            },
+            {
+              "key": "B",
+              "text": "Only in"
+            },
+            {
+              "key": "C",
+              "text": "Only before"
+            },
+            {
+              "key": "D",
+              "text": "Only then"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Only when + clause (HTHT) + đảo ngữ ở mệnh đề chính: 'will you be allowed in'."
+        },
+        {
+          "id": "INV-P2-40",
+          "question": "Hardly had the play started_________ there was a power failure.",
+          "options": [
+            {
+              "key": "A",
+              "text": "but"
+            },
+            {
+              "key": "B",
+              "text": "until"
+            },
+            {
+              "key": "C",
+              "text": "than"
+            },
+            {
+              "key": "D",
+              "text": "when"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Hardly had S PII when Clause."
+        },
+        {
+          "id": "INV-P2-41",
+          "question": "Rarely ________the Prime Minister made so inept a speech.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "have"
+            },
+            {
+              "key": "D",
+              "text": "was"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rarely + đảo ngữ hiện tại hoàn thành: has (chủ ngữ số ít 'the Prime Minister')."
+        },
+        {
+          "id": "INV-P2-42",
+          "question": "On no account_________ to take photographs backstage.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are press photographers allowed"
+            },
+            {
+              "key": "B",
+              "text": "have press photographers allowed"
+            },
+            {
+              "key": "C",
+              "text": "had press photographers allowed"
+            },
+            {
+              "key": "D",
+              "text": "did press photographers allowed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "On no account + đảo ngữ bị động hiện tại đơn: are press photographers allowed."
+        },
+        {
+          "id": "INV-P2-43",
+          "question": "Never before _________ so much money been spent to so little purpose!.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "have"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Never before + đảo ngữ hiện tại hoàn thành bị động: has so much money been spent."
+        },
+        {
+          "id": "INV-P2-44",
+          "question": "_________had the trial proceedings begun when the judge was taken ill",
+          "options": [
+            {
+              "key": "A",
+              "text": "No sooner"
+            },
+            {
+              "key": "B",
+              "text": "No where"
+            },
+            {
+              "key": "C",
+              "text": "Hardly"
+            },
+            {
+              "key": "D",
+              "text": "No longer"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đi kèm với 'when' -> 'Hardly had... when'."
+        },
+        {
+          "id": "INV-P2-45",
+          "question": "Only in the last few pages of the book ___ to realise the significance of the murder.",
+          "options": [
+            {
+              "key": "A",
+              "text": "you come"
+            },
+            {
+              "key": "B",
+              "text": "do you to come"
+            },
+            {
+              "key": "C",
+              "text": "do you come"
+            },
+            {
+              "key": "D",
+              "text": "did you came"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only in... + đảo ngữ hiện tại đơn: do you come."
+        },
+        {
+          "id": "INV-P2-46",
+          "question": "_________are the demands of her job that she is rarely able to take a holiday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "hardly"
+            },
+            {
+              "key": "B",
+              "text": "not only"
+            },
+            {
+              "key": "C",
+              "text": "so"
+            },
+            {
+              "key": "D",
+              "text": "Such"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc Such + be + N + that... (N ở đây là số nhiều: 'the demands of her job', động từ 'are')."
+        },
+        {
+          "id": "INV-P2-47",
+          "question": "Under no circumstances _________ consume alcohol",
+          "options": [
+            {
+              "key": "A",
+              "text": "audience members may"
+            },
+            {
+              "key": "B",
+              "text": "was audience members"
+            },
+            {
+              "key": "C",
+              "text": "may audience members"
+            },
+            {
+              "key": "D",
+              "text": "audience may members"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Under no circumstances + đảo ngữ với động từ khuyết thiếu: may audience members consume."
+        },
+        {
+          "id": "INV-P2-48",
+          "question": "No sooner _________ than they started to argue.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has they got married"
+            },
+            {
+              "key": "B",
+              "text": "did they got married"
+            },
+            {
+              "key": "C",
+              "text": "had they got marry"
+            },
+            {
+              "key": "D",
+              "text": "had they got married"
+            }
+          ],
+          "answer": "D",
+          "explanation": "No sooner had they got married than..."
+        },
+        {
+          "id": "INV-P2-49",
+          "question": "At no time _________ my new car",
+          "options": [
+            {
+              "key": "A",
+              "text": "can you use"
+            },
+            {
+              "key": "B",
+              "text": "you can use"
+            },
+            {
+              "key": "C",
+              "text": "was you use"
+            },
+            {
+              "key": "D",
+              "text": "did you used"
+            }
+          ],
+          "answer": "A",
+          "explanation": "At no time + đảo ngữ: can you use."
+        },
+        {
+          "id": "INV-P2-50",
+          "question": "Little _________ know that the police had them under surveillance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have the gang"
+            },
+            {
+              "key": "B",
+              "text": "was the gang"
+            },
+            {
+              "key": "C",
+              "text": "did the gang"
+            },
+            {
+              "key": "D",
+              "text": "the gang did"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Little + đảo ngữ quá khứ đơn: did the gang know."
+        }
+      ]
+    },
+    {
+      "id": "INV-P3",
+      "title": "Luyện Tập Đảo Ngữ 3 (60 câu)",
+      "exercises": [
+        {
+          "id": "INV-P3-1",
+          "question": "Never _________ me again.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will she love"
+            },
+            {
+              "key": "B",
+              "text": "she loves"
+            },
+            {
+              "key": "C",
+              "text": "she won't loved"
+            },
+            {
+              "key": "D",
+              "text": "she will love"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Never đứng đầu câu + đảo ngữ tương lai: will she love."
+        },
+        {
+          "id": "INV-P3-2",
+          "question": "Not only _________ but she is also very intelligent.",
+          "options": [
+            {
+              "key": "A",
+              "text": "she is beautiful"
+            },
+            {
+              "key": "B",
+              "text": "beautiful she is"
+            },
+            {
+              "key": "C",
+              "text": "is she beautiful"
+            },
+            {
+              "key": "D",
+              "text": "beautiful is she"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not only đứng đầu câu + đảo ngữ với to be: is she beautiful."
+        },
+        {
+          "id": "INV-P3-3",
+          "question": "No sooner _________ out than it rained.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did I go"
+            },
+            {
+              "key": "B",
+              "text": "I went"
+            },
+            {
+              "key": "C",
+              "text": "had I gone"
+            },
+            {
+              "key": "D",
+              "text": "I had gone"
+            }
+          ],
+          "answer": "C",
+          "explanation": "No sooner had I gone out than... (vừa mới đi ra ngoài thì trời mưa)."
+        },
+        {
+          "id": "INV-P3-4",
+          "question": "Seldom _________ the guitar.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he plays"
+            },
+            {
+              "key": "B",
+              "text": "does he play"
+            },
+            {
+              "key": "C",
+              "text": "he doesn't play"
+            },
+            {
+              "key": "D",
+              "text": "he does play"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Seldom đứng đầu câu + đảo ngữ hiện tại đơn: does he play."
+        },
+        {
+          "id": "INV-P3-5",
+          "question": "Hardly _________ a word when her son came back.",
+          "options": [
+            {
+              "key": "A",
+              "text": "couldn't she say"
+            },
+            {
+              "key": "B",
+              "text": "she could say"
+            },
+            {
+              "key": "C",
+              "text": "she couldn't say"
+            },
+            {
+              "key": "D",
+              "text": "could she say"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Hardly đứng đầu câu + đảo ngữ thể khẳng định: could she say."
+        },
+        {
+          "id": "INV-P3-6",
+          "question": "Often _________ a meeting.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do we have"
+            },
+            {
+              "key": "B",
+              "text": "we do have"
+            },
+            {
+              "key": "C",
+              "text": "have we"
+            },
+            {
+              "key": "D",
+              "text": "we have"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Often đứng đầu câu nhấn mạnh, cần đảo trợ động từ lên trước: do we have."
+        },
+        {
+          "id": "INV-P3-7",
+          "question": "Many a time _________ he wants to marry me.",
+          "options": [
+            {
+              "key": "A",
+              "text": "said he"
+            },
+            {
+              "key": "B",
+              "text": "he said"
+            },
+            {
+              "key": "C",
+              "text": "has he said"
+            },
+            {
+              "key": "D",
+              "text": "he has said"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Many a time (nhiều lần) + đảo ngữ hiện tại hoàn thành: has he said."
+        },
+        {
+          "id": "INV-P3-8",
+          "question": "Only at weekend _________ my kids to Water Park.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I don't take"
+            },
+            {
+              "key": "B",
+              "text": "do I take"
+            },
+            {
+              "key": "C",
+              "text": "I take"
+            },
+            {
+              "key": "D",
+              "text": "I do take"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only at weekend + đảo ngữ hiện tại đơn: do I take."
+        },
+        {
+          "id": "INV-P3-9",
+          "question": "So old _________ that she couldn't dance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "she wasn't"
+            },
+            {
+              "key": "B",
+              "text": "she was"
+            },
+            {
+              "key": "C",
+              "text": "wasn't she"
+            },
+            {
+              "key": "D",
+              "text": "was she"
+            }
+          ],
+          "answer": "D",
+          "explanation": "So + adj + be + S + that... -> So old was she that..."
+        },
+        {
+          "id": "INV-P3-10",
+          "question": "_________ here yesterday, you would have met me.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Were you"
+            },
+            {
+              "key": "B",
+              "text": "You were"
+            },
+            {
+              "key": "C",
+              "text": "Had you been"
+            },
+            {
+              "key": "D",
+              "text": "You had been"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ câu điều kiện loại 3: Had you been..."
+        },
+        {
+          "id": "INV-P3-11",
+          "question": "On the battle field _________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the tanks did lie"
+            },
+            {
+              "key": "B",
+              "text": "the tanks lay"
+            },
+            {
+              "key": "C",
+              "text": "did the tanks lie"
+            },
+            {
+              "key": "D",
+              "text": "lay the tanks"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ toàn bộ với cụm chỉ vị trí: On the battle field + động từ chính (lay) + chủ ngữ (the tanks)."
+        },
+        {
+          "id": "INV-P3-12",
+          "question": "At no time _________ greater opportunities.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did women had"
+            },
+            {
+              "key": "B",
+              "text": "has women had"
+            },
+            {
+              "key": "C",
+              "text": "does women have"
+            },
+            {
+              "key": "D",
+              "text": "have women had"
+            }
+          ],
+          "answer": "D",
+          "explanation": "At no time + đảo ngữ: 'have women had' (women số nhiều nên dùng 'have')."
+        },
+        {
+          "id": "INV-P3-13",
+          "question": "Not once _________ into her eyes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he looked"
+            },
+            {
+              "key": "B",
+              "text": "does he looked"
+            },
+            {
+              "key": "C",
+              "text": "did he look"
+            },
+            {
+              "key": "D",
+              "text": "looked he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not once + đảo ngữ quá khứ đơn: did he look."
+        },
+        {
+          "id": "INV-P3-14",
+          "question": "_________ has the work been so easy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Never"
+            },
+            {
+              "key": "B",
+              "text": "Only by"
+            },
+            {
+              "key": "C",
+              "text": "When"
+            },
+            {
+              "key": "D",
+              "text": "For"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Chọn trạng từ phủ định 'Never' đứng đầu câu làm đảo ngữ hiện tại hoàn thành."
+        },
+        {
+          "id": "INV-P3-15",
+          "question": "Nowhere _________ such cooperative staff.",
+          "options": [
+            {
+              "key": "A",
+              "text": "you can find"
+            },
+            {
+              "key": "B",
+              "text": "you found"
+            },
+            {
+              "key": "C",
+              "text": "you could find"
+            },
+            {
+              "key": "D",
+              "text": "can you find"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Nowhere đứng đầu câu + đảo ngữ: can you find."
+        },
+        {
+          "id": "INV-P3-16",
+          "question": "Only once _________ late to school.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he came"
+            },
+            {
+              "key": "B",
+              "text": "did he came"
+            },
+            {
+              "key": "C",
+              "text": "came he"
+            },
+            {
+              "key": "D",
+              "text": "did he come"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only once + đảo ngữ: did he come (sau trợ động từ 'did' dùng nguyên thể 'come')."
+        },
+        {
+          "id": "INV-P3-17",
+          "question": "Never before _________ in an earnest attempt to resolve their differences.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have the leaders of these two countries met"
+            },
+            {
+              "key": "B",
+              "text": "the leaders of these two countries have met"
+            },
+            {
+              "key": "C",
+              "text": "have the leaders of these two countries meet"
+            },
+            {
+              "key": "D",
+              "text": "met the leaders of these two countries"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Never before + đảo ngữ hiện tại hoàn thành: have + S + PII (met)."
+        },
+        {
+          "id": "INV-P3-18",
+          "question": "Not only _________ at the post office, _________ at the grocery store.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does Mary work/but she also works"
+            },
+            {
+              "key": "B",
+              "text": "works Mary/but she also works"
+            },
+            {
+              "key": "C",
+              "text": "does Mary work/but does she also work"
+            },
+            {
+              "key": "D",
+              "text": "works Mary/but does she also work"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc Not only + đảo ngữ, but S also V... (vế sau không đảo ngữ)."
+        },
+        {
+          "id": "INV-P3-19",
+          "question": "Seldom _________ a newspaper.",
+          "options": [
+            {
+              "key": "A",
+              "text": "buys Anna"
+            },
+            {
+              "key": "B",
+              "text": "does Anna buy"
+            },
+            {
+              "key": "C",
+              "text": "bought Anna"
+            },
+            {
+              "key": "D",
+              "text": "Anna does buy"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Seldom đứng đầu câu + đảo ngữ hiện tại đơn: does Anna buy."
+        },
+        {
+          "id": "INV-P3-20",
+          "question": "No sooner _________ the house than the phone started to ring.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had she entered"
+            },
+            {
+              "key": "B",
+              "text": "she had entered"
+            },
+            {
+              "key": "C",
+              "text": "entered she"
+            },
+            {
+              "key": "D",
+              "text": "had entered she"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc No sooner had she entered the house than..."
+        },
+        {
+          "id": "INV-P3-21",
+          "question": "Only by saving money _________ a house.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he buys"
+            },
+            {
+              "key": "B",
+              "text": "he can buy"
+            },
+            {
+              "key": "C",
+              "text": "can he buy"
+            },
+            {
+              "key": "D",
+              "text": "buy she"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only by + V-ing + đảo ngữ: can he buy."
+        },
+        {
+          "id": "INV-P3-22",
+          "question": "Not even once _________ the truth.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he tells"
+            },
+            {
+              "key": "B",
+              "text": "he tell"
+            },
+            {
+              "key": "C",
+              "text": "tells he"
+            },
+            {
+              "key": "D",
+              "text": "has he told"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Not even once + đảo ngữ hiện tại hoàn thành: has he told."
+        },
+        {
+          "id": "INV-P3-23",
+          "question": "Not until _________, does it begin to exhibit signs of independence from its mother.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a monkey is several years old"
+            },
+            {
+              "key": "B",
+              "text": "is a monkey several years old"
+            },
+            {
+              "key": "C",
+              "text": "did a monkey several years old"
+            },
+            {
+              "key": "D",
+              "text": "do a monkey be several years old"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not until + Clause (mệnh đề xuôi), mệnh đề sau mới đảo ngữ (does it begin)."
+        },
+        {
+          "id": "INV-P3-24",
+          "question": "No sooner _________ than he begins to be washed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is a human being born"
+            },
+            {
+              "key": "B",
+              "text": "was a human being born"
+            },
+            {
+              "key": "C",
+              "text": "a human being born"
+            },
+            {
+              "key": "D",
+              "text": "a human being had been born"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc đảo ngữ ở hiện tại: No sooner is + S + born than..."
+        },
+        {
+          "id": "INV-P3-25",
+          "question": "Not only _________ beautiful but she is graceful as well.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did she"
+            },
+            {
+              "key": "B",
+              "text": "she was"
+            },
+            {
+              "key": "C",
+              "text": "is she"
+            },
+            {
+              "key": "D",
+              "text": "she is"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not only + be + S + adj -> is she."
+        },
+        {
+          "id": "INV-P3-26",
+          "question": "Seldom _________ treated like that.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I have been"
+            },
+            {
+              "key": "B",
+              "text": "am I"
+            },
+            {
+              "key": "C",
+              "text": "I am"
+            },
+            {
+              "key": "D",
+              "text": "I had been"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Seldom + đảo ngữ hiện tại đơn bị động: am I treated..."
+        },
+        {
+          "id": "INV-P3-27",
+          "question": "Over there _________ the shop that sells souvenirs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ toàn bộ chỉ nơi chốn: Over there + is (động từ chính) + the shop..."
+        },
+        {
+          "id": "INV-P3-28",
+          "question": "Never before _________ such a disaster.",
+          "options": [
+            {
+              "key": "A",
+              "text": "they suffer"
+            },
+            {
+              "key": "B",
+              "text": "they have suffered"
+            },
+            {
+              "key": "C",
+              "text": "have they suffered"
+            },
+            {
+              "key": "D",
+              "text": "they had suffered"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Never before + đảo ngữ hiện tại hoàn thành: have they suffered."
+        },
+        {
+          "id": "INV-P3-29",
+          "question": "Only if I had known the difference, _________  the more expensive car.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would I bought"
+            },
+            {
+              "key": "B",
+              "text": "I would have bought"
+            },
+            {
+              "key": "C",
+              "text": "would I buy"
+            },
+            {
+              "key": "D",
+              "text": "would I have bought"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only if + clause + đảo ngữ điều kiện loại 3: would I have bought."
+        },
+        {
+          "id": "INV-P3-30",
+          "question": "No longer _________ any pleasure to do this job",
+          "options": [
+            {
+              "key": "A",
+              "text": "I do have"
+            },
+            {
+              "key": "B",
+              "text": "do I have"
+            },
+            {
+              "key": "C",
+              "text": "do have I"
+            },
+            {
+              "key": "D",
+              "text": "I have"
+            }
+          ],
+          "answer": "B",
+          "explanation": "No longer + đảo ngữ: do I have."
+        },
+        {
+          "id": "INV-P3-31",
+          "question": "Only once a day _________ home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does Mary leave"
+            },
+            {
+              "key": "B",
+              "text": "left Mary"
+            },
+            {
+              "key": "C",
+              "text": "Mary leaves"
+            },
+            {
+              "key": "D",
+              "text": "will Mary left"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Only once a day + đảo ngữ hiện tại đơn: does Mary leave."
+        },
+        {
+          "id": "INV-P3-32",
+          "question": "Out _____ when the bell rang.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did the children run"
+            },
+            {
+              "key": "B",
+              "text": "ran the children"
+            },
+            {
+              "key": "C",
+              "text": "run the children"
+            },
+            {
+              "key": "D",
+              "text": "do the children run"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ toàn bộ: Out + động từ chính (ran) + chủ ngữ (the children)."
+        },
+        {
+          "id": "INV-P3-33",
+          "question": "Many a time _________ this mistake.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he makes"
+            },
+            {
+              "key": "B",
+              "text": "he has made"
+            },
+            {
+              "key": "C",
+              "text": "has he made"
+            },
+            {
+              "key": "D",
+              "text": "will he make"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Many a time (nhiều lần) + đảo ngữ hiện tại hoàn thành: has he made."
+        },
+        {
+          "id": "INV-P3-34",
+          "question": "Nowhere else _________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "they can go"
+            },
+            {
+              "key": "B",
+              "text": "can they go"
+            },
+            {
+              "key": "C",
+              "text": "they can't go"
+            },
+            {
+              "key": "D",
+              "text": "can't they go"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Nowhere else + đảo ngữ: can they go."
+        },
+        {
+          "id": "INV-P3-35",
+          "question": "Never _________ the exact cause of earthquakes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "scientists have discovered"
+            },
+            {
+              "key": "B",
+              "text": "did scientists discover"
+            },
+            {
+              "key": "C",
+              "text": "do scientists discover"
+            },
+            {
+              "key": "D",
+              "text": "have scientists discovered"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Never + đảo ngữ hiện tại hoàn thành: have scientists discovered."
+        },
+        {
+          "id": "INV-P3-36",
+          "question": "Only when at home, _________ her children.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does she scold"
+            },
+            {
+              "key": "B",
+              "text": "she scolds"
+            },
+            {
+              "key": "C",
+              "text": "has she scolded"
+            },
+            {
+              "key": "D",
+              "text": "she has scolded"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Only when at home + đảo ngữ hiện tại đơn: does she scold."
+        },
+        {
+          "id": "INV-P3-37",
+          "question": "Not a penny _________ me.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did he give"
+            },
+            {
+              "key": "B",
+              "text": "he gave"
+            },
+            {
+              "key": "C",
+              "text": "he has given"
+            },
+            {
+              "key": "D",
+              "text": "he has gave"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not a penny + đảo ngữ quá khứ đơn: did he give."
+        },
+        {
+          "id": "INV-P3-38",
+          "question": "No longer _________ women bear a lot of children.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does"
+            },
+            {
+              "key": "B",
+              "text": "did"
+            },
+            {
+              "key": "C",
+              "text": "doing"
+            },
+            {
+              "key": "D",
+              "text": "do"
+            }
+          ],
+          "answer": "D",
+          "explanation": "No longer + đảo ngữ hiện tại đơn: do (women là danh từ số nhiều)."
+        },
+        {
+          "id": "INV-P3-39",
+          "question": "Among them _________ several sacks of white flour.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "be"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ toàn bộ chỉ nơi chốn: Among them + are (động từ chia theo several sacks số nhiều)."
+        },
+        {
+          "id": "INV-P3-40",
+          "question": "On a hill in front of them _________ a great castle.",
+          "options": [
+            {
+              "key": "A",
+              "text": "standing"
+            },
+            {
+              "key": "B",
+              "text": "stands"
+            },
+            {
+              "key": "C",
+              "text": "to stand"
+            },
+            {
+              "key": "D",
+              "text": "stood"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ toàn bộ: On a hill... + stood (động từ chính quá khứ đơn) + a great castle (S)."
+        },
+        {
+          "id": "INV-P3-41",
+          "question": "\"This store has such high prices.\" \"I agree. Never again _________ here.“",
+          "options": [
+            {
+              "key": "A",
+              "text": "I will shop"
+            },
+            {
+              "key": "B",
+              "text": "will I shop"
+            },
+            {
+              "key": "C",
+              "text": "I do shop"
+            },
+            {
+              "key": "D",
+              "text": "shop I"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Never again + đảo ngữ tương lai đơn: will I shop."
+        },
+        {
+          "id": "INV-P3-42",
+          "question": "\"Is this machine often in need of repair?\" \"No, _________ problems to arise.”",
+          "options": [
+            {
+              "key": "A",
+              "text": "seldom don't we expect"
+            },
+            {
+              "key": "B",
+              "text": "we expect seldom"
+            },
+            {
+              "key": "C",
+              "text": "seldom we expect"
+            },
+            {
+              "key": "D",
+              "text": "seldom do we expect"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Seldom + đảo ngữ hiện tại đơn: seldom do we expect..."
+        },
+        {
+          "id": "INV-P3-43",
+          "question": "\"I can't see the stage very well from here.\" “_________”",
+          "options": [
+            {
+              "key": "A",
+              "text": "Neither can't I"
+            },
+            {
+              "key": "B",
+              "text": "Neither I can"
+            },
+            {
+              "key": "C",
+              "text": "I can't neither"
+            },
+            {
+              "key": "D",
+              "text": "Neither can I"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đồng tình phủ định dạng đảo ngữ với Neither: Neither can I."
+        },
+        {
+          "id": "INV-P3-44",
+          "question": "\"This is one of the oldest trees in the world.\" “_________ such a big tree.“",
+          "options": [
+            {
+              "key": "A",
+              "text": "Never I have seen"
+            },
+            {
+              "key": "B",
+              "text": "I haven't never seen"
+            },
+            {
+              "key": "C",
+              "text": "Never have I seen"
+            },
+            {
+              "key": "D",
+              "text": "I have seen never"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Never + đảo ngữ hiện tại hoàn thành: Never have I seen."
+        },
+        {
+          "id": "INV-P3-45",
+          "question": "Not until the early 1900s, _________ to vote in the United States.",
+          "options": [
+            {
+              "key": "A",
+              "text": "women were allowed"
+            },
+            {
+              "key": "B",
+              "text": "were women allowed"
+            },
+            {
+              "key": "C",
+              "text": "they allowed women"
+            },
+            {
+              "key": "D",
+              "text": "when women were allowed"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not until + thời gian + đảo ngữ bị động quá khứ đơn: were women allowed."
+        },
+        {
+          "id": "INV-P3-46",
+          "question": "Only recently _________ a favourite sport in the United States.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has jogging become"
+            },
+            {
+              "key": "B",
+              "text": "has become jogging"
+            },
+            {
+              "key": "C",
+              "text": "when jogging became"
+            },
+            {
+              "key": "D",
+              "text": "as jogging has become"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Only recently + đảo ngữ hiện tại hoàn thành: has jogging become."
+        },
+        {
+          "id": "INV-P3-47",
+          "question": "\"What happened to Jean's new car?\" \"No sooner _________ it than someone ran into her.”",
+          "options": [
+            {
+              "key": "A",
+              "text": "had she bought"
+            },
+            {
+              "key": "B",
+              "text": "she bought"
+            },
+            {
+              "key": "C",
+              "text": "did she bought"
+            },
+            {
+              "key": "D",
+              "text": "she had bought"
+            }
+          ],
+          "answer": "A",
+          "explanation": "No sooner had she bought it than..."
+        },
+        {
+          "id": "INV-P3-48",
+          "question": "_________ a higher concentration of people than in Tokyo and Mexico City.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nowhere there is"
+            },
+            {
+              "key": "B",
+              "text": "Nowhere there is"
+            },
+            {
+              "key": "C",
+              "text": "Nowhere is there"
+            },
+            {
+              "key": "D",
+              "text": "Nowhere there isn't"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Nowhere + đảo ngữ có there is/are: Nowhere is there..."
+        },
+        {
+          "id": "INV-P3-49",
+          "question": "_________ did Jerome accept the job.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only because it was interesting work,"
+            },
+            {
+              "key": "B",
+              "text": "Because it was an interesting work,"
+            },
+            {
+              "key": "C",
+              "text": "Only because it was interested work,"
+            },
+            {
+              "key": "D",
+              "text": "The work was interesting,"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Only because + clause + đảo ngữ ở mệnh đề chính."
+        },
+        {
+          "id": "INV-P3-50",
+          "question": "\"I would like to apply for the sales position you advertised\" \"I'm sorry. No longer _________ applications for that position.”",
+          "options": [
+            {
+              "key": "A",
+              "text": "are taking we"
+            },
+            {
+              "key": "B",
+              "text": "we are taking"
+            },
+            {
+              "key": "C",
+              "text": "are we taking"
+            },
+            {
+              "key": "D",
+              "text": "we taking"
+            }
+          ],
+          "answer": "C",
+          "explanation": "No longer + đảo ngữ hiện tại tiếp diễn: are we taking..."
+        },
+        {
+          "id": "INV-P3-51",
+          "question": "\"Did you like your trip to Niagara Falls?\" \"It was beautiful. Hardly ever _________ such a spectacular sight.”",
+          "options": [
+            {
+              "key": "A",
+              "text": "can see you"
+            },
+            {
+              "key": "B",
+              "text": "can you see"
+            },
+            {
+              "key": "C",
+              "text": "see you"
+            },
+            {
+              "key": "D",
+              "text": "you can see"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Hardly ever + đảo ngữ: can you see."
+        },
+        {
+          "id": "INV-P3-52",
+          "question": "\"Can children swim in this pool?\" \"Yes. However, at no time _________ alone.”",
+          "options": [
+            {
+              "key": "A",
+              "text": "shouldn't they swim"
+            },
+            {
+              "key": "B",
+              "text": "they should swim"
+            },
+            {
+              "key": "C",
+              "text": "should swim they"
+            },
+            {
+              "key": "D",
+              "text": "should they swim"
+            }
+          ],
+          "answer": "D",
+          "explanation": "At no time + đảo ngữ thể khẳng định: should they swim."
+        },
+        {
+          "id": "INV-P3-53",
+          "question": "Only during the early twentieth century, _________ in the United States.",
+          "options": [
+            {
+              "key": "A",
+              "text": "liquor was prohibited then"
+            },
+            {
+              "key": "B",
+              "text": "that liquor was prohibited"
+            },
+            {
+              "key": "C",
+              "text": "when liquor was prohibited"
+            },
+            {
+              "key": "D",
+              "text": "was liquor prohibited"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only during... + đảo ngữ bị động quá khứ đơn: was liquor prohibited."
+        },
+        {
+          "id": "INV-P3-54",
+          "question": "\"I don't like this tossed salad very well.\" \"Nor _________.”",
+          "options": [
+            {
+              "key": "A",
+              "text": "I do"
+            },
+            {
+              "key": "B",
+              "text": "I do either"
+            },
+            {
+              "key": "C",
+              "text": "do I"
+            },
+            {
+              "key": "D",
+              "text": "I like it either"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Nor + đảo ngữ: do I (tương đương Neither do I)."
+        },
+        {
+          "id": "INV-P3-55",
+          "question": "Not only _________, but he also plays the piano and writes his own songs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does Billy Joel sing"
+            },
+            {
+              "key": "B",
+              "text": "Billy Joel sings"
+            },
+            {
+              "key": "C",
+              "text": "If Billy Joel sings"
+            },
+            {
+              "key": "D",
+              "text": "what Billy Joel sings"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not only đứng đầu câu + đảo ngữ hiện tại đơn: does Billy Joel sing."
+        },
+        {
+          "id": "INV-P3-56",
+          "question": "Nowhere _________ more prevalent than in warm, swampy places.",
+          "options": [
+            {
+              "key": "A",
+              "text": "mosquitoes are"
+            },
+            {
+              "key": "B",
+              "text": "mosquitoes is"
+            },
+            {
+              "key": "C",
+              "text": "are mosquitoes"
+            },
+            {
+              "key": "D",
+              "text": "is mosquitoes"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Nowhere + đảo ngữ: are mosquitoes (số nhiều)."
+        },
+        {
+          "id": "INV-P3-57",
+          "question": "Only when the ground is kept moist _________ germinate.",
+          "options": [
+            {
+              "key": "A",
+              "text": "grass seeds will"
+            },
+            {
+              "key": "B",
+              "text": "will grass seeds"
+            },
+            {
+              "key": "C",
+              "text": "grass seeds does"
+            },
+            {
+              "key": "D",
+              "text": "does grass seeds"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only when + clause + đảo ngữ mệnh đề chính dạng tương lai: will grass seeds (germinate)."
+        },
+        {
+          "id": "INV-P3-58",
+          "question": "Not until Columbus discovered America _________ to Europe.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was bananas brought"
+            },
+            {
+              "key": "B",
+              "text": "bananas were brought"
+            },
+            {
+              "key": "C",
+              "text": "were bananas brought"
+            },
+            {
+              "key": "D",
+              "text": "bananas was brought"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not until + clause + đảo ngữ bị động quá khứ đơn: were bananas brought (bananas số nhiều)."
+        },
+        {
+          "id": "INV-P3-59",
+          "question": "Never again _________ Greta Garbo appear in films after his retirement in the forties.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "do"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "did"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Never again + đảo ngữ quá khứ đơn: did + S + V (inf - appear)."
+        },
+        {
+          "id": "INV-P3-60",
+          "question": "Rarely _________ professional boxers remain active beyond the age thirty-five.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do"
+            },
+            {
+              "key": "B",
+              "text": "did"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Rarely + đảo ngữ hiện tại đơn: do professional boxers remain..."
+        }
+      ]
+    },
+    {
+      "id": "INV-P4",
+      "title": "Luyện Tập Đảo Ngữ 4 (50 câu)",
+      "exercises": [
+        {
+          "id": "INV-P4-1",
+          "question": "______, you would have succeeded in your business.",
+          "options": [
+            {
+              "key": "A",
+              "text": "If you listened to my advice"
+            },
+            {
+              "key": "B",
+              "text": "Were you to listen to my advice"
+            },
+            {
+              "key": "C",
+              "text": "Had you listened to my advice"
+            },
+            {
+              "key": "D",
+              "text": "As long as you listened to my advice"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ câu điều kiện loại 3: Had + S + PII."
+        },
+        {
+          "id": "INV-P4-2",
+          "question": "Little ______________ what he has caused to others.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he know"
+            },
+            {
+              "key": "B",
+              "text": "he knows"
+            },
+            {
+              "key": "C",
+              "text": "he can know"
+            },
+            {
+              "key": "D",
+              "text": "he will know"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Little + đảo ngữ: does he know."
+        },
+        {
+          "id": "INV-P4-3",
+          "question": "_____ had he entered the office than he realized that he had left his wallet at home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly"
+            },
+            {
+              "key": "B",
+              "text": "Scarcely"
+            },
+            {
+              "key": "C",
+              "text": "No sooner"
+            },
+            {
+              "key": "D",
+              "text": "Not only"
+            }
+          ],
+          "answer": "C",
+          "explanation": "No sooner had he entered ... than..."
+        },
+        {
+          "id": "INV-P4-4",
+          "question": "____________ a week go by without some road accidents.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly does"
+            },
+            {
+              "key": "B",
+              "text": "Seldom do"
+            },
+            {
+              "key": "C",
+              "text": "Never is"
+            },
+            {
+              "key": "D",
+              "text": "Infrequently do"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Hardly does + S (a week số ít) + V (inf - go) -> Hardly does a week go by."
+        },
+        {
+          "id": "INV-P4-5",
+          "question": "It was not until she had arrived home _______ her appointment with the doctor.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when she remembered"
+            },
+            {
+              "key": "B",
+              "text": "that she remembered"
+            },
+            {
+              "key": "C",
+              "text": "and she remembered"
+            },
+            {
+              "key": "D",
+              "text": "did she remember"
+            }
+          ],
+          "answer": "B",
+          "explanation": "It was not until + Clause + that + Clause (không đảo ngữ)."
+        },
+        {
+          "id": "INV-P4-6",
+          "question": "____________________, he would have been able to pass the exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "If he studied harder last year"
+            },
+            {
+              "key": "B",
+              "text": "Provided he studied hard last year"
+            },
+            {
+              "key": "C",
+              "text": "Studying harder last year"
+            },
+            {
+              "key": "D",
+              "text": "Had he studied harder last year"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Đảo ngữ câu điều kiện loại 3: Had + S + PII."
+        },
+        {
+          "id": "INV-P4-7",
+          "question": "___________________ will Mr. Dennis be able to regain control of the company.",
+          "options": [
+            {
+              "key": "A",
+              "text": "With hard work"
+            },
+            {
+              "key": "B",
+              "text": "Despite his hard work"
+            },
+            {
+              "key": "C",
+              "text": "Only if he works hardly"
+            },
+            {
+              "key": "D",
+              "text": "Only by working hard"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only by + V-ing + đảo ngữ: Only by working hard."
+        },
+        {
+          "id": "INV-P4-8",
+          "question": "__________ had I arrived home than it began to rain.",
+          "options": [
+            {
+              "key": "A",
+              "text": "No sooner"
+            },
+            {
+              "key": "B",
+              "text": "Hardly"
+            },
+            {
+              "key": "C",
+              "text": "Scarcely"
+            },
+            {
+              "key": "D",
+              "text": "Rarely"
+            }
+          ],
+          "answer": "A",
+          "explanation": "No sooner ... than..."
+        },
+        {
+          "id": "INV-P4-9",
+          "question": "My father paid my fees. _______________that, I wouldn’t be here now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "If there were not"
+            },
+            {
+              "key": "B",
+              "text": "But for"
+            },
+            {
+              "key": "C",
+              "text": "Had it not been for"
+            },
+            {
+              "key": "D",
+              "text": "B and C are correct"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả But for (B) và Had it not been for (C) đều đúng với cấu trúc điều kiện giả thiết trái quá khứ."
+        },
+        {
+          "id": "INV-P4-10",
+          "question": "Only after food has been dried or canned ____________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "it should be stored for future use"
+            },
+            {
+              "key": "B",
+              "text": "that it should be stored for future use"
+            },
+            {
+              "key": "C",
+              "text": "should it be stored for future use"
+            },
+            {
+              "key": "D",
+              "text": "should it store for future use"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only after + clause + đảo ngữ bị động: should it be stored..."
+        },
+        {
+          "id": "INV-P4-11",
+          "question": "No sooner had we arrived at the station ______ the announcement started",
+          "options": [
+            {
+              "key": "A",
+              "text": "than"
+            },
+            {
+              "key": "B",
+              "text": "when"
+            },
+            {
+              "key": "C",
+              "text": "then"
+            },
+            {
+              "key": "D",
+              "text": "last"
+            }
+          ],
+          "answer": "A",
+          "explanation": "No sooner ... than..."
+        },
+        {
+          "id": "INV-P4-12",
+          "question": "______ he arrived at the bus stop when the bus came.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly had"
+            },
+            {
+              "key": "B",
+              "text": "No sooner had"
+            },
+            {
+              "key": "C",
+              "text": "No longer has"
+            },
+            {
+              "key": "D",
+              "text": "Not until had"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Hardly had + S + PII... when..."
+        },
+        {
+          "id": "INV-P4-13",
+          "question": "No sooner ______ than the class started",
+          "options": [
+            {
+              "key": "A",
+              "text": "had Max arrived"
+            },
+            {
+              "key": "B",
+              "text": "does Max arrive"
+            },
+            {
+              "key": "C",
+              "text": "Max arrives"
+            },
+            {
+              "key": "D",
+              "text": "Max does arrive"
+            }
+          ],
+          "answer": "A",
+          "explanation": "No sooner had Max arrived than... (vừa mới đến thì lớp học bắt đầu)."
+        },
+        {
+          "id": "INV-P4-14",
+          "question": "Scarcely had Jake ______ the book report when Alan came in.",
+          "options": [
+            {
+              "key": "A",
+              "text": "finish"
+            },
+            {
+              "key": "B",
+              "text": "finishing"
+            },
+            {
+              "key": "C",
+              "text": "finished"
+            },
+            {
+              "key": "D",
+              "text": "to finished"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Scarcely had + S + PII (finished) + when..."
+        },
+        {
+          "id": "INV-P4-15",
+          "question": "Had they arrived at the fair earlier, they _______ what they wanted",
+          "options": [
+            {
+              "key": "A",
+              "text": "had found"
+            },
+            {
+              "key": "B",
+              "text": "have found"
+            },
+            {
+              "key": "C",
+              "text": "found"
+            },
+            {
+              "key": "D",
+              "text": "would have found"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Mệnh đề chính câu điều kiện loại 3: S + would have + PII."
+        },
+        {
+          "id": "INV-P4-16",
+          "question": "Only by working hard _______ your final exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will you pass"
+            },
+            {
+              "key": "B",
+              "text": "you will pass"
+            },
+            {
+              "key": "C",
+              "text": "did you passed"
+            },
+            {
+              "key": "D",
+              "text": "you passed"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Only by + V-ing + đảo ngữ tương lai đơn: will you pass."
+        },
+        {
+          "id": "INV-P4-17",
+          "question": "Only when I have free time _______ television.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I watch"
+            },
+            {
+              "key": "B",
+              "text": "does I watch"
+            },
+            {
+              "key": "C",
+              "text": "do I watch"
+            },
+            {
+              "key": "D",
+              "text": "I watched"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only when + clause + đảo ngữ hiện tại đơn: do I watch."
+        },
+        {
+          "id": "INV-P4-18",
+          "question": "Rarely ____ she made mistake since she was a manager.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Rarely + đảo ngữ hiện tại hoàn thành: has (chủ ngữ 'she')."
+        },
+        {
+          "id": "INV-P4-19",
+          "question": "_____ the truth, she wouldn’t have given Mark the money.",
+          "options": [
+            {
+              "key": "A",
+              "text": "She had known"
+            },
+            {
+              "key": "B",
+              "text": "She has know"
+            },
+            {
+              "key": "C",
+              "text": "Had she known"
+            },
+            {
+              "key": "D",
+              "text": "Has she known"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Đảo ngữ điều kiện loại 3: Had she known..."
+        },
+        {
+          "id": "INV-P4-20",
+          "question": "So beautiful _____ that the Queen is envious with her.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Snow White is"
+            },
+            {
+              "key": "B",
+              "text": "Snow White are"
+            },
+            {
+              "key": "C",
+              "text": "is Snow White"
+            },
+            {
+              "key": "D",
+              "text": "are Snow White"
+            }
+          ],
+          "answer": "C",
+          "explanation": "So + adj + be + S + that... -> So beautiful is Snow White."
+        },
+        {
+          "id": "INV-P4-21",
+          "question": "Never _____ in such a strange situation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has I been"
+            },
+            {
+              "key": "B",
+              "text": "have I been"
+            },
+            {
+              "key": "C",
+              "text": "am I been"
+            },
+            {
+              "key": "D",
+              "text": "I have been"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Never + đảo ngữ hiện tại hoàn thành: have I been (I đi với have)."
+        },
+        {
+          "id": "INV-P4-22",
+          "question": "Seldom _____ dinner together.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do Mark and Juliet have"
+            },
+            {
+              "key": "B",
+              "text": "does Mark and Juliet have"
+            },
+            {
+              "key": "C",
+              "text": "is Mark and Juliet have"
+            },
+            {
+              "key": "D",
+              "text": "are Mark and Juliet have"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Seldom + đảo ngữ hiện tại đơn: do Mark and Juliet have (chủ ngữ số nhiều)."
+        },
+        {
+          "id": "INV-P4-23",
+          "question": "Hardly _____ his wife presents on her birthday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did James given"
+            },
+            {
+              "key": "B",
+              "text": "does James give"
+            },
+            {
+              "key": "C",
+              "text": "had James given"
+            },
+            {
+              "key": "D",
+              "text": "do James give"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Hardly + đảo ngữ hiện tại đơn: does James give."
+        },
+        {
+          "id": "INV-P4-24",
+          "question": "Scarcely _____when the rain became much more heavier.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have I come in"
+            },
+            {
+              "key": "B",
+              "text": "had I come in"
+            },
+            {
+              "key": "C",
+              "text": "I have come in"
+            },
+            {
+              "key": "D",
+              "text": "I came in"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Scarcely had I come in when..."
+        },
+        {
+          "id": "INV-P4-25",
+          "question": "Only then ____ the letter from my son.",
+          "options": [
+            {
+              "key": "A",
+              "text": "do I receive"
+            },
+            {
+              "key": "B",
+              "text": "did I receive"
+            },
+            {
+              "key": "C",
+              "text": "have I received"
+            },
+            {
+              "key": "D",
+              "text": "has I received"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only then + đảo ngữ quá khứ đơn: did I receive."
+        },
+        {
+          "id": "INV-P4-26",
+          "question": "No sooner ____ __ than Mary came over.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have John gone out"
+            },
+            {
+              "key": "B",
+              "text": "had John gone out"
+            },
+            {
+              "key": "C",
+              "text": "has John gone out"
+            },
+            {
+              "key": "D",
+              "text": "John has gone out"
+            }
+          ],
+          "answer": "B",
+          "explanation": "No sooner had John gone out than..."
+        },
+        {
+          "id": "INV-P4-27",
+          "question": "So frightened _____ the film that I couldn’t sleep yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "C",
+          "explanation": "So + adj + was + S + that... (yesterday chỉ quá khứ đơn)."
+        },
+        {
+          "id": "INV-P4-28",
+          "question": "Not only ______ well but he also plays musical instruments perfectly",
+          "options": [
+            {
+              "key": "A",
+              "text": "does he sing"
+            },
+            {
+              "key": "B",
+              "text": "he sings"
+            },
+            {
+              "key": "C",
+              "text": "he does sing"
+            },
+            {
+              "key": "D",
+              "text": "sings he"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not only đứng đầu câu + đảo ngữ hiện tại đơn: does he sing."
+        },
+        {
+          "id": "INV-P4-29",
+          "question": "Seldom___________ a newspaper.",
+          "options": [
+            {
+              "key": "A",
+              "text": "buys Anna"
+            },
+            {
+              "key": "B",
+              "text": "does Anna buy"
+            },
+            {
+              "key": "C",
+              "text": "bought Anna"
+            },
+            {
+              "key": "D",
+              "text": "Anna does buy"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Seldom + đảo ngữ hiện tại đơn: does Anna buy."
+        },
+        {
+          "id": "INV-P4-30",
+          "question": "Not only__________ at the post office. ___________ at the grocery store.",
+          "options": [
+            {
+              "key": "A",
+              "text": "does Mary work/but she also works"
+            },
+            {
+              "key": "B",
+              "text": "works Mary/but she also works"
+            },
+            {
+              "key": "C",
+              "text": "does Mary work/but does she also work"
+            },
+            {
+              "key": "D",
+              "text": "Mary work/but also she works"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Cấu trúc Not only + đảo ngữ, but S also V..."
+        },
+        {
+          "id": "INV-P4-31",
+          "question": "No sooner___________ the house than the phone started to ring.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had she entered"
+            },
+            {
+              "key": "B",
+              "text": "she had entered"
+            },
+            {
+              "key": "C",
+              "text": "entered she"
+            },
+            {
+              "key": "D",
+              "text": "had entered she"
+            }
+          ],
+          "answer": "A",
+          "explanation": "No sooner had she entered... than..."
+        },
+        {
+          "id": "INV-P4-32",
+          "question": "Only by saving money___________ a house.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he buys"
+            },
+            {
+              "key": "B",
+              "text": "he can buy"
+            },
+            {
+              "key": "C",
+              "text": "can he buy"
+            },
+            {
+              "key": "D",
+              "text": "buy he"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only by + V-ing + đảo ngữ: can he buy."
+        },
+        {
+          "id": "INV-P4-33",
+          "question": "Not even once___________ the truth",
+          "options": [
+            {
+              "key": "A",
+              "text": "he tells"
+            },
+            {
+              "key": "B",
+              "text": "does he tell"
+            },
+            {
+              "key": "C",
+              "text": "tells he"
+            },
+            {
+              "key": "D",
+              "text": "has he tell"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not even once + đảo ngữ hiện tại đơn: does he tell."
+        },
+        {
+          "id": "INV-P4-34",
+          "question": "Choose the correct inverted form.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Into the room came the teachers"
+            },
+            {
+              "key": "B",
+              "text": "Not only lazy she is but she is naughty"
+            },
+            {
+              "key": "C",
+              "text": "No sooner had he drunk a cup of coffee than he asked another"
+            },
+            {
+              "key": "D",
+              "text": "A and C are correct"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả A (đảo ngữ toàn bộ chỉ nơi chốn) và C (đảo ngữ No sooner) đều viết đúng ngữ pháp."
+        },
+        {
+          "id": "INV-P4-35",
+          "question": "Not only___________ beautiful but she is graceful as well.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did she"
+            },
+            {
+              "key": "B",
+              "text": "she was"
+            },
+            {
+              "key": "C",
+              "text": "is she"
+            },
+            {
+              "key": "D",
+              "text": "she is"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not only + be + S + adj -> is she."
+        },
+        {
+          "id": "INV-P4-36",
+          "question": "Seldom___________ treated like that.",
+          "options": [
+            {
+              "key": "A",
+              "text": "I have been"
+            },
+            {
+              "key": "B",
+              "text": "am I"
+            },
+            {
+              "key": "C",
+              "text": "I am"
+            },
+            {
+              "key": "D",
+              "text": "I had been"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Seldom + đảo ngữ hiện tại đơn bị động: am I treated..."
+        },
+        {
+          "id": "INV-P4-37",
+          "question": "Over there___________ the shop that sells souvenirs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Is"
+            },
+            {
+              "key": "B",
+              "text": "Are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ toàn bộ chỉ địa điểm: Over there + is (động từ chính số ít) + the shop..."
+        },
+        {
+          "id": "INV-P4-38",
+          "question": "Never before___________ such a disaster.",
+          "options": [
+            {
+              "key": "A",
+              "text": "they suffer"
+            },
+            {
+              "key": "B",
+              "text": "they have suffered"
+            },
+            {
+              "key": "C",
+              "text": "had they suffered"
+            },
+            {
+              "key": "D",
+              "text": "they had suffered"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Never before + đảo ngữ hiện tại hoàn thành: have they suffered (chủ ngữ 'they' số nhiều, câu không biểu thị quá khứ hoàn thành do không có mốc quá khứ khác)."
+        },
+        {
+          "id": "INV-P4-39",
+          "question": "Only if I had known the difference___________ the more expensive car.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would I bought"
+            },
+            {
+              "key": "B",
+              "text": "I would have bought"
+            },
+            {
+              "key": "C",
+              "text": "would I buy"
+            },
+            {
+              "key": "D",
+              "text": "would I have bought"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only if + clause (quá khứ hoàn thành) + đảo ngữ điều kiện loại 3: would I have bought."
+        },
+        {
+          "id": "INV-P4-40",
+          "question": "Neither Mary nor her friends___________ going to the party.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "a or b"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc 'Neither N1 nor N2' -> động từ chia theo N2 (her friends) số nhiều nên dùng 'are'."
+        },
+        {
+          "id": "INV-P4-41",
+          "question": "Only by working three jobs _____ able to support his large family.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he was"
+            },
+            {
+              "key": "B",
+              "text": "he is"
+            },
+            {
+              "key": "C",
+              "text": "he's being"
+            },
+            {
+              "key": "D",
+              "text": "was he"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only by + V-ing + đảo ngữ quá khứ đơn: was he."
+        },
+        {
+          "id": "INV-P4-42",
+          "question": "Not until Andrew stopped smoking ____ healthy again.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did he feel"
+            },
+            {
+              "key": "B",
+              "text": "that he started to feel"
+            },
+            {
+              "key": "C",
+              "text": "then he felt"
+            },
+            {
+              "key": "D",
+              "text": "that he did feel"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not until + clause + đảo ngữ mệnh đề chính: did he feel."
+        },
+        {
+          "id": "INV-P4-43",
+          "question": "___ you see Frank at the conference, give him my regards.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Should"
+            },
+            {
+              "key": "B",
+              "text": "Would"
+            },
+            {
+              "key": "C",
+              "text": "Might"
+            },
+            {
+              "key": "D",
+              "text": "Could"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ câu điều kiện loại 1: Should + S + V (inf)."
+        },
+        {
+          "id": "INV-P4-44",
+          "question": "So ___ that she licked the plate clean.",
+          "options": [
+            {
+              "key": "A",
+              "text": "being hungry"
+            },
+            {
+              "key": "B",
+              "text": "great her hunger"
+            },
+            {
+              "key": "C",
+              "text": "hungry was she"
+            },
+            {
+              "key": "D",
+              "text": "had she hunger"
+            }
+          ],
+          "answer": "C",
+          "explanation": "So + adj + be + S + that... -> So hungry was she..."
+        },
+        {
+          "id": "INV-P4-45",
+          "question": "___ the medicine than she began to feel better.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Not until she swallowed"
+            },
+            {
+              "key": "B",
+              "text": "Hardly did she swallow"
+            },
+            {
+              "key": "C",
+              "text": "No sooner had she swallowed"
+            },
+            {
+              "key": "D",
+              "text": "Having swallowed"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Có 'than' nên chọn 'No sooner had she swallowed'."
+        },
+        {
+          "id": "INV-P4-46",
+          "question": "Only by speaking more ___ improve your fluency in English.",
+          "options": [
+            {
+              "key": "A",
+              "text": "you are able to"
+            },
+            {
+              "key": "B",
+              "text": "is it possible to"
+            },
+            {
+              "key": "C",
+              "text": "does"
+            },
+            {
+              "key": "D",
+              "text": "will it"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only by + V-ing + đảo ngữ. Cụm 'is it possible to improve' đóng vai trò là phần đảo ngữ (is it...)."
+        },
+        {
+          "id": "INV-P4-47",
+          "question": "Never _____ to such a fantastic restaurant.",
+          "options": [
+            {
+              "key": "A",
+              "text": "John had been"
+            },
+            {
+              "key": "B",
+              "text": "Were John"
+            },
+            {
+              "key": "C",
+              "text": "Did John be"
+            },
+            {
+              "key": "D",
+              "text": "has John been"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Never đứng đầu câu + đảo ngữ hiện tại hoàn thành: has John been."
+        },
+        {
+          "id": "INV-P4-48",
+          "question": "In no way __ to be associated with this project",
+          "options": [
+            {
+              "key": "A",
+              "text": "Was I to want"
+            },
+            {
+              "key": "B",
+              "text": "Am I want"
+            },
+            {
+              "key": "C",
+              "text": "do I want"
+            },
+            {
+              "key": "D",
+              "text": "I want"
+            }
+          ],
+          "answer": "C",
+          "explanation": "In no way + đảo ngữ hiện tại đơn: do I want."
+        },
+        {
+          "id": "INV-P4-49",
+          "question": "No sooner ___ dinner than the ceiling crashed onto the dining table.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Did they ate"
+            },
+            {
+              "key": "B",
+              "text": "Had they ate"
+            },
+            {
+              "key": "C",
+              "text": "Has they eaten"
+            },
+            {
+              "key": "D",
+              "text": "had they eaten"
+            }
+          ],
+          "answer": "D",
+          "explanation": "No sooner had they eaten (had + S + PII)."
+        },
+        {
+          "id": "INV-P4-50",
+          "question": "_had I finished writing my essay when the examiner announced the end of the exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "No sooner"
+            },
+            {
+              "key": "B",
+              "text": "Scarcely"
+            },
+            {
+              "key": "C",
+              "text": "Only"
+            },
+            {
+              "key": "D",
+              "text": "never"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Scarcely had I finished ... when..."
+        }
+      ]
+    },
+    {
+      "id": "INV-P5",
+      "title": "Luyện Tập Đảo Ngữ 5 (50 câu)",
+      "exercises": [
+        {
+          "id": "INV-P5-1",
+          "question": "____ do I leave my house so early.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Not until"
+            },
+            {
+              "key": "B",
+              "text": "Seldom"
+            },
+            {
+              "key": "C",
+              "text": "Only when"
+            },
+            {
+              "key": "D",
+              "text": "No sooner"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Seldom + đảo ngữ hiện tại đơn: do I leave."
+        },
+        {
+          "id": "INV-P5-2",
+          "question": "___ do people appreciate this musician’s talent.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Not until"
+            },
+            {
+              "key": "B",
+              "text": "Not sooner"
+            },
+            {
+              "key": "C",
+              "text": "In any time"
+            },
+            {
+              "key": "D",
+              "text": "Rarely"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Rarely + đảo ngữ hiện tại đơn: do people appreciate."
+        },
+        {
+          "id": "INV-P5-3",
+          "question": "____ would we understand what had happened that night.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only when"
+            },
+            {
+              "key": "B",
+              "text": "Only later"
+            },
+            {
+              "key": "C",
+              "text": "Only by"
+            },
+            {
+              "key": "D",
+              "text": "Only if"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only later + đảo ngữ: would we understand."
+        },
+        {
+          "id": "INV-P5-4",
+          "question": "Nowhere ____ such rude people before.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has they met"
+            },
+            {
+              "key": "B",
+              "text": "have they meet"
+            },
+            {
+              "key": "C",
+              "text": "had they met"
+            },
+            {
+              "key": "D",
+              "text": "they had met"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Nowhere + đảo ngữ quá khứ hoàn thành: had they met."
+        },
+        {
+          "id": "INV-P5-5",
+          "question": "_______did he understand about the situation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only when"
+            },
+            {
+              "key": "B",
+              "text": "Only after"
+            },
+            {
+              "key": "C",
+              "text": "By no condition"
+            },
+            {
+              "key": "D",
+              "text": "Little"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Little + đảo ngữ quá khứ đơn: did he understand."
+        },
+        {
+          "id": "INV-P5-6",
+          "question": "On no account _______ the children go on their own.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was"
+            },
+            {
+              "key": "B",
+              "text": "should"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "be"
+            }
+          ],
+          "answer": "B",
+          "explanation": "On no account + đảo ngữ khuyết thiếu: should the children go..."
+        },
+        {
+          "id": "INV-P5-7",
+          "question": "_____ that I was speaking to someone as important as Professor Sims.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Little has I known"
+            },
+            {
+              "key": "B",
+              "text": "Little did I know"
+            },
+            {
+              "key": "C",
+              "text": "Little I knew"
+            },
+            {
+              "key": "D",
+              "text": "I knew little"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Little + đảo ngữ quá khứ đơn: did I know."
+        },
+        {
+          "id": "INV-P5-8",
+          "question": "In no way _ question his honesty, although I think that he made some wrong decisions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did I ever"
+            },
+            {
+              "key": "B",
+              "text": "I ever did"
+            },
+            {
+              "key": "C",
+              "text": "had I ever"
+            },
+            {
+              "key": "D",
+              "text": "I had ever"
+            }
+          ],
+          "answer": "A",
+          "explanation": "In no way + đảo ngữ quá khứ đơn: did I ever (question)."
+        },
+        {
+          "id": "INV-P5-9",
+          "question": "Hardly _____ we were told that it would soon be time for lunch.",
+          "options": [
+            {
+              "key": "A",
+              "text": "we had finished breakfast that"
+            },
+            {
+              "key": "B",
+              "text": "had we finished breakfast that"
+            },
+            {
+              "key": "C",
+              "text": "had we finished breakfast when"
+            },
+            {
+              "key": "D",
+              "text": "we had finished breakfast when"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc: Hardly had we finished breakfast when..."
+        },
+        {
+          "id": "INV-P5-10",
+          "question": "At no time before I accepted the job _____ that I would have to do so much travelling around the country.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did they told"
+            },
+            {
+              "key": "B",
+              "text": "I was told"
+            },
+            {
+              "key": "C",
+              "text": "did I tell"
+            },
+            {
+              "key": "D",
+              "text": "was I told"
+            }
+          ],
+          "answer": "D",
+          "explanation": "At no time + đảo ngữ bị động quá khứ đơn: was I told."
+        },
+        {
+          "id": "INV-P5-11",
+          "question": "Never before _______ so happy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "had she been"
+            },
+            {
+              "key": "B",
+              "text": "were she"
+            },
+            {
+              "key": "C",
+              "text": "does she"
+            },
+            {
+              "key": "D",
+              "text": "she had been"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Never before + đảo ngữ quá khứ hoàn thành: had she been."
+        },
+        {
+          "id": "INV-P5-12",
+          "question": "Never __________ such nonsense!",
+          "options": [
+            {
+              "key": "A",
+              "text": "am I to hear"
+            },
+            {
+              "key": "B",
+              "text": "I hear"
+            },
+            {
+              "key": "C",
+              "text": "Was I heard"
+            },
+            {
+              "key": "D",
+              "text": "have I heard"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Never + đảo ngữ hiện tại hoàn thành: have I heard."
+        },
+        {
+          "id": "INV-P5-13",
+          "question": "Never in my life __________ such a mess.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were I seen"
+            },
+            {
+              "key": "B",
+              "text": "has I seen"
+            },
+            {
+              "key": "C",
+              "text": "have I seen"
+            },
+            {
+              "key": "D",
+              "text": "I saw"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Never in my life + đảo ngữ hiện tại hoàn thành: have I seen."
+        },
+        {
+          "id": "INV-P5-14",
+          "question": "__________have our profits been as high as they are this year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only before"
+            },
+            {
+              "key": "B",
+              "text": "Never"
+            },
+            {
+              "key": "C",
+              "text": "In any time"
+            },
+            {
+              "key": "D",
+              "text": "By no condition"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ hiện tại hoàn thành: Never have our profits been..."
+        },
+        {
+          "id": "INV-P5-15",
+          "question": "Never again __________ her own judgment when buying antique.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would she trust"
+            },
+            {
+              "key": "B",
+              "text": "she will trust"
+            },
+            {
+              "key": "C",
+              "text": "she would have trusted"
+            },
+            {
+              "key": "D",
+              "text": "did she trusted"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Never again + đảo ngữ tương lai trong quá khứ / tương lai đơn: would she trust (sau would dùng động từ nguyên thể trust)."
+        },
+        {
+          "id": "INV-P5-16",
+          "question": "Never before __________ on such a sumptuous celebration.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did the firm laid"
+            },
+            {
+              "key": "B",
+              "text": "the firm laid"
+            },
+            {
+              "key": "C",
+              "text": "will the firm lay"
+            },
+            {
+              "key": "D",
+              "text": "had the firm laid"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Never before + đảo ngữ quá khứ hoàn thành: had the firm laid."
+        },
+        {
+          "id": "INV-P5-17",
+          "question": "__________have I come across such a horrifying film.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only ago"
+            },
+            {
+              "key": "B",
+              "text": "Never"
+            },
+            {
+              "key": "C",
+              "text": "Any longer"
+            },
+            {
+              "key": "D",
+              "text": "Not till"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Never + đảo ngữ hiện tại hoàn thành: Never have I come..."
+        },
+        {
+          "id": "INV-P5-18",
+          "question": "Never __________ by a Shakespeare production.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have I been so moved"
+            },
+            {
+              "key": "B",
+              "text": "have I been such moved"
+            },
+            {
+              "key": "C",
+              "text": "were I been so moved"
+            },
+            {
+              "key": "D",
+              "text": "I have been so moved"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Never + đảo ngữ hiện tại hoàn thành bị động: have I been so moved."
+        },
+        {
+          "id": "INV-P5-19",
+          "question": "Not for one moment __________ the consequences would be so far reaching.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did I thought"
+            },
+            {
+              "key": "B",
+              "text": "I thought"
+            },
+            {
+              "key": "C",
+              "text": "did I think"
+            },
+            {
+              "key": "D",
+              "text": "has I thought"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not for one moment + đảo ngữ quá khứ đơn: did I think (sau did dùng động từ nguyên mẫu think)."
+        },
+        {
+          "id": "INV-P5-20",
+          "question": "_________ had I tasted such a wonderful combination of flavours.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only by"
+            },
+            {
+              "key": "B",
+              "text": "Only after"
+            },
+            {
+              "key": "C",
+              "text": "Never before"
+            },
+            {
+              "key": "D",
+              "text": "Not until"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Never before + đảo ngữ quá khứ hoàn thành: Never before had I tasted..."
+        },
+        {
+          "id": "INV-P5-21",
+          "question": "__________can Keith be held responsible for the accident.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only if"
+            },
+            {
+              "key": "B",
+              "text": "Only ago"
+            },
+            {
+              "key": "C",
+              "text": "By no condition"
+            },
+            {
+              "key": "D",
+              "text": "In no way"
+            }
+          ],
+          "answer": "D",
+          "explanation": "In no way + đảo ngữ: In no way can Keith be..."
+        },
+        {
+          "id": "INV-P5-22",
+          "question": "In no way __________ to blame for the disaster.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are the themselves children"
+            },
+            {
+              "key": "B",
+              "text": "are the children themselves"
+            },
+            {
+              "key": "C",
+              "text": "has the children themselves"
+            },
+            {
+              "key": "D",
+              "text": "was the children themselves"
+            }
+          ],
+          "answer": "B",
+          "explanation": "In no way + đảo ngữ với to be: are the children themselves... (children số nhiều dùng are)."
+        },
+        {
+          "id": "INV-P5-23",
+          "question": "In no way __________ confirmed by the report.",
+          "options": [
+            {
+              "key": "A",
+              "text": "should the existence of extraterrestrial life"
+            },
+            {
+              "key": "B",
+              "text": "will the existence of extraterrestrial life"
+            },
+            {
+              "key": "C",
+              "text": "is the existence of extraterrestrial life"
+            },
+            {
+              "key": "D",
+              "text": "have the existence of extraterrestrial life"
+            }
+          ],
+          "answer": "C",
+          "explanation": "In no way + đảo ngữ bị động: is the existence of extraterrestrial life (confirmed)."
+        },
+        {
+          "id": "INV-P5-24",
+          "question": "At no time __________ how to operate the machine.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did I shown"
+            },
+            {
+              "key": "B",
+              "text": "was I to shown"
+            },
+            {
+              "key": "C",
+              "text": "was I shown"
+            },
+            {
+              "key": "D",
+              "text": "has I shown"
+            }
+          ],
+          "answer": "C",
+          "explanation": "At no time + đảo ngữ bị động quá khứ đơn: was I shown."
+        },
+        {
+          "id": "INV-P5-25",
+          "question": "At no time __________ that he was a witch.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he suspect"
+            },
+            {
+              "key": "B",
+              "text": "was he suspect"
+            },
+            {
+              "key": "C",
+              "text": "did he suspect"
+            },
+            {
+              "key": "D",
+              "text": "he suspected"
+            }
+          ],
+          "answer": "C",
+          "explanation": "At no time + đảo ngữ quá khứ đơn: did he suspect."
+        },
+        {
+          "id": "INV-P5-26",
+          "question": "At no time _________ in a state of change.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has the English language not been"
+            },
+            {
+              "key": "B",
+              "text": "has the English language to be"
+            },
+            {
+              "key": "C",
+              "text": "have the English language not been"
+            },
+            {
+              "key": "D",
+              "text": "the English language not been"
+            }
+          ],
+          "answer": "A",
+          "explanation": "At no time + đảo ngữ hiện tại hoàn thành: has the English language not been... (English language số ít dùng has)."
+        },
+        {
+          "id": "INV-P5-27",
+          "question": "__________ will Miss Weaver be offered the job",
+          "options": [
+            {
+              "key": "A",
+              "text": "Any longer"
+            },
+            {
+              "key": "B",
+              "text": "Never even"
+            },
+            {
+              "key": "C",
+              "text": "Under no circumstances"
+            },
+            {
+              "key": "D",
+              "text": "With no reason"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Under no circumstances + đảo ngữ tương lai đơn: Under no circumstances will Miss Weaver be..."
+        },
+        {
+          "id": "INV-P5-28",
+          "question": "Under no circumstances __________ money to us by post.",
+          "options": [
+            {
+              "key": "A",
+              "text": "you send"
+            },
+            {
+              "key": "B",
+              "text": "should you send"
+            },
+            {
+              "key": "C",
+              "text": "you sent"
+            },
+            {
+              "key": "D",
+              "text": "had you send"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Under no circumstances + đảo ngữ khuyết thiếu: should you send..."
+        },
+        {
+          "id": "INV-P5-29",
+          "question": "Under no circumstance __________ tickets.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are we exchange"
+            },
+            {
+              "key": "B",
+              "text": "can we exchange"
+            },
+            {
+              "key": "C",
+              "text": "had we exchange"
+            },
+            {
+              "key": "D",
+              "text": "we exchange"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Under no circumstances + đảo ngữ khuyết thiếu: can we exchange..."
+        },
+        {
+          "id": "INV-P5-30",
+          "question": "On no account__________ all that way to visit him again.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has I gone"
+            },
+            {
+              "key": "B",
+              "text": "will I go"
+            },
+            {
+              "key": "C",
+              "text": "I go"
+            },
+            {
+              "key": "D",
+              "text": "will I to go"
+            }
+          ],
+          "answer": "B",
+          "explanation": "On no account + đảo ngữ tương lai đơn: will I go..."
+        },
+        {
+          "id": "INV-P5-31",
+          "question": "__________is he your friend, but he’s mine too.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Any longer"
+            },
+            {
+              "key": "B",
+              "text": "Not only"
+            },
+            {
+              "key": "C",
+              "text": "With no reason"
+            },
+            {
+              "key": "D",
+              "text": "No matter where"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc Not only... but... also -> Not only is he your friend..."
+        },
+        {
+          "id": "INV-P5-32",
+          "question": "Not only __________tickets for the afternoon performance but he also booked for the evening performance as well.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he book"
+            },
+            {
+              "key": "B",
+              "text": "did he book"
+            },
+            {
+              "key": "C",
+              "text": "did he booked"
+            },
+            {
+              "key": "D",
+              "text": "have he booked"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not only + đảo ngữ quá khứ đơn: did he book (sau did động từ nguyên thể book)."
+        },
+        {
+          "id": "INV-P5-33",
+          "question": "Not only __________a thousand pounds’ worth of electrical goods, they also left the flat in an awful mess.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did the burglars stole"
+            },
+            {
+              "key": "B",
+              "text": "did the burglars steal"
+            },
+            {
+              "key": "C",
+              "text": "have the burglars stole"
+            },
+            {
+              "key": "D",
+              "text": "had the burglars stole"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not only + đảo ngữ quá khứ đơn: did the burglars steal (sau did dùng động từ nguyên thể steal)."
+        },
+        {
+          "id": "INV-P5-34",
+          "question": "__________was Tom late, but he had left all his books behind.",
+          "options": [
+            {
+              "key": "A",
+              "text": "At any time"
+            },
+            {
+              "key": "B",
+              "text": "Only before"
+            },
+            {
+              "key": "C",
+              "text": "It is not until"
+            },
+            {
+              "key": "D",
+              "text": "Not only"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc Not only... but... (cũng viết tắt giản lược từ also) -> Not only was Tom late, but he..."
+        },
+        {
+          "id": "INV-P5-35",
+          "question": "Not only__your posture but you will also improve your acting ability on this course.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will you enhanced"
+            },
+            {
+              "key": "B",
+              "text": "will you enhance"
+            },
+            {
+              "key": "C",
+              "text": "are you enhance"
+            },
+            {
+              "key": "D",
+              "text": "have you enhance"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not only + đảo ngữ khuyết thiếu tương lai: will you enhance."
+        },
+        {
+          "id": "INV-P5-36",
+          "question": "Not for one moment __________ his suggestion.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is it worth considering"
+            },
+            {
+              "key": "B",
+              "text": "did it worth considering"
+            },
+            {
+              "key": "C",
+              "text": "is it worth consider"
+            },
+            {
+              "key": "D",
+              "text": "were it worth considering"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not for one moment + đảo ngữ hiện tại: is it worth considering... (be worth + V-ing)."
+        },
+        {
+          "id": "INV-P5-37",
+          "question": "Not a tear __________ when the story ended in tragedy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "was she shed"
+            },
+            {
+              "key": "B",
+              "text": "did she shedded"
+            },
+            {
+              "key": "C",
+              "text": "did she shed"
+            },
+            {
+              "key": "D",
+              "text": "she shed"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not a tear + đảo ngữ quá khứ đơn: did she shed."
+        },
+        {
+          "id": "INV-P5-38",
+          "question": "__________ did the manager offer an apology.",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is not until"
+            },
+            {
+              "key": "B",
+              "text": "Not once"
+            },
+            {
+              "key": "C",
+              "text": "Only ago"
+            },
+            {
+              "key": "D",
+              "text": "Only if"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not once (chưa một lần nào) + đảo ngữ quá khứ đơn: did the manager offer..."
+        },
+        {
+          "id": "INV-P5-39",
+          "question": "Not a sound __________as she crept upstairs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did she make"
+            },
+            {
+              "key": "B",
+              "text": "did she made"
+            },
+            {
+              "key": "C",
+              "text": "was she make"
+            },
+            {
+              "key": "D",
+              "text": "have she made"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not a sound + đảo ngữ quá khứ đơn: did she make."
+        },
+        {
+          "id": "INV-P5-40",
+          "question": "Not until __________ did he think about having a holiday abroad.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did he retired"
+            },
+            {
+              "key": "B",
+              "text": "he retired"
+            },
+            {
+              "key": "C",
+              "text": "did he retire"
+            },
+            {
+              "key": "D",
+              "text": "he retires"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not until + clause (không đảo ngữ trong mệnh đề trạng ngữ chỉ thời gian) -> he retired."
+        },
+        {
+          "id": "INV-P5-41",
+          "question": "__________ I got home did I realize how dangerous the situation had been.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only later"
+            },
+            {
+              "key": "B",
+              "text": "Only when"
+            },
+            {
+              "key": "C",
+              "text": "Only then"
+            },
+            {
+              "key": "D",
+              "text": "Only by"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only when + clause (I got home) + đảo ngữ mệnh đề chính (did I realize)."
+        },
+        {
+          "id": "INV-P5-42",
+          "question": "__________ that did the Agriculture Minister admit defeat.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only later"
+            },
+            {
+              "key": "B",
+              "text": "Only when"
+            },
+            {
+              "key": "C",
+              "text": "Only after"
+            },
+            {
+              "key": "D",
+              "text": "Hardly"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only after + đại từ chỉ vật/sự kiện (that) + đảo ngữ: Only after that did the..."
+        },
+        {
+          "id": "INV-P5-43",
+          "question": "Only after seeing Hamlet on the stage __________ it.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have I understand"
+            },
+            {
+              "key": "B",
+              "text": "was I understand"
+            },
+            {
+              "key": "C",
+              "text": "did I understanded"
+            },
+            {
+              "key": "D",
+              "text": "did I understand"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only after + V-ing + đảo ngữ quá khứ đơn: did I understand."
+        },
+        {
+          "id": "INV-P5-44",
+          "question": "________ they had finished eating did they get round to business.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only later"
+            },
+            {
+              "key": "B",
+              "text": "Only in"
+            },
+            {
+              "key": "C",
+              "text": "Only after"
+            },
+            {
+              "key": "D",
+              "text": "Only by"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only after + clause + đảo ngữ mệnh đề chính: did they get..."
+        },
+        {
+          "id": "INV-P5-45",
+          "question": "Only after they waited for twelve hours __________",
+          "options": [
+            {
+              "key": "A",
+              "text": "did their flight leave"
+            },
+            {
+              "key": "B",
+              "text": "did their flight left"
+            },
+            {
+              "key": "C",
+              "text": "their flight leave"
+            },
+            {
+              "key": "D",
+              "text": "their flight left"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Only after + clause + đảo ngữ quá khứ đơn: did their flight leave (động từ nguyên mẫu)."
+        },
+        {
+          "id": "INV-P5-46",
+          "question": "Only after that __________ who she was.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have I realize"
+            },
+            {
+              "key": "B",
+              "text": "did I realize"
+            },
+            {
+              "key": "C",
+              "text": "did I realized"
+            },
+            {
+              "key": "D",
+              "text": "I realize"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only after that + đảo ngữ quá khứ đơn: did I realize."
+        },
+        {
+          "id": "INV-P5-47",
+          "question": "__________ using force could the door be opened.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only later"
+            },
+            {
+              "key": "B",
+              "text": "Only in that way"
+            },
+            {
+              "key": "C",
+              "text": "Only by"
+            },
+            {
+              "key": "D",
+              "text": "Only once"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only by + V-ing (using force) + đảo ngữ: could the door be opened."
+        },
+        {
+          "id": "INV-P5-48",
+          "question": "Only when __________ did I agree.",
+          "options": [
+            {
+              "key": "A",
+              "text": "did Tom apologized"
+            },
+            {
+              "key": "B",
+              "text": "Tom apologized"
+            },
+            {
+              "key": "C",
+              "text": "did Tom apologize"
+            },
+            {
+              "key": "D",
+              "text": "Tom apologizes"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Only when + clause (xuôi, không đảo) -> Tom apologized."
+        },
+        {
+          "id": "INV-P5-49",
+          "question": "Only when you buy all twelve books at the same time ___ the 40% discount.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will you get"
+            },
+            {
+              "key": "B",
+              "text": "can you get"
+            },
+            {
+              "key": "C",
+              "text": "are you get"
+            },
+            {
+              "key": "D",
+              "text": "A & B"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cả 'will you get' (A) và 'can you get' (B) đều đúng ngữ pháp câu đảo ngữ."
+        },
+        {
+          "id": "INV-P5-50",
+          "question": "______training hard can you become a good athlete",
+          "options": [
+            {
+              "key": "A",
+              "text": "Not only"
+            },
+            {
+              "key": "B",
+              "text": "Only later"
+            },
+            {
+              "key": "C",
+              "text": "Only by"
+            },
+            {
+              "key": "D",
+              "text": "Not until"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Only by + V-ing (training hard) + đảo ngữ: can you become..."
+        }
+      ]
+    },
+    {
+      "id": "INV-T1",
+      "title": "Thi Online: Đảo Ngữ 1 (30 câu)",
+      "exercises": [
+        {
+          "id": "INV-T1-1",
+          "question": "______hard, you will get good results in the coming examination.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Should you work"
+            },
+            {
+              "key": "B",
+              "text": "unless you work"
+            },
+            {
+              "key": "C",
+              "text": "if you will work"
+            },
+            {
+              "key": "D",
+              "text": "if work"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ câu điều kiện loại 1: Should you work hard..."
+        },
+        {
+          "id": "INV-T1-2",
+          "question": "Only when you grow up, _________the truth.",
+          "options": [
+            {
+              "key": "A",
+              "text": "you will know"
+            },
+            {
+              "key": "B",
+              "text": "you know"
+            },
+            {
+              "key": "C",
+              "text": "do you know"
+            },
+            {
+              "key": "D",
+              "text": "will you know"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Only when + clause + đảo ngữ tương lai đơn: will you know."
+        },
+        {
+          "id": "INV-T1-3",
+          "question": "Not only _________ to determine the depth of the ocean floor, but it is also used to locate oil.",
+          "options": [
+            {
+              "key": "A",
+              "text": "seismology is used"
+            },
+            {
+              "key": "B",
+              "text": "is seismology used"
+            },
+            {
+              "key": "C",
+              "text": "using seismology"
+            },
+            {
+              "key": "D",
+              "text": "to use seismology"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not only đứng đầu câu + đảo ngữ bị động hiện tại đơn: is seismology used."
+        },
+        {
+          "id": "INV-T1-4",
+          "question": "Not only……………….the exam but she also got a scholarship.",
+          "options": [
+            {
+              "key": "A",
+              "text": "dis she pass"
+            },
+            {
+              "key": "B",
+              "text": "she passed"
+            },
+            {
+              "key": "C",
+              "text": "she has passed"
+            },
+            {
+              "key": "D",
+              "text": "has she passed"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Not only đứng đầu câu + đảo ngữ hiện tại hoàn thành: has she passed."
+        },
+        {
+          "id": "INV-T1-5",
+          "question": "_______ he arrived at the bus stop when the bus came.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly had"
+            },
+            {
+              "key": "B",
+              "text": "No sooner had"
+            },
+            {
+              "key": "C",
+              "text": "No longer has"
+            },
+            {
+              "key": "D",
+              "text": "Not until had"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Hardly had + S + PII (arrived) ... when..."
+        },
+        {
+          "id": "INV-T1-6",
+          "question": "_____ my father sat down for lunch than there was a knock at the door",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hardly had"
+            },
+            {
+              "key": "B",
+              "text": "No sooner had"
+            },
+            {
+              "key": "C",
+              "text": "At no time had"
+            },
+            {
+              "key": "D",
+              "text": "Never before had"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đi kèm với 'than' -> 'No sooner had ... than'."
+        },
+        {
+          "id": "INV-T1-7",
+          "question": "So little _____ about mathematics that the lecture was completely beyond me",
+          "options": [
+            {
+              "key": "A",
+              "text": "I have known"
+            },
+            {
+              "key": "B",
+              "text": "I knew"
+            },
+            {
+              "key": "C",
+              "text": "do I know"
+            },
+            {
+              "key": "D",
+              "text": "did I know"
+            }
+          ],
+          "answer": "D",
+          "explanation": "So + trạng từ (little) + đảo ngữ quá khứ đơn: did I know + that..."
+        },
+        {
+          "id": "INV-T1-8",
+          "question": "___________he had to deliver the performance in front of the whole class",
+          "options": [
+            {
+              "key": "A",
+              "text": "No sooner he had finished his rehearsal than"
+            },
+            {
+              "key": "B",
+              "text": "No sooner than he had his rehearsal finished"
+            },
+            {
+              "key": "C",
+              "text": "No sooner than he had finished his rehearsal"
+            },
+            {
+              "key": "D",
+              "text": "No sooner had he finished his rehearsal than"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Cấu trúc No sooner had he finished ... than..."
+        },
+        {
+          "id": "INV-T1-9",
+          "question": "Not until Kentucky’s Mammoth Cave had been completely explored in 1972____",
+          "options": [
+            {
+              "key": "A",
+              "text": "when was its full extent realized"
+            },
+            {
+              "key": "B",
+              "text": "the realization of its full extent"
+            },
+            {
+              "key": "C",
+              "text": "was its full extent realized"
+            },
+            {
+              "key": "D",
+              "text": "that its full extent was realized"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not until + Clause/Time + đảo ngữ bị động quá khứ đơn: was its full extent realized."
+        },
+        {
+          "id": "INV-T1-10",
+          "question": "Not until a monkey is several years old ___________ to exhibit signs of independence from its mother.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is it begin"
+            },
+            {
+              "key": "B",
+              "text": "and begin"
+            },
+            {
+              "key": "C",
+              "text": "does it begin"
+            },
+            {
+              "key": "D",
+              "text": "it begins"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not until + clause + đảo ngữ hiện tại đơn: does it begin."
+        },
+        {
+          "id": "INV-T1-11",
+          "question": "Not only ___in the field of psychology but animal behavior is examined as well.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is studied human behavior"
+            },
+            {
+              "key": "B",
+              "text": "did human behavior study"
+            },
+            {
+              "key": "C",
+              "text": "is human behavior studied"
+            },
+            {
+              "key": "D",
+              "text": "human behavior studied"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Not only + đảo ngữ bị động: is human behavior studied."
+        },
+        {
+          "id": "INV-T1-12",
+          "question": "At the center of the Earth’s solar system _________",
+          "options": [
+            {
+              "key": "A",
+              "text": "lies the Sun"
+            },
+            {
+              "key": "B",
+              "text": "is where the Sun lies"
+            },
+            {
+              "key": "C",
+              "text": "the Sun lies"
+            },
+            {
+              "key": "D",
+              "text": "does the Sun lie"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ toàn bộ chỉ vị trí: At the center of... + lies the Sun."
+        },
+        {
+          "id": "INV-T1-13",
+          "question": "Never before __________ such a beautiful waterfall",
+          "options": [
+            {
+              "key": "A",
+              "text": "that I have seen"
+            },
+            {
+              "key": "B",
+              "text": "I have seen"
+            },
+            {
+              "key": "C",
+              "text": "do I see"
+            },
+            {
+              "key": "D",
+              "text": "have I seen"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Never before + đảo ngữ hiện tại hoàn thành: have I seen."
+        },
+        {
+          "id": "INV-T1-14",
+          "question": "The instructor blew his whistle and________",
+          "options": [
+            {
+              "key": "A",
+              "text": "off the runners were running"
+            },
+            {
+              "key": "B",
+              "text": "off were the runners running"
+            },
+            {
+              "key": "C",
+              "text": "off ran the runners"
+            },
+            {
+              "key": "D",
+              "text": "the runners run off"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Cấu trúc đảo ngữ toàn bộ với trạng từ chuyển động đầu câu: off + động từ chính (ran) + chủ ngữ (the runners)."
+        },
+        {
+          "id": "INV-T1-15",
+          "question": "Only when you become a real parent______the real responsibility.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will you understand"
+            },
+            {
+              "key": "B",
+              "text": "you will understand"
+            },
+            {
+              "key": "C",
+              "text": "you can understand"
+            },
+            {
+              "key": "D",
+              "text": "you understand"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Only when + clause + đảo ngữ mệnh đề chính: will you understand."
+        },
+        {
+          "id": "INV-T1-16",
+          "question": "Scarcely ………out the house when it started raining.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he got"
+            },
+            {
+              "key": "B",
+              "text": "did he got"
+            },
+            {
+              "key": "C",
+              "text": "had he got"
+            },
+            {
+              "key": "D",
+              "text": "he had got"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Scarcely had he got... when..."
+        },
+        {
+          "id": "INV-T1-17",
+          "question": "All the way along the winding street ____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "he came"
+            },
+            {
+              "key": "B",
+              "text": "came he"
+            },
+            {
+              "key": "C",
+              "text": "did he came"
+            },
+            {
+              "key": "D",
+              "text": "come he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ toàn bộ chỉ chuyển động hướng: All the way along... + came (động từ chính quá khứ đơn) + he (wait, wait, is he a pronoun? If it is a pronoun, do we invert? Oh, the source has 'came he' but grammar says we don't invert pronouns. However, 'came he' or 'he came' is sometimes debated, let's check the PDF. The PDF has 'came he' or 'he came' or 'did he came'. Let's look: B: came he. So B is correct in this test.)"
+        },
+        {
+          "id": "INV-T1-18",
+          "question": "Not until _____ home _____ that he had taken someone else’s bike",
+          "options": [
+            {
+              "key": "A",
+              "text": "he got/ did he realize"
+            },
+            {
+              "key": "B",
+              "text": "he got/ he realized"
+            },
+            {
+              "key": "C",
+              "text": "did he get/ he realized"
+            },
+            {
+              "key": "D",
+              "text": "did he get/ did he realized"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Not until + clause (he got home) + đảo ngữ mệnh đề chính (did he realize)."
+        },
+        {
+          "id": "INV-T1-19",
+          "question": "Out _____ when the bell rang",
+          "options": [
+            {
+              "key": "A",
+              "text": "did the children run"
+            },
+            {
+              "key": "B",
+              "text": "ran the children"
+            },
+            {
+              "key": "C",
+              "text": "run the children"
+            },
+            {
+              "key": "D",
+              "text": "do the children run"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ toàn bộ: Out + động từ chính (ran) + chủ ngữ (the children)."
+        },
+        {
+          "id": "INV-T1-20",
+          "question": "_ should a young child be allowed to play with fireworks without adult supervision.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Always"
+            },
+            {
+              "key": "B",
+              "text": "Under no circumstances"
+            },
+            {
+              "key": "C",
+              "text": "No sooner than"
+            },
+            {
+              "key": "D",
+              "text": "Only when"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đảo ngữ khuyết thiếu, chọn cụm phủ định 'Under no circumstances' (Trong bất kỳ hoàn cảnh nào cũng không)."
+        },
+        {
+          "id": "INV-T1-21",
+          "question": "A little farther down the street_________",
+          "options": [
+            {
+              "key": "A",
+              "text": "is the inn I used to stay at"
+            },
+            {
+              "key": "B",
+              "text": "there is an inn where I used to stay in"
+            },
+            {
+              "key": "C",
+              "text": "the inn is the place where I used to stay"
+            },
+            {
+              "key": "D",
+              "text": "is there an inn in which I used to stay"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ toàn bộ: A little farther down the street + is (be) + the inn I used to stay at (S)."
+        },
+        {
+          "id": "INV-T1-22",
+          "question": "Hardly _________ when the argument begins.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when he arrived"
+            },
+            {
+              "key": "B",
+              "text": "he had arrived"
+            },
+            {
+              "key": "C",
+              "text": "than he arrived"
+            },
+            {
+              "key": "D",
+              "text": "had he arrived"
+            }
+          ],
+          "answer": "D",
+          "explanation": "Hardly had he arrived when..."
+        },
+        {
+          "id": "INV-T1-23",
+          "question": "Not until the end of the 19th century _______become a scientific discipline.",
+          "options": [
+            {
+              "key": "A",
+              "text": "plant breeding has"
+            },
+            {
+              "key": "B",
+              "text": "did plant breeding"
+            },
+            {
+              "key": "C",
+              "text": "plant breeding had"
+            },
+            {
+              "key": "D",
+              "text": "has plant breeding"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Not until + thời gian + đảo ngữ quá khứ đơn: did plant breeding (become)."
+        },
+        {
+          "id": "INV-T1-24",
+          "question": "________taken my parents’ advice, I wouldn't be a teacher now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had I"
+            },
+            {
+              "key": "B",
+              "text": "If I hadn’t"
+            },
+            {
+              "key": "C",
+              "text": "If I would have"
+            },
+            {
+              "key": "D",
+              "text": "Could I have"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ câu điều kiện loại 3 (vế giả thiết trong câu điều kiện hỗn hợp 3-2): Had I (taken)."
+        },
+        {
+          "id": "INV-T1-25",
+          "question": "________they arrived __________they were told to go back.",
+          "options": [
+            {
+              "key": "A",
+              "text": "No sooner/when"
+            },
+            {
+              "key": "B",
+              "text": "Scarcely had/when"
+            },
+            {
+              "key": "C",
+              "text": "Scarcely/when"
+            },
+            {
+              "key": "D",
+              "text": "Hardly/when"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Cấu trúc Scarcely had they arrived... when..."
+        },
+        {
+          "id": "INV-T1-26",
+          "question": "Never_________him stand on the deserted station platform.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will I forget to see"
+            },
+            {
+              "key": "B",
+              "text": "I will forget to see"
+            },
+            {
+              "key": "C",
+              "text": "will I forget seeing"
+            },
+            {
+              "key": "D",
+              "text": "I will forget seeing"
+            }
+          ],
+          "answer": "C",
+          "explanation": "Never + đảo ngữ tương lai đơn: will I forget seeing (forget + V-ing: quên đã làm gì)."
+        },
+        {
+          "id": "INV-T1-27",
+          "question": "_______that Jane was able to retire at the age of 50.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Her business was successful"
+            },
+            {
+              "key": "B",
+              "text": "So successful was her business"
+            },
+            {
+              "key": "C",
+              "text": "So successful her business was"
+            },
+            {
+              "key": "D",
+              "text": "So was her successful business"
+            }
+          ],
+          "answer": "B",
+          "explanation": "So + adj + be + S + that... -> So successful was her business that..."
+        },
+        {
+          "id": "INV-T1-28",
+          "question": "Scarcely had he stepped out of the room _____ he heard a loud laughter within",
+          "options": [
+            {
+              "key": "A",
+              "text": "until"
+            },
+            {
+              "key": "B",
+              "text": "when"
+            },
+            {
+              "key": "C",
+              "text": "than"
+            },
+            {
+              "key": "D",
+              "text": "then"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Scarcely had ... when..."
+        },
+        {
+          "id": "INV-T1-29",
+          "question": "_______ you known he was a liar, would you have agreed to support him?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Had"
+            },
+            {
+              "key": "B",
+              "text": "Did"
+            },
+            {
+              "key": "C",
+              "text": "If"
+            },
+            {
+              "key": "D",
+              "text": "Should"
+            }
+          ],
+          "answer": "A",
+          "explanation": "Đảo ngữ điều kiện loại 3: Had you known..."
+        },
+        {
+          "id": "INV-T1-30",
+          "question": "I am not going to study French and__________",
+          "options": [
+            {
+              "key": "A",
+              "text": "so is he"
+            },
+            {
+              "key": "B",
+              "text": "neither is he"
+            },
+            {
+              "key": "C",
+              "text": "he isn’t too"
+            },
+            {
+              "key": "D",
+              "text": "either isn’t he"
+            }
+          ],
+          "answer": "B",
+          "explanation": "Đồng tình phủ định đảo ngữ với Neither: neither is he."
+        }
+      ]
+    }
+  ]
+}

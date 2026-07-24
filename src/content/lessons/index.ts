@@ -38,6 +38,20 @@ import passiveVoice1 from "./passive-voice-1.json";
 import passiveVoice2 from "./passive-voice-2.json";
 import reportedSpeech1 from "./reported-speech-1.json";
 import reportedSpeech2 from "./reported-speech-2.json";
+import inversion1 from "./inversion-1.json";
+import inversion2 from "./inversion-2.json";
+import questionTags1 from "./question-tags-1.json";
+import questionTags2 from "./question-tags-2.json";
+import participles1 from "./participles-1.json";
+import participles2 from "./participles-2.json";
+import subjunctive1 from "./subjunctive-1.json";
+import subjunctive2 from "./subjunctive-2.json";
+import relativeClauses1 from "./relative-clauses-1.json";
+import relativeClauses2 from "./relative-clauses-2.json";
+import nounAdverbClauses1 from "./noun-adverb-clauses-1.json";
+import nounAdverbClauses2 from "./noun-adverb-clauses-2.json";
+import conjunctions1 from "./conjunctions-1.json";
+import conjunctions2 from "./conjunctions-2.json";
 
 const jsonLessons = [
   daiTu1,
@@ -72,6 +86,20 @@ const jsonLessons = [
   passiveVoice2,
   reportedSpeech1,
   reportedSpeech2,
+  inversion1,
+  inversion2,
+  questionTags1,
+  questionTags2,
+  participles1,
+  participles2,
+  subjunctive1,
+  subjunctive2,
+  relativeClauses1,
+  relativeClauses2,
+  nounAdverbClauses1,
+  nounAdverbClauses2,
+  conjunctions1,
+  conjunctions2,
 ] as unknown as Lesson[];
 
 // Danh sách bài giảng (thứ tự hiển thị). Thêm bài mới = import rồi thêm vào mảng này.
