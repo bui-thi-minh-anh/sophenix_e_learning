@@ -2,6 +2,7 @@
 
 import * as React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import {
   Clock,
   HelpCircle,
@@ -14,6 +15,63 @@ import {
   TrendingUp,
   Play,
   ChevronLeft,
+  School,
+  CalendarDays,
+  Coffee,
+  Trash2,
+  Bot,
+  Users,
+  AlarmClock,
+  PawPrint,
+  Plane,
+  Apple,
+  Sparkles,
+  Smartphone,
+  Wind,
+  Laptop,
+  Rocket,
+  Languages,
+  Brain,
+  ShoppingCart,
+  UserCheck,
+  UtensilsCrossed,
+  Guitar,
+  Thermometer,
+  Moon,
+  Shirt,
+  Bitcoin,
+  Newspaper,
+  Dna,
+  Microscope,
+  PenLine,
+  Mail,
+  Building2,
+  Hotel,
+  Package,
+  Timer,
+  Shield,
+  Lightbulb,
+  FileText,
+  Megaphone,
+  ChefHat,
+  MapPin,
+  Pill,
+  Landmark,
+  TrendingDown,
+  RotateCcw,
+  Bird,
+  Presentation,
+  Dog,
+  BedDouble,
+  Stethoscope,
+  Briefcase,
+  TreePine,
+  Utensils,
+  Compass,
+  HeartPulse,
+  Banknote,
+  Music,
+  type LucideIcon,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -73,6 +131,9 @@ const categoryConfig: Record<string, { label: string; icon: string; color: strin
   history: { label: "History", icon: "🏛️", color: "from-amber-500/20 to-amber-600/10" },
   travel: { label: "Travel", icon: "✈️", color: "from-sky-500/20 to-sky-600/10" },
   news: { label: "News", icon: "📰", color: "from-rose-500/20 to-rose-600/10" },
+  animals: { label: "Animals", icon: "🐾", color: "from-amber-500/20 to-amber-600/10" },
+  ielts: { label: "IELTS Practice", icon: "🎯", color: "from-red-500/20 to-red-600/10" },
+  toeic: { label: "TOEIC Practice", icon: "📝", color: "from-sky-500/20 to-sky-600/10" },
 };
 
 const tabFilters = [
@@ -290,13 +351,34 @@ export function ReadingPage() {
           </div>
         </section>
 
+        {/* Mock Tests Banner */}
+        <Link
+          href="/reading/mock-tests"
+          className="group flex items-center justify-between rounded-2xl border border-white/[0.06] bg-gradient-to-r from-violet-900/30 via-[#131F36] to-blue-900/30 p-4 hover:border-violet-500/30 transition-all"
+        >
+          <div className="flex items-center gap-3">
+            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-violet-600/20">
+              <Trophy className="h-5 w-5 text-violet-400" />
+            </div>
+            <div>
+              <p className="text-sm font-semibold text-white group-hover:text-violet-300 transition-colors">
+                Thi thử IELTS Reading
+              </p>
+              <p className="text-[11px] text-slate-400">
+                Làm bài thi thử đầy đủ format · 60 phút · 40 câu · Band score
+              </p>
+            </div>
+          </div>
+          <ChevronRight className="h-5 w-5 text-slate-400 group-hover:text-violet-400 transition-colors" />
+        </Link>
+
         {/* Recommended for you */}
         <section ref={passagesRef} className="space-y-3">
           <div className="flex items-center justify-between">
             <h2 className="text-sm font-semibold text-white">Recommended for you</h2>
-            <button className="text-xs text-violet-400 hover:text-violet-300 flex items-center gap-0.5">
+            <Link href="/reading/all" className="text-xs text-violet-400 hover:text-violet-300 flex items-center gap-0.5">
               View all <ChevronRight className="h-3 w-3" />
-            </button>
+            </Link>
           </div>
 
           {loading ? (
@@ -309,7 +391,7 @@ export function ReadingPage() {
             <EmptyState />
           ) : (
             <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-              {list.map((p) => (
+              {list.slice(0, 3).map((p) => (
                 <RecommendedCard key={p.id} passage={p} onSelect={handleSelect} />
               ))}
             </div>
@@ -329,16 +411,76 @@ export function ReadingPage() {
 }
 
 // ─── Recommended Card ──────────────────────────────────
-const coverGradients: Record<string, string> = {
-  "daily-life": "from-blue-900/80 to-slate-900",
-  culture: "from-purple-900/80 to-slate-900",
-  environment: "from-emerald-900/80 to-slate-900",
-  technology: "from-cyan-900/80 to-slate-900",
-  science: "from-orange-900/80 to-slate-900",
-  business: "from-violet-900/80 to-slate-900",
-  health: "from-pink-900/80 to-slate-900",
-  travel: "from-sky-900/80 to-slate-900",
-  animals: "from-amber-900/80 to-slate-900",
+const coverStyles: Record<string, { gradient: string; icon: LucideIcon; accent: string; glow: string }> = {
+  "my-school":                    { gradient: "from-blue-900/60 via-[#132744] to-[#0f1e38]", icon: School, accent: "text-blue-400/50", glow: "bg-blue-500/10" },
+  "weekend-plans":                { gradient: "from-indigo-900/60 via-[#161540] to-[#100e30]", icon: CalendarDays, accent: "text-indigo-400/50", glow: "bg-indigo-500/10" },
+  "coffee-culture-vietnam":       { gradient: "from-amber-900/60 via-[#2a220e] to-[#1e1a08]", icon: Coffee, accent: "text-amber-400/50", glow: "bg-amber-500/10" },
+  "plastic-pollution":            { gradient: "from-emerald-900/60 via-[#0e2a22] to-[#0a1e18]", icon: Trash2, accent: "text-emerald-400/50", glow: "bg-emerald-500/10" },
+  "ai-ethics":                    { gradient: "from-cyan-900/60 via-[#0e2438] to-[#0a1a2e]", icon: Bot, accent: "text-cyan-400/50", glow: "bg-cyan-500/10" },
+  "my-family":                    { gradient: "from-purple-900/60 via-[#1e1340] to-[#150e30]", icon: Users, accent: "text-purple-400/50", glow: "bg-purple-500/10" },
+  "my-daily-routine":             { gradient: "from-sky-900/60 via-[#0e2238] to-[#0a1a2e]", icon: AlarmClock, accent: "text-sky-400/50", glow: "bg-sky-500/10" },
+  "the-pet-cat":                  { gradient: "from-orange-900/60 via-[#2a1e0e] to-[#1e1608]", icon: PawPrint, accent: "text-orange-400/50", glow: "bg-orange-500/10" },
+  "a-trip-to-da-lat":             { gradient: "from-teal-900/60 via-[#0e2a28] to-[#0a1e1c]", icon: Plane, accent: "text-teal-400/50", glow: "bg-teal-500/10" },
+  "healthy-eating-habits":        { gradient: "from-lime-900/60 via-[#1a2a0e] to-[#141e08]", icon: Apple, accent: "text-lime-400/50", glow: "bg-lime-500/10" },
+  "tet-holiday":                  { gradient: "from-red-900/60 via-[#2a1018] to-[#1e0c12]", icon: Sparkles, accent: "text-red-400/50", glow: "bg-red-500/10" },
+  "social-media-impact":          { gradient: "from-pink-900/60 via-[#2a1024] to-[#1e0c1a]", icon: Smartphone, accent: "text-pink-400/50", glow: "bg-pink-500/10" },
+  "renewable-energy":             { gradient: "from-green-900/60 via-[#0e2a16] to-[#0a1e10]", icon: Wind, accent: "text-green-400/50", glow: "bg-green-500/10" },
+  "remote-work-revolution":       { gradient: "from-violet-900/60 via-[#1e1542] to-[#150e32]", icon: Laptop, accent: "text-violet-400/50", glow: "bg-violet-500/10" },
+  "space-exploration-2024":       { gradient: "from-slate-800/80 via-[#1a1e2e] to-[#121520]", icon: Rocket, accent: "text-slate-300/50", glow: "bg-slate-400/10" },
+  "language-extinction":          { gradient: "from-rose-900/60 via-[#2a1420] to-[#1e0e18]", icon: Languages, accent: "text-rose-400/50", glow: "bg-rose-500/10" },
+  "gut-brain-connection":         { gradient: "from-fuchsia-900/60 via-[#2a1030] to-[#1e0c22]", icon: Brain, accent: "text-fuchsia-400/50", glow: "bg-fuchsia-500/10" },
+  "at-the-supermarket":           { gradient: "from-yellow-900/60 via-[#2a2408] to-[#1e1c06]", icon: ShoppingCart, accent: "text-yellow-400/50", glow: "bg-yellow-500/10" },
+  "my-best-friend":               { gradient: "from-blue-900/60 via-[#132744] to-[#0f1e38]", icon: UserCheck, accent: "text-blue-400/50", glow: "bg-blue-500/10" },
+  "vietnamese-street-food":       { gradient: "from-orange-900/60 via-[#2a1e0e] to-[#1e1608]", icon: UtensilsCrossed, accent: "text-orange-400/50", glow: "bg-orange-500/10" },
+  "learning-a-musical-instrument":{ gradient: "from-violet-900/60 via-[#1e1542] to-[#150e32]", icon: Guitar, accent: "text-violet-400/50", glow: "bg-violet-500/10" },
+  "global-warming-effects":       { gradient: "from-amber-900/60 via-[#2a220e] to-[#1e1a08]", icon: Thermometer, accent: "text-amber-400/50", glow: "bg-amber-500/10" },
+  "sleep-importance":             { gradient: "from-indigo-900/60 via-[#161540] to-[#100e30]", icon: Moon, accent: "text-indigo-400/50", glow: "bg-indigo-500/10" },
+  "fast-fashion-problem":         { gradient: "from-pink-900/60 via-[#2a1024] to-[#1e0c1a]", icon: Shirt, accent: "text-pink-400/50", glow: "bg-pink-500/10" },
+  "cryptocurrency-explained":     { gradient: "from-yellow-900/60 via-[#2a2408] to-[#1e1c06]", icon: Bitcoin, accent: "text-yellow-400/50", glow: "bg-yellow-500/10" },
+  "misinformation-age":           { gradient: "from-red-900/60 via-[#2a1018] to-[#1e0c12]", icon: Newspaper, accent: "text-red-400/50", glow: "bg-red-500/10" },
+  "neuroplasticity":              { gradient: "from-emerald-900/60 via-[#0e2a22] to-[#0a1e18]", icon: Dna, accent: "text-emerald-400/50", glow: "bg-emerald-500/10" },
+  "my-classroom":                 { gradient: "from-sky-900/60 via-[#0e2238] to-[#0a1a2e]", icon: School, accent: "text-sky-400/50", glow: "bg-sky-500/10" },
+  "the-weather-today":            { gradient: "from-cyan-900/60 via-[#0e2438] to-[#0a1a2e]", icon: Wind, accent: "text-cyan-400/50", glow: "bg-cyan-500/10" },
+  "ho-chi-minh-city":             { gradient: "from-rose-900/60 via-[#2a1420] to-[#1e0e18]", icon: Plane, accent: "text-rose-400/50", glow: "bg-rose-500/10" },
+  "online-shopping":              { gradient: "from-violet-900/60 via-[#1e1542] to-[#150e32]", icon: ShoppingCart, accent: "text-violet-400/50", glow: "bg-violet-500/10" },
+  "water-crisis":                 { gradient: "from-blue-900/60 via-[#132744] to-[#0f1e38]", icon: AlarmClock, accent: "text-blue-400/50", glow: "bg-blue-500/10" },
+  "benefits-of-reading":          { gradient: "from-amber-900/60 via-[#2a220e] to-[#1e1a08]", icon: BookOpen, accent: "text-amber-400/50", glow: "bg-amber-500/10" },
+  "mental-health-workplace":      { gradient: "from-teal-900/60 via-[#0e2a28] to-[#0a1e1c]", icon: Brain, accent: "text-teal-400/50", glow: "bg-teal-500/10" },
+  "ocean-exploration":            { gradient: "from-indigo-900/60 via-[#161540] to-[#100e30]", icon: Microscope, accent: "text-indigo-400/50", glow: "bg-indigo-500/10" },
+  "behavioral-economics":         { gradient: "from-orange-900/60 via-[#2a1e0e] to-[#1e1608]", icon: Target, accent: "text-orange-400/50", glow: "bg-orange-500/10" },
+  "gene-editing-crispr":          { gradient: "from-green-900/60 via-[#0e2a16] to-[#0a1e10]", icon: Dna, accent: "text-green-400/50", glow: "bg-green-500/10" },
+  "ielts-urban-farming":          { gradient: "from-lime-900/60 via-[#1a2a0e] to-[#141e08]", icon: Apple, accent: "text-lime-400/50", glow: "bg-lime-500/10" },
+  "ielts-sleep-science":          { gradient: "from-indigo-900/60 via-[#161540] to-[#100e30]", icon: Moon, accent: "text-indigo-400/50", glow: "bg-indigo-500/10" },
+  "ielts-consciousness":          { gradient: "from-fuchsia-900/60 via-[#2a1030] to-[#1e0c22]", icon: Brain, accent: "text-fuchsia-400/50", glow: "bg-fuchsia-500/10" },
+  "ielts-general-apartment-guide": { gradient: "from-amber-900/60 via-[#2a220e] to-[#1e1a08]", icon: Building2, accent: "text-amber-400/50", glow: "bg-amber-500/10" },
+  "toeic-part5-set1":             { gradient: "from-sky-900/60 via-[#0e2238] to-[#0a1a2e]", icon: PenLine, accent: "text-sky-400/50", glow: "bg-sky-500/10" },
+  "toeic-part6-email":            { gradient: "from-blue-900/60 via-[#132744] to-[#0f1e38]", icon: Mail, accent: "text-blue-400/50", glow: "bg-blue-500/10" },
+  "toeic-part7-advertisement":    { gradient: "from-violet-900/60 via-[#1e1542] to-[#150e32]", icon: Building2, accent: "text-violet-400/50", glow: "bg-violet-500/10" },
+  "toeic-part7-double-passage":   { gradient: "from-teal-900/60 via-[#0e2a28] to-[#0a1e1c]", icon: Hotel, accent: "text-teal-400/50", glow: "bg-teal-500/10" },
+  "toeic-part7-triple-passage":   { gradient: "from-cyan-900/60 via-[#0e2438] to-[#0a1a2e]", icon: Package, accent: "text-cyan-400/50", glow: "bg-cyan-500/10" },
+  "ielts-timekeeping-history":    { gradient: "from-orange-900/60 via-[#2a1e0e] to-[#1e1608]", icon: Timer, accent: "text-orange-400/50", glow: "bg-orange-500/10" },
+  "ielts-general-workplace-safety": { gradient: "from-red-900/60 via-[#2a1018] to-[#1e0c12]", icon: Shield, accent: "text-red-400/50", glow: "bg-red-500/10" },
+  "ielts-decision-fatigue":       { gradient: "from-purple-900/60 via-[#1e1340] to-[#150e30]", icon: Lightbulb, accent: "text-purple-400/50", glow: "bg-purple-500/10" },
+  "toeic-part5-set2":             { gradient: "from-sky-900/60 via-[#0e2040] to-[#0a1830]", icon: FileText, accent: "text-sky-400/50", glow: "bg-sky-500/10" },
+  "toeic-part6-announcement":     { gradient: "from-amber-900/60 via-[#2a1e0e] to-[#1e1608]", icon: Megaphone, accent: "text-amber-400/50", glow: "bg-amber-500/10" },
+  "toeic-part7-restaurant-review": { gradient: "from-rose-900/60 via-[#2a1018] to-[#1e0c12]", icon: ChefHat, accent: "text-rose-400/50", glow: "bg-rose-500/10" },
+  "toeic-part7-travel-notice":    { gradient: "from-teal-900/60 via-[#0e2a28] to-[#0a1e1c]", icon: MapPin, accent: "text-teal-400/50", glow: "bg-teal-500/10" },
+  "ielts-placebo-effect":         { gradient: "from-violet-900/60 via-[#1e1340] to-[#150e30]", icon: Pill, accent: "text-violet-400/50", glow: "bg-violet-500/10" },
+  "ielts-general-museum-guide":   { gradient: "from-yellow-900/60 via-[#2a200e] to-[#1e1808]", icon: Landmark, accent: "text-yellow-400/50", glow: "bg-yellow-500/10" },
+  "ielts-economics-of-happiness": { gradient: "from-emerald-900/60 via-[#0e2a1e] to-[#081e14]", icon: TrendingDown, accent: "text-emerald-400/50", glow: "bg-emerald-500/10" },
+  "toeic-part6-return-policy":    { gradient: "from-indigo-900/60 via-[#141838] to-[#0e1230]", icon: RotateCcw, accent: "text-indigo-400/50", glow: "bg-indigo-500/10" },
+  "toeic-part7-triple-conference": { gradient: "from-fuchsia-900/60 via-[#2a0e28] to-[#1e081e]", icon: Presentation, accent: "text-fuchsia-400/50", glow: "bg-fuchsia-500/10" },
+  "ielts-animal-migration":       { gradient: "from-lime-900/60 via-[#1a2a0e] to-[#141e08]", icon: Bird, accent: "text-lime-400/50", glow: "bg-lime-500/10" },
+  "my-pet-dog":                   { gradient: "from-amber-900/60 via-[#2a1e0e] to-[#1e1608]", icon: Dog, accent: "text-amber-400/50", glow: "bg-amber-500/10" },
+  "at-the-hotel":                 { gradient: "from-sky-900/60 via-[#0e2040] to-[#0a1830]", icon: BedDouble, accent: "text-sky-400/50", glow: "bg-sky-500/10" },
+  "going-to-the-doctor":          { gradient: "from-teal-900/60 via-[#0e2a28] to-[#0a1e1c]", icon: Stethoscope, accent: "text-teal-400/50", glow: "bg-teal-500/10" },
+  "first-job-interview":          { gradient: "from-blue-900/60 via-[#0e1840] to-[#0a1230]", icon: Briefcase, accent: "text-blue-400/50", glow: "bg-blue-500/10" },
+  "endangered-species-vietnam":   { gradient: "from-green-900/60 via-[#0e2a14] to-[#081e0e]", icon: TreePine, accent: "text-green-400/50", glow: "bg-green-500/10" },
+  "street-food-around-the-world": { gradient: "from-orange-900/60 via-[#2a1a0a] to-[#1e1406]", icon: Utensils, accent: "text-orange-400/50", glow: "bg-orange-500/10" },
+  "sustainable-tourism":          { gradient: "from-cyan-900/60 via-[#0e2438] to-[#0a1a2e]", icon: Compass, accent: "text-cyan-400/50", glow: "bg-cyan-500/10" },
+  "mental-health-workplace":      { gradient: "from-rose-900/60 via-[#2a1018] to-[#1e0c12]", icon: HeartPulse, accent: "text-rose-400/50", glow: "bg-rose-500/10" },
+  "the-gig-economy":              { gradient: "from-indigo-900/60 via-[#141838] to-[#0e1230]", icon: Banknote, accent: "text-indigo-400/50", glow: "bg-indigo-500/10" },
+  "kpop-global-influence":        { gradient: "from-fuchsia-900/60 via-[#2a0e28] to-[#1e081e]", icon: Music, accent: "text-fuchsia-400/50", glow: "bg-fuchsia-500/10" },
 };
 
 function RecommendedCard({
@@ -351,7 +493,8 @@ function RecommendedCard({
   const diff = difficultyFromLevel(p.level);
   const time = readingTime(p.wordCount);
   const [imgError, setImgError] = React.useState(false);
-  const grad = coverGradients[p.category] ?? "from-slate-800 to-slate-900";
+  const style = coverStyles[p.slug] ?? { gradient: "from-blue-900/60 via-[#132744] to-[#0f1e38]", icon: BookOpen, accent: "text-blue-400/50", glow: "bg-blue-500/10" };
+  const CoverIcon = style.icon;
 
   return (
     <button
@@ -368,7 +511,13 @@ function RecommendedCard({
           onError={() => setImgError(true)}
         />
       ) : (
-        <div className={`absolute inset-0 bg-gradient-to-br ${grad}`} />
+        <div className={`absolute inset-0 bg-gradient-to-br ${style.gradient}`}>
+          <div className="absolute inset-0 opacity-[0.08]" style={{ backgroundImage: "radial-gradient(circle, currentColor 1px, transparent 1px)", backgroundSize: "28px 28px" }} />
+          <div className={`absolute -top-8 -right-8 h-32 w-32 rounded-full ${style.glow} blur-2xl`} />
+          <div className={`absolute -bottom-4 -left-4 h-24 w-24 rounded-full ${style.glow} blur-2xl`} />
+          <CoverIcon className={`absolute top-4 right-4 h-8 w-8 ${style.accent}`} />
+          <CoverIcon className={`absolute bottom-12 left-4 h-16 w-16 ${style.accent}`} />
+        </div>
       )}
       <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent z-10" />
       <div className="absolute inset-0 z-20 flex flex-col justify-between p-3.5">

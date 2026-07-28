@@ -28,6 +28,7 @@ model User {
   speakingResults   SpeakingResult[]
   writingResults    WritingResult[]
   readingResults    ReadingResult[]
+  readingExamResults ReadingExamResult[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -564,8 +565,9 @@ model ReadingPassage {
   wordCount Int    @default(0)
   order     Int    @default(0)
 
-  questions ReadingQuestion[]
-  results   ReadingResult[]
+  questions    ReadingQuestion[]
+  results      ReadingResult[]
+  examSections ReadingExamSection[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -601,4 +603,56 @@ model ReadingResult {
 
   @@index([userId])
   @@index([passageId])
+}
+
+// ═══════════════════════════════════════════════════════════
+// CONTENT: READING EXAM (thi thử đọc hiểu IELTS)
+// ═══════════════════════════════════════════════════════════
+
+model ReadingExam {
+  id          String @id @default(cuid())
+  slug        String @unique
+  title       String
+  titleVi     String @default("")
+  type        String // "academic" | "general"
+  timeMinutes Int    @default(60)
+  order       Int    @default(0)
+
+  sections ReadingExamSection[]
+  results  ReadingExamResult[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model ReadingExamSection {
+  id        String @id @default(cuid())
+  examId    String
+  passageId String
+  order     Int    @default(0)
+
+  exam    ReadingExam    @relation(fields: [examId], references: [id], onDelete: Cascade)
+  passage ReadingPassage @relation(fields: [passageId], references: [id], onDelete: Cascade)
+
+  @@index([examId])
+  @@index([passageId])
+}
+
+model ReadingExamResult {
+  id       String @id @default(cuid())
+  userId   String
+  examId   String
+  score    Int
+  total    Int
+  accuracy Int
+  timeSec  Int    @default(0)
+  answers  Json   @default("{}")
+
+  user User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exam ReadingExam @relation(fields: [examId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@index([userId])
+  @@index([examId])
 }

@@ -3,6 +3,7 @@ import { prisma } from "@/lib/prisma";
 
 export async function GET() {
   const passages = await prisma.readingPassage.findMany({
+    where: { category: { not: { startsWith: "mock-" } } },
     orderBy: { order: "asc" },
     select: {
       id: true,
