@@ -26,7 +26,7 @@ interface PassageFull {
   category: string;
   passage: string;
   wordCount: number;
-  questions: Array<{ id: string; question: string; options: string[]; order: number }>;
+  questions: Array<{ id: string; kind: string; question: string; options: string[]; order: number }>;
 }
 
 const levelColors: Record<string, string> = {

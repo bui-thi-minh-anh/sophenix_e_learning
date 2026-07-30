@@ -65,6 +65,28 @@ import {
   HeartPulse,
   Banknote,
   Music,
+  Soup,
+  Candy,
+  Fish,
+  Waves,
+  Flower2,
+  Store,
+  Cpu,
+  CupSoda,
+  Pickaxe,
+  Fingerprint,
+  Recycle,
+  Rabbit,
+  MapPinned,
+  Bug,
+  ShieldCheck,
+  Leaf,
+  Mountain,
+  IceCream2,
+  Snowflake,
+  Car,
+  Palette,
+  Container,
   type LucideIcon,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
@@ -90,7 +112,7 @@ interface PassageFull {
   category: string;
   passage: string;
   wordCount: number;
-  questions: Array<{ id: string; question: string; options: string[]; order: number }>;
+  questions: Array<{ id: string; kind: string; question: string; options: string[]; order: number }>;
 }
 
 const levelFilters = [
@@ -193,9 +215,30 @@ const coverStyles: Record<string, { gradient: string; icon: LucideIcon; accent: 
   "endangered-species-vietnam":   { gradient: "from-green-900/60 via-[#0e2a14] to-[#081e0e]", icon: TreePine, accent: "text-green-400/50", glow: "bg-green-500/10" },
   "street-food-around-the-world": { gradient: "from-orange-900/60 via-[#2a1a0a] to-[#1e1406]", icon: Utensils, accent: "text-orange-400/50", glow: "bg-orange-500/10" },
   "sustainable-tourism":          { gradient: "from-cyan-900/60 via-[#0e2438] to-[#0a1a2e]", icon: Compass, accent: "text-cyan-400/50", glow: "bg-cyan-500/10" },
-  "mental-health-workplace":      { gradient: "from-rose-900/60 via-[#2a1018] to-[#1e0c12]", icon: HeartPulse, accent: "text-rose-400/50", glow: "bg-rose-500/10" },
   "the-gig-economy":              { gradient: "from-indigo-900/60 via-[#141838] to-[#0e1230]", icon: Banknote, accent: "text-indigo-400/50", glow: "bg-indigo-500/10" },
   "kpop-global-influence":        { gradient: "from-fuchsia-900/60 via-[#2a0e28] to-[#1e081e]", icon: Music, accent: "text-fuchsia-400/50", glow: "bg-fuchsia-500/10" },
+  "my-favorite-food":             { gradient: "from-orange-900/60 via-[#2a1a0a] to-[#1e1406]", icon: Soup, accent: "text-orange-400/50", glow: "bg-orange-500/10" },
+  "mid-autumn-festival":          { gradient: "from-yellow-900/60 via-[#2a2408] to-[#1e1c06]", icon: Candy, accent: "text-yellow-400/50", glow: "bg-yellow-500/10" },
+  "dolphins-of-the-ocean":        { gradient: "from-cyan-900/60 via-[#0e2438] to-[#0a1a2e]", icon: Fish, accent: "text-cyan-400/50", glow: "bg-cyan-500/10" },
+  "a-day-at-the-beach":           { gradient: "from-sky-900/60 via-[#0e2040] to-[#0a1830]", icon: Waves, accent: "text-sky-400/50", glow: "bg-sky-500/10" },
+  "yoga-and-mindfulness":         { gradient: "from-purple-900/60 via-[#1e1340] to-[#150e30]", icon: Flower2, accent: "text-purple-400/50", glow: "bg-purple-500/10" },
+  "starting-a-small-business":    { gradient: "from-emerald-900/60 via-[#0e2a22] to-[#0a1e18]", icon: Store, accent: "text-emerald-400/50", glow: "bg-emerald-500/10" },
+  "quantum-computing-basics":     { gradient: "from-violet-900/60 via-[#1e1542] to-[#150e32]", icon: Cpu, accent: "text-violet-400/50", glow: "bg-violet-500/10" },
+  "japanese-tea-ceremony":        { gradient: "from-amber-900/60 via-[#2a220e] to-[#1e1a08]", icon: CupSoda, accent: "text-amber-400/50", glow: "bg-amber-500/10" },
+  "deep-sea-mining-debate":       { gradient: "from-slate-800/80 via-[#1a1e2e] to-[#121520]", icon: Pickaxe, accent: "text-slate-300/50", glow: "bg-slate-400/10" },
+  "digital-privacy-era":          { gradient: "from-rose-900/60 via-[#2a1420] to-[#1e0e18]", icon: Fingerprint, accent: "text-rose-400/50", glow: "bg-rose-500/10" },
+  "recycling-at-home":            { gradient: "from-green-900/60 via-[#0e2a18] to-[#0a1e12]", icon: Recycle, accent: "text-green-400/50", glow: "bg-green-500/10" },
+  "my-pet-hamster":               { gradient: "from-amber-900/60 via-[#2a200a] to-[#1e1806]", icon: Rabbit, accent: "text-amber-400/50", glow: "bg-amber-500/10" },
+  "famous-landmarks-world":       { gradient: "from-indigo-900/60 via-[#1a1640] to-[#120e30]", icon: MapPinned, accent: "text-indigo-400/50", glow: "bg-indigo-500/10" },
+  "life-of-honey-bees":           { gradient: "from-yellow-900/60 via-[#2a2408] to-[#1e1c06]", icon: Bug, accent: "text-yellow-400/50", glow: "bg-yellow-500/10" },
+  "shopping-online-safely":       { gradient: "from-teal-900/60 via-[#0e2828] to-[#0a1e1e]", icon: ShieldCheck, accent: "text-teal-400/50", glow: "bg-teal-500/10" },
+  "traditional-herbal-medicine":  { gradient: "from-lime-900/60 via-[#1a2a0e] to-[#121e08]", icon: Leaf, accent: "text-lime-400/50", glow: "bg-lime-500/10" },
+  "how-volcanoes-work":           { gradient: "from-red-900/60 via-[#2a1010] to-[#1e0a0a]", icon: Mountain, accent: "text-red-400/50", glow: "bg-red-500/10" },
+  "street-food-around-world":     { gradient: "from-orange-900/60 via-[#2a1a0a] to-[#1e1406]", icon: IceCream2, accent: "text-orange-400/50", glow: "bg-orange-500/10" },
+  "arctic-ice-crisis":            { gradient: "from-blue-900/60 via-[#0e1a3a] to-[#0a122a]", icon: Snowflake, accent: "text-blue-400/50", glow: "bg-blue-500/10" },
+  "rise-of-electric-vehicles":    { gradient: "from-emerald-900/60 via-[#0e2a22] to-[#0a1e18]", icon: Car, accent: "text-emerald-400/50", glow: "bg-emerald-500/10" },
+  "psychology-of-color":          { gradient: "from-fuchsia-900/60 via-[#2a1030] to-[#1e0a22]", icon: Palette, accent: "text-fuchsia-400/50", glow: "bg-fuchsia-500/10" },
+  "global-supply-chain-crisis":   { gradient: "from-slate-800/80 via-[#1a1e2e] to-[#121520]", icon: Container, accent: "text-slate-300/50", glow: "bg-slate-400/10" },
 };
 
 function levelBadgeClass(level: string): string {

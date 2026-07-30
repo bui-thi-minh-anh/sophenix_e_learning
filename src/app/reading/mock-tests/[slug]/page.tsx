@@ -69,7 +69,18 @@ interface SubmitResponse {
   >;
 }
 
-const optionLetters = ["A", "B", "C", "D"];
+const optionLetters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"];
+
+const kindLabels: Record<string, string> = {
+  mcq: "Multiple Choice",
+  tfng: "True / False / Not Given",
+  ynng: "Yes / No / Not Given",
+  "matching-headings": "Matching Headings",
+  "matching-features": "Matching Features",
+  "matching-information": "Matching Information",
+  "matching-sentence-endings": "Matching Sentence Endings",
+  "fill-blank": "Completion",
+};
 
 /* ─── page ─── */
 
@@ -412,45 +423,100 @@ export default function MockTestPage() {
             {sectionQuestions[activeQ] && (() => {
               const q = sectionQuestions[activeQ];
               const r = result.results[q.id];
+              const isFreeText = q.kind === "fill-blank" && q.options.length === 0;
+              const isHorizontal = q.kind === "tfng" || q.kind === "ynng";
+
               return (
                 <div className="space-y-3">
+                  {q.kind !== "mcq" && (
+                    <span className="inline-block text-[10px] font-medium px-2 py-0.5 rounded-full bg-violet-500/15 text-violet-400 border border-violet-500/20">
+                      {kindLabels[q.kind] || q.kind}
+                    </span>
+                  )}
+
                   <p className="text-sm font-medium text-white">
                     <span className="text-blue-400 mr-1.5">Q{globalQuestionOffset + activeQ + 1}.</span>
                     {q.question}
                   </p>
-                  <div className="space-y-2">
-                    {q.options.map((opt, oi) => {
-                      const letter = optionLetters[oi];
-                      const selected = answers[q.id] === letter;
-                      const isCorrect = r?.correctAnswer === letter;
-                      const isWrong = selected && !r?.correct;
 
-                      let cls =
-                        "w-full flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm text-left ";
-                      if (isCorrect) cls += "border border-emerald-500/40 bg-emerald-500/10 text-emerald-300";
-                      else if (isWrong) cls += "border border-red-500/40 bg-red-500/10 text-red-300";
-                      else cls += "border border-white/[0.06] text-slate-500";
-
-                      return (
-                        <div key={letter} className={cls}>
-                          <span
-                            className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[11px] font-semibold ${
-                              isCorrect
-                                ? "border-emerald-400 bg-emerald-500/20 text-emerald-300"
-                                : isWrong
-                                  ? "border-red-400 bg-red-500/20 text-red-300"
-                                  : "border-white/15 text-slate-500"
-                            }`}
-                          >
-                            {letter}
-                          </span>
-                          <span>{opt}</span>
-                          {isCorrect && <CheckCircle2 className="h-4 w-4 ml-auto text-emerald-400" />}
-                          {isWrong && <XCircle className="h-4 w-4 ml-auto text-red-400" />}
+                  {isFreeText ? (
+                    <div className="space-y-2">
+                      <div className={`rounded-xl px-4 py-3 text-sm ${
+                        r?.correct
+                          ? "border border-emerald-500/40 bg-emerald-500/10 text-emerald-300"
+                          : "border border-red-500/40 bg-red-500/10 text-red-300"
+                      }`}>
+                        <span className="text-[10px] text-slate-400 block mb-0.5">Câu trả lời của bạn:</span>
+                        {r?.yourAnswer || "(chưa trả lời)"}
+                        {r?.correct && <CheckCircle2 className="inline h-4 w-4 ml-2 text-emerald-400" />}
+                        {r && !r.correct && <XCircle className="inline h-4 w-4 ml-2 text-red-400" />}
+                      </div>
+                      {r && !r.correct && (
+                        <div className="rounded-xl px-4 py-3 text-sm border border-emerald-500/40 bg-emerald-500/10 text-emerald-300">
+                          <span className="text-[10px] text-slate-400 block mb-0.5">Đáp án đúng:</span>
+                          {r.correctAnswer.split("|")[0]}
+                          <CheckCircle2 className="inline h-4 w-4 ml-2 text-emerald-400" />
                         </div>
-                      );
-                    })}
-                  </div>
+                      )}
+                    </div>
+                  ) : isHorizontal ? (
+                    <div className="flex gap-2">
+                      {q.options.map((opt, oi) => {
+                        const letter = optionLetters[oi];
+                        const selected = answers[q.id] === letter;
+                        const isCorrect = r?.correctAnswer === letter;
+                        const isWrong = selected && !r?.correct;
+
+                        let cls = "flex-1 rounded-xl py-2.5 text-sm font-medium text-center flex items-center justify-center gap-1.5 ";
+                        if (isCorrect) cls += "border border-emerald-500/40 bg-emerald-500/10 text-emerald-300";
+                        else if (isWrong) cls += "border border-red-500/40 bg-red-500/10 text-red-300";
+                        else cls += "border border-white/[0.06] text-slate-500";
+
+                        return (
+                          <div key={letter} className={cls}>
+                            {opt}
+                            {isCorrect && <CheckCircle2 className="h-3.5 w-3.5 text-emerald-400" />}
+                            {isWrong && <XCircle className="h-3.5 w-3.5 text-red-400" />}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  ) : (
+                    <div className={`space-y-${q.options.length > 5 ? "1" : "2"}`}>
+                      {q.options.map((opt, oi) => {
+                        const letter = optionLetters[oi];
+                        const selected = answers[q.id] === letter;
+                        const isCorrect = r?.correctAnswer === letter;
+                        const isWrong = selected && !r?.correct;
+                        const compact = q.options.length > 5;
+
+                        let cls = `w-full flex items-center gap-3 rounded-xl ${compact ? "px-2.5 py-1.5 text-xs" : "px-3 py-2.5 text-sm"} text-left `;
+                        if (isCorrect) cls += "border border-emerald-500/40 bg-emerald-500/10 text-emerald-300";
+                        else if (isWrong) cls += "border border-red-500/40 bg-red-500/10 text-red-300";
+                        else cls += "border border-white/[0.06] text-slate-500";
+
+                        return (
+                          <div key={letter} className={cls}>
+                            <span
+                              className={`flex ${compact ? "h-5 w-5 text-[10px]" : "h-6 w-6 text-[11px]"} shrink-0 items-center justify-center rounded-full border font-semibold ${
+                                isCorrect
+                                  ? "border-emerald-400 bg-emerald-500/20 text-emerald-300"
+                                  : isWrong
+                                    ? "border-red-400 bg-red-500/20 text-red-300"
+                                    : "border-white/15 text-slate-500"
+                              }`}
+                            >
+                              {letter}
+                            </span>
+                            <span>{opt}</span>
+                            {isCorrect && <CheckCircle2 className="h-4 w-4 ml-auto text-emerald-400" />}
+                            {isWrong && <XCircle className="h-4 w-4 ml-auto text-red-400" />}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  )}
+
                   {r?.explanation && (
                     <div className="rounded-lg bg-blue-500/5 border border-blue-500/20 px-3 py-2 text-xs text-blue-300">
                       {r.explanation}
@@ -626,41 +692,85 @@ export default function MockTestPage() {
             {/* Active question */}
             {sectionQuestions[activeQ] && (() => {
               const q = sectionQuestions[activeQ];
+              const isFreeText = q.kind === "fill-blank" && q.options.length === 0;
+              const isHorizontal = q.kind === "tfng" || q.kind === "ynng";
+
               return (
                 <div className="space-y-3">
+                  {q.kind !== "mcq" && (
+                    <span className="inline-block text-[10px] font-medium px-2 py-0.5 rounded-full bg-violet-500/15 text-violet-400 border border-violet-500/20">
+                      {kindLabels[q.kind] || q.kind}
+                    </span>
+                  )}
+
                   <p className="text-sm font-medium text-white">
                     <span className="text-blue-400 mr-1.5">Q{globalQuestionOffset + activeQ + 1}.</span>
                     {q.question}
                   </p>
-                  <div className="space-y-2">
-                    {q.options.map((opt, oi) => {
-                      const letter = optionLetters[oi];
-                      const selected = answers[q.id] === letter;
 
-                      return (
-                        <button
-                          key={letter}
-                          className={`w-full flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm transition-all text-left ${
-                            selected
-                              ? "border border-blue-500/50 bg-blue-500/15 text-blue-300"
-                              : "border border-white/[0.08] text-slate-300 hover:border-white/20 hover:bg-white/[0.03]"
-                          }`}
-                          onClick={() => handleSelect(q.id, letter)}
-                        >
-                          <span
-                            className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-full border text-[11px] font-semibold ${
+                  {isFreeText ? (
+                    <div>
+                      <input
+                        type="text"
+                        value={answers[q.id] || ""}
+                        onChange={(e) => handleSelect(q.id, e.target.value)}
+                        placeholder="Nhập đáp án..."
+                        className="w-full rounded-xl border border-white/[0.08] bg-white/[0.03] px-4 py-3 text-sm text-white placeholder:text-slate-500 focus:border-blue-500/50 focus:outline-none focus:ring-1 focus:ring-blue-500/30"
+                      />
+                      <p className="text-[10px] text-slate-500 mt-1.5 pl-1">Viết KHÔNG QUÁ BA TỪ và/hoặc một số</p>
+                    </div>
+                  ) : isHorizontal ? (
+                    <div className="flex gap-2">
+                      {q.options.map((opt, oi) => {
+                        const letter = optionLetters[oi];
+                        const selected = answers[q.id] === letter;
+                        return (
+                          <button
+                            key={letter}
+                            className={`flex-1 rounded-xl py-2.5 text-sm font-medium transition-all text-center ${
                               selected
-                                ? "border-blue-400 bg-blue-500/20 text-blue-300"
-                                : "border-white/15 text-slate-400"
+                                ? "border border-blue-500/50 bg-blue-500/15 text-blue-300"
+                                : "border border-white/[0.08] text-slate-300 hover:border-white/20 hover:bg-white/[0.03]"
                             }`}
+                            onClick={() => handleSelect(q.id, letter)}
                           >
-                            {letter}
-                          </span>
-                          <span>{opt}</span>
-                        </button>
-                      );
-                    })}
-                  </div>
+                            {opt}
+                          </button>
+                        );
+                      })}
+                    </div>
+                  ) : (
+                    <div className={`space-y-${q.options.length > 5 ? "1" : "2"}`}>
+                      {q.options.map((opt, oi) => {
+                        const letter = optionLetters[oi];
+                        const selected = answers[q.id] === letter;
+                        const compact = q.options.length > 5;
+
+                        return (
+                          <button
+                            key={letter}
+                            className={`w-full flex items-center gap-3 rounded-xl ${compact ? "px-2.5 py-1.5 text-xs" : "px-3 py-2.5 text-sm"} transition-all text-left ${
+                              selected
+                                ? "border border-blue-500/50 bg-blue-500/15 text-blue-300"
+                                : "border border-white/[0.08] text-slate-300 hover:border-white/20 hover:bg-white/[0.03]"
+                            }`}
+                            onClick={() => handleSelect(q.id, letter)}
+                          >
+                            <span
+                              className={`flex ${compact ? "h-5 w-5 text-[10px]" : "h-6 w-6 text-[11px]"} shrink-0 items-center justify-center rounded-full border font-semibold ${
+                                selected
+                                  ? "border-blue-400 bg-blue-500/20 text-blue-300"
+                                  : "border-white/15 text-slate-400"
+                              }`}
+                            >
+                              {letter}
+                            </span>
+                            <span>{opt}</span>
+                          </button>
+                        );
+                      })}
+                    </div>
+                  )}
 
                   {/* Nav buttons */}
                   <div className="flex justify-between pt-2">

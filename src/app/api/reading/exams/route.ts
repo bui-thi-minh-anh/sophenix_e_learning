@@ -24,6 +24,7 @@ export async function GET() {
       title: e.title,
       titleVi: e.titleVi,
       type: e.type,
+      difficulty: e.difficulty,
       timeMinutes: e.timeMinutes,
       totalWords: e.sections.reduce((s, sec) => s + sec.passage.wordCount, 0),
       totalQuestions: e.sections.reduce((s, sec) => s + sec.passage._count.questions, 0),

@@ -615,6 +615,7 @@ model ReadingExam {
   title       String
   titleVi     String @default("")
   type        String // "academic" | "general"
+  difficulty  String @default("") // "easy" | "hard" | ""
   timeMinutes Int    @default(60)
   order       Int    @default(0)
 

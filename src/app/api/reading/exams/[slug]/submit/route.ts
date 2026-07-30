@@ -40,14 +40,24 @@ export async function POST(
   > = {};
 
   for (const q of allQuestions) {
-    const userAnswer = (answers[q.id] ?? "").toUpperCase();
-    const isCorrect = userAnswer === q.answer.toUpperCase();
+    const raw = (answers[q.id] ?? "").trim();
+    let isCorrect: boolean;
+
+    if (q.kind === "fill-blank" && q.options.length === 0) {
+      const acceptable = q.answer.split("|").map((a) => a.trim().toLowerCase());
+      isCorrect = acceptable.includes(raw.toLowerCase());
+    } else {
+      isCorrect = raw.toUpperCase() === q.answer.toUpperCase();
+    }
+
     if (isCorrect) score++;
 
     results[q.id] = {
       correct: isCorrect,
-      yourAnswer: userAnswer,
-      correctAnswer: q.answer,
+      yourAnswer: raw,
+      correctAnswer: q.kind === "fill-blank" && q.options.length === 0
+        ? q.answer.split("|")[0].trim()
+        : q.answer,
       explanation: q.explanation,
     };
   }
